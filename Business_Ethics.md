@@ -2,23 +2,29 @@
 Dr. Bonni Stachowiak
 Vanguard University of Southern California (VUSC)
 
-# Start
+## Start
 
-## Why take a business ethics class
+### Why take a business ethics class
 
-## About your professor
+### About your professor
 
-## Course information
+[qr-code](https://www.instagram.com/bonni208/)
 
-### Navigate the course
+[https://www.instagram.com/bonni208/](https://www.instagram.com/bonni208/)
 
-### Attendance in BUSN 435
+[qr-code](#)(https://LiaScript.github.io "Checkout the LiaScript website or the __[blog at heroku](#)(https://aizac.herokuapp.com)__")
 
-## About you
+### Course information
 
-## About us
+**Navigate the course**
 
-## Get started
+**Attendance in BUSN 435**
+
+### About you
+
+### About us
+
+### Get started
 
 # Ten Lessons
 
