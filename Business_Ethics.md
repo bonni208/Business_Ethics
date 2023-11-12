@@ -12,7 +12,10 @@ Vanguard University of Southern California (VUSC)
 
 [https://www.instagram.com/bonni208/](https://www.instagram.com/bonni208/)
 
-[qr-code](#)(https://LiaScript.github.io "Checkout the LiaScript website or the __[blog at heroku](#)(https://aizac.herokuapp.com)__")
+![](2024-11-10-david-and-bonni.jpeg "Dr. David Rhoads and Dr. Bonni Stachowiak")
+
+![Dr. David Rhoads and Dr. Bonni Stachowiak](https://innovatelearning.s3.amazonaws.com/2024-11-10-david-and-bonni.jpeg)
+![A man and a women stand while holding a red balloon](#)(![](https://innovatelearning.s3.amazonaws.com/2024-11-10-david-and-bonni.jpeg) “It sure was fun doing the walkthroughs this week.”)
 
 ### Course information
 
