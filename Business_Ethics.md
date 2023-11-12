@@ -3,6 +3,19 @@ Dr. Bonni Stachowiak
 Vanguard University of Southern California (VUSC)
 
 ## Start
+This one is using the built-in Ulysses linking with a question mark in front. 
+?[music.youtube](https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo)
+
+This one is with an empty square bracket sand with the link in parentheses. 
+?[music.youtube](#)([https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo](https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo))
+
+Not sure on the music.youtube. 
+
+This is just YouTube. 
+
+?[YouTube](https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo)
+
+?[YouTube](#)([https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo](https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo))
 
 ### Why take a business ethics class
 
