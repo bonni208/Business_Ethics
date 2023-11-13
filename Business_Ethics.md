@@ -85,7 +85,7 @@ Investor: An individual or entity that provides capital or resources to a compan
 
 1. Public companies CEOs need to have a positive one of these, or it can impact the stock price and have other negative ramifications: 
 
-- [[]](#) No evidence of fraud
+- [[]](#)  No evidence of fraud
 - [[]](#) Lack of ethical dilemmas
 - [[]](#) Corporate social responsibility
 - [[x]](#) Public image 
@@ -125,7 +125,11 @@ Visit the most current [Conscious Consumer Spending Index ](https://goodmustgro
 
 # Ten Lessons
 
+## Make it Personal
 
+**The Good Place**
+
+!?[How Ethics Can Help You Make Better Decisions](https://youtu.be/BAswj8evFZk?si=uaEPUDakrmebqlWw)
 
 # Ten Challenges
 
