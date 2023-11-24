@@ -26,6 +26,17 @@ Testing the quiz function. Will it blend?
 
 
 
+3. Will it blend? 
+
+- [[X]] Yes
+- [[ ]] No
+
+
+
+
+
+
+
 
 
 Try using ?? to embed a website’s content. 
