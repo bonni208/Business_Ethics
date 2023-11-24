@@ -4,6 +4,8 @@ Vanguard University of Southern California (VUSC)
 
 ## Start
 
+Why isn't it updating? 
+
 Testing the quiz function. Will it blend? 
 
 
@@ -21,8 +23,6 @@ Testing the quiz function. Will it blend?
 
 - [[ ]] Yes
 - [[X]] No
-
-
 
 
 
