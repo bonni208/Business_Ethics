@@ -4,6 +4,25 @@ Vanguard University of Southern California (VUSC)
 
 ## Start
 
+Testing the quiz function. Will it blend? 
+
+1. Public companies CEOs need to have a positive one of these, or it can impact the stock price and have other negative ramifications: 
+
+- [()]  No evidence of fraud
+- [()] Lack of ethical dilemmas
+- [()] Corporate social responsibility
+- [(x)] Public image 
+
+**************************************
+
+Solution: The public image is quite important, yes. 
+
+***************************
+
+
+
+
+
 Try using ?? to embed a website’s content. 
 Can also use ?? To create a gallery, if all in the same paragraph, similar to how photos worked. 
 
@@ -85,10 +104,10 @@ Investor: An individual or entity that provides capital or resources to a compan
 
 1. Public companies CEOs need to have a positive one of these, or it can impact the stock price and have other negative ramifications: 
 
-- [[]]  No evidence of fraud
-- [[]] Lack of ethical dilemmas
-- [[]] Corporate social responsibility
-- [[x]] Public image 
+- [()]  No evidence of fraud
+- [()] Lack of ethical dilemmas
+- [()] Corporate social responsibility
+- [(x)] Public image 
 
 Learn:
 
