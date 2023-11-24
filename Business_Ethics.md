@@ -6,20 +6,26 @@ Vanguard University of Southern California (VUSC)
 
 Testing the quiz function. Will it blend? 
 
+
+
 1. Public companies CEOs need to have a positive one of these, or it can impact the stock price and have other negative ramifications: 
 
-- [()]  No evidence of fraud
-- [()] Lack of ethical dilemmas
-- [()] Corporate social responsibility
-- [(x)] Public image 
+- [[  ]] No evidence of fraud
 
-**************************************
+Lack of ethical dilemmas
 
-Solution: The public image is quite important, yes. 
+Corporate social responsibility
 
-***************************
+[[x]] Public image 
 
 
+
+2. Public companies: 
+
+- [[ ]] Lack of ethical dilemmas
+- [[X]] Public image
+- [[x]] Another type of public image
+- [[ ]] Corporate social responsibility (CSR)
 
 
 
