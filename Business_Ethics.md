@@ -3,7 +3,7 @@
 
 author:   Dr. Bonni Stachowiak
 
-email:    bstachowiak@vanguard.edu
+email: bstachowiak@vanguard.edu
 
 version:  0.1.0
 
@@ -17,6 +17,10 @@ comment:  Business Ethics course being taught at Vanguard University by Dr. Bonn
 
 <!--
 logo: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
+-->
+
+<!--
+logo: /Users/bonni/Library/CloudStorage/OneDrive-SharedLibraries-VanguardUniversity/Provost Communications Team - Marketing Asset Library/1-Logos/VU Flame/vu-flame.jpg
 -->
 
 ## Start
