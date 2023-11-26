@@ -15,6 +15,8 @@ comment:  Business Ethics course being taught at Vanguard University by Dr. Bonn
 
 icon: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
 
+logo: icon: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
+
 -->
 
 ## Start
