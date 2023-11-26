@@ -13,7 +13,7 @@ narrator: US English Female
 
 comment:  Business Ethics course being taught at Vanguard University by Dr. Bonni Stachowiak. 
 
-logo: https://innovatelearning.s3.amazonaws.com/vu-flame.jpg
+logo: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
 
 -->
 
@@ -43,7 +43,7 @@ For more information and insights, students can check out videos and resources s
 - "Leadership, Ethics, and Corporate Accountability," a course by Harvard Business School Professor Nien-hê Hsieh, which offers deeper insights into the challenges and importance of business ethics.
 - "Conscious Consumer Spending Index" on goodmustgrow.com, which provides data on consumer preferences for socially responsible companies.
 
-Terms:
+### Terms:
 
 - **Business ethics**: Principles that guide decision-making in business.
 - **CSR (Corporate Social Responsibility)**: A company's commitment to manage the social, environmental, and economic effects of its operations responsibly.
@@ -135,7 +135,10 @@ These questions cover key aspects of the trolley problem and the utilitarian eth
 
 Here are five multiple-choice questions regarding the trolley problem and utilitarianism:
 
+
+
 **What is the main ethical dilemma in the trolley problem?**
+
 [[ ]] Choosing between two equally beneficial outcomes.
 [[ ]] Deciding whether to intervene in a natural disaster.
 [[ ]] Determining the best outcome, using your gut instinct.
@@ -144,6 +147,7 @@ Here are five multiple-choice questions regarding the trolley problem and utilit
 
 
 **In utilitarianism, what is considered the most ethical action?**
+
 [[ ]] The action that benefits the most powerful individuals.
 [[ ]] The action that aligns with traditional moral values.
 [[x]] The action that produces the greatest good for the greatest number.
@@ -152,6 +156,7 @@ Here are five multiple-choice questions regarding the trolley problem and utilit
 
 
 **How does the trolley problem challenge utilitarian principles?**
+
 [[ ]] It questions the value of individual rights.
 [[ ]] It creates a scenario where no one is truly happy.
 [[ ]] It presents a situation where all choices lead to a bad outcome.
@@ -160,6 +165,7 @@ Here are five multiple-choice questions regarding the trolley problem and utilit
 
 
 **Which philosopher is most closely associated with the development of utilitarianism?**
+
 [[ ]]  Immanuel Kant.
 [[x]] John Stuart Mill.
 [[ ]] Friedrich Nietzsche.
