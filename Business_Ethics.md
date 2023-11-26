@@ -133,6 +133,47 @@ In the first lecture of his course on moral reasoning, Michael Sandel presents a
 
 These questions cover key aspects of the trolley problem and the utilitarian ethical framework, exploring the decision-making process and the philosophical underpinnings of utilitarianism.
 
+11:16 AM questions 
+
+What is the main ethical dilemma in the trolley problem?
+
+[[ ]] Choosing between two equally beneficial outcomes.
+[[ ]] Deciding whether to intervene in a natural disaster.
+[[ ]] Determining the best way to operate a trolley.
+[[x]] Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
+
+In utilitarianism, what is considered the most ethical action?
+
+[[ ]] The action that benefits the most powerful individuals.
+[[ ]] The action that aligns with traditional moral values.
+[[x]] The action that produces the greatest good for the greatest number.
+[[ ]] The action that is easiest to perform.
+
+How does the trolley problem challenge utilitarian principles?
+
+[[ ]] It questions the value of individual rights.
+[[ ]] It creates a scenario where no one is truly happy.
+[[ ]] It presents a situation where all choices lead to a bad outcome.
+[[x]] It forces a choice between the greater good and individual morality.
+
+Which philosopher is most closely associated with the development of utilitarianism?
+
+[[ ]] Immanuel Kant.
+[[x]] John Stuart Mill.
+[[ ]] Friedrich Nietzsche.
+[[ ]] Socrates.
+
+In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?
+
+[[ ]] Deontological ethics.
+[[ ]] Virtue ethics.
+[[x]] Utilitarian ethics.
+[[ ]] Existential ethics.
+
+
+
+
+
 Here are five multiple-choice questions regarding the trolley problem and utilitarianism:
 
 
@@ -167,8 +208,11 @@ Here are five multiple-choice questions regarding the trolley problem and utilit
 **Which philosopher is most closely associated with the development of utilitarianism?**
 
 [[ ]]  Immanuel Kant.
+
 [[x]] John Stuart Mill.
+
 [[ ]] Friedrich Nietzsche.
+
 [[ ]] Socrates.
 
 
@@ -185,53 +229,53 @@ Here are five multiple-choice questions regarding the trolley problem and utilit
 With numbers 
 
 1. **What is the main ethical dilemma in the trolley problem?**
-   
+
    [[ ]] Choosing between two equally beneficial outcomes.
-   
+
    [[ ]] Deciding whether to intervene in a natural disaster.
 
    [[ ]] Determining the best way to operate a trolley.
-   
+
    [[x]] Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
-   
+
 2. **In utilitarianism, what is considered the most ethical action?**
-   
+
    [[ ]] The action that benefits the most powerful individuals.
-   
+
    [[ ]] The action that aligns with traditional moral values.
 
    [[x]] The action that produces the greatest good for the greatest number.
-   
+
    [[ ]] The action that is easiest to perform.
-   
+
 3. **How does the trolley problem challenge utilitarian principles?**
-   
+
    [[ ]] It questions the value of individual rights.
-   
+
    [[ ]] It creates a scenario where no one is truly happy.
 
    [[ ]] It presents a situation where all choices lead to a bad outcome.
-   
+
    [[x]] It forces a choice between the greater good and individual morality.
-   
+
 4. **Which philosopher is most closely associated with the development of utilitarianism?**
-   
+
    [[ ]] Immanuel Kant.
-   
+
    [[x]] John Stuart Mill.
 
    [[ ]] Friedrich Nietzsche.
-   
+
    [[ ]] Socrates.
-   
+
 5. **In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?**
-   
+
    [[ ]] Deontological ethics.
-   
+
    [[ ]] Virtue ethics.
-   
+
    [[x]] Utilitarian ethics.
-   
+
    [[ ]] Existential ethics.
 
 
