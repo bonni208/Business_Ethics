@@ -135,7 +135,7 @@ Explore:
 
 Visit the most current [Conscious Consumer Spending Index ]and explore the data in its various forms for around 10-15 minutes. Then, spend another 10-15 minutes reflecting on your experience. 
 
-### About your professor
+### About me
 
 [qr-code]
 
@@ -160,13 +160,178 @@ Visit the most current [Conscious Consumer Spending Index ]and explore the data 
 
 # Ten Lessons
 
-## Make it Personal
+
+
+## It's all personal (or is it?)
 
 **The Good Place**
 
 !?[How Ethics Can Help You Make Better Decisions]
 
+
+
+## That seems really inappropriate (Get to know your favorite philosophers) 
+
+
+
+Watch: Sandel first video
+
+In the first lecture of his course on moral reasoning, Michael Sandel presents a hypothetical scenario to his students: Would you kill one person to save the lives of five others? Is it the right thing to do? This scenario launches a discussion on moral reasoning and the complexity of making ethical decisions in extreme situations.
+
+
+
+These questions cover key aspects of the trolley problem and the utilitarian ethical framework, exploring the decision-making process and the philosophical underpinnings of utilitarianism.
+
+Here are five multiple-choice questions regarding the trolley problem and utilitarianism:
+
+1. **What is the main ethical dilemma in the trolley problem?**
+   a) Choosing between two equally beneficial outcomes.
+   b) Deciding whether to intervene in a natural disaster.
+   c) Determining the best way to operate a trolley.
+   d) Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
+
+2. **In utilitarianism, what is considered the most ethical action?**
+   a) The action that benefits the most powerful individuals.
+   b) The action that aligns with traditional moral values.
+   c) The action that produces the greatest good for the greatest number.
+   d) The action that is easiest to perform.
+
+3. **How does the trolley problem challenge utilitarian principles?**
+   a) It questions the value of individual rights.
+   b) It creates a scenario where no one is truly happy.
+   c) It presents a situation where all choices lead to a bad outcome.
+   d) It forces a choice between the greater good and individual morality.
+
+4. **Which philosopher is most closely associated with the development of utilitarianism?**
+   a) Immanuel Kant.
+   b) John Stuart Mill.
+   c) Friedrich Nietzsche.
+   d) Socrates.
+
+   
+
+   **In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?**
+
+   [[ ]] Deontological ethics.
+   [[ ]] Virtue ethics.
+   [[ ]] Utilitarian ethics.
+   [[ ]] Existential ethics.
+
+
+
+ Sure, here are the revised multiple-choice questions without the "a) b) c) d)" characters:
+
+1. **What is the main ethical dilemma in the trolley problem?**
+   - [[ ]] Choosing between two equally beneficial outcomes.
+   - [[ ]] Deciding whether to intervene in a natural disaster.
+   - [[ ]] Determining the best way to operate a trolley.
+   - [[x]] Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
+
+2. **In utilitarianism, what is considered the most ethical action?**
+   - [[ ]] The action that benefits the most powerful individuals.
+   - [[ ]] The action that aligns with traditional moral values.
+   - [[x]] The action that produces the greatest good for the greatest number.
+   - [[ ]] The action that is easiest to perform.
+
+3. **How does the trolley problem challenge utilitarian principles?**
+   - [[ ]] It questions the value of individual rights.
+   - [[ ]] It creates a scenario where no one is truly happy.
+   - [[ ]] It presents a situation where all choices lead to a bad outcome.
+   - [[x]] It forces a choice between the greater good and individual morality.
+
+4. **Which philosopher is most closely associated with the development of utilitarianism?**
+   - [[ ]] Immanuel Kant.
+   - [[x]] John Stuart Mill.
+   - [[ ]] Friedrich Nietzsche.
+   - [[ ]] Socrates.
+
+5. **In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?**
+   - [[ ]] Deontological ethics.
+   - [[ ]] Virtue ethics.
+   - [[x]] Utilitarian ethics.
+   - [[ ]] Existential ethics.
+
+These questions are structured to facilitate understanding and discussion about the trolley problem and utilitarianism, with clear indications for the correct answers.
+
+
+
+## Decide how we decide when we decide
+
+Ethical frameworks
+
+Watch: Sandel second video
+
+
+
+## 
+
+
+
+## Let's not get duped (or pass our ignorance onto others)
+
+
+
+
+
+## This is how we do it (in a business context)
+
+
+
+
+
+## Practice makes perfect (or does it?) 
+
+
+
+
+
+## The good, the bad, and the ugly
+
+
+
+
+
+## Change our mind about changing our minds
+
+Importance of watching our language and behaviors: being people of integrity
+
+"...to be honest..." (what is it you're really trying to say here? Transparent? Candid?)
+
+Clip of Mike Caulfiled and Bonni reflecting on This American Life tooth fairy example 
+
+
+
+When presented with better information: agreeing on what is effective
+
+
+
+## To infinity and beyond (using power and priviledge responsibly)
+
+
+
+
+
+## Wrap it up with a bow
+
+
+
+
+
+
+
 # Ten Challenges
+
+## 1. Make it personal: Commit to community + pkm
+
+3x3 video: Self-introduction with three things that are important to know about you and three artifacts about what you believe
+
+Set up Raindrop.io free account and email address used
+
+
+
+
+
+
 
 
 # Book
