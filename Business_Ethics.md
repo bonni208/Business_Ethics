@@ -13,8 +13,10 @@ narrator: US English Female
 
 comment:  Business Ethics course being taught at Vanguard University by Dr. Bonni Stachowiak. 
 
-logo: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
+-->
 
+<!--
+logo: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
 -->
 
 ## Start
