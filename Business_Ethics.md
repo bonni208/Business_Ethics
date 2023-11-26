@@ -5,7 +5,7 @@ author:   Dr. Bonni Stachowiak
 
 email:    bstachowiak@vanguard.edu
 
-version:  0.0.9
+version:  0.1.0
 
 language: en
 
@@ -13,10 +13,8 @@ narrator: US English Female
 
 comment:  Business Ethics course being taught at Vanguard University by Dr. Bonni Stachowiak. 
 
--->
-
-<!--
 logo: https://innovatelearning.s3.amazonaws.com/vu-flame.jpg
+
 -->
 
 ## Start
