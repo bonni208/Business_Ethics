@@ -1,74 +1,22 @@
 # Business Ethics
-Dr. Bonni Stachowiak
-Vanguard University of Southern California (VUSC)
+<!--
+
+author:   Dr. Bonni Stachowiak
+
+email:    [bstachowiak@vanguard.edu](bstachowiak@vanguard.edu)
+
+version:  0.0.9
+
+language: en
+
+narrator: US English Female
+
+comment:  Business Ethics course being taught at Vanguard University by Dr. Bonni Stachowiak. 
+-->
 
 ## Start
 
-Why isn't it updating? 
 
-Testing the quiz function. Will it blend? 
-
-
-
-1. Public companies CEOs need to have a positive one of these, or it can impact the stock price and have other negative ramifications: 
-
-- [[ ]] No evidence of fraud
-- [[ ]] Lack of ethical dilemmas
-- [[X]] Public image
-- [[ ]] Corporate social responsibility (CSR)
-
-
-
-2. Will it blend? 
-
-- [[ ]] Yes
-- [[X]] No
-
-
-
-3. Will it blend? 
-
-- [[X]] Yes
-- [[ ]] No
-
-
-
-
-
-
-
-
-
-Try using ?? to embed a website’s content. 
-Can also use ?? To create a gallery, if all in the same paragraph, similar to how photos worked. 
-
-> This is a block quote. 
->
-> > This is a block quote within a block quote. 
->
-> * this is a bullet inside of a block quote. 
-
-This is the newest one with build-in Ulysses linking with a question mark in front and using music.youtube as the name. 
-
-
-?[music.youtube]
-
-And then we go to another paragraph 
-
-This one is using the built-in Ulysses linking with a question mark in front. 
-
-?[music.youtube]
-
-This one is with an empty square bracket sand with the link in parentheses. 
-?[music.youtube]([https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo])
-
-Not sure on the music.youtube. 
-
-This is just YouTube. 
-
-?[YouTube]
-
-?[YouTube]([https://music.youtube.com/watch?v=oOU39MH-NZk&si=XIs58DC0N3lBfnwo])
 
 ### Why take a business ethics class
 
@@ -184,74 +132,98 @@ These questions cover key aspects of the trolley problem and the utilitarian eth
 
 Here are five multiple-choice questions regarding the trolley problem and utilitarianism:
 
+**What is the main ethical dilemma in the trolley problem?**
+[[ ]] Choosing between two equally beneficial outcomes.
+[[ ]] Deciding whether to intervene in a natural disaster.
+[[ ]] Determining the best outcome, using your gut instinct.
+[[x]] Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
+
+
+
+**In utilitarianism, what is considered the most ethical action?**
+[[ ]] The action that benefits the most powerful individuals.
+[[ ]] The action that aligns with traditional moral values.
+[[x]] The action that produces the greatest good for the greatest number.
+[[ ]] The action that is easiest to perform and efficient.
+
+
+
+**How does the trolley problem challenge utilitarian principles?**
+[[ ]] It questions the value of individual rights.
+[[ ]] It creates a scenario where no one is truly happy.
+[[ ]] It presents a situation where all choices lead to a bad outcome.
+[[x]] It forces a choice between the greater good and individual morality.
+
+
+
+**Which philosopher is most closely associated with the development of utilitarianism?**
+[[ ]]  Immanuel Kant.
+[[x]] John Stuart Mill.
+[[ ]] Friedrich Nietzsche.
+[[ ]] Socrates.
+
+
+
+**In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?**
+
+[[ ]] Deontological ethics.
+[[ ]] Virtue ethics.
+[[x]] Utilitarian ethics.
+[[ ]] Existential ethics.
+
+
+
+With numbers 
+
 1. **What is the main ethical dilemma in the trolley problem?**
-   a) Choosing between two equally beneficial outcomes.
-   b) Deciding whether to intervene in a natural disaster.
-   c) Determining the best way to operate a trolley.
-   d) Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
-
-2. **In utilitarianism, what is considered the most ethical action?**
-   a) The action that benefits the most powerful individuals.
-   b) The action that aligns with traditional moral values.
-   c) The action that produces the greatest good for the greatest number.
-   d) The action that is easiest to perform.
-
-3. **How does the trolley problem challenge utilitarian principles?**
-   a) It questions the value of individual rights.
-   b) It creates a scenario where no one is truly happy.
-   c) It presents a situation where all choices lead to a bad outcome.
-   d) It forces a choice between the greater good and individual morality.
-
-4. **Which philosopher is most closely associated with the development of utilitarianism?**
-   a) Immanuel Kant.
-   b) John Stuart Mill.
-   c) Friedrich Nietzsche.
-   d) Socrates.
-
    
+   [[ ]] Choosing between two equally beneficial outcomes.
+   
+   [[ ]] Deciding whether to intervene in a natural disaster.
 
-   **In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?**
-
-   [[ ]] Deontological ethics.
-   [[ ]] Virtue ethics.
-   [[ ]] Utilitarian ethics.
-   [[ ]] Existential ethics.
-
-
-
- Sure, here are the revised multiple-choice questions without the "a) b) c) d)" characters:
-
-1. **What is the main ethical dilemma in the trolley problem?**
-   - [[ ]] Choosing between two equally beneficial outcomes.
-   - [[ ]] Deciding whether to intervene in a natural disaster.
-   - [[ ]] Determining the best way to operate a trolley.
-   - [[x]] Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
-
+   [[ ]] Determining the best way to operate a trolley.
+   
+   [[x]] Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
+   
 2. **In utilitarianism, what is considered the most ethical action?**
-   - [[ ]] The action that benefits the most powerful individuals.
-   - [[ ]] The action that aligns with traditional moral values.
-   - [[x]] The action that produces the greatest good for the greatest number.
-   - [[ ]] The action that is easiest to perform.
+   
+   [[ ]] The action that benefits the most powerful individuals.
+   
+   [[ ]] The action that aligns with traditional moral values.
 
+   [[x]] The action that produces the greatest good for the greatest number.
+   
+   [[ ]] The action that is easiest to perform.
+   
 3. **How does the trolley problem challenge utilitarian principles?**
-   - [[ ]] It questions the value of individual rights.
-   - [[ ]] It creates a scenario where no one is truly happy.
-   - [[ ]] It presents a situation where all choices lead to a bad outcome.
-   - [[x]] It forces a choice between the greater good and individual morality.
+   
+   [[ ]] It questions the value of individual rights.
+   
+   [[ ]] It creates a scenario where no one is truly happy.
 
+   [[ ]] It presents a situation where all choices lead to a bad outcome.
+   
+   [[x]] It forces a choice between the greater good and individual morality.
+   
 4. **Which philosopher is most closely associated with the development of utilitarianism?**
-   - [[ ]] Immanuel Kant.
-   - [[x]] John Stuart Mill.
-   - [[ ]] Friedrich Nietzsche.
-   - [[ ]] Socrates.
+   
+   [[ ]] Immanuel Kant.
+   
+   [[x]] John Stuart Mill.
 
+   [[ ]] Friedrich Nietzsche.
+   
+   [[ ]] Socrates.
+   
 5. **In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?**
-   - [[ ]] Deontological ethics.
-   - [[ ]] Virtue ethics.
-   - [[x]] Utilitarian ethics.
-   - [[ ]] Existential ethics.
-
-These questions are structured to facilitate understanding and discussion about the trolley problem and utilitarianism, with clear indications for the correct answers.
+   
+   [[ ]] Deontological ethics.
+   
+   [[ ]] Virtue ethics.
+   
+   [[x]] Utilitarian ethics.
+   
+   [[ ]] Existential ethics.
 
 
 
