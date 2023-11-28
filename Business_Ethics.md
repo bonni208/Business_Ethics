@@ -21,7 +21,7 @@ logo: icon: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-fa
 
 ## Start
 
-
+This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. It is made up of ten lessons and ten challenges. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
 
 ### Why take a business ethics class
 
@@ -117,9 +117,17 @@ Visit the most current [Conscious Consumer Spending Index ]and explore the data 
 
 ## It's all personal (or is it?)
 
+What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
+
+
+
+
+
 **The Good Place**
 
 !?[How Ethics Can Help You Make Better Decisions]
+
+
 
 
 
@@ -315,6 +323,16 @@ Watch: Sandel second video
 ## The good, the bad, and the ugly
 
 
+
+!?[Paid Family Leave: Last Week Tonight with John Oliver (HBO)](https://youtu.be/zIhKAQX5izw?si=OfjCwaHshuV_T2qY)
+
+
+
+40% of workers are not covered under the federal paid leave laws. 
+
+[[x]] True
+
+[[]] False
 
 
 
