@@ -25,11 +25,15 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 ### Why take a business ethics class
 
+<article>
+
 Taking a business ethics class is crucial for college students, especially at a Christian university, as it prepares future leaders to navigate the complex ethical challenges that arise in the modern business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the [effects of social media on children and teenagers].
 
 As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often might intersect with Christian ones, while also recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions of belief systems. 
 
 Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
+
+</article>
 
 Watch: The Importance of Business Ethics
 
@@ -39,11 +43,17 @@ The speaker in [The Importance of Business Ethics] discusses the importance of e
 
 Ethical responsibilities extend to society by promoting sustainable practices and corporate social responsibility (CSR), which are increasingly expected by customers, employees, and investors. To customers, ethical responsibilities include avoiding misleading practices like greenwashing and false advertising. Ethical treatment of employees is also crucial, as fair practices contribute to a successful organizational culture, which can benefit the company economically and legally.
 
+<section>
+
 For more information and insights, students can check out videos and resources such as:
 
 - "The Importance of Business Ethics" on YouTube for a general overview.
 - "Leadership, Ethics, and Corporate Accountability," a course by Harvard Business School Professor Nien-hê Hsieh, which offers deeper insights into the challenges and importance of business ethics.
 - "Conscious Consumer Spending Index" on goodmustgrow.com, which provides data on consumer preferences for socially responsible companies.
+
+</section> 
+
+
 
 ### Terms:
 
@@ -248,6 +258,8 @@ With numbers
 
    [[x]] Choosing between a direct action that saves more lives at the cost of fewer or inaction that results in more deaths.
 
+   
+
 2. **In utilitarianism, what is considered the most ethical action?**
 
    [[ ]] The action that benefits the most powerful individuals.
@@ -257,6 +269,8 @@ With numbers
    [[x]] The action that produces the greatest good for the greatest number.
 
    [[ ]] The action that is easiest to perform.
+
+   
 
 3. **How does the trolley problem challenge utilitarian principles?**
 
@@ -268,15 +282,19 @@ With numbers
 
    [[x]] It forces a choice between the greater good and individual morality.
 
+   
+
 4. **Which philosopher is most closely associated with the development of utilitarianism?**
 
    [[ ]] Immanuel Kant.
 
-   [[x]] John Stuart Mill.
+   [[X]] John Stuart Mill.
 
    [[ ]] Friedrich Nietzsche.
 
    [[ ]] Socrates.
+
+   
 
 5. **In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?**
 
@@ -284,7 +302,7 @@ With numbers
 
    [[ ]] Virtue ethics.
 
-   [[x]] Utilitarian ethics.
+   [[X]] Utilitarian ethics.
 
    [[ ]] Existential ethics.
 
@@ -312,7 +330,9 @@ Watch: Sandel second video
 
 
 
+Being your best self
 
+https://ethicsunwrapped.utexas.edu
 
 ## Practice makes perfect (or does it?) 
 
@@ -332,7 +352,7 @@ Watch: Sandel second video
 
 [[x]] True
 
-[[]] False
+[[ ]] False
 
 
 
@@ -381,5 +401,26 @@ Set up Raindrop.io free account and email address used
 
 # Book
 
-
 # Videos
+
+
+
+## Notes
+
+From November 27 ChatGPT
+
+I found a collection of business ethics videos from two sources: Ethics Unwrapped at the University of Texas Austin and the Markkula Center for Applied Ethics. However, I couldn't retrieve specific video durations or verify the current availability of each video. Here are some notable series and individual videos from these sources:
+
+1. **Ethics Unwrapped - University of Texas Austin**: This series covers a wide range of topics in business ethics. The series includes several sub-series, such as:
+   - **Concepts Unwrapped**: 36 short illustrated videos explaining behavioral ethics concepts and basic ethics principles. [More Information](https://ethicsunwrapped.utexas.edu/series/concepts-unwrapped)
+   - **Ethics Defined (Glossary)**: 58 animated videos, each 1 to 2 minutes, defining key ethics terms and concepts. [More Information](https://ethicsunwrapped.utexas.edu/glossary)
+   - **Ethics in Focus**: Unique videos highlighting ethical aspects of current and historical subjects. [More Information](https://ethicsunwrapped.utexas.edu/series/ethics-in-focus)
+   - **Giving Voice To Values**: Eight videos presenting the principles of values-driven leadership. [More Information](https://ethicsunwrapped.utexas.edu/series/giving-voice-to-values)
+   - **In It To Win**: A documentary and six short videos on behavioral ethics biases in the story of super-lobbyist Jack Abramoff. [More Information](https://ethicsunwrapped.utexas.edu/series/in-it-to-win)
+   - **Scandals Illustrated**: 30 videos introducing scandals with ethical insights and case studies. [More Information](https://ethicsunwrapped.utexas.edu/series/scandals-illustrated)
+
+2. **Markkula Center for Applied Ethics - Santa Clara University**: This channel features interviews with experts covering subjects from corporate governance to digital ethics. Notable videos include:
+   - **Voting for Ethics**: A short video with tips on ethical voting. [More Information](https://www.scu.edu/ethics/ethics-resources/ethics-videos/)
+   - **Essential Ethics - Small Business Challenges during COVID-19**: Series of interviews focusing on ethical decision-making in various business sectors during the pandemic. [More Information](https://www.scu.edu/ethics/ethics-resources/ethics-videos/)
+
+For specific video durations and to ensure their current availability, I recommend visiting the provided links and exploring the series and individual videos listed there.
