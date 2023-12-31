@@ -5,7 +5,7 @@ author:   Dr. Bonni Stachowiak
 
 email: bstachowiak@vanguard.edu
 
-version:  00.01.08
+version:  00.01.11
 
 language: en
 
@@ -86,7 +86,7 @@ If you would like to learn more about me, I have a fairly active presence online
 
 ## Show Up for the Work
 
-! [Dr. B holds a sign that reads: 'show up for the work'](https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg)
+![Dr. B holds a sign that reads: 'show up for the work'](https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg)
 
 Those social media profiles that include a cover image as part of what we are invited to set up, I often post a picture of me, sitting in my Vanguard office, holding a sign that reads: 
 
