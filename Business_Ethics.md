@@ -128,7 +128,7 @@ Text with pink highlighting. Is this possible? How to make assignments stand out
 
 
 
-## It's all personal (or is it?)
+## 01. It's all personal (or is it?)
 
 What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
 
@@ -146,7 +146,7 @@ What does it mean to be ethical, especially in business? It's more than just kno
 
 
 
-## Decide how we decide when we decide
+## 02. Decide how we decide when we decide
 
 Ethical frameworks
 
@@ -160,7 +160,7 @@ Watch: Sandel second video
 
 
 
-## That seems really inappropriate (Get to know your favorite philosophers) 
+## 03. That seems really inappropriate (Get to know your favorite philosophers) 
 
 
 
@@ -329,13 +329,13 @@ With numbers
 
 
 
-## Let's not get duped (or pass our ignorance onto others)
+## 04. Let's not get duped (or pass our ignorance onto others)
 
 
 
 
 
-## This is how we do it (in a business context)
+## 05. This is how we do it (in a business context)
 
 
 
@@ -343,13 +343,13 @@ Being your best self
 
 https://ethicsunwrapped.utexas.edu
 
-## Practice makes perfect (or does it?) 
+## 06. Practice makes perfect (or does it?) 
 
 
 
 
 
-## The good, the bad, and the ugly
+## 07. The good, the bad, and the ugly
 
 
 
@@ -369,7 +369,7 @@ https://ethicsunwrapped.utexas.edu
 
 
 
-## Change our mind about changing our minds
+## 08. Change our mind about changing our minds
 
 Importance of watching our language and behaviors: being people of integrity
 
@@ -383,13 +383,13 @@ When presented with better information: agreeing on what is effective
 
 
 
-## To infinity and beyond (using power and priviledge responsibly)
+## 09. To infinity and beyond (using power and privilege responsibly)
 
 
 
 
 
-## Wrap it up with a bow
+## 10. Wrap it up with a bow
 
 
 
