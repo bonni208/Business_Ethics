@@ -5,7 +5,7 @@ author:   Dr. Bonni Stachowiak
 
 email: bstachowiak@vanguard.edu
 
-version:  0.1.0
+version:  00.01.08
 
 language: en
 
@@ -21,11 +21,14 @@ logo: icon: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-fa
 
 # Start
 
-This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. It is made up of ten lessons and ten challenges. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
+This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The is made up of ten lessons [^1] and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
 
 [ ] Add: quote
 
 [ ] Add: course trailer
+
+[^1]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
+[^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
 
 
 ## Why take a business ethics class
@@ -83,7 +86,7 @@ If you would like to learn more about me, I have a fairly active presence online
 
 ## Show Up for the Work
 
-! https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg 
+! [Dr. B holds a sign that reads: 'show up for the work'](https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg)
 
 Those social media profiles that include a cover image as part of what we are invited to set up, I often post a picture of me, sitting in my Vanguard office, holding a sign that reads: 
 
