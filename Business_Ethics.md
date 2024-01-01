@@ -142,6 +142,18 @@ What does it mean to be ethical, especially in business? It's more than just kno
 
 
 
+<!--style="background-color: #FFF0F5;"-->
+
+> This is not meant to be a block quote. 
+
+> Also not this. 
+
+> hmmm
+
+</style>
+
+
+
 [ ] Add: At the bottom: add "Ready?" and then a button that links to: Take Challenge One
 
 
