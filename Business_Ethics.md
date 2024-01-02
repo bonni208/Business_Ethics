@@ -419,11 +419,13 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 ### 03.05 - Aristotle meets Batman | 10 minutes | #sense
 
+Another framework 
+
 !?[Virtue ethics | Ethics defined](https://youtu.be/NMblKpkKYao?si=HBTUMDsa7BtyibW9)
 
 
 
-MANUALLY TYPED
+MANUALLY TYPED - WHAT IS GOING ON??? 
 
 What is the central focus of virtue ethics? 
 
