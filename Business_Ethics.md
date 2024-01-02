@@ -425,65 +425,65 @@ Batman, who would kill the joker? According to utilitarians... etc.
 
 
 
-1. What is the central focus of virtue ethics?
+What is the central focus of virtue ethics?
 
-   [[ ]] Resolving ethical dilemmas
+[[ ]] Resolving ethical dilemmas
 
-   [[X]] Acquiring virtuous habits through practice
+[[X]] Acquiring virtuous habits through practice
 
-   [[ ]] Applying specific moral rules
+[[ ]] Applying specific moral rules
 
-   [[ ]] Maximizing utility
+[[ ]] Maximizing utility
 
-   
 
-2. According to virtue ethics, how do individuals develop an honorable and moral character?
 
-   [[ ]] By following a set of predefined rules
+According to virtue ethics, how do individuals develop an honorable and moral character?
 
-   [[ ]] By maximizing utility in every situation
+[[ ]] By following a set of predefined rules
 
-   [[X]] Through the practice of virtues like honesty and bravery
+[[ ]] By maximizing utility in every situation
 
-   [[ ]] By adhering to deontological principles
+[[X]] Through the practice of virtues like honesty and bravery
 
-   
+[[ ]] By adhering to deontological principles
 
-3. How does a virtue ethicist differ from a utilitarian or deontologist in the context of moral decision-making?
 
-   [[ ]] A virtue ethicist prioritizes maximizing utility.
 
-   [[ ]] A virtue ethicist emphasizes following strict rules.
+How does a virtue ethicist differ from a utilitarian or deontologist in the context of moral decision-making?
 
-   [[X]] A virtue ethicist focuses on the character of the person making the choice.
+[[ ]] A virtue ethicist prioritizes maximizing utility.
 
-   [[ ]] A virtue ethicist advocates for moral relativism.
+[[ ]] A virtue ethicist emphasizes following strict rules.
 
-   
+[[X]] A virtue ethicist focuses on the character of the person making the choice.
 
-4. In the example from "The Dark Knight" mentioned in the video, what would a utilitarian likely endorse regarding Batman's choice to kill the Joker?
+[[ ]] A virtue ethicist advocates for moral relativism.
 
-   [[X]] Endorse killing the Joker to save more lives.
 
-   [[ ]] Reject killing the Joker on moral grounds.
 
-   [[ ]] Emphasize Batman's character rather than the act itself.
+In the example from "The Dark Knight" mentioned in the video, what would a utilitarian likely endorse regarding Batman's choice to kill the Joker?
 
-   [[ ]] Advocate for finding a middle ground between killing and not killing.
+[[X]] Endorse killing the Joker to save more lives.
 
-   
+[[ ]] Reject killing the Joker on moral grounds.
 
-5. How does virtue ethics provide guidance for living life in ethical matters?
+[[ ]] Emphasize Batman's character rather than the act itself.
 
-   [[ ]] By prescribing specific rules for resolving ethical dilemmas.
+[[ ]] Advocate for finding a middle ground between killing and not killing.
 
-   [[ ]] By prioritizing the maximization of utility.
 
-   [[X]] By emphasizing the character and virtues of individuals.
 
-   [[ ]] By advocating for a rigid adherence to deontological principles.
+How does virtue ethics provide guidance for living life in ethical matters?
 
-   
+[[ ]] By prescribing specific rules for resolving ethical dilemmas.
+
+[[ ]] By prioritizing the maximization of utility.
+
+[[X]] By emphasizing the character and virtues of individuals.
+
+[[ ]] By advocating for a rigid adherence to deontological principles.
+
+
 
 ## 04. Let's not get duped (or pass our ignorance onto others)
 
