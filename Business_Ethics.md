@@ -33,9 +33,7 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 ## Why take a business ethics class
 
-Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the [effects of social media on children and teenagers].
-
-[ ] Add: source for the effects of social media on children and teenagers, above. 
+Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1].
 
 As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews. 
 
@@ -43,26 +41,11 @@ As Christians, we are called to love our neighbors, tell the truth, and seek to 
 
 Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
 
-
-Watch: The Importance of Business Ethics
-
-[ ] Add: video on the importance of business ethics
-
 The speaker in [The Importance of Business Ethics] discusses the importance of ethical behavior in business and the consequences of unethical actions. It presents scenarios illustrating ethical dilemmas, cites examples of unethical corporate behavior, and emphasizes the negative impacts of a lack of ethics in organizations. The video highlights the significance of adhering to protected values and how ethical behavior can lead to improved employee morale, productivity, and long-term profitability, while unethical actions can harm a company's reputation and investor confidence.
-
-!?[The Importance of Business Ethics]
 
 Ethical responsibilities extend to society by promoting sustainable practices and corporate social responsibility (CSR), which are increasingly expected by customers, employees, and investors. To customers, ethical responsibilities include avoiding misleading practices like greenwashing and false advertising. Ethical treatment of employees is also crucial, as fair practices contribute to a successful organizational culture, which can benefit the company economically and legally.
 
-</article>
-
-For more information and insights, students can check out videos and resources such as:
-
-- "The Importance of Business Ethics" on YouTube for a general overview.
-- "Leadership, Ethics, and Corporate Accountability," a course by Harvard Business School Professor Nien-hê Hsieh, which offers deeper insights into the challenges and importance of business ethics.
-- "Conscious Consumer Spending Index" on goodmustgrow.com, which provides data on consumer preferences for socially responsible companies.
-
-</section> 
+[^1]: There's a lot more nuance regarding social media's impact on youth. The [Pew Research Center has some key findings from 2023](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/) to explore for more. 
 
 ## About me
 
@@ -74,9 +57,11 @@ I have always wanted to teach.
 
 Fast forward to today. I teach as a professor of business and management at Vanguard. I'm also dean of teaching and learning, which gives  me opportunities to collaborate with other faculty to improve all of our teaching and support efforts that allow students to thrive in their learning. My passion is in continually becoming more effective facilitating learning for students. I’m also fortunate to get to coach faculty in my dean role. 
 
-Since June of 2014, I have been airing weekly podcast episodes of Teaching in Higher Ed. I started podcasting upon the urging of my husband, Dave, who I had met while earning my MA degree in Organizational Leadership. He had started the [Coaching for Leaders](https://coachingforleaders.com) podcast three years prior to his nudging for me to launch one. Given how much I enjoy talking about teaching and learning, I'm grateful for the ways in which those hundreds of conversations have shaped me all these years. 
+Since June of 2014, I have been airing weekly podcast episodes of [Teaching in Higher Ed](https://teachinginhighered.com). I started podcasting upon the urging of my husband, Dave, who I had met while earning my MA degree in Organizational Leadership. He had started the [Coaching for Leaders](https://coachingforleaders.com) podcast three years prior to his nudging for me to launch one. Given how much I enjoy talking about teaching and learning, I'm grateful for the ways in which those hundreds of conversations have shaped me all these years. 
 
 I've been married to Dave since April of 2005. It took us many years and lots of medical interventions, but our two kids came into the world and have been surprising and delighting us ever since. One of my favorite things about being a parent is how infectious our son's and daughter's collective curiosity can be. 
+
+### More about me can be found online
 
 If you would like to learn more about me, I have a fairly active presence online, including: 
 
@@ -84,7 +69,7 @@ If you would like to learn more about me, I have a fairly active presence online
 - [LinkedIn](https://www.linkedin.com/in/bonnistachowiak/) - professional connections and occasional reflection posts
 - [Instagram](https://www.instagram.com/bonni208) - personal connections and occasional pics of what I'm up to
 
-## Show Up for the Work
+### Show up for the work 
 
 ![Dr. B holds a sign that reads: 'show up for the work'](https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg)
 
@@ -110,7 +95,15 @@ Speaking of showing up for the work, that's something that's important for you t
 
 
 
-### Get Started with Instagram
+### Essential tools
+
+Canvas Studio
+
+Quizlet
+
+Instagram
+
+
 
 
 
@@ -132,7 +125,9 @@ Text with pink highlighting. Is this possible? How to make assignments stand out
 
 What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
 
+Class constitution 
 
+PKM intro
 
 
 
@@ -162,13 +157,11 @@ What does it mean to be ethical, especially in business? It's more than just kno
 
 Ethical frameworks
 
-Watch: Sandel second video
-
-
+Case study: Research context 
 
 ## 
 
-
+Discuss how it went for you going through the ethical decision making part 1. Are you at all familiar with the ethical concerns involved in medical research, or was more of this new to you? Did you notice any of the items you had to sort evoking strong reactions from you? What ones seemed super easy to categorize and why do you think that was? As you sorted them, what items made you think about how they show up in other contexts outside a medical research one? How have you seen some of these questions raised in this exercise show up in aspects of your life? 
 
 
 
@@ -176,15 +169,21 @@ Watch: Sandel second video
 
 
 
+
+
+### 03.01 - What's the right thing to do? The moral side of murder | 50 minutes | #watch #seek
+
 Watch: Sandel first video
 
 In the first lecture of his course on moral reasoning, Michael Sandel presents a hypothetical scenario to his students: Would you kill one person to save the lives of five others? Is it the right thing to do? This scenario launches a discussion on moral reasoning and the complexity of making ethical decisions in extreme situations.
 
+Watch: [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://youtu.be/kBdfcR-8hEY?si=gpS0-hehZufCawH7)
 
+!?Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER" 
 
-These questions cover key aspects of the trolley problem and the utilitarian ethical framework, exploring the decision-making process and the philosophical underpinnings of utilitarianism.
+### 03.02 - Did ya get it? | 15 minutes | #sense
 
-11:16 AM questions 
+Test your understanding of the basics of the concepts Sandel brought up in this first lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
 
 What is the main ethical dilemma in the trolley problem?
 
@@ -221,11 +220,23 @@ In the trolley problem, if you choose to divert the trolley to save five people 
 [[x]] Utilitarian ethics.
 [[ ]] Existential ethics.
 
+Discuss Justice - Part 1
+
+The following discussion questions are adapted from Michael Sandel's materials. Answer the three questions posed below, as a means of reflecting further on the first Justice video. Refrain from looking up answers on the internet, as I want to discover what you think is the right thing to do here, not be influenced by what others think, or have thought in the past... 
+
+Each question should prompt answers from you that are at least 4-5 sentences. You may alternatively record a video for each of the questions (please do the answers on separate videos, should you choose this route). Paste the link to each video in your reply. 
+
+------
+
+Let’s start with utilitarianism. According to the principle of utility, we should always do whatever will produce the greatest amount of happiness and whatever is necessary to prevent the greatest amount of unhappiness. But is that right? Should you always try to maximize happiness? Should you always do whatever is necessary to minimize unhappiness?
+
+------
+
+1. There are times when the only way to prevent harm to a large number of people is to harm a smaller number of people. Is it always permissible to harm a smaller number in order to prevent harm to a large number? 
+2. Suppose you are driving through a narrow tunnel and a worker falls onto the road in front of you. There is not enough time for you to stop. If you keep straight, you will hit the worker and kill him, but if you swerve left into oncoming traffic, you will collide with a school bus and kill at least five children. What’s the right thing to do? Does utilitarianism have the right answer? 
+3. Ten thousand innocent civilians live next to a munitions factory in a country at war. If you bomb the factory, all of them will die. If you don’t bomb the factory, it will be used to produce bombs that will be dropped on fifty thousand innocent civilians in another country. What’s the right thing to do?
 
 
-
-
-Here are five multiple-choice questions regarding the trolley problem and utilitarianism:
 
 
 
@@ -339,7 +350,110 @@ With numbers
 
 
 
+Study Quizlet questions, while logged into your account 
 
+https://quizlet.com/473181285/justice-part-1-flash-cards/?i=omwnz&x=1jqt
+
+
+
+### 03.03 - Name that tune... I mean trolley problem meme | 15 minutes | #share
+
+Find an example of the trolley problem in a meme or from a video clip. Here's an example one, which means this one is off limits to share. 
+
+!?[Clip: The trolley problem on The Good Place](https://youtu.be/lDnO4nDA3kM?si=Bd-RFuaB-L5bkqYa)
+
+
+
+!?[Video: Three Minute Philosophy - Immanuel Kant](https://youtu.be/xwOCmJevigw?si=rQHOJ8mdJF_KzijA)
+
+Kant said that we are allowed to lie when the consequences of not lying would be dire/lethal.
+
+[[ ]] True
+
+[[X]] False
+
+
+
+Kant believed that it was ok to treat a human being a means to an end if it meant that the common good could be maximized.
+
+[[ ]] True
+
+[[X]] False
+
+
+
+Which of the following moral frameworks did Kant subscribe to?
+
+[[ ]] Utilitarianism
+[[ ]] Consequentialism
+[[ ]] Egoism
+[[X]] Deontology
+
+
+
+Kant said that all actions must have universality. We should only do something if it would be ok if everyone were to do the same thing - and it still would be ok.
+
+[[X]] True
+
+[[ ]] False
+
+
+
+Does this fit with Kant's view? We should behave as if we are the absolute moral authority.
+
+[[X]] True
+
+[[ ]] False
+
+
+
+### 03.04 - Get real with John Rawls', y'all! | 10 minutes | #sense
+
+
+
+!?[Veil of ignorance | Ethics defined](https://youtu.be/qWSYpiE54cg?si=U1bnJkVSZHdD1YEw)
+
+> And fairness, as Rawls and many others believe, is the essence of justice. 
+
+
+
+### 03.05 - Aristotle meets Batman | 10 minutes | #sense
+
+!?[Virtue ethics | Ethics defined](https://youtu.be/NMblKpkKYao?si=HBTUMDsa7BtyibW9)
+
+Batman, who would kill the joker? According to utilitarians... etc. 
+
+Certainly, here are the questions with the answer options formatted using the specific characters "[[ ]]" and "[[X]]":
+
+1. What is the central focus of virtue ethics?
+   - [[ ]] Resolving ethical dilemmas
+   - [[X]] Acquiring virtuous habits through practice
+   - [[ ]] Applying specific moral rules
+   - [[ ]] Maximizing utility
+
+2. According to virtue ethics, how do individuals develop an honorable and moral character?
+   - [[ ]] By following a set of predefined rules
+   - [[ ]] By maximizing utility in every situation
+   - [[X]] Through the practice of virtues like honesty and bravery
+   - [[ ]] By adhering to deontological principles
+
+3. How does a virtue ethicist differ from a utilitarian or deontologist in the context of moral decision-making?
+   - [[ ]] A virtue ethicist prioritizes maximizing utility.
+   - [[ ]] A virtue ethicist emphasizes following strict rules.
+   - [[X]] A virtue ethicist focuses on the character of the person making the choice.
+   - [[ ]] A virtue ethicist advocates for moral relativism.
+
+4. In the example from "The Dark Knight" mentioned in the video, what would a utilitarian likely endorse regarding Batman's choice to kill the Joker?
+   - [[X]] Endorse killing the Joker to save more lives.
+   - [[ ]] Reject killing the Joker on moral grounds.
+   - [[ ]] Emphasize Batman's character rather than the act itself.
+   - [[ ]] Advocate for finding a middle ground between killing and not killing.
+
+5. How does virtue ethics provide guidance for living life in ethical matters?
+   - [[ ]] By prescribing specific rules for resolving ethical dilemmas.
+   - [[ ]] By prioritizing the maximization of utility.
+   - [[X]] By emphasizing the character and virtues of individuals.
+   - [[ ]] By advocating for a rigid adherence to deontological principles.
 
 ## 04. Let's not get duped (or pass our ignorance onto others)
 
@@ -354,6 +468,51 @@ With numbers
 Being your best self
 
 https://ethicsunwrapped.utexas.edu
+
+**United Nations Sustainable Development Goals** 
+
+Browse the UN's SDGs https://sdgs.un.org/goals 
+
+Watch 3 tips on SDGs https://vanguard.instructuremedia.com/embed/cb219ffc-ec51-4357-82de-f097e75b2191 
+
+The video compared the Sustainable Development Goals to a birthday cake
+
+[][ ][[ ]] True
+[[x]] False
+
+Hint: It was a type of cake, yes, but was it a birthday cake, or some other type? 
+
+
+
+Which one of the following was NOT one of the ways that the video suggested a company could organize their goals to align with the SDGs?
+
+[[ ]] Environmental goals
+
+[[ ]] Employee goals
+
+[[ ]] Community goals
+
+[[ ]] Worldwide goals
+
+
+
+You notice that the U.S. is performing higher than a less-developed country in the SDGs. Explain why solely looking at that measure may be misleading. 
+
+Which of the two SDGs are you most personally interested in learning more about and finding out how you may be able to contribute to improving around the world? In your answer, link to the information about each of the two goals you list from the [17 goals websiteLinks to an external site.](https://sdgs.un.org/goals). For example, if you were interested in ensuring sustainable consumption and production patterns, you would link to that goals' page: [https://sdgs.un.org/goals/goal12Links to an external site.](https://sdgs.un.org/goals/goal12) 
+
+EXAMPLE:
+
+[Goal 12: Ensure sustainable consumption and production patternsLinks to an external site.](https://sdgs.un.org/goals/goal12) - I'm interested in this goal because when I think about how much food gets wasted just in our family, it pains me to extend that out to the world... Currently, our consumption patterns are built to continue and even extend those habits. This one also interests me as it relates to fast fashion, which is [shared about on the SDB websiteLinks to an external site.](https://sdgs.un.org/news/conscious-fashion-and-lifestyle-action-network-25073). 
+
+Answers should include:
+
+1. Number and name of goal
+2. Linked to goal on UN website
+3. 2-3 sentences explaining why you have a personal interest in that particular goal (this should read as a personal reflection and not something copied from somewhere else)
+
+
+
+
 
 ## 06. Practice makes perfect (or does it?) 
 
@@ -415,6 +574,8 @@ When presented with better information: agreeing on what is effective
 
 3x3 video: Self-introduction with three things that are important to know about you and three artifacts about what you believe
 
+Dear younger me
+
 Set up Raindrop.io free account and email address used
 
 
@@ -422,6 +583,16 @@ Set up Raindrop.io free account and email address used
 ## 2. Let's get physical (or medical, or whatever)
 
 Medical research case study.
+
+WHAT: This is the first stage of a multi-step activity: The Ethical Decision Making Case from Human Synergistics. You will watch a few videos that introduce you to the case, answer some questions along the way, and then submit your initial answers to the case. 
+
+WHY: When considering what is the right thing to do, sometimes it helps to get outside of a context that is familiar to us and enter into something entirely different than what we are used to... This case is designed to introduce you to various terminology having to do with ethics and get you thinking about what you believe. 
+
+HOW: Follow the instructions below and watch the videos. At the end of the multi-step process, you will have a document with your notes and answers on it, along with a PDF of your initial answers to the case to upload for this assignment.
+
+You serve as an administrator at our esteemed, moderately sized hospital, renowned for its groundbreaking research and exceptional patient care standards. A significant portion of our research endeavors is funded through grants and federal contracts. In alignment with federal regulations, our institution upholds ethical research standards through an Institutional Review Board, of which you are a valued member.
+
+Our committee has convened a special meeting to assess ten research practices that have emerged in otherwise commendable proposals over the past year. In an effort to provide clear guidance for future proposals and streamline our review processes, the board has opted to rank these practices in terms of their relative permissibility, starting from the most permissible and concluding with the least permissible options.
 
 
 
