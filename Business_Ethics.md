@@ -421,7 +421,27 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 !?[Virtue ethics | Ethics defined](https://youtu.be/NMblKpkKYao?si=HBTUMDsa7BtyibW9)
 
+
+
+MANUALLY TYPED
+
+What is the central focus of virtue ethics? 
+
+[[ ]] Resolving ethical dilemmas
+
+[[X]] Acquiring virtuous habits through practice
+
+[[ ]] Applying specific moral rules
+
+[[ ]] Maximizing utility
+
+
+
+OLD FORMAT
+
 Batman, who would kill the joker? According to utilitarians... etc. 
+
+
 
 What is the central focus of virtue ethics? 
 
