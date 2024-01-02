@@ -423,15 +423,13 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 Batman, who would kill the joker? According to utilitarians... etc. 
 
-
-
-What is the central focus of virtue ethics?
+What is the central focus of virtue ethics? 
 
 [[ ]] Resolving ethical dilemmas
 
-[[X]] Acquiring virtuous habits through practice
+[[X]] Acquiring virtuous habits through practice 
 
-[[ ]] Applying specific moral rules
+[[ ]] Applying specific moral rules 
 
 [[ ]] Maximizing utility
 
@@ -453,9 +451,9 @@ How does a virtue ethicist differ from a utilitarian or deontologist in the cont
 
 [[ ]] A virtue ethicist prioritizes maximizing utility.
 
-[[ ]] A virtue ethicist emphasizes following strict rules.
+[[ ]] A virtue ethicist emphasizes following strict rules. 
 
-[[X]] A virtue ethicist focuses on the character of the person making the choice.
+[[X]] A virtue ethicist focuses on the character of the person making the choice. 
 
 [[ ]] A virtue ethicist advocates for moral relativism.
 
@@ -473,13 +471,13 @@ In the example from "The Dark Knight" mentioned in the video, what would a utili
 
 
 
-How does virtue ethics provide guidance for living life in ethical matters?
+How does virtue ethics provide guidance for living life in ethical matters? 
 
 [[ ]] By prescribing specific rules for resolving ethical dilemmas.
 
-[[ ]] By prioritizing the maximization of utility.
+[[ ]] By prioritizing the maximization of utility. 
 
-[[X]] By emphasizing the character and virtues of individuals.
+[[X]] By emphasizing the character and virtues of individuals. 
 
 [[ ]] By advocating for a rigid adherence to deontological principles.
 
