@@ -125,7 +125,7 @@ Text with pink highlighting. Is this possible? How to make assignments stand out
 
 ## 01. It's all personal (or is it?)
 
-! https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg
+! [Course header lesson one](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
 
 What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
 
