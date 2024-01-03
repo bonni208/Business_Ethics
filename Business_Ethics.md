@@ -15,11 +15,11 @@ comment:  Business Ethics course being taught at Vanguard University by Dr. Bonn
 
 icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.jpg
 
-logo: https://innovatelearning.s3.amazonaws.com/busn435-icon.jpg
-
 -->
 
 I am so glad you're here. While I have taught this class well over ten times, this time feels different. In the Spring of 2024, I have decided to 'burn the class down to the ground' and rebuild it in a format inspired by some of the greatest teachers I have ever met. Also, each class is unique and I am so looking forward to us becoming an us in the coming weeks. 
+
+Changed out the use of the word logo: in the course metadata. 
 
 # Start
 
