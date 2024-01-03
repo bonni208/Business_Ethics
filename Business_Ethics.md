@@ -21,7 +21,9 @@ icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.png
 
 I am so glad you're here. While I have taught this class well over ten times, this time feels different. In the Spring of 2024, I have decided to 'burn the class down to the ground' and rebuild it in a format inspired by some of the greatest teachers I have ever met. Also, each class is unique and I am so looking forward to us becoming an us in the coming weeks. 
 
-Changed out the use of the word logo: in the course metadata. 
+> Watch the following video to get to know a few things about me, as well as discover a bit about our class. 
+
+!?[Welcome video: Busn435](https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c)
 
 # Start
 
@@ -39,13 +41,17 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 ## 00. Why take a business ethics class
 
- --{{0}}--
+![Course graphic header lesson 00](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00.jpg) 
 
-Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1].
+--{{0}}--
 
- --{{1}}--
+Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1]. 
+
+--{{1}}--
 
 As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews. 
+
+> I sent an email out to those who were registered for the class a few weeks back, asking for you to reply to let me know why you're taking a class about business ethics. If you haven't done so, already, please email me and share your reasoning and what you hope to get out of the course. 
 
 ### 00.01 It's more important than sword fighting
 
@@ -69,11 +75,7 @@ I'm pretty sure that Brandon never got as good as those actors in The Princess B
 
  --{{0}}--
 
-I realize that sounds pretty dramatic. But I truly believe that the more we understand about ethics, in general, and the context that most of us will spend a huge percentage of our lives (work), the more we will be able to bring more of God's love into the world. 
-
-This next part is going to get super technical, sine a definition seems in order right about now: 
-
-> Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
+I realize that sounds pretty dramatic. But I truly believe that the more we understand about ethics, in general, and the context that most of us will spend a huge percentage of our lives (work), the more we will be able to bring more of God's love into the world. This next part is going to get super technical, sine a definition seems in order right about now: Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
 
  --{{1}}--
 
@@ -98,16 +100,19 @@ According to the video, a company's relationship with investors has no impact on
 [[X]] False
 
 The video suggests that employees with strong commitment to ethical values are more likely to report unethical behavior.
+
 [[X]] True
 [[ ]] False
 
 What does the video primarily discuss?
+
 [[ ]] Benefits of coffee consumption
 [[X]] Ethical dilemmas in business
 [[ ]] The history of Starbucks
 [[ ]] Employee loyalty
 
 According to the video, what is the quickest way to lose trust with employees?
+
 [[ ]] Demanding high ethical standards
 [[X]] Lying to employees
 [[ ]] Offering fair trade products
@@ -130,9 +135,11 @@ Since the age of five, I knew what I was going to do for a living. I would have 
 
 When I was in college, picking a major was easy. I majored in social sciences, meaning I got to pick three of my favorite subjects to focus on: psychology, sociology, and history. I was certain that I would graduate with a single subject waiver to teach high school classes and would earn my teaching credential during what would have been my fifth year in college. I did graduate on time with a bachelors degree in social sciences, but my adventures in teaching have taken me plenty of places, but never inside a high school classroom. 
 
-I have always wanted to teach. 
+> I have always wanted to teach. 
 
 Fast forward to today. I teach as a professor of business and management at Vanguard. I'm also dean of teaching and learning, which gives  me opportunities to collaborate with other faculty to improve all of our teaching and support efforts that allow students to thrive in their learning. My passion is in continually becoming more effective facilitating learning for students. I’m also fortunate to get to coach faculty in my dean role. 
+
+![Bonni podcasting](https://innovatelearning.s3.amazonaws.com/bonni-podcasting.jpg)
 
 Since June of 2014, I have been airing weekly podcast episodes of [Teaching in Higher Ed](https://teachinginhighered.com). I started podcasting upon the urging of my husband, Dave, who I had met while earning my MA degree in Organizational Leadership. He had started the [Coaching for Leaders](https://coachingforleaders.com) podcast three years prior to his nudging for me to launch one. Given how much I enjoy talking about teaching and learning, I'm grateful for the ways in which those hundreds of conversations have shaped me all these years. 
 
@@ -174,43 +181,46 @@ In our class, we have Zoom sessions, which are somewhat like a normal class, in 
 
 ### 00.02 Your story matters
 
+Vanguard has used the Your Story Matters tagline for quite some time. Some people find it to be trite, but I've always really liked it. I suppose how you feel about it may depend on how sincere you believe someone to be when they say that to you. 
 
+> Your story matters to me. 
+
+I started teaching at Vanguard in 2004. You can imagine that I've met a lot of students in that time. To this day, I always get excited and nervous about a new class starting. As weird as this may sound, you matter to me, even though in some cases, we may not have ever met, yet. I am looking forward to getting to know you throughout this class. 
 
 ### 00.03 Our stories matter
 
-
+Individual stories are compelling. Something powerful happens when groups form and create collective stories together. In this class, I'm looking forward to when we become an 'us.' 
 
 ### 00.04 It takes a village, or at least some reliable tools
 
+My first job out of college was working for a computer training company. I used to teach technology classes to business professionals and would often fall asleep with a thick book next to me, back when people used to read books to learn how to use a software application. Even today, I love technology enough to mark on my calendar when any Apple Keynotes will be held, such as at their annual Worldwide Developers Conference (WWDC). Dave, my husband, and I used to consider it a 'romantic' date before we were married to sit and watch the latest keynote from WWDC back in the day. 
+
+In this class, there is an essential set of tools that you'll need to use, in order to be successful. 
+
+| TOOL                   | DESCRIPTION                                                  | DIFFICULTY |
+| ---------------------- | :----------------------------------------------------------- | :--------: |
+| **Google docs/slides** | Throughout our class, you will be provided with a link to a document, which gets copied as a template inside of your Google account. Despite there being advances in what Microsoft 365 offers us, there's still nothing as fast and easy, as accessing a Google document and engaging with it on your own, or with others. |    Easy    |
+| **Quizlet**            | One of the best study methods supported by research is known as retrieval practice, or the testing effect. And one of the best tools I know of to create and share digital flashcards to support that practice is Quizlet. From your computer or phone, you can login to Quizlet, join our class, and strengthen your learning via the shared flashcards. |    Easy    |
+| **Instagram**          | Did you know that Instagram allows you to create a separate account from your main one? In this class, we will each keep an account where we can share the learning from our class, engage with each other and build community. |   Medium   |
+| **Raindrop.io**        | A big part of our class is going to be sharing with each other what we are learning and how we see business ethics through our unique contexts and current events. We will therefore need a place to store our stuff that connects us with each other and back into Canvas. We are going to use a digital bookmark tool called Raindrop.io, which lets us save stuff in a shared bookmark list, but will also push what we're finding onto our Canvas course shell. |   Medium   |
+| **Canvas Studio**      | Inside Canvas is a video creation and collection tool called Canvas Studio. When you're logged into Canvas from a computer, you can access the tool way over on the right hand side of your browser, in the same place you can view the calendar, dashboard, etc. This semester, we will be creating and sharing many videos and having everything in one place is going to be incredibly helpful for us all. |    Hard    |
+|                        |                                                              |            |
 
 
-Canvas Studio
 
-Quizlet
+### 00.05 Ten lessons and challenges
 
-Instagram
+You will notice a pattern in this class. Throughout the semester, we will all: 
 
+- Learn stuff - by watching videos, reading text, talking to each other and people we connect with as a class, wrestling with case studies, checking our understanding through games and quizzes
+- Do stuff - challenge ourselves to go beyond just learning something, but actually applying it in some way
+- Share stuff - the best kind of learning is the kind that is done in community with others
 
-
-
-
-## 00.04 Course Overview: The 10 Lessons
-
-[ ] Add: Syllabus video - see example on Antrh101.com/start under ten lessons. 
-
-[ ] Add: 1-3 short sentences "which when laid out in sequence will read almost like a manifesto" (quoting anth101.com/start from Mike Wesch)
-
-[ ] Add: line above the first assignment: See anth101.com/start at the very bottom for an example
-
-Text with pink highlighting. Is this possible? How to make assignments stand out? 
+I know it is cliché, but you will get out of this class what you put into it. While I recognize that each of you has busy schedules and plenty of other priorities, I expect that you will invest not just time into this course, but also that you'll challenge yourself to make this a good ROI (return on investment) for the time and money spent such that you can be a part of it. Do the right thing by investing in yourself and others this semester. 
 
 > Brothers and sisters, do not be weary in doing what is right."
 >
 > ~ 2 Thessalonians 3:13
-
-
-
-
 
 # Ten Lessons
 
@@ -223,32 +233,6 @@ Text with pink highlighting. Is this possible? How to make assignments stand out
 What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
 
 
-
-Class constitution 
-
-PKM intro
-
-
-
-**The Good Place**
-
-!?[How Ethics Can Help You Make Better Decisions]
-
-
-
-<!--style="background-color: #FFF0F5;"-->
-
-> This is not meant to be a block quote. 
-
-> Also not this. 
-
-> hmmm
-
-</style>
-
-
-
-[ ] Add: At the bottom: add "Ready?" and then a button that links to: Take Challenge One
 
 
 
@@ -618,6 +602,109 @@ Discuss how it went for you going through the ethical decision making part 1. Ar
 
 ![Course lesson graphic 04](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-04.jpg)
 
+It's not fun to look foolish. Yet it's easy to be tricked, given the state of where most of us get our information today: online.
+
+I don't mean to sound offensive in saying the part about sounding ignorant. We're all ignorant about lots of stuff. You should try talking to me sometime about sports, for example, if you want to find someone ignorant on that broad set of subjects. 
+
+The goal is to become more educated about the stuff that is important to us and to know when we don't know enough about something to be a credible source (or know how to spot a credible source). 
+
+### 04.01 | Meet a Mikey or maybe two? | 15 minutes | #sense
+
+Consider the following (and notice if you can hear a voice associated with these words):
+
+> He likes it. Hey, Mikey. 
+
+If you say these words to someone around my age, they'll likely know exactly what you're talking about. However, since most of you (ok. All of you) are likely younger than me, here's what Mikey was famous for, back when I was a kid.
+
+!?[Commercial for Life Cereal](https://youtu.be/CLQ0LZSnJFE?si=0r5RYZbAG_rtYFPD)
+
+What ever happened to the guy who played Mikey in that commercial? They're sometimes known as urban legends. There was one about Mikey, back in the day. People would talk about how you never see him anymore. Where did Mikey go? Well, it turned out (or so people said) that he had died in the most tragic of ways. 
+
+**It must have been the pop rocks.** 
+
+People said it was some bad combination of pop rocks and Diet Coke. Or maybe just plain Coke? I may be getting my urban legends and actual science experiments (like the one with Mentos and Diet Coke, which really does work) confused. 
+
+How would we have figured out if this was true back at that time? There wasn't an internet to go check. There were newspapers, limited by page and word counts and professional journalists and researcher assistants.
+
+### 04.02 Serve up the starter, sir | #sense
+
+Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be modifying what he has shared with the public, as part of a Creative Commons license that allows what is called remixing. As long as I attribute what I share to Mike and point people back to his Check, Please! Starter Course, we're good. 
+
+<article>
+
+### **Takeout!** 
+
+Let's start this module with an activity designed by some folks at Civix Canada. Fakeout is an interactive lesson that tests your ability to detect "fake news" (we actually don't like that term, but more on that later).
+
+![fakeout screenshot](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F248f9047-9d8d-41b8-b85f-b920f4b4aab6%2Ffakeout.png?table=block&id=f3cca8dd-265a-41a3-b41f-fb717f8c8c5b&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1370&userId=&cache=v2)
+
+Play Fakeout by [following this link](http://newsliteracy.ca/fakeOut). Play all the way through, and make sure to watch the videos in the middle. Come back here, once you're done. 
+
+</article>
+
+CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
+
+Next is an article. 
+
+<article>
+  We've been doing research into why students fail to separate fact from fiction on the web.
+
+What we've found? Students are bad at the web because they've been taught techniques that make them bad at it. And they've learned those those bad techniques from *teachers*.
+
+Here's some things students often believe:
+
+- They believe that .org's are more trustworthy than .com's.
+- They believe that a good looking layout and few typos mean something is trustworthy.
+- They think pages that have ads on them are less trustworthy than those that don't.
+- They think that footnotes automatically make a site credible.
+
+These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
+
+</article>
+
+
+
+
+  We've been doing research into why students fail to separate fact from fiction on the web.
+
+What we've found? Students are bad at the web because they've been taught techniques that make them bad at it. And they've learned those those bad techniques from *teachers*.
+
+Here's some things students often believe:
+
+- They believe that .org's are more trustworthy than .com's.
+- They believe that a good looking layout and few typos mean something is trustworthy.
+- They think pages that have ads on them are less trustworthy than those that don't.
+- They think that footnotes automatically make a site credible.
+
+These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
+
+
+
+
+
+
+  the problem with checklist approaches
+
+
+  We've been doing research into why students fail to separate fact from fiction on the web.
+
+What we've found? Students are bad at the web because they've been taught techniques that make them bad at it. And they've learned those those bad techniques from *teachers*.
+
+Here's some things students often believe:
+
+- They believe that .org's are more trustworthy than .com's.
+- They believe that a good looking layout and few typos mean something is trustworthy.
+- They think pages that have ads on them are less trustworthy than those that don't.
+- They think that footnotes automatically make a site credible.
+
+These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
+
+</article>
+
+
+
+
+
 
 
 ## 05. This is how we do it (in a business context)
@@ -735,7 +822,7 @@ When presented with better information: agreeing on what is effective
 
 # Ten Challenges
 
-## 1. Make it personal: Commit to community + pkm
+## 01. Make it personal: Commit to community + pkm
 
 3x3 video: Self-introduction with three things that are important to know about you and three artifacts about what you believe
 
@@ -743,9 +830,13 @@ Dear younger me
 
 Set up Raindrop.io free account and email address used
 
+## 02. Get current (while connecting with the past)
+
+Link today's business ethics news stories with the past; philosophers, etc. Maybe tv shows? Movies? 
 
 
-## 2. Let's get physical (or medical, or whatever)
+
+## 03. Let's get physical (or medical, or whatever)
 
 Medical research case study.
 
@@ -755,43 +846,47 @@ Work with a team to come up with a group solution and then compare that to yours
 
 Review the terms used in the ethical decision case by [using the flashcards on Quizlet](https://quizlet.com/473234960/ethical-decision-challenge-vocabulary-and-concepts-flash-cards/?i=omwnz&x=1jqt). 
 
-## 3. Get current (while connecting with the past)
-
-Link today's business ethics news stories with the past; philosophers, etc. Maybe tv shows? Movies? 
 
 
-
-## 4. SIFT it out 
+## 04. SIFT it out 
 
 
 
 
 
-## 5. Celebrate or challenge authentic CSR in the world
+## 05. Celebrate or challenge authentic CSR in the world
 
 
 
 
 
-## 6. Change someone else's mind about something 
+## 06. Give it another try
 
 SIFT and share news/issues
 
 
 
-## 7. Change your mind about something
+## 07. Get it good (or bad)
 
 
 
 
 
-## 8. Use power and priviledge for good
+## 08. Change your mind about something
 
 
 
 
 
-## 9. Wrap it up with a bow
+## 09. Use power and privilege for good
+
+
+
+
+
+
+
+## 10. Wrap it up with a bow
 
 
 
@@ -950,6 +1045,14 @@ For profit prisons
 For profit healthcare 
 Vaping 
 Diet drug (diabetes) 
+
+[ ] Add: Syllabus video - see example on Antrh101.com/start under ten lessons. 
+
+[ ] Add: 1-3 short sentences "which when laid out in sequence will read almost like a manifesto" (quoting anth101.com/start from Mike Wesch)
+
+[ ] Add: line above the first assignment: See anth101.com/start at the very bottom for an example
+
+Text with pink highlighting. Is this possible? How to make assignments stand out? 
 
 
 
