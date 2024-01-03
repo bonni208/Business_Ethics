@@ -15,6 +15,12 @@ comment:  Business Ethics course being taught at Vanguard University by Dr. Bonn
 
 icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.jpg
 
+icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.png
+
+logo: https://innovatelearning.s3.amazonaws.com/busn435-icon.jpg
+
+logo: https://innovatelearning.s3.amazonaws.com/busn435-icon.png
+
 -->
 
 I am so glad you're here. While I have taught this class well over ten times, this time feels different. In the Spring of 2024, I have decided to 'burn the class down to the ground' and rebuild it in a format inspired by some of the greatest teachers I have ever met. Also, each class is unique and I am so looking forward to us becoming an us in the coming weeks. 
@@ -37,72 +43,86 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 ## 00. Why take a business ethics class
 
+ --{{0}}--
+
 Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1].
+
+ --{{1}}--
 
 As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews. 
 
 ### 00.01 It's more important than sword fighting
 
+ --{{0}}--
+
 When I first started working at Vanguard, I had my first teaching assistant (TA). His name was Brandon and he was about to graduate. To finish up his coursework, he needed units, but they could be in anything he wanted to take. I thought it was so cool that he got to take sword fighting[^1], even though he wasn't a theatre major and never set foot on the stage. They would practice on the Heath lawn and sometimes I would catch glimpses of them out there, looking like they were having a blast. 
+
+ --{{1}}--
 
 This may be controversial, but for most people (besides theatre majors), I'm going to go out on a limb and say that business ethics is more important than sword fighting. If you find this offensive, reach out to me. Let's talk. I'm open to being wrong on this one. Speaking of sword fighting, I don't think I can reference it without putting [a clip from of one of my favorite movies of all time: The Princess Bride](https://youtu.be/I73sP93-0xA?si=dRfer2WimjEO2f53). 
 
 !?[The Princess Bride movie clip - My Name is Inigo Montoya (1987)](https://youtu.be/I73sP93-0xA?si=dRfer2WimjEO2f53)
 
-I'm pretty sure that Brandon never got that good at stage combat while taking the class, but he sure did brighten my days and I'm glad to have known him. I should probably get back to why someone may want to take a class about business ethics. 
+ --{{2}}--
 
-> Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
-
-Most of us like to consider ourselves ethical people. However, without being aware of the contexts in which we may be faced with incredibly challenging decisions, ones for which there are not easy answers, we are likely to make a choice that may not align with our espoused values. 
+I'm pretty sure that Brandon never got as good as those actors in The Princess Bride at stage combat while at Vanguard, but he sure did brighten my days and I'm glad to have known him. I should probably get back to why someone may want to take a class about business ethics. 
 
 [^1]: I'm realizing now that the class was (maybe still is?) called stage combat. But sword fighting seems so much better that I'm going to leave the error in and just go with it. If you need some help with accepting mistakes, you've got to listen to David Wilcox signing [Leave It Like It Is](https://youtu.be/S7mkdHQX-NE?si=xpb8WTS0ZSUKR7NL). I love listening to it and being reminded not to take myself and my human foibles so seriously. 
 
-The speaker in [The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV) discusses the importance of ethical behavior in business and the consequences of unethical actions. It presents scenarios illustrating ethical dilemmas, cites examples of unethical corporate behavior, and emphasizes the negative impacts of a lack of ethics in organizations. The video highlights the significance of adhering to protected values and how ethical behavior can lead to improved employee morale, productivity, and long-term profitability, while unethical actions can harm a company's reputation and investor confidence.
+### 00.02 You will have a guide for life
+
+ --{{0}}--
+
+I realize that sounds pretty dramatic. But I truly believe that the more we understand about ethics, in general, and the context that most of us will spend a huge percentage of our lives (work), the more we will be able to bring more of God's love into the world. 
+
+This next part is going to get super technical, sine a definition seems in order right about now: 
+
+> Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
+
+ --{{1}}--
+
+Most of us like to consider ourselves ethical people. However, without being aware of the contexts in which we may be faced with incredibly challenging decisions, ones for which there are not easy answers, we are likely to make a choice that may not align with our espoused values. Every year we seem to hear about a company involved in some sort of ethical scandal affecting workers, customers, society as a whole, or the environment. Watch [The Importance of Business Ethics](https://www.youtube.com/watch?v=pHrDUu4Rjtg) to explore this further. 
+
+> The speaker in [The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV) discusses the importance of ethical behavior in business and the consequences of unethical actions. The video presents scenarios illustrating ethical dilemmas, cites examples of unethical corporate behavior, and emphasizes the negative impacts of a lack of ethics in organizations. Discover the significance of adhering to protected values and how ethical behavior can lead to improved employee morale, productivity, and long-term profitability, while recognizing how unethical actions can harm a company's reputation and investor confidence.
 
 !?[The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV)
 
-Every year we seem to hear about a company involved in some sort of ethical scandal affecting workers, customers, society as a whole, or the environment. This video covers examples of ethical dilemmas, companies involved in controversial business ethics, as well as the benefits of operating a company with high ethical standards. Quickest way to lose trust is to lie to employees. 
 
-Here are some questions to test your understanding from watching the video. 
 
-1. True or False: Volkswagen is mentioned for lying about emissions in the video.
-   
-   [[X]] True
-   
-   [[ ]] False
-   
-1. True or False: According to the video, a company's relationship with investors has no impact on ethical standards.
-   
-   [[ ]] True
-   [[X]] False
-   
-1. True or False: The video suggests that employees with strong commitment to ethical values are more likely to report unethical behavior.
-   [[X]] True
-   [[ ]] False
-   
-1. What does the video primarily discuss?
-   [[ ]] Benefits of coffee consumption
-   [\[X]] Ethical dilemmas in business
-   [[ ]] The history of Starbucks
-   [[ ]] Employee loyalty
+> Here are some questions to test your understanding from watching the video. 
 
-2. According to the video, what is the quickest way to lose trust with employees?
-   [[ ]] Demanding high ethical standards
-   [[X]] Lying to employees
-   [[ ]] Offering fair trade products
-   [[ ]]  Conducting experiments
+Volkswagen is mentioned for lying about emissions in the video.
 
-6. What did the individuals in Wagner's experiment receive $5 for?
-   [[ ]] Reporting ethical breaches
-      B) \[\[X]] Flipping tails four times
-   [[ ]]  Lying to their employers
-   [[ ]] Treating customers unethically
+[[X]] True
+[[ ]] False
 
-7. What percentage of individuals in Wagner's experiment did not report flipping tails four times?
-   [[ ]]  5%
-   [[ ]] 10%
-   [[ ]] 40%
-   [[X]] 60%
+According to the video, a company's relationship with investors has no impact on ethical standards.
+
+[[ ]] True
+[[X]] False
+
+The video suggests that employees with strong commitment to ethical values are more likely to report unethical behavior.
+[[X]] True
+[[ ]] False
+
+What does the video primarily discuss?
+[[ ]] Benefits of coffee consumption
+[[X]] Ethical dilemmas in business
+[[ ]] The history of Starbucks
+[[ ]] Employee loyalty
+
+According to the video, what is the quickest way to lose trust with employees?
+[[ ]] Demanding high ethical standards
+[[X]] Lying to employees
+[[ ]] Offering fair trade products
+[[ ]]  Conducting experiments
+
+What did the individuals in Wagner's experiment receive $5 for?
+
+[[ ]] Reporting ethical breaches
+[[X]] Flipping tails four times
+[[ ]]  Lying to their employers
+[[ ]] Treating customers unethically
 
 Ethical responsibilities extend to society by promoting sustainable practices and corporate social responsibility (CSR), which are increasingly expected by customers, employees, and investors. To customers, ethical responsibilities include avoiding misleading practices like greenwashing and false advertising. Ethical treatment of employees is also crucial, as fair practices contribute to a successful organizational culture, which can benefit the company economically and legally.
 
@@ -156,21 +176,17 @@ However, I do want to share how this class works, in terms of the 'time' that cl
 
 In our class, we have Zoom sessions, which are somewhat like a normal class, in that they have a start time and an end time. However, there's also an option for you to not participate in those, but to otherwise demonstrate your having 'shown up' for class that week. 
 
-
-
-**Navigate the course**
-
-**Attendance in BUSN 435**
-
-### About you
+### 00.02 Your story matters
 
 
 
-### About us
+### 00.03 Our stories matter
 
 
 
-### Essential tools
+### 00.04 It takes a village, or at least some reliable tools
+
+
 
 Canvas Studio
 
@@ -588,7 +604,7 @@ Ethical frameworks
 
 Case study: Research context 
 
-## 
+
 
  --{{0}}--
 
@@ -598,7 +614,7 @@ Discuss how it went for you going through the ethical decision making part 1. Ar
 
 ?[birds chirping](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
 
- --{{2}}--
+ 
 
 
 
