@@ -25,6 +25,14 @@ I am so glad you're here. While I have taught this class well over ten times, th
 
 !?[Welcome video: Busn435](https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c)
 
+
+
+Embed code from Canvas
+
+<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="busn435-welcome-video-walk" src="https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c" frameborder="0"></iframe>
+
+
+
 # Start
 
 This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The is made up of ten lessons [^1] and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
@@ -630,7 +638,7 @@ How would we have figured out if this was true back at that time? There wasn't a
 
 ### 04.02 Serve up the starter, sir | #sense
 
-Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be modifying what he has shared with the public, as part of a Creative Commons license that allows what is called remixing. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good. 
+Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be modifying what he has shared with the public, as part of a Creative Commons license that allows what is called remixing. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
 
 <article>
 
