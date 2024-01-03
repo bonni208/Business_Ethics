@@ -125,9 +125,11 @@ Text with pink highlighting. Is this possible? How to make assignments stand out
 
 ## 01. It's all personal (or is it?)
 
-! [Course header lesson one](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
+![Course header graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
 
 What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
+
+
 
 Class constitution 
 
@@ -157,7 +159,9 @@ PKM intro
 
 
 
-### How we like to think of ourselves doesn't always help us 
+### 01.01 | How we like to think of ourselves doesn't always help us 
+
+
 
 
 
@@ -171,11 +175,15 @@ PKM intro
 
 ## 02. That seems really inappropriate (Get to know your favorite philosophers) 
 
+This one will have some questions at the top. Just to compare what it is like starting with a graphic, or starting with a little bit of text. Something around this length. 
+
+![Course header graphic - lesson 02](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-02.jpg)
+
+And now a video will come next. 
 
 
 
-
-### 03.01 - What's the right thing to do? The moral side of murder | 50 minutes | #watch #seek
+### 02.01 | What's the right thing to do? The moral side of murder | 50 minutes | #watch #seek
 
 Watch: Sandel first video
 
@@ -185,7 +193,7 @@ Watch: [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MUR
 
 !?Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER" 
 
-### 03.02 - Did ya get it? | 15 minutes | #sense
+### 02.02 | Did ya get it? | 15 minutes | #sense
 
 Test your understanding of the basics of the concepts Sandel brought up in this first lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
 
@@ -360,7 +368,7 @@ https://quizlet.com/473181285/justice-part-1-flash-cards/?i=omwnz&x=1jqt
 
 
 
-### 03.03 - Name that tune... I mean trolley problem meme | 15 minutes | #share
+### 02.03 | Name that tune... I mean trolley problem meme | 15 minutes | #share
 
 Find an example of the trolley problem in a meme or from a video clip. Here's an example one, which means this one is off limits to share. 
 
@@ -411,7 +419,7 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 03.04 - Get real with John Rawls', y'all! | 15 minutes | #sense
+### 02.04 | Get real with John Rawls', y'all! | 15 minutes | #sense
 
 
 
@@ -421,7 +429,7 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 03.05 - Aristotle meets Batman | 15 minutes | #sense
+### 02.05 | Aristotle meets Batman | 15 minutes | #sense
 
 Another framework 
 
@@ -493,6 +501,8 @@ Virtue ethics - philosophy created by Aristotle and other ancient philosophers. 
 
 ## 03. Decide how we decide when we decide
 
+![Course lesson graphic 01](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-03.jpg)
+
 Ethical frameworks
 
 Case study: Research context 
@@ -505,13 +515,13 @@ Discuss how it went for you going through the ethical decision making part 1. Ar
 
 ## 04. Let's not get duped (or pass our ignorance onto others)
 
-
+![Course lesson graphic 04](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-04.jpg)
 
 
 
 ## 05. This is how we do it (in a business context)
 
-
+![Course lesson graphic 05](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-05.jpg)
 
 Being your best self
 
@@ -564,13 +574,13 @@ Answers should include:
 
 ## 06. Practice makes perfect (or does it?) 
 
-
+![Course lesson graphic 06](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-06.jpg)
 
 
 
 ## 07. The good, the bad, and the ugly
 
-
+![Course lesson graphic 07](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-07.jpg)
 
 !?[Paid Family Leave: Last Week Tonight with John Oliver (HBO)](https://youtu.be/zIhKAQX5izw?si=OfjCwaHshuV_T2qY)
 
@@ -594,6 +604,8 @@ Answers should include:
 
 ## 08. Change our mind about changing our minds
 
+![Course lesson graphic 08](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-08.jpg)
+
 Importance of watching our language and behaviors: being people of integrity
 
 "...to be honest..." (what is it you're really trying to say here? Transparent? Candid?)
@@ -608,13 +620,13 @@ When presented with better information: agreeing on what is effective
 
 ## 09. To infinity and beyond (using power and privilege responsibly)
 
-
+![Course lesson graphic 09](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-09.jpg)
 
 
 
 ## 10. Wrap it up with a bow
 
-
+![Course lesson graphic 10](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-10.jpg)
 
 
 
