@@ -25,7 +25,9 @@ Changed out the use of the word logo: in the course metadata.
 
 This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The is made up of ten lessons [^1] and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
 
-[ ] Add: quote
+> "There is no such thing as the right place, the right job, the right calling or ministry. I can be happy or unhappy in all situations. I am sure of it, because I have been … deciding to do this, that, or the other for the next five, ten, or twenty years is no great decision. Turning fully, unconditionally, and without fear to God is. Yet this awareness sets me free."
+>
+> ~ Henry J.M. Nouwen 
 
 [ ] Add: course trailer
 
@@ -33,23 +35,80 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 [^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
 
 
-## Why take a business ethics class
+## 00. Why take a business ethics class
 
 Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1].
 
 As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews. 
 
-### The importance of business ethics
+### 00.01 It's more important than sword fighting
 
-Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
+When I first started working at Vanguard, I had my first teaching assistant (TA). His name was Brandon and he was about to graduate. To finish up his coursework, he needed units, but they could be in anything he wanted to take. I thought it was so cool that he got to take sword fighting[^1], even though he wasn't a theatre major and never set foot on the stage. They would practice on the Heath lawn and sometimes I would catch glimpses of them out there, looking like they were having a blast. 
 
-The speaker in [The Importance of Business Ethics] discusses the importance of ethical behavior in business and the consequences of unethical actions. It presents scenarios illustrating ethical dilemmas, cites examples of unethical corporate behavior, and emphasizes the negative impacts of a lack of ethics in organizations. The video highlights the significance of adhering to protected values and how ethical behavior can lead to improved employee morale, productivity, and long-term profitability, while unethical actions can harm a company's reputation and investor confidence.
+This may be controversial, but for most people (besides theatre majors), I'm going to go out on a limb and say that business ethics is more important than sword fighting. If you find this offensive, reach out to me. Let's talk. I'm open to being wrong on this one. Speaking of sword fighting, I don't think I can reference it without putting [a clip from of one of my favorite movies of all time: The Princess Bride](https://youtu.be/I73sP93-0xA?si=dRfer2WimjEO2f53). 
+
+!?[The Princess Bride movie clip - My Name is Inigo Montoya (1987)](https://youtu.be/I73sP93-0xA?si=dRfer2WimjEO2f53)
+
+I'm pretty sure that Brandon never got that good at stage combat while taking the class, but he sure did brighten my days and I'm glad to have known him. I should probably get back to why someone may want to take a class about business ethics. 
+
+> Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
+
+Most of us like to consider ourselves ethical people. However, without being aware of the contexts in which we may be faced with incredibly challenging decisions, ones for which there are not easy answers, we are likely to make a choice that may not align with our espoused values. 
+
+[^1]: I'm realizing now that the class was (maybe still is?) called stage combat. But sword fighting seems so much better that I'm going to leave the error in and just go with it. If you need some help with accepting mistakes, you've got to listen to David Wilcox signing [Leave It Like It Is](https://youtu.be/S7mkdHQX-NE?si=xpb8WTS0ZSUKR7NL). I love listening to it and being reminded not to take myself and my human foibles so seriously. 
+
+The speaker in [The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV) discusses the importance of ethical behavior in business and the consequences of unethical actions. It presents scenarios illustrating ethical dilemmas, cites examples of unethical corporate behavior, and emphasizes the negative impacts of a lack of ethics in organizations. The video highlights the significance of adhering to protected values and how ethical behavior can lead to improved employee morale, productivity, and long-term profitability, while unethical actions can harm a company's reputation and investor confidence.
+
+!?[The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV)
+
+Every year we seem to hear about a company involved in some sort of ethical scandal affecting workers, customers, society as a whole, or the environment. This video covers examples of ethical dilemmas, companies involved in controversial business ethics, as well as the benefits of operating a company with high ethical standards. Quickest way to lose trust is to lie to employees. 
+
+Here are some questions to test your understanding from watching the video. 
+
+1. True or False: Volkswagen is mentioned for lying about emissions in the video.
+   
+   [[X]] True
+   
+   [[ ]] False
+   
+1. True or False: According to the video, a company's relationship with investors has no impact on ethical standards.
+   
+   [[ ]] True
+   [[X]] False
+   
+1. True or False: The video suggests that employees with strong commitment to ethical values are more likely to report unethical behavior.
+   [[X]] True
+   [[ ]] False
+   
+1. What does the video primarily discuss?
+   [[ ]] Benefits of coffee consumption
+   [\[X]] Ethical dilemmas in business
+   [[ ]] The history of Starbucks
+   [[ ]] Employee loyalty
+
+2. According to the video, what is the quickest way to lose trust with employees?
+   [[ ]] Demanding high ethical standards
+   [[X]] Lying to employees
+   [[ ]] Offering fair trade products
+   [[ ]]  Conducting experiments
+
+6. What did the individuals in Wagner's experiment receive $5 for?
+   [[ ]] Reporting ethical breaches
+      B) \[\[X]] Flipping tails four times
+   [[ ]]  Lying to their employers
+   [[ ]] Treating customers unethically
+
+7. What percentage of individuals in Wagner's experiment did not report flipping tails four times?
+   [[ ]]  5%
+   [[ ]] 10%
+   [[ ]] 40%
+   [[X]] 60%
 
 Ethical responsibilities extend to society by promoting sustainable practices and corporate social responsibility (CSR), which are increasingly expected by customers, employees, and investors. To customers, ethical responsibilities include avoiding misleading practices like greenwashing and false advertising. Ethical treatment of employees is also crucial, as fair practices contribute to a successful organizational culture, which can benefit the company economically and legally.
 
 [^1]: There's a lot more nuance regarding social media's impact on youth. The [Pew Research Center has some key findings from 2023](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/) to explore for more. 
 
-## About me
+### 00.02 Your professor finds utter joy in teaching | About me
 
 Since the age of five, I knew what I was going to do for a living. I would have my stuffed animals and dolls set carfully out in my room, approximating a classroom. My mom had bought me materials from a local educational store. I had the books that my 'students' could use, as well as the 'teachers' edition, used to guide me in my pedagogy. My bedroom door had a sign hung on it, which read: Room 208. The name I used was Miss. Monroe, a testiment to the power of the 1970s version of the tv show Charlie's Angels' characters in my life at the time. 
 
@@ -63,15 +122,13 @@ Since June of 2014, I have been airing weekly podcast episodes of [Teaching in H
 
 I've been married to Dave since April of 2005. It took us many years and lots of medical interventions, but our two kids came into the world and have been surprising and delighting us ever since. One of my favorite things about being a parent is how infectious our son's and daughter's collective curiosity can be. 
 
-### More about me can be found online
-
 If you would like to learn more about me, I have a fairly active presence online, including: 
 
 - [Teaching in Higher Ed](https://teachinginhighered.com/) - website with my weekly podcast episodes, rare blog posts, and speaking resources from when I'm invited to share at other universities or conferences about teaching and learning
 - [LinkedIn](https://www.linkedin.com/in/bonnistachowiak/) - professional connections and occasional reflection posts
 - [Instagram](https://www.instagram.com/bonni208) - personal connections and occasional pics of what I'm up to
 
-### Show up for the work 
+### 00.03 If you show up for the work, you may just find your life transformed
 
 ![Dr. B holds a sign that reads: 'show up for the work'](https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg)
 
@@ -81,9 +138,25 @@ Those social media profiles that include a cover image as part of what we are in
 
 This is inspiration taken from the life of Christian author Rachel Held Evans, who sadly passed away in her late 30s. Her legacy lives on, in terms of inviting us to think seriously about what we believe and be open to changing our minds. She had a sign hanging above her writing desk that said those same words, representative of her vulnerability in spending time and being in relationship with people who thought differently than she did about important issues in the world. 
 
-## How this class works
+You are also likely to notice that I enjoy laughing and having fun. As Christopher P. Long says:
 
-Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how you can show up. 
+> Joy is at the heart of all meaningful work.
+
+My hope is that we'll take our character seriously and the call to love our neighbors, while not taking ourselves too seriously (leaving room for growth and humility). May I be a person who models that right along with each of you. May you take the radical step of deciding each week that you're going to show up for the work in this class. If we do that together, it's quite possible we could leave changed people. 
+
+## 00 How this class works
+
+Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how and when you can show up. 
+
+### 00.01 The space-time continuum: Synchronous and asynchronous attendance
+
+Ok. Not really. I'm not actually going to be teaching anything about the space-time continuum in this course. If you're interested in that topic, you're going to want to take a different class. Or, [watch a video with Neil deGrasse Tyson explaining it a gazillion times better than I'll ever do](https://youtu.be/SJhovNXqH6A?si=cvVoZmYg39ja3BR7). 
+
+However, I do want to share how this class works, in terms of the 'time' that class is held each week. In a normal class, you walk into a classroom and the professor 'marks' you as present. Sometimes there are points associated with you entering the room (and staying there). Sometimes, you have more autonomy for determining when it makes sense for you to attend. 
+
+In our class, we have Zoom sessions, which are somewhat like a normal class, in that they have a start time and an end time. However, there's also an option for you to not participate in those, but to otherwise demonstrate your having 'shown up' for class that week. 
+
+
 
 **Navigate the course**
 
@@ -109,7 +182,7 @@ Instagram
 
 
 
-## Course Overview: The 10 Lessons
+## 00.04 Course Overview: The 10 Lessons
 
 [ ] Add: Syllabus video - see example on Antrh101.com/start under ten lessons. 
 
@@ -118,6 +191,14 @@ Instagram
 [ ] Add: line above the first assignment: See anth101.com/start at the very bottom for an example
 
 Text with pink highlighting. Is this possible? How to make assignments stand out? 
+
+> Brothers and sisters, do not be weary in doing what is right."
+>
+> ~ 2 Thessalonians 3:13
+
+
+
+
 
 # Ten Lessons
 
@@ -509,7 +590,15 @@ Case study: Research context
 
 ## 
 
+ --{{0}}--
+
 Discuss how it went for you going through the ethical decision making part 1. Are you at all familiar with the ethical concerns involved in medical research, or was more of this new to you? Did you notice any of the items you had to sort evoking strong reactions from you? What ones seemed super easy to categorize and why do you think that was? As you sorted them, what items made you think about how they show up in other contexts outside a medical research one? How have you seen some of these questions raised in this exercise show up in aspects of your life? 
+
+  --{{1}}--
+
+?[birds chirping](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
+
+ --{{2}}--
 
 
 
