@@ -13,11 +13,13 @@ narrator: US English Female
 
 comment:  Business Ethics course being taught at Vanguard University by Dr. Bonni Stachowiak. 
 
-icon: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
+icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.jpg
 
-logo: icon: https://teachinginhighered.com/wp-content/uploads/2018/04/cropped-favicon.png
+logo: icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.jpg
 
 -->
+
+I am so glad you're here. While I have taught this class well over ten times, this time feels different. In the Spring of 2024, I have decided to 'burn the class down to the ground' and rebuild it in a format inspired by some of the greatest teachers I have ever met. Also, each class is unique and I am so looking forward to us becoming an us in the coming weeks. 
 
 # Start
 
@@ -123,6 +125,8 @@ Text with pink highlighting. Is this possible? How to make assignments stand out
 
 ## 01. It's all personal (or is it?)
 
+!https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg
+
 What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
 
 Class constitution 
@@ -153,19 +157,19 @@ PKM intro
 
 
 
-## 02. Decide how we decide when we decide
-
-Ethical frameworks
-
-Case study: Research context 
-
-## 
-
-Discuss how it went for you going through the ethical decision making part 1. Are you at all familiar with the ethical concerns involved in medical research, or was more of this new to you? Did you notice any of the items you had to sort evoking strong reactions from you? What ones seemed super easy to categorize and why do you think that was? As you sorted them, what items made you think about how they show up in other contexts outside a medical research one? How have you seen some of these questions raised in this exercise show up in aspects of your life? 
+### How we like to think of ourselves doesn't always help us 
 
 
 
-## 03. That seems really inappropriate (Get to know your favorite philosophers) 
+!?[Cognitive Dissonance | Concepts Unwrapped](https://youtu.be/m_lCO2cBNts?si=B75B1GhqPAVAbp7G)
+
+
+
+
+
+
+
+## 02. That seems really inappropriate (Get to know your favorite philosophers) 
 
 
 
@@ -407,7 +411,7 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 03.04 - Get real with John Rawls', y'all! | 10 minutes | #sense
+### 03.04 - Get real with John Rawls', y'all! | 15 minutes | #sense
 
 
 
@@ -417,127 +421,85 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 03.05 - Aristotle meets Batman | 10 minutes | #sense
+### 03.05 - Aristotle meets Batman | 15 minutes | #sense
 
 Another framework 
 
 !?[Virtue ethics | Ethics defined](https://youtu.be/NMblKpkKYao?si=HBTUMDsa7BtyibW9)
 
-DAVE'S VERSION AS HE SITS HERE AND HELPS ME
-
 1. What is the central focus of virtue ethics?
-   - [[ ]] Resolving ethical dilemmas
-   - [[X]] Acquiring virtuous habits through practice
-   - [[ ]] Applying specific moral rules
-   - [[ ]] Maximizing utility
+   
+   [[ ]] Resolving ethical dilemmas
+   
+   [[X]] Acquiring virtuous habits through practice
 
+   [[ ]] Applying specific moral rules
+   
+   [[ ]] Maximizing utility
+   
+   
+   
 2. According to virtue ethics, how do individuals develop an honorable and moral character?
-   - [[ ]] By following a set of predefined rules
-   - [[ ]] By maximizing utility in every situation
-   - [[X]] Through the practice of virtues like honesty and bravery
-   - [[ ]] By adhering to deontological principles
+   
+   [[ ]] By following a set of predefined rules
+   
+   [[ ]] By maximizing utility in every situation
 
+   [[X]] Through the practice of virtues like honesty and bravery
+   
+   [[ ]] By adhering to deontological principles
+   
+   
+   
 3. How does a virtue ethicist differ from a utilitarian or deontologist in the context of moral decision-making?
- [[ ]] A virtue ethicist prioritizes maximizing utility.
-  [[ ]] A virtue ethicist emphasizes following strict rules.
-  [[X]] A virtue ethicist focuses on the character of the person making the choice.
- [[ ]] A virtue ethicist advocates for moral relativism.
+   
+   [[ ]] A virtue ethicist prioritizes maximizing utility.
+   
+   [[ ]] A virtue ethicist emphasizes following strict rules.
 
+   [[X]] A virtue ethicist focuses on the character of the person making the choice.
+   
+   [[ ]] A virtue ethicist advocates for moral relativism.
+   
+   
+   
 4. In the example from "The Dark Knight" mentioned in the video, what would a utilitarian likely endorse regarding Batman's choice to kill the Joker?
-[[X]] Endorse killing the Joker to save more lives.
-[[ ]] Reject killing the Joker on moral grounds.
-[[ ]] Emphasize Batman's character rather than the act itself.
-[[ ]] Advocate for finding a middle ground between killing and not killing.
+   
+   [[X]] Endorse killing the Joker to save more lives.
+   
+   [[ ]] Reject killing the Joker on moral grounds.
 
+   [[ ]] Emphasize Batman's character rather than the act itself.
+   
+   [[ ]] Advocate for finding a middle ground between killing and not killing.
+   
+   
+   
 5. How does virtue ethics provide guidance for living life in ethical matters?
-   - [[ ]] By prescribing specific rules for resolving ethical dilemmas.
-   - [[ ]] By prioritizing the maximization of utility.
-   - [[X]] By emphasizing the character and virtues of individuals.
-   - [[ ]] By advocating for a rigid adherence to deontological principles.
+   
+   [[ ]] By prescribing specific rules for resolving ethical dilemmas.
+   
+   [[ ]] By prioritizing the maximization of utility.
+   
+   [[X]] By emphasizing the character and virtues of individuals.
+   
+   [[ ]] By advocating for a rigid adherence to deontological principles.
 
 
 
+Terms
 
+Virtue ethics - philosophy created by Aristotle and other ancient philosophers. It focuses on how to live a life of moral character. 
 
+## 03. Decide how we decide when we decide
 
+Ethical frameworks
 
-MANUALLY TYPED - WHAT IS GOING ON??? 
+Case study: Research context 
 
-What is the central focus of virtue ethics? 
+## 
 
-[[ ]] Resolving ethical dilemmas
-
-[[X]] Acquiring virtuous habits through practice
-
-[[ ]] Applying specific moral rules
-
-[[ ]] Maximizing utility
-
-
-
-OLD FORMAT
-
-Batman, who would kill the joker? According to utilitarians... etc. 
-
-
-
-What is the central focus of virtue ethics? 
-
-[[ ]] Resolving ethical dilemmas
-
-[[X]] Acquiring virtuous habits through practice 
-
-[[ ]] Applying specific moral rules 
-
-[[ ]] Maximizing utility
-
-
-
-According to virtue ethics, how do individuals develop an honorable and moral character?
-
-[[ ]] By following a set of predefined rules
-
-[[ ]] By maximizing utility in every situation
-
-[[X]] Through the practice of virtues like honesty and bravery
-
-[[ ]] By adhering to deontological principles
-
-
-
-How does a virtue ethicist differ from a utilitarian or deontologist in the context of moral decision-making?
-
-[[ ]] A virtue ethicist prioritizes maximizing utility.
-
-[[ ]] A virtue ethicist emphasizes following strict rules. 
-
-[[X]] A virtue ethicist focuses on the character of the person making the choice. 
-
-[[ ]] A virtue ethicist advocates for moral relativism.
-
-
-
-In the example from "The Dark Knight" mentioned in the video, what would a utilitarian likely endorse regarding Batman's choice to kill the Joker?
-
-[[X]] Endorse killing the Joker to save more lives.
-
-[[ ]] Reject killing the Joker on moral grounds.
-
-[[ ]] Emphasize Batman's character rather than the act itself.
-
-[[ ]] Advocate for finding a middle ground between killing and not killing.
-
-
-
-How does virtue ethics provide guidance for living life in ethical matters? 
-
-[[ ]] By prescribing specific rules for resolving ethical dilemmas.
-
-[[ ]] By prioritizing the maximization of utility. 
-
-[[X]] By emphasizing the character and virtues of individuals. 
-
-[[ ]] By advocating for a rigid adherence to deontological principles.
+Discuss how it went for you going through the ethical decision making part 1. Are you at all familiar with the ethical concerns involved in medical research, or was more of this new to you? Did you notice any of the items you had to sort evoking strong reactions from you? What ones seemed super easy to categorize and why do you think that was? As you sorted them, what items made you think about how they show up in other contexts outside a medical research one? How have you seen some of these questions raised in this exercise show up in aspects of your life? 
 
 
 
@@ -626,6 +588,10 @@ Answers should include:
 
 
 
+!?[Conflict of Interest | Concepts Unwrapped](https://youtu.be/aQpZnlWk9As?si=TMzhDqMZ4Xgj3O1u)
+
+
+
 ## 08. Change our mind about changing our minds
 
 Importance of watching our language and behaviors: being people of integrity
@@ -670,17 +636,11 @@ Set up Raindrop.io free account and email address used
 
 Medical research case study.
 
-WHAT: This is the first stage of a multi-step activity: The Ethical Decision Making Case from Human Synergistics. You will watch a few videos that introduce you to the case, answer some questions along the way, and then submit your initial answers to the case. 
-
-WHY: When considering what is the right thing to do, sometimes it helps to get outside of a context that is familiar to us and enter into something entirely different than what we are used to... This case is designed to introduce you to various terminology having to do with ethics and get you thinking about what you believe. 
-
-HOW: Follow the instructions below and watch the videos. At the end of the multi-step process, you will have a document with your notes and answers on it, along with a PDF of your initial answers to the case to upload for this assignment.
-
-You serve as an administrator at our esteemed, moderately sized hospital, renowned for its groundbreaking research and exceptional patient care standards. A significant portion of our research endeavors is funded through grants and federal contracts. In alignment with federal regulations, our institution upholds ethical research standards through an Institutional Review Board, of which you are a valued member.
-
-Our committee has convened a special meeting to assess ten research practices that have emerged in otherwise commendable proposals over the past year. In an effort to provide clear guidance for future proposals and streamline our review processes, the board has opted to rank these practices in terms of their relative permissibility, starting from the most permissible and concluding with the least permissible options.
 
 
+Work with a team to come up with a group solution and then compare that to yours. 
+
+Review the terms used in the ethical decision case by [using the flashcards on Quizlet](https://quizlet.com/473234960/ethical-decision-challenge-vocabulary-and-concepts-flash-cards/?i=omwnz&x=1jqt). 
 
 ## 3. Get current (while connecting with the past)
 
@@ -880,3 +840,6 @@ Diet drug (diabetes)
 
 
 
+### References
+
+[Ethics Unwrapped | McCombs School of Business at the University of Texas Austin](https://ethicsunwrapped.utexas.edu) 
