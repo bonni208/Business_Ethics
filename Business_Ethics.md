@@ -43,6 +43,8 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 ![Course graphic header lesson 00](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00.jpg) 
 
+This is text below the graphic. Maybe it has to be there? 
+
 --{{0}}--
 
 Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1]. 
@@ -628,17 +630,97 @@ How would we have figured out if this was true back at that time? There wasn't a
 
 ### 04.02 Serve up the starter, sir | #sense
 
-Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be modifying what he has shared with the public, as part of a Creative Commons license that allows what is called remixing. As long as I attribute what I share to Mike and point people back to his Check, Please! Starter Course, we're good. 
+Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be modifying what he has shared with the public, as part of a Creative Commons license that allows what is called remixing. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good. 
 
 <article>
 
-### **Takeout!** 
+#### **Play Fakeout!** 
 
-Let's start this module with an activity designed by some folks at Civix Canada. Fakeout is an interactive lesson that tests your ability to detect "fake news" (we actually don't like that term, but more on that later).
+> Let's start this module with an activity designed by some folks at Civix Canada. Fakeout is an interactive lesson that tests your ability to detect "fake news" (we actually don't like that term, but more on that later).
 
 ![fakeout screenshot](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F248f9047-9d8d-41b8-b85f-b920f4b4aab6%2Ffakeout.png?table=block&id=f3cca8dd-265a-41a3-b41f-fb717f8c8c5b&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1370&userId=&cache=v2)
 
-Play Fakeout by [following this link](http://newsliteracy.ca/fakeOut). Play all the way through, and make sure to watch the videos in the middle. Come back here, once you're done. 
+> Play Fakeout by [following this link](http://newsliteracy.ca/fakeOut). Play all the way through, and make sure to watch the videos in the middle. Come back here, once you're done. 
+
+<article>
+####  The problem with checklist approaches
+
+> We've been doing research into why students fail to separate fact from fiction on the web.
+>
+> What we've found? Students are bad at the web because they've been taught techniques that make them bad at it. And they've learned those those bad techniques from *teachers*.
+>
+> Here's some things students often believe:
+>
+> - They believe that .org's are more trustworthy than .com's.
+> - They believe that a good looking layout and few typos mean something is trustworthy.
+> - They think pages that have ads on them are less trustworthy than those that don't.
+> - They think that footnotes automatically make a site credible.
+>
+> These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
+
+</article>
+
+<article>
+
+#### How CRAAP goes astray
+
+![A picture of the CRAAP method with 20+ questions.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0270152f-f0c3-421d-9e54-ae005ffa0f59%2Fcraap.jpg?table=block&id=70c03c84-53e4-48c9-8259-d7094c6876eb&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
+
+> Most instruction students get about reading the web is derived from a set of approaches called "checklist approaches".
+>
+> Sometimes these approaches were presented as literal checklists. Above is a checklist for a methodology called CRAAP. (I'm not joking).
+>
+> Sometimes they weren't checklists, but a set of "things to look for in a web page."
+>
+> What the approaches had in common was this: you'd come to a webpage and look for signals that the page was trustworthy on the *page itself*. You'd ask questions like
+>
+> - Does this look professional?
+> - Are there spelling errors?
+> - Is there scientific language?
+> - Does it use footnotes?
+> - The "checklist" idea? Students were told the more "good" things the page had the more "trustworthy" it was.
+>
+> Except there are three problems with this approach. Big problems.
+
+##### Problem 1: The signals are meaningless
+
+![Picture of Word document with autocorrect](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6c2a4e96-7d12-4448-aeac-5297d6998faf%2Fspellcheck.jpg?table=block&id=36429352-6ca8-48b6-bf09-2f0e48305af8&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=710&userId=&cache=v2))
+
+
+
+> Most things people are told to look for? They're easy to fake. It's really cheap to get a good-looking site nowadays. You can be a disinformation agent from China or Russia and still use spell check. Anyone can add footnotes to make something look more serious (students do it all the time!) The same holds for using scientific language.
+>
+> And a lot of things students are told to look for have no basis in reality at all. In our research we have found students believe
+>
+> - .orgs are better than .coms (No.)
+> - non-profits are better than for-profits (Wrong.)
+> - less ads on a page means the page is more reliable (Not even close.)
+>
+> To put it simply — the things that might mean something are easy to fake, and many things students are taught to look for don't mean anything at all.
+
+##### Problem 2: The checklist processes take too long
+
+>Checklist processes were developed for students trying to decide which of a number of library resources to use for a paper. Given that time frame, such an approach might make sense. You can spend 20 minutes looking at each of three journal articles you found to see which would be the best fit for an end of term research project.
+>
+>In 2019, however, our problem is not deciding between three half-decent library resources over the course of an afternoon. Instead we are forced to sift through hundreds of possible search results and social media posts to try and determine whether each is worth our attention or belief.
+>
+>Take this TikTok video, for example. In it, one user has made a video that complains about the discontinuation of plastic straws out of what she sees as too high a level of concern about turtles. It's a bit meanly expressed, but that's her point. Another user posts a reaction — by 2050 there will be more plastic in the ocean than fish.
+
+!?[TikTok: Claim about plastic in the ocean](https://www.tiktok.com/@ishouldabeencremated/video/6697645692942290181?embed_source=121374463%2C121351166%2C71838019%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_pause_share&refer=embed&referer_url=checkpleasecc.notion.site%2F&referer_video_id=6697645692942290181)
+
+>It has literally taken me longer to explain this video than it takes you to watch it. But is the claim true? And what would happen if you had to engage in 20 minutes of investigation for every 10 second piece of content you viewed that made a claim?
+>
+>Actually, we know what happens when students are given in-depth techniques to deal with the flood of content that reaches them — they don't use them. Without quick methods people decide to share content like this based on whether it seems believable, or worse, they just decide they can't trust anything at all.
+>
+>The same is true with search. People use search to inform themselves about a variety of professional and civic issues. They search because they need to get information on a specific topic of pressing importance: how to safely change a tire, whether they should see a doctor about a rash, if the mayor's decision regarding panhandling will have a good or bad impact on the homelessness problem.
+>
+>But the biggest gap is not whether they research deeply. It's whether they check at all. Take that factoid about plastic and 2050. If you could reliably check it in 60 seconds, you might. If not, you're either going to reject it or accept it without checking — mostly unconsciously. Without quick methods to search and sift, your "knowledge" about an issue will slowly become a mental shoebox of unverified scraps you heard here and there around the web.
+>
+>While short methods may seem less rigorous, they are in fact better than long methods for many tasks. When I switch lanes while driving on the highway, I don't do a ten minute analysis of whether a car *might* be in the lane next to me. I check the mirror, do a head check, and change lanes. If my father had given me a ten minute lane-changing process when teaching me to drive, I wouldn't use it, and frequent accidents would just be a part of my life. This is the sort of thing you need for reading the web as well.
+
+
+
+CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
 
 </article>
 
