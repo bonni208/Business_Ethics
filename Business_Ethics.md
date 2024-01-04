@@ -634,7 +634,32 @@ How would we have figured out if this was true back at that time? There wasn't a
 
 Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be making use of a lot what he has shared in his [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed), which he has made available under a Creative Commons license[^1]. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
 
+
+
+> CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
+>
+> *The text and media of this site, where possible, is released into the CC BY, and free for reuse and revision. We ask people copying this course to leave this note intact, so that students and teachers can find their way back to the original (periodically updated) version if necessary. We also ask librarians and reporters to consider linking to the canonical version.*
+>
+> *As the authors of the original version have not reviewed any other copy's modifications, the text of any site not arrived at through the above link should not be sourced to the original authors.*
+
 <article>
+
+### Lesson One: Introduction to SIFT
+
+> This course will take you through the basics of quick source and claim-checking, and introduce you to our "four moves", a series of actions to take when encountering claims and sources on the web. 
+>
+> These course materials can be used for self-study, as part of a formal course, or as a set of independent assignments to practice your skills.
+>
+> The course is broken up into lessons, each of which can be completed in a single sitting. They take from 20 to 45 minutes, are composed of 5 to 15 pages, and include instruction and a series of exercises. While some exercises may seem repetitive, we recommend you complete them all, as the point is not just learning what fact-checking is, but building a fact-checking *habit*.
+>
+> The first lesson is a bit longer than the rest, and will introduce you to our basic approach — the "four moves" and the acronym we use to remember them: SIFT. The lesson will take 40 minutes to complete, including all readings, activities, and videos.
+
+###### Vocabulary: claims, sources
+
+- For the purpose of this course, a **claim** is a statement that purports to express something about reality. "The U.S. landed a space craft on the moon in 1969" is a relatively simple claim that is true. "The moon landing of 1969 was fake." is a simple claim that is false. "The mission to land on the moon was driven by Cold War fear more than scientific curiousity" is a complex claim one can have a range of opinions on, but is still, for a given context, either a well-supported claim, a controversial claim, or a claim lacking any real support.
+- A **source** is the place where a claim or other information can be found. This course is a source of information about disinformation. Most claims can be found in multiple sources. You might find information about the moon landing in the Wall Street Journal, a website like Gizmodo, a textbook, a research paper, or a video recording of astronauts talking about the mission.
+
+</article>
 
 #### **Play Fakeout!** 
 
@@ -644,7 +669,10 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 
 > Play Fakeout by [following this link](http://newsliteracy.ca/fakeOut). Play all the way through, and make sure to watch the videos in the middle. Come back here, once you're done. 
 
+</article>
+
 <article>
+
 ####  The problem with checklist approaches
 
 > We've been doing research into why students fail to separate fact from fiction on the web.
@@ -732,11 +760,11 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 >
 >On a pre-assessment we give to students, for example, we have students evaluate a statistical claim about firearm background checks. The sort of response we see repeatedly is, "Well, it's a .org so it's likely to be trustworthy, but it has an ad on the page so maybe not." It's this is "car lot" cognition. There's a tidal wave of conflicting signals so in the end we throw up our hands and say, "Who can know?"
 
-</article>
-
-CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
+[^2]: Choices seem like such a good thing, in theory. However, as Mike Caulfield says in the in-depth section of this part of his SIFT course, "Many choices seems promising until you actually have to choose: UB research explains motivation fact..." He then links to [an article in Science Daily](https://www.sciencedaily.com/releases/2019/06/190613153712.htm), which explains how: "People faced with more options than they can effectively consider want to make a good decision, but feel they're unable to do so, according to the results of a novel study. Despite the apparent opportunities presented by a lot of options, the need to choose creates a 'paralyzing paradox,' according to the authors. 'You want to make a good choice, but feel like you can't.'"
 
 </article>
+
+<article>
 
 #### Thank you, sir, may I have another
 
@@ -750,6 +778,10 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 
 ![Infographic showing the steps of SIFT: Stop, investigate the source, find trusted coverage, trace claims, quotes and media to the original context.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe3662e32-fba3-4ede-a0a1-3158cac5438b%2Fsift.png?table=block&id=a7a1f341-c590-4253-8f75-48453f8be726&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
 
+</article>
+
+<article>
+
 ###### Stop
 
 >The first move is the simplest. **STOP** reminds you of two things.
@@ -757,6 +789,10 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >First, when you first hit a page and start to read it — STOP. Ask yourself whether you know and trust the website or source of the information. If you don't, use the other moves to get a sense of what you're looking at. Don't read it or share it until you know what it is.
 >
 >Second, after you begin the process and use the moves it can be too easy to go down a rabbit hole, chasing after more and more obscure facts or getting lost in a "click cycle". If you feel yourself getting overwhelmed in your fact-checking efforts, STOP and take a second to remind yourself what your goal is. Adjust your strategy if it isn't working. Make sure you approach the problem at the right amount of depth for your purpose.
+
+</article>
+
+<article>
 
 ###### Investigate the source
 
@@ -766,6 +802,10 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > This doesn't mean the Nobel economist will always be right and that the dairy industry can't ever be trusted. But knowing the expertise and agenda of the source is crucial to your interpretation of what they say. Taking sixty seconds to figure out where it is from *before* reading will help you decide if it is worth your time, and if it is, help you to better understand its significance and trustworthiness.
 
+</article>
+
+<article>
+
 ###### Find trusted coverage 
 
 > Sometimes you don't care about the particular article that reaches you. You care about the claim the article is making. You want to know if it is true or false. You want to know if it represents a consensus viewpoint, or if it is the subject of much disagreement.
@@ -774,11 +814,19 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > Do you have to agree with the consensus? Absolutely not! But understanding the context and history of a claim will help you better evaluate it.
 
+</article>
+
+<article>
+
 ###### Trace claims, quotes, and media back to the original context
 
 > A lot of things you find on the internet have been stripped of context. Maybe there's a video of a fight between two people. But what happened before that? Who started it? What was clipped out of the video and what stayed in? Maybe there's a picture that seems real but the caption is dubious at best. Maybe a claim is made about a new medical treatment supposedly based on a research paper — but you're not certain if the paper supports it.
 >
 > In these cases we'll have you trace the claim, quote, or media back to the source, so you can see it in its original context and get a sense if the version you saw was accurately presented.
+
+</article>
+
+<article>
 
 ###### It's about REcontextualizing
 
@@ -792,15 +840,11 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > In some cases these techniques will show you claims are outright wrong, or that sources are legitimately "bad actors" who are trying to deceive you. But even when material is not intentionally deceptive, the moves do something just as important: they reestablish the context that the web so often strips away, allowing for more fruitful engagement with all digital information.
 
+</article>
+
+<article>
+
 Vocabulary: bad actor, Pulitzer Prize
-
-
-
-CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
-
-*The text and media of this site, where possible, is released into the CC BY, and free for reuse and revision. We ask people copying this course to leave this note intact, so that students and teachers can find their way back to the original (periodically updated) version if necessary. We also ask librarians and reporters to consider linking to the canonical version.*
-
-*As the authors of the original version have not reviewed any other copy's modifications, the text of any site not arrived at through the above link should not be sourced to the original authors.*
 
 </article>
 
@@ -835,15 +879,274 @@ Reflection prompts are used to suggest questions for deeper exploration. Each ti
 - Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
 - Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
 
-###### Vocabulary: claims, sources
-
-- For the purpose of this course, a **claim** is a statement that purports to express something about reality. "The U.S. landed a space craft on the moon in 1969" is a relatively simple claim that is true. "The moon landing of 1969 was fake." is a simple claim that is false. "The mission to land on the moon was driven by Cold War fear more than scientific curiousity" is a complex claim one can have a range of opinions on, but is still, for a given context, either a well-supported claim, a controversial claim, or a claim lacking any real support.
-- A **source** is the place where a claim or other information can be found. This course is a source of information about disinformation. Most claims can be found in multiple sources. You might find information about the moon landing in the Wall Street Journal, a website like Gizmodo, a textbook, a research paper, or a video recording of astronauts talking about the mission.
-
 </article>
 
 [^1]: Mike Caulfield has asked that people using the [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed) include the following note, so people know how to get back to the original: *The text and media of this site, where possible, is released into the CC BY, and free for reuse and revision. We ask people copying this course to leave this note intact, so that students and teachers can find their way back to the original (periodically updated) version if necessary. We also ask librarians and reporters to consider linking to the canonical version.*
-[^2]: Choices seem like such a good thing, in theory. However, as Mike Caulfield says in the in-depth section of this part of his SIFT course, "Many choices seems promising until you actually have to choose: UB research explains motivation fact..." He then links to [an article in Science Daily](https://www.sciencedaily.com/releases/2019/06/190613153712.htm), which explains how: "People faced with more options than they can effectively consider want to make a good decision, but feel they're unable to do so, according to the results of a novel study. Despite the apparent opportunities presented by a lot of options, the need to choose creates a 'paralyzing paradox,' according to the authors. 'You want to make a good choice, but feel like you can't.'"
+
+<article>
+
+The Miseducation of Dylan Roof
+
+>Throughout this course, we'll be using a mixture of both weighty and trivial examples. Sometimes it may seem there's not much downside to being misinformed: who really cares if the "Alexa Voice-Activated Toilet" is real or Monster Brand Caffeinated Ham is fake?
+>
+>But there are serious social implications to people not paying attention to where their information is coming from.
+>
+>The video below primarily makes a point about Google. But given the facts presented here, is there a way that a lack of web literacy also played a role?
+
+!?[Video: The miseducation of Dylann Roof](https://youtu.be/qB6A45tA6mE?si=Ids7nDj22uJwIMt1) 
+
+> One of the patterns we see in online radicalization — from Nazism to ISIS — is that people often begin their journey by discovering information on the web from extremists that shocks them. Usually they are unaware — initially — of the source of the information, and if they were aware of the source they might be more skeptical of the information presented. By the time they understand who is supplying the information and what their motives are, they are already aligned with those organizations' viewpoints.
+>
+> Once a person starts down the conspiracy spiral, it's very hard to get back out. There is such a gap between what they see in "respected" sources and what they see from extremist sites that they come to believe the respected sites must be in on the conspiracy. And while in the past many people might hold one or two conspiracy theories, the hyper-connected, algorithmic nature of the internet creates a situation where believing in one conspiracy theory may lead to your exposure to more and more radical conspiracy theories.
+
+###### Questions for reflection
+
+- Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
+- Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
+- Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
+
+</article>
+
+#### Conclusion of Lesson One
+
+> In this 30 minute lesson you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
+>
+> Now that we have the basics down we will start practicing some of the web techniques that you can use to get quick answers as you "sift".
+
+<article>
+
+### Lesson Two: Investigate the Source
+
+> One of the four "moves" is to "investigate the source". The following two short videos (less than four minutes) will introduce you to this move. As you'll see, we're not expecting people to do ground-breaking research, just to do some very quick checks.
+>
+> The first (3:15) video shows how many of the things we think will make us better at the web — raw intelligence, critical thinking skill, familiarity with technology — don't necessarily help:
+
+!?[Online Verification Skills - Video 1: Introductory Video](https://youtu.be/yBU2sDlUbp8?si=cRd-fUMk4OAo-94e)
+
+> The second video (2:45) introduces you to our second move: investigate the source. (In case you forgot the first move already, the first move is "Stop")
+
+!?[Online Verification Skills - Video 2: Investigate the Source](https://youtu.be/hB6qjIxKltA?si=eaHlQfCG357nlbj9)
+
+</article>
+
+<article>
+
+#### Just add Wikipedia
+
+> On the previous page you watched a video demonstrating the "Just add Wikipedia" technique. In that case we opened a new tab and fired up a search result page, typing a domain plus "Wikipedia" into the search box. In this next video, we show a variation of that technique that you can do in the omnibar of your browser (that part of the browser in which you can type a web location or a search phrase). We also show how this is particularly helpful for quick research on organizations.
+
+!?[Just add Wikipedia (Source Verification Omnibar Hack)](https://youtu.be/oBqEci8eXXA?si=sToxcnuhc3lH8sN2)
+
+> Notice that while the most relevant Wikipedia article usually floats to the top of results, this is not always true. In the case of researching Nuclear Matters, the most informative Wikipedia page was the second result. When looking at *Before It's News* the first Wikipedia result that came up was the right one — but it was second in the Google results, after a result from Rational Wiki.
+
+#### Use Surprise as an Indicator
+
+> What do you look for on the Wikipedia page? It varies. Sometimes — as with the Nuclear Matters material in the video above — what sticks out most is the agenda of the group, e.g. something you thought was a research group turns out to be a political advocacy group with ties to the industry. Sometimes it's the fact that a source has a history of unreliability, as was the case with *Before It's News*. And many times (most, actually!) it will turn out the source just fine, as we saw above with the *SacBee* example.
+>
+> But rather than a checklist of things to look for on the Wikipedia page, I want you to focus on two organizing questions:
+>
+> - Is the site or organization I am researching what I thought it was?
+> - If not, does it make it more or less trustworthy?
+>
+> If you thought something was from a straight news site and it turns out to be from a conspiracy site, that should surprise you. And given your new knowledge, your initial impression of the trustworthiness should plummet. If you thought you were looking at a minor, unknown newspaper and it turns out to be a multi-award winning national newspaper of record, maybe your assessment of its trustworthiness increases. The effects on trust are of course contextual as well: a small local paper may be a great source for local news, but a lousy source for health advice or international politics.
+
+###### Vocabulary: paper of record
+
+A national paper of record is a reputable paper that attempts to cover all important national news with staff reporters. They are distinguished from regional and local papers which use staff primarily for local or regional news.
+
+#### What's Important Depends On Context
+
+> What you take note of when doing investigate the source searches will be highly dependent on how you initially interpreted the source.
+>
+> As an example, I remember looking at a comment on Twitter from what I thought was an internet rando. He was talking about a historical point with a lot of confidence. I thought it was an interesting point, but not worthy of my attention. Out of habit I did a Wikipedia check on his name and found that he was a world renowned historian who had written the most popular textbook on the subject at hand. Surprise! I went back and read his comment more carefully and thought about it more deeply.
+>
+> Conversely, I've occasionally seen newspapers on the web that seem to me (in the names and the way they look) like old established papers. Throwing their name into a *just add Wikipedia* search I find they don't have a Wikipedia page (odd if the paper is supposed to be a major paper) or that they were established less than two years ago. Neither of those outcomes means the paper is not to be trusted, but it might change the way I read it or prompt me to do more research.
+>
+> Note that there can't be any hard and fast rule here — there's not a list of rules that says writing a textbook on the subject is good, not having a Wikipedia page is bad. But a lot of this is obvious in the specific case.
+>
+> One caveat — some students, used to just reacting to claims, may not be forming conscious opinions of what a source is. If this is the case with you, take just the smallest fraction of a second to think about what you think you are looking at before you research it. Do you think this is a major news source? A local paper? A government database? A grassroots, people-powered movement? A professional organization? As we go through the course we'll talk more about some of these categories of sources.
+
+Vocabulary: grassroots, professional organization
+
+- **Grassroots organizations** are organizations which are primarily run and funded by interested citizens and independent activists.
+- **Professional organizations** provide an array of services and support to people in a given field. An organization for electrical engineer may provide professional standards to follow, research on best practices, training for members, and lobbying for the field.
+
+</article>
+
+<article>
+
+#### SIFTing: Alexa-enabled toilet? (prompt)
+
+> Each of our "Sifting" exercises will give you a scenario, show you a prompt associated with it, and ask you a question associated with it. You should "use your moves" on the prompt (the components of SIFT), then write your results in your notebook. If you are a student in a class, when you write your results in your notebook, make sure to use the specified heading, so that your teacher knows what prompt you are responding to.
+>
+> We start the course with some pretty light exercises. So here's your first exercise. A friend sends you a text about a new "Alexa Toilet":
+
+![SMS message with text "Great, now there's an Alexa microphone in the bathroom too"](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdb279215-906a-498a-93fd-66c73d6687f7%2Ftoilet1.png?table=block&id=c5108c12-f468-4dc4-92d6-4557aed780ee&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=690&userId=&cache=v2)
+
+Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsguide.com/us/kohler-numi-alexa-toilet,news-28957.html) and perform the activity described below: 
+
+> Now we could use our "Find Trusted Coverage" move here. But let's hold off on that. The question I want you to investigate is:
+>
+> - Is Tom's Guide a known product review site or something else?
+>
+> Use the **Investigate the Source** move, find out what you can. In your notebook, write the heading ALEXA TOILET, hit enter and tell us what you found out.
+>
+> When you are done, go to the next part to see how a fact-checker might approach this problem.
+
+</article>
+
+<article>
+
+#### SIFTing: Alexa toilet (discussion)
+
+> Here's an example of what a fact-checker might say:
+>
+> **ALEXA TOILET**
+>
+> According to Wikipedia, Tom's Guide is a publication run by the people who run Tom's Hardware, a very old and well known product review site. You can find this in the Wikipedia article on Tom's Hardware in the Related Publications section, and if you want to be super sure, click the linked footnote that talks more about the site and confirms this is the right URL for it. It seems like a trusted source for this kind of news.
+>
+> How did we find that out? We used the Just add Wikipedia trick:
+
+![GIF showing someone typing http://tomsguide.com wikipedia into their web browser and viewing some info about Tom's Hardware](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/2223113f-0fa8-408f-a663-64083a1f9524/toms-guide1.gif?id=2f5f9113-2049-44b4-9d7e-16876465d7f5&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=D9s0HdWATVlflwgOAGti86EnPnxr87CBmqe3B374F_U)
+
+> We searched for the site (adding our bare keyword "wikipedia"), and found the most relevant Wikipedia page at the top of the results. It wasn't an exact match, but it was close enough to check it out.
+>
+> Clicking through to the Wikipedia article Tom's Hardware, we searched (using either control or command-f) for the phrase Tom's Guide on the page, and found it in Related Publications.
+>
+> This is probably enough to state it's a legitimate site for this sort of story, but if we wanted to be extra sure that the Tom's Guide mentioned here is tomsguide.com, there is a footnote on that part of the Wikipedia page, and if we follow it we find this:
+>
+> **Los Angeles - September 18, 2007 - TG Publishing LLC (www.tgpublishing.net) a Bestofmedia Group company, one of the top-three online media publishing companies for technology in the world, announced today the rebrand of Gear Digest to Tom's Guide (www.tomsguide.com). Tom's Guide is the definitive online resource for unbiased and trusted information on the latest consumer electronics and technology gear.**
+>
+> That's a press release from the group that runs Tom's Guide, so it might not be a great resource for some things, but for the purpose of confirming the URL is a match it's perfect. Less than sixty seconds of effort and we know this is a real site and likely a real story. Share the Alexa toilet story with anybody you desire.
+>
+> Take a look at the answer in your notes. How did you do in your investigation? If you want to touch up your answer having read this, go ahead. 
+>
+> Although not shown in the animation, we used "control-f" to search for information on the web page. If you are familiar with control-f (command-f on a Mac) continue on with the lesson. But if not, [watch this video on how to find a word on a web page with control-F](https://youtu.be/D-FkKwRD4iY?si=8aq3kaUsf8D0hj5n) and [check out this article on using control-f on the web](https://www.theatlantic.com/technology/archive/2011/08/crazy-90-percent-of-people-dont-know-how-to-use-ctrl-f/243840/) — we'll be using it a lot.
+
+</article>
+
+<article>
+
+#### Wikipedia
+
+> Wikipedia is broadly misunderstood by faculty and students alike. While Wikipedia must be approached with caution, especially with articles that are covering contentious subjects or evolving events, it is often the best source to get a consensus viewpoint on a subject. Because the Wikipedia community has strict rules about sourcing facts to reliable sources, and because authors must adopt a neutral point of view, its articles are often the best available introduction to a subject on the web.
+>
+> The focus on sourcing all claims has another beneficial effect. If you can find a claim expressed in a Wikipedia article, you can almost always follow the footnote on the claim to a reliable source. Scholars, reporters, and students can all benefit from using Wikipedia to quickly find authoritative sources for claims.
+>
+> As an example, consider a situation where you need to source a claim that the Dallas 2016 police shooter was motivated by hatred of police officers. Wikipedia will summarize what is known about his motives and, more importantly, will source each claim, as follows:
+>
+> **Chief Brown said that Johnson, who was black, was upset about recent police shootings and the Black Lives Matter movement, and "stated he wanted to kill white people, especially white officers."[[4]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-NBC.Shot-4)[[5]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-ShapiroSuspect-5) A friend and former coworker of Johnson's described him as "always [being] distrustful of the police."[[61]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-DallasNews.Know-61) Another former coworker said he seemed "very affected" by recent police shootings of black men.[[64]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-DallasNews.Complex-64) A friend said that Johnson had [anger management](https://en.wikipedia.org/wiki/Anger_management) problems and would repeatedly watch video of the 1991 beating of [Rodney King](https://en.wikipedia.org/wiki/Rodney_King) by police officers.[[85]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-85)**
+>
+> Investigators found no ties between Johnson and international terrorist or domestic extremist groups.[[66]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-nprwhatweknow-66)
+>
+> Each footnote leads to a source that the community has deemed reliable. The article as a whole contains over 160 footnotes. If you are researching a complex question, starting with the resources and summaries provided by Wikipedia can give you a substantial running start on an issue.
+
+If you want to know more about how credible we should consider Wikipedia, see: [Can We Trust Wikipedia? 1.4 Billion People Can't Be Wrong](https://www.independent.co.uk/news/long_reads/wikipedia-explained-what-is-it-trustworthy-how-work-wikimedia-2030-a8213446.html). 
+
+</article>
+
+<article>
+
+#### Aligator (prompt)
+
+Check out both of these news reports and answer the questions below.
+
+[https://abcnews4.com/news/local/granddaughter-of-90-ye...](https://abcnews4.com/news/local/granddaughter-of-90-year-old-woman-killed-by-alligator-sues-west-ashley-nursing-home)
+
+https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carolina-nursing-home/
+
+###### Questions
+
+- Are these trustworthy news sources for this sort of story?
+- Is this story likely true?
+- If you had to pick the best source of the two based just on what you found on Wikipedia, which one would you pick, and why?
+
+</article>
+
+<article>
+
+#### Alligator (discussion)
+
+> Here's one possible response:
+>
+> Both these sources are real news sources according to Wikipedia. The alligator story is real. If I had to pick one of the two I would pick the first TV station (abcnews4) in this case because they are more local to the event (they are in Charleston, the city where it happened) vs. the KDVR story which seems to just be reprinting someone else's story (and is in Denver, not South Carolina!)
+>
+> How do we get there? We start by doing our "just add wikipedia" trick. Let's show the ABC one first:
+
+![GIF showing the ABC add wikipedia trick](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/3b72c03d-534a-4d73-bae9-ef2f542dad1d/alligator-abc1.gif?id=f5e706fd-d26f-4d7d-ab47-aa0a4d83807a&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=h4rWparGuJCKsDZ-KEbzAfIY0inpVvKMw4js3kAnD2w)
+
+> We search the URL or domain and add our bare keyword "wikipedia". Selecting the most relevant search result we find it is about a local TV station in Charleston. Just to be sure the article is for the right site, we scroll down and make sure the URL matches. It does!
+>
+> What about KDVR?
+
+![GIF of typing https://KDVR.com wikipedia into Google browser search](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/83fdb898-ac56-427f-ba6f-5ad716eb2d01/kdvr.gif?id=3d62d56f-baf0-4dbb-b0cb-8e004ed46a15&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=6uUWVOpF8DGrB6UtisBYWYr3Ngap0YZ2BLXKra7ffzw)
+
+#### When are local sources good?
+
+> Here's our first reflection: we often talk about authority being "contextual and constructed." Let's take that "contextual" piece. An organization that might have authority in one area, but won't have the same level of authority in all areas. For example, a fitness instructor might be a great person for advice on a fitness routine, but you wouldn't get medical advice from them. Likewise, you might ask your doctor about an illness or medical condition, but you wouldn't expect them to be an expert in aerobics.
+>
+> Local and national newspapers employ reporters that have very similar skills, much more similar than fitness instructors and doctors. But even here authority differs depending on the type of story. For your first reflection, think of a sort of story where a local paper would have a high degree of authority. Then think of another sort of story where they might have far less authority.
+
+###### Questions for reflection
+
+- For what sort of other stories might a local source be a particularly good authority?
+- For what sort of other stories might a local source not be a good authority?
+
+#### Volcano plain (prompt)
+
+> Take a look at this story and answer the questions.
+
+[Malaysia Airline flight forced into emergency landing](https://worldnewsdailyreport.com/malaysia-airline-flight-forced-into-emergency-landing-after-flying-over-icelandic-volcano/)
+
+###### Questions
+
+- What sort of source is this?
+- How do you know?
+
+</article>
+
+<article>
+
+#### Volcano plan (discussion)
+
+> Here's one possible response:
+>
+> **World News Daily report is a satire site that by its own admission does not publish true stories. It's is also the source or a lot of hateful content. I found this out from Wikipedia — the Wikipedia article cited a large range of sources, from Buzzfeed to the Washington Post.**
+>
+> How do we get there? We start by doing our "just add wikipedia" trick. Let's show the ABC one first:
+
+![Search the URL and add Wikipedia](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/cf2ec0a4-6114-44e1-9664-56b4ef5ce498/volcano1.gif?id=97f137ee-3a02-40ba-b640-6b41a97061bf&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=28vk_1iqJnQSMCaEYJLLwbf7Ffxf1THOoGn1lVFUMuo)
+
+> We search the URL or domain and add our bare keyword `wikipedia`. Selecting the most relevant search result we find it is a known satire site.
+
+#### A note about Buzzfeed
+
+> One thing you'll notice in the Wikipedia article is that Buzzfeed News is cited as source. Students are often confused by this, since they are most used to Buzzfeed being primarily a source of videos such as "I tried to eat five popular candies from Romania and this is what happened."
+>
+> That Buzzfeed site isn't good news source for very much. It's not "fake", but it's not very serious. Years ago, however, Buzzfeed spun off a reliable, award winning news publication under the name "Buzzfeed News" (domain: www.buzzfeednews.com). And harkening back to our "contextual authority" discussion earlier, it turns out that Buzzfeed News has two of the top experts in the world on the "fake news" phenomenon. So when you see a link to Buzzfeed News on question about the trustworthiness of a site, it's well worth following.
+
+#### The Problem of Fauxtire
+
+> One problem — larger in the past, but still extant — is the problem of "fauxtire". Experts on disinformation use the term fauxtire to describe sites such as World News Daily Report which claimed to be satire sites (like the Onion) but in practice were not linked to because people thought they were funny but because people were fooled into thinking the stories were real.
+>
+> This presents an interesting problem — if you run a site that is supposedly a humor site, but in practice it is convincing people of awful things, are you responsible for that? What if you intentionally tweak satirical headlines so they are more likely to deceive people (and hence make you more money from ads)?
+
+###### Questions for Reflection
+
+- What are your feelings on fauxtire? Is it an ethical practice?
+- Should companies like Facebook and Twitter downrank articles if they are being spread based on the impression they are "real" when they are not? What are the dangers of that?
+
+</article>
+
+<article>
+
+#### Conclusion of Lesson Two
+
+> You finished lesson two! In the past thirty minutes, you've learned about one "move" (investigate the source) and one web technique associated with it ("just add wikipedia").
+>
+> Next up we'll apply what you learned about investigating the source to a couple specific issues.
+
+</article>
 
 ## 05. This is how we do it (in a business context)
 
