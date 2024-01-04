@@ -35,17 +35,18 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 >
 > ~ Henry J.M. Nouwen 
 
-[ ] Add: course trailer
-
 [^1]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
 [^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
 
-
 ## 00. Why take a business ethics class
 
-![Course header graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00.jpg) 
+![course header - lesson one](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00-1.jpg)
 
-This is text below the graphic. Maybe it has to be there? 
+Why are the graphics getting shrunk when there is text for notes? Maybe that's it?
+
+Going to try to stretch this out a bit. Hmmm... 
+
+This is important. 
 
 --{{0}}--
 
