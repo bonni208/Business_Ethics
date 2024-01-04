@@ -33,16 +33,20 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 At certain parts of my life, I have felt stuck deciding on what seemed like two, binary choices. Like those old fashioned tv game shows where you had to pick door A or door B. Someone I worked with reminded me that there are hardly only just two options we might pick in our lives. The options are boundless. But, also, Henry Noun reminds us in the following quote that God is with us, through all the choices we make in our life and we can rest easy in that. 
 
-> "There is no such thing as the right place, the right job, the right calling or ministry. I can be happy or unhappy in all situations. I am sure of it, because I have been … deciding to do this, that, or the other for the next five, ten, or twenty years is no great decision. Turning fully, unconditionally, and without fear to God is. Yet this awareness sets me free."
+> There is no such thing as the right place, the right job, the right calling or ministry. I can be happy or unhappy in all situations. I am sure of it, because I have been … deciding to do this, that, or the other for the next five, ten, or twenty years is no great decision. Turning fully, unconditionally, and without fear to God is. Yet this awareness sets me free.
 >
-> ~ Henry J.M. Nouwen 
+> -- Henry J.M. Nouwen 
 
 [^1]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
 [^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
 
-## 00. Why take a business ethics class
+## 00. Let's get it started 
 
 ![course header - lesson one](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00-1.jpg)
+
+Welcome to Business Ethics (BUSN435) at Vanguard University. Throughout your experience of taking ten lessons and then experiencing ten challenges, you will grapple with essential questions about living a life of character and remaining true to your faith within the context of business. My aim is to equip you with the tools and insights necessary to navigate the complex landscape of ethical decision-making in the business world while upholding the values and principles rooted in your beliefs. Through these experiences, I hope to empower you to become an ethical leader who inspires positive change and positively impacts your professional and personal spheres.
+
+### 00.01 Why take a business ethics class
 
 Speaking of decisions, there are likely many reasons a person may decide to take a class about business ethics. 
 
@@ -62,7 +66,7 @@ As Christians, we are called to love our neighbors, tell the truth, and seek to 
 
 > I sent an email out to those who were registered for the class a few weeks back, asking for you to reply to let me know why you're taking a class about business ethics. If you haven't done so, already, please email me and share your reasoning and what you hope to get out of the course. 
 
-### 00.01 It's more important than sword fighting
+#### It's more important than sword fighting
 
 --{{0}}--
 
@@ -80,7 +84,7 @@ I'm pretty sure that Brandon never got as good as those actors in The Princess B
 
 [^1]: I'm realizing now that the class was (maybe still is?) called stage combat. But sword fighting seems so much better that I'm going to leave the error in and just go with it. If you need some help with accepting mistakes, you've got to listen to David Wilcox signing [Leave It Like It Is](https://youtu.be/S7mkdHQX-NE?si=xpb8WTS0ZSUKR7NL). I love listening to it and being reminded not to take myself and my human foibles so seriously. 
 
-### 00.02 You will have a guide for life
+#### You will have a guide for life
 
  --{{0}}--
 
@@ -138,7 +142,7 @@ Ethical responsibilities extend to society by promoting sustainable practices an
 
 [^1]: There's a lot more nuance regarding social media's impact on youth. The [Pew Research Center has some key findings from 2023](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/) to explore for more. 
 
-### 00.02 Your professor finds utter joy in teaching and learning
+#### Your professor finds utter joy in teaching and learning
 
 Since the age of five, I knew what I was going to do for a living. I would have my stuffed animals and dolls set carfully out in my room, approximating a classroom. My mom had bought me materials from a local educational store. I had the books that my 'students' could use, as well as the 'teachers' edition, used to guide me in my pedagogy. My bedroom door had a sign hung on it, which read: Room 208. The name I used was Miss. Monroe, a testiment to the power of the 1970s version of the tv show Charlie's Angels' characters in my life at the time. 
 
@@ -160,7 +164,7 @@ If you would like to learn more about me, I have a fairly active presence online
 - [LinkedIn](https://www.linkedin.com/in/bonnistachowiak/) - professional connections and occasional reflection posts
 - [Instagram](https://www.instagram.com/bonni208) - personal connections and occasional pics of what I'm up to
 
-### 00.03 If you show up for the work, you may just find your life transformed
+#### If you show up for the work, you may just find your life transformed
 
 ![Dr. B holds a sign that reads: 'show up for the work'](https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg)
 
@@ -176,11 +180,11 @@ You are also likely to notice that I enjoy laughing and having fun. As Christoph
 
 My hope is that we'll take our character seriously and the call to love our neighbors, while not taking ourselves too seriously (leaving room for growth and humility). May I be a person who models that right along with each of you. May you take the radical step of deciding each week that you're going to show up for the work in this class. If we do that together, it's quite possible we could leave changed people. 
 
-## 00 How this class works
+### 00.02 How this class works
 
 Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how and when you can show up. 
 
-### 00.01 The space-time continuum: Synchronous and asynchronous attendance
+#### The space-time continuum: Synchronous and asynchronous attendance
 
 Ok. Not really. I'm not actually going to be teaching anything about the space-time continuum in this course. If you're interested in that topic, you're going to want to take a different class. Or, [watch a video with Neil deGrasse Tyson explaining it a gazillion times better than I'll ever do](https://youtu.be/SJhovNXqH6A?si=cvVoZmYg39ja3BR7). 
 
@@ -188,7 +192,7 @@ However, I do want to share how this class works, in terms of the 'time' that cl
 
 In our class, we have Zoom sessions, which are somewhat like a normal class, in that they have a start time and an end time. However, there's also an option for you to not participate in those, but to otherwise demonstrate your having 'shown up' for class that week. 
 
-### 00.02 Your story matters
+#### Your story and our stories matter
 
 Vanguard has used the Your Story Matters tagline for quite some time. Some people find it to be trite, but I've always really liked it. I suppose how you feel about it may depend on how sincere you believe someone to be when they say that to you. 
 
@@ -196,15 +200,13 @@ Vanguard has used the Your Story Matters tagline for quite some time. Some peopl
 
 I started teaching at Vanguard in 2004. You can imagine that I've met a lot of students in that time. To this day, I always get excited and nervous about a new class starting. As weird as this may sound, you matter to me, even though in some cases, we may not have ever met, yet. I am looking forward to getting to know you throughout this class. 
 
-### 00.03 Our stories matter
-
 Individual stories are compelling. Something powerful happens when groups form and create collective stories together. In this class, I'm looking forward to when we become an 'us.' 
 
-### 00.04 It takes a village, or at least some reliable tools
+#### It takes a village, or at least some reliable tools
 
 My first job out of college was working for a computer training company. I used to teach technology classes to business professionals and would often fall asleep with a thick book next to me, back when people used to read books to learn how to use a software application. Even today, I love technology enough to mark on my calendar when any Apple Keynotes will be held, such as at their annual Worldwide Developers Conference (WWDC). Dave, my husband, and I used to consider it a 'romantic' date before we were married to sit and watch the latest keynote from WWDC back in the day. 
 
-In this class, there is an essential set of tools that you'll need to use, in order to be successful. 
+I continue to find technology fascinating and marvel at both its positive and negative contributions to society and in business contexts. In this class, there is an essential set of technology tools that you'll need to use, in order to be successful. 
 
 | TOOL                   | DESCRIPTION                                                  | DIFFICULTY |
 | ---------------------- | :----------------------------------------------------------- | :--------: |
@@ -217,7 +219,7 @@ In this class, there is an essential set of tools that you'll need to use, in or
 
 
 
-### 00.05 Ten lessons and challenges
+#### Ten lessons and challenges
 
 You will notice a pattern in this class. Throughout the semester, we will all: 
 
@@ -233,7 +235,7 @@ I know it is cliché, but you will get out of this class what you put into it. W
 
 # Ten Lessons
 
-
+Welcome to the Ten Lessons, which make up one half of our Business Ethics course. These lessons cover key topics in ethical considerations within the business realm. Throughout the course, we'll explore various ethical frameworks, influential moral philosophers, the importance of fact-checking in the news and on social media, corporate social responsibility, the triple bottom line, the necessity for having an ability to change our minds, and both the positive and negative aspects of corporate behavior. We'll also discuss the roles of power and privilege in business for promoting positive outcomes. My goal is to create a learning community in which we can consider ways to cultivate our character and to be able to make more principled decisions in the complex world of business. 
 
 ## 01. It's all personal (or is it?)
 
@@ -241,35 +243,69 @@ I know it is cliché, but you will get out of this class what you put into it. W
 
 What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
 
+In Zootopia, Judy Hopps (a rabbit police officer) is trying to solve a missing mammals case. During a press conference, she makes an unintentionally insensitive comment about predators. Nick Wilde, a fox and her unlikely partner, takes offense and confronts her about it.
 
+!?[zootopia press conference scene](https://youtu.be/_abhnQkHOPU?si=e_0d7b1qjTYr6CKL)
 
+This scene demonstrates how misunderstandings can arise, even with good intentions, and offers a valuable lesson about addressing such situations. While this story is fictional, these kinds of misunderstandings and opportunities for our biases to negatively impact us our relationships happen all the time in a business context. 
 
+Avoiding taking things personally in a business or class context is essential for maintaining healthy relationships and effective communication. Here are a few ways we can work to accomplish that together and to create the kind of community that will foster the highest trust and deepest learning opportunities. 
 
-### 01.01 | How we like to think of ourselves doesn't always help us 
+### 01.01 | Develop emotional intelligence
 
+Throughout this class we are going to be working on developing and cultivating emotional intelligence. Strengthen your emotional intelligence by understanding and managing your own emotions. Recognize that not everything is a personal attack or criticism. Practice empathy and try to understand the motivations and emotions of others in the situation. This allows you to respond thoughtfully rather than react emotionally.
 
+In this short Inside Out movie clip, the character of Joy realizes the value of sadness. It is vital for us to be able to recognize our emotions and to attempt to understand and empathize with others' feelings. 
 
+!?[Clip: Joy realizes the value of sadness](https://youtu.be/V9OWEEuviHE?si=gPCW1ha4JD_bIkPg)
 
+In order to explore the topics in this class, recognizing the varying perspectives we will inevitably have, emotional intelligence is going to be crucial. 
+
+### 01.02 | Clarify and Seek Understanding
+
+When faced with a potentially offensive or unclear statement, don't immediately assume negative intent. Instead, ask for clarification or seek to understand the speaker's perspective. This proactive approach can prevent misunderstandings and build trust by demonstrating your willingness to engage in open and honest communication.
+
+### 01.03 | Separate feedback from identity
+
+Learn to separate feedback or criticism from your self-worth. Constructive feedback is often about the task or the situation at hand and not a judgment of your character. Remember that feedback is an opportunity for growth and improvement, not a personal attack.
+
+By implementing these strategies, individuals can minimize the tendency to take things personally, promote healthy communication, and build trust within a business or class context.
+
+### 01.04 | Be aware of cognitive dissonance
+
+Recognize Cognitive Dissonance: In order to develop emotional intelligence, it's crucial to be aware of cognitive dissonance, a psychological phenomenon where individuals experience discomfort due to conflicting beliefs or values. 
+
+In the film "A Beautiful Mind," the character John Nash, a brilliant mathematician, experiences cognitive dissonance as he struggles with his mental health issues. The movie highlights the importance of recognizing and addressing cognitive dissonance, as it can impact our emotional well-being and decision-making. It's a great movie, in case you haven't seen it before. On a much shorter front, watch [this explainer from Concepts Unwrapped about Cognitive Dissonance](https://youtu.be/m_lCO2cBNts?si=FOTnpfcSHLs0iTTE) (6 minutes). 
 
 !?[Cognitive Dissonance | Concepts Unwrapped](https://youtu.be/m_lCO2cBNts?si=B75B1GhqPAVAbp7G)
 
-
-
-
-
-
+Developing emotional intelligence involves acknowledging and resolving these inner conflicts to make more informed and balanced choices.
 
 ## 02. That seems really inappropriate (Get to know your favorite philosophers) 
 
-This one will have some questions at the top. Just to compare what it is like starting with a graphic, or starting with a little bit of text. Something around this length. 
-
 ![Course header graphic - lesson 02](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-02.jpg)
 
-And now a video will come next. 
+Before we get to study applied business ethics (in the context of an organization or industry), it is important to establish a firm foundation. In this lesson, we will delve into the ideas and philosophies of influential thinkers who have shaped ethical thought over centuries. What are the fundamental principles that guide ethical decision-making in business? How do different philosophical perspectives offer unique insights into corporate responsibility, sustainability, and social justice? By getting to know these philosophers, we will gain a deeper understanding of the ethical complexities that arise in the business world and how to navigate them effectively.
 
+### 02.01 | We're going to Harvard to meet one of their most popular professors | 5 minutes #seek
 
+Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! Now, don't get too excited, we won't be donning crimson robes and walking the hallowed grounds, but we will getting to make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^1].
 
-### 02.01 | What's the right thing to do? The moral side of murder | 50 minutes | #watch #seek
+During our virtual visit, we'll also be meeting some of the biggest names in philosophy, like [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), and [John Rawls](https://en.wikipedia.org/wiki/John_Rawls). These philosophers have left their intellectual mark all over the study of ethics, and we'll be exploring how they guide our moral compasses in the complex world of business.
+
+We are going to be looking at the intriguing "Moral Side of Murder" lecture from Sandel's course. This isn't a murder mystery, but a journey into the ethical intricacies that make us question our deepest beliefs. It's a wild ride that will challenge our moral intuitions and spark lively debates.
+
+As we travel (at least in our imaginations) to Harvard's campus and experience Sandel's excellent teaching style, which is modeled off of Socrates (another philosopher we'll be meeting), let's remember the following timeless wisdom from that very same philosopher: 
+
+> "An unexamined life is not worth living."
+>
+> -- Socrates
+
+ Our trip to Harvard will guide us on a voyage of self-discovery, where we'll uncover the right path to ethical decision-making in the business world. 
+
+[^1]: According to [an oped (opinion piece) by Thomas L. Friedman](https://www.nytimes.com/2011/06/15/opinion/15friedman.html) in the New York Times. 
+
+### 02.02 | What's the right thing to do? The moral side of murder | 50 minutes | #watch #seek
 
 Watch: Sandel first video
 
@@ -279,11 +315,7 @@ Watch: [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MUR
 
 !?[Justice: What's The Right Thing To Do? Episode 01 THE MORAL SIDE OF MURDER](https://youtu.be/kBdfcR-8hEY?si=zljc0h84kXS4S_HB) 
 
-
-
-<iframe width="900" height="500" src="https://www.youtube.com/embed/kBdfcR-8hEY?si=5JOXPfJFRo8rRSr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### 02.02 | Did ya get it? | 15 minutes | #sense
+### 02.03 | Did ya get it? | 15 minutes | #sense
 
 Test your understanding of the basics of the concepts Sandel brought up in this first lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
 
@@ -346,7 +378,7 @@ https://quizlet.com/473181285/justice-part-1-flash-cards/?i=omwnz&x=1jqt
 
 
 
-### 02.03 | Name that tune... I mean trolley problem meme | 15 minutes | #share
+### 02.04 | Name that tune... I mean trolley problem meme | 15 minutes | #share
 
 Find an example of the trolley problem in a meme or from a video clip. Here's an example one, which means this one is off limits to share. 
 
@@ -407,7 +439,7 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 02.05 | Aristotle meets Batman | 15 minutes | #sense
+### 02.06 | Aristotle meets Batman | 15 minutes | #sense
 
 Another framework 
 
@@ -481,9 +513,141 @@ Virtue ethics - philosophy created by Aristotle and other ancient philosophers. 
 
 ![Course lesson graphic 01](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-03.jpg)
 
-Ethical frameworks
+When I was earning my doctorate, one of our professors would regularly emphasize the importance of deciding how we were going to decide something as a group, before we actually made any specific decision. As easy as that may sound, we weren't always very disciplined about doing it and conflict or group confusion would arise, because of us not having determined our process, in advance. 
 
-Case study: Research context 
+> We are going to be going through a case study that will help you think about how you might make a decision, in the case where it wasn't obvious what the right thing to do was. Again, it is easier than it seems. Use the links on Canvas to access the case and follow the directions for working in groups for the second half. 
+
+### 03.01 Ethical frameworks
+
+Let's start with why everyone hates moral philosophy professors, or otherwise getting us to laugh a bit to warm up our brains to discover more about ethical frameworks. In this clip, The Good Place Channel does a mashup of two tv shows, both of which focus on philosophy: 
+
+!?[Philosophy according to Jack and Chidi - The Good Place and AP Bio's mashup]((https://youtu.be/EQpkNxP7BxI?si=_GCs_XRryamqO-TV))
+
+Ethical frameworks are systems of moral principles or guidelines that help individuals and organizations make ethical decisions and evaluate the moral implications of their actions. These frameworks provide a structured approach to navigating complex ethical dilemmas by offering a set of principles, rules, or perspectives to consider when facing moral choices.
+
+You explored some of the ethical frameworks, as you were going through the case study. Several ethical frameworks exist, each with its own principles and approaches to ethical decision making. Let's explore some examples of ethical frameworks
+
+#### Consequentialism
+
+This framework asserts that the morality of an action is determined by its outcomes or consequences. **Utilitarianism**, a specific form of consequentialism, emphasizes maximizing overall happiness or minimizing suffering. Individuals following consequentialist ethics will consider the potential consequences of their actions and choose the course of action that results in the greatest good for the greatest number.
+
+#### Deontology
+
+Deontological ethics focuses on the inherent nature of actions rather than their outcomes. It emphasizes adherence to moral rules or duties, irrespective of the consequences. **Immanuel Kant's categorical imperative** is a well-known deontological approach that encourages individuals to act according to principles that could be universally applied without contradiction.
+
+#### Virtue Ethics
+
+Virtue ethics places importance on the development of virtuous character traits. It suggests that ethical behavior arises from cultivating virtues like honesty, courage, compassion, and integrity. Instead of following strict rules, individuals using this framework strive to embody virtuous qualities.
+
+#### Rights-Based Ethics
+
+Rights-based ethics, often associated with the work of philosophers like **John Locke** and **John Stuart Mill**, emphasizes individual rights and freedoms. It asserts that ethical actions are those that respect and protect the rights of individuals, such as the right to life, liberty, and property.
+
+#### Social Contract Theory
+
+This ethical framework, popularized by thinkers like **Thomas Hobbes** and **Jean-Jacques Rousseau**, posits that ethical norms and rules emerge from social agreements and contracts. It emphasizes the importance of following agreed-upon rules for the stability and well-being of society.
+
+### 03.02 Why bother learning about ethical frameworks
+
+Before the COVID pandemic hit the world in early 2020, I used to think that all the exercises used to consider ethical frameworks were too theoretical and not realistic enough. Well, let's just say I no longer believe that. More than ever, I find it essential to recognize the ways in which we are using ethical frameworks to guide our decision making and when those values may be in conflict with other people we are collaborating with regarding a decision. Ethical frameworks are essential to learn about for several reasons:
+
+#### Guidance and structure for ethical decision making
+
+Ethical frameworks provide guidance and structure for evaluating ethical dilemmas and making consistent and principled decisions. For instance, when Apple Inc. faced the ethical dilemma of balancing user privacy with national security in the case of the San Bernardino terrorist attack, ethical frameworks helped them navigate the situation. Apple's decision to prioritize user privacy aligns with principles of individual rights, a key aspect of ethical frameworks.
+
+#### Consistency in ethical choices
+
+Ethical frameworks promote consistency in decision making, ensuring that organizations uphold their ethical values regardless of the situation. In the corporate world, companies like Patagonia consistently prioritize environmental sustainability in their business practices. This alignment with their values, guided by ethical principles, has resulted in long-term trust and loyalty from customers who appreciate their ethical stance.
+
+#### Clarity of values and principles
+
+Ethical frameworks help individuals and organizations clarify their core values and principles. For instance, when Johnson & Johnson faced the Tylenol tampering crisis in the 1980s, the company's swift and ethical response demonstrated their commitment to the safety and well-being of consumers. By recalling all Tylenol products and redesigning packaging for tamper resistance, Johnson & Johnson showcased their ethical values and commitment to customer safety. This crisis management strategy aligned with their principles and communicated their ethical stance clearly to the public.
+
+#### Accountability for actions
+
+Understanding ethical frameworks holds individuals and organizations accountable for their actions. A notable case is Enron, where corporate leaders engaged in unethical accounting practices. The Enron scandal led to legal consequences and ethical discussions, highlighting the importance of accountability in the business world.
+
+#### Promotion of critical thinking
+
+Ethical frameworks encourage critical thinking by requiring individuals to consider multiple perspectives. In the film "12 Angry Men," jurors are faced with the ethical dilemma of a murder trial. Through rigorous debate and examination of evidence, they employ ethical reasoning to arrive at a just verdict. This scene of Juror #3 breaking down and pronouncing his decision of "not guilty," illustrates the ways in which ethical frameworks promote critical thinking in decision making and how one person can courageously challenge the status quo.
+
+![12 angry men movie clip](faced with his own short-comings and failures as a father to his own son, Juror #3 (Lee J. Cobb) finally breaks down and pronounces "Not Guilty.")
+
+It's easy for us to think that if we were faced with the same situation, we would stick to our beliefs. However, there's overwhelming evidence that humans are susceptible to bring influenced by others in ways we aren't always conscious of... 
+
+As we learn more about ethical frameworks and how to put them into practice in our own lives, they can serve as valuable tools for navigating the complexities of moral decision making. They help individuals and organizations make ethical choices that align with their values, principles, and societal expectations. Understanding these frameworks enhances moral reasoning and promotes ethical behavior in various personal, professional, and societal contexts.
+
+
+
+What does consequentialism primarily focus on?
+
+[[ ]] Adherence to moral duties
+
+[[X]] Outcomes or consequences
+
+[[ ]] Development of virtuous character traits
+
+[[ ]] Individual rights and freedoms
+
+
+
+Which ethical framework emphasizes the cultivation of virtuous character traits?
+
+[[ ]] Consequentialism
+
+[[ ]] Deontology
+
+[[X]] Virtue ethics
+
+[[ ]] Rights-based ethics
+
+
+
+According to deontological ethics, what is the primary factor in determining the morality of an action?
+
+[[ ]] Its outcomes or consequences
+
+[[X]] The inherent nature of the action
+
+[[ ]] The development of virtuous character traits
+
+[[ ]] Individual rights and freedoms
+
+
+
+Why is it important to understand ethical frameworks?
+
+[[X]] They provide guidance and structure for ethical decision making.
+
+[[ ]] They encourage moral relativism.
+
+[[ ]] They promote inconsistency in ethical choices.
+
+[[ ]] They discourage critical thinking.
+
+
+
+What is one benefit of ethical frameworks in decision making?
+
+[[ ]] They obscure personal values and principles.
+
+[[X]] They help individuals and organizations make consistent and principled decisions.
+
+[[ ]] They discourage individuals from considering multiple perspectives.
+
+[[ ]] They eliminate the need for accountability.
+
+
+
+How do ethical frameworks contribute to critical thinking?
+
+[[ ]] They discourage critical thinking by imposing rigid rules.
+
+[[ ]] They promote moral relativism, which hinders critical thinking.
+
+[[X]] They encourage critical thinking by requiring individuals to consider different moral perspectives.
+
+[[ ]] They have no impact on critical thinking skills.
 
 
 
@@ -509,7 +673,7 @@ I don't mean to sound offensive in saying the part about sounding ignorant. We'r
 
 The goal is to become more educated about the stuff that is important to us and to know when we don't know enough about something to be a credible source (or know how to spot a credible source). I also want you to be taken seriously in life. A big part of that comes down to being able to identify and communicate effectively about evidence that supports your assertions. 
 
-### 04.01 | Meet a Mikey or maybe two? | 15 minutes | #sense
+**Meet a Mikey or maybe two?**
 
 Consider the following (and notice if you can hear a voice associated with these words):
 
@@ -527,11 +691,15 @@ People said it was some bad combination of pop rocks and Diet Coke. Or maybe jus
 
 How would we have figured out if this was true back at that time? There wasn't an internet to go check. There were newspapers, limited by page and word counts and professional journalists and researcher assistants.
 
-### 04.02 Serve up the starter course, sir | #sense
+Serve up the Starter Course
+
+
+
+### 04.01 Lesson One: Introduction to SIFT | 60 minutes | #sense
 
 Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be making use of a lot what he has shared in his [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed), which he has made available under a Creative Commons license[^1]. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
 
-
+Throughout Lesson 04 of the course, I will block off the sections written by and provided by Mike Caulfield, so you can tell it apart from what I'm sharing. Normally, this is how I quote other people, or make something stand out. 
 
 > CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
 >
@@ -541,7 +709,7 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 
 <article>
 
-### Lesson One: Introduction to SIFT
+#### Introduction to SIFT
 
 > This course will take you through the basics of quick source and claim-checking, and introduce you to our "four moves", a series of actions to take when encountering claims and sources on the web. 
 >
@@ -828,7 +996,7 @@ The Miseducation of Dylan Roof
 
 <article>
 
-### Lesson Two: Investigate the Source
+### 04.02 Lesson Two: Investigate the Source
 
 > One of the four "moves" is to "investigate the source". The following two short videos (less than four minutes) will introduce you to this move. As you'll see, we're not expecting people to do ground-breaking research, just to do some very quick checks.
 >
@@ -1073,7 +1241,7 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 
 </article>
 
-### Lesson Three: Further Investigation
+### 04.03 Lesson Three: Further Investigation
 
 > Let's put our investigate the source (the "I" in SIFT) move to use. We'll look into the problem of state-controlled media, and show you a variation of the "just add wikipedia" technique that you can use for individuals and organizations without websites.
 >
@@ -1235,7 +1403,7 @@ Questions for reflection
 > - What state media is, and how to identify it
 > - The difference between bias and agenda, and why it matters
 
-### Lesson Four: Find Trusted Coverage
+### 04.04 Lesson Four: Find Trusted Coverage
 
 > We've covered:
 >
@@ -1270,7 +1438,7 @@ Questions for reflection
 >
 > Conclusion: Keanu Reeves is not dead.
 
-## Most big stories get covered by multiple outlets
+#### Most big stories get covered by multiple outlets
 
 > What does it look like when some one actually *has* died? This is a bit morbid, but the morning I am writing this MMA boxer Maxim Dadashev passed away due to injuries sustained in a fight. He was a minor figure you've probably not heard of, and yet when we search `Maxim Dadashev dead` in Google News search we find there are already multiple stories confirming this.
 
@@ -1285,11 +1453,11 @@ Questions for reflection
 
 #### Using fact-checks from news search: Chik-Fil-A
 
-Once I get a song in my head, I often have it floating around in there for quite some time. As soon as I saw Chik-Fil-A in this headline, I just had to share this one: 
+Once I get a song in my head, I often have it floating around in there for quite some time. As soon as I saw Chik-Fil-A in this headline, I just had to share this one. It's such a good song, and maybe you've been sitting a while and need to take a quick mental break.  
 
 !?[Louis Jordan Ain't Nobody Here But Us Chickens 1956](https://youtu.be/HnyB0a8G71Y?si=wdkH4kmxxp62vq6M)
 
-But we had better stay focused, right? Back to Mike Caulfield, gettin' us SIFTing... 
+Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing along... 
 
 > In our Keanu Reeves example, the absence of any news stories was telling. But many times when you use Google News (or other news search) you'll find something better: a fact-check on the claim.
 >
@@ -1544,7 +1712,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 
 
 
-### Lesson Five: Trace Claims, Quotes, and Media to Their Original Context
+### 04.05 Lesson Five: Trace Claims, Quotes, and Media to Their Original Context
 
 > Most stuff you see on the web is not original reporting or research. Instead, it is often commentary on the re-reporting of re-reporting on some original story or piece of research. And that's a problem.
 >
@@ -1694,7 +1862,7 @@ Once you find the original report answer two questions in your fact-checking not
 This is back to being Dr. B, again. Here are a few resources that you might be interested in, if you want to keep learning about this stuff: 
 
 - [**BOOK:** Verified: How to Think Straight, Get Duped Less, and Make Better Decisions About What to Believe Online, by Mike Caulfield and Sam Wineburg](https://press.uchicago.edu/ucp/books/book/chicago/V/bo207015182.html)
-- [**PODCAST:** Verified with Mike Caulfield on the Teaching in Higher Ed Podcast, hosted by Bonni Stachowiak]( https://teachinginhighered.com/492)
+- [**PODCAST:** Verified with Mike Caulfield on the Teaching in Higher Ed Podcast, hosted by Bonni Stachowiak](https://teachinginhighered.com/492)
 
 - [**VIDEOS:** My YouTube channel where I vlog my own learning about SIFT (the four moves)](https://www.youtube.com/playlist?list=PLA4TNb6P_shZ6Oe0lEq0BuGhLYkikjxYl)
 
