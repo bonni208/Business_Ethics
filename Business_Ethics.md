@@ -42,11 +42,7 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 ![course header - lesson one](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00-1.jpg)
 
-Why are the graphics getting shrunk when there is text for notes? Maybe that's it?
 
-Going to try to stretch this out a bit. Hmmm... 
-
-This is important. 
 
 --{{0}}--
 
@@ -59,8 +55,6 @@ As Christians, we are called to love our neighbors, tell the truth, and seek to 
 > I sent an email out to those who were registered for the class a few weeks back, asking for you to reply to let me know why you're taking a class about business ethics. If you haven't done so, already, please email me and share your reasoning and what you hope to get out of the course. 
 
 ### 00.01 It's more important than sword fighting
-
- ![Course header graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
 
 --{{0}}--
 
@@ -275,7 +269,11 @@ In the first lecture of his course on moral reasoning, Michael Sandel presents a
 
 Watch: [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://youtu.be/kBdfcR-8hEY?si=gpS0-hehZufCawH7)
 
-!?Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER" 
+!?[Justice: What's The Right Thing To Do? Episode 01 THE MORAL SIDE OF MURDER](https://youtu.be/kBdfcR-8hEY?si=zljc0h84kXS4S_HB) 
+
+
+
+<iframe width="900" height="500" src="https://www.youtube.com/embed/kBdfcR-8hEY?si=5JOXPfJFRo8rRSr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 02.02 | Did ya get it? | 15 minutes | #sense
 
@@ -664,6 +662,8 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 
 </article>
 
+<article>
+
 #### **Play Fakeout!** 
 
 > Let's start this module with an activity designed by some folks at Civix Canada. Fakeout is an interactive lesson that tests your ability to detect "fake news" (we actually don't like that term, but more on that later).
@@ -715,6 +715,8 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 >
 > Except there are three problems with this approach. Big problems.
 
+<article>
+
 ##### Problem 1: The signals are meaningless
 
 ![Picture of Word document with autocorrect](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6c2a4e96-7d12-4448-aeac-5297d6998faf%2Fspellcheck.jpg?table=block&id=36429352-6ca8-48b6-bf09-2f0e48305af8&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=710&userId=&cache=v2))
@@ -730,6 +732,10 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 > - less ads on a page means the page is more reliable (Not even close.)
 >
 > To put it simply — the things that might mean something are easy to fake, and many things students are taught to look for don't mean anything at all.
+
+</article>
+
+<article>
 
 ##### Problem 2: The checklist processes take too long
 
@@ -750,6 +756,10 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 >But the biggest gap is not whether they research deeply. It's whether they check at all. Take that factoid about plastic and 2050. If you could reliably check it in 60 seconds, you might. If not, you're either going to reject it or accept it without checking — mostly unconsciously. Without quick methods to search and sift, your "knowledge" about an issue will slowly become a mental shoebox of unverified scraps you heard here and there around the web.
 >
 >While short methods may seem less rigorous, they are in fact better than long methods for many tasks. When I switch lanes while driving on the highway, I don't do a ten minute analysis of whether a car *might* be in the lane next to me. I check the mirror, do a head check, and change lanes. If my father had given me a ten minute lane-changing process when teaching me to drive, I wouldn't use it, and frequent accidents would just be a part of my life. This is the sort of thing you need for reading the web as well.
+
+</article>
+
+<article>
 
 ##### Problem 3: Using too many criteria results in stupid decisions
 
@@ -910,11 +920,15 @@ The Miseducation of Dylan Roof
 
 </article>
 
+<article>
+
 #### Conclusion of Lesson One
 
 > In this 30 minute lesson you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
 >
 > Now that we have the basics down we will start practicing some of the web techniques that you can use to get quick answers as you "sift".
+
+</article>
 
 <article>
 
@@ -942,6 +956,10 @@ The Miseducation of Dylan Roof
 
 > Notice that while the most relevant Wikipedia article usually floats to the top of results, this is not always true. In the case of researching Nuclear Matters, the most informative Wikipedia page was the second result. When looking at *Before It's News* the first Wikipedia result that came up was the right one — but it was second in the Google results, after a result from Rational Wiki.
 
+</article>
+
+<article>
+
 #### Use Surprise as an Indicator
 
 > What do you look for on the Wikipedia page? It varies. Sometimes — as with the Nuclear Matters material in the video above — what sticks out most is the agenda of the group, e.g. something you thought was a research group turns out to be a political advocacy group with ties to the industry. Sometimes it's the fact that a source has a history of unreliability, as was the case with *Before It's News*. And many times (most, actually!) it will turn out the source just fine, as we saw above with the *SacBee* example.
@@ -956,6 +974,10 @@ The Miseducation of Dylan Roof
 ###### Vocabulary: paper of record
 
 A national paper of record is a reputable paper that attempts to cover all important national news with staff reporters. They are distinguished from regional and local papers which use staff primarily for local or regional news.
+
+</article>
+
+</article>
 
 #### What's Important Depends On Context
 
@@ -1094,6 +1116,10 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 
 - For what sort of other stories might a local source be a particularly good authority?
 - For what sort of other stories might a local source not be a good authority?
+
+</article>
+
+<article>
 
 #### Volcano plain (prompt)
 
