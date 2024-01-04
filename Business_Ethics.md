@@ -23,13 +23,7 @@ I am so glad you're here. While I have taught this class well over ten times, th
 
 > Watch the following video to get to know a few things about me, as well as discover a bit about our class. 
 
-!?[Welcome video: Busn435](https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c)
-
-
-
-Embed code from Canvas
-
-<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="busn435-welcome-video-walk" src="https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c" frameborder="0"></iframe>
+<iframe width="100%" height="580" allowfullscreen="true" allow="autoplay *" title="busn435-welcome-video-walk" src="https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c" frameborder="0"></iframe>
 
 
 
@@ -49,7 +43,7 @@ This course is designed to be engaging, challenging, and practical, encouraging 
 
 ## 00. Why take a business ethics class
 
-![Course graphic header lesson 00](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00.jpg) 
+![Course header graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00.jpg) 
 
 This is text below the graphic. Maybe it has to be there? 
 
@@ -228,9 +222,9 @@ You will notice a pattern in this class. Throughout the semester, we will all:
 
 I know it is cliché, but you will get out of this class what you put into it. While I recognize that each of you has busy schedules and plenty of other priorities, I expect that you will invest not just time into this course, but also that you'll challenge yourself to make this a good ROI (return on investment) for the time and money spent such that you can be a part of it. Do the right thing by investing in yourself and others this semester. 
 
-> Brothers and sisters, do not be weary in doing what is right."
+> "Brothers and sisters, do not be weary in doing what is right."
 >
-> ~ 2 Thessalonians 3:13
+> -- 2 Thessalonians 3:13
 
 # Ten Lessons
 
@@ -636,9 +630,9 @@ People said it was some bad combination of pop rocks and Diet Coke. Or maybe jus
 
 How would we have figured out if this was true back at that time? There wasn't an internet to go check. There were newspapers, limited by page and word counts and professional journalists and researcher assistants.
 
-### 04.02 Serve up the starter, sir | #sense
+### 04.02 Serve up the starter course, sir | #sense
 
-Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be modifying what he has shared with the public, as part of a Creative Commons license that allows what is called remixing. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
+Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be making use of a lot what he has shared in his [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed), which he has made available under a Creative Commons license[^1]. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
 
 <article>
 
@@ -714,7 +708,7 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 >
 >Take this TikTok video, for example. In it, one user has made a video that complains about the discontinuation of plastic straws out of what she sees as too high a level of concern about turtles. It's a bit meanly expressed, but that's her point. Another user posts a reaction — by 2050 there will be more plastic in the ocean than fish.
 
-!?[TikTok: Claim about plastic in the ocean](https://www.tiktok.com/@ishouldabeencremated/video/6697645692942290181?embed_source=121374463%2C121351166%2C71838019%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_pause_share&refer=embed&referer_url=checkpleasecc.notion.site%2F&referer_video_id=6697645692942290181)
+<iframe width="560px" height="800px" allowfullscreen="true" allow="autoplay *" title="duet with at beastmoder247 it is about more than just turtles savetheoceans" src="https://vanguard.instructuremedia.com/embed/a59c0eb3-77da-4741-90db-8b274b102b2b" frameborder="0"></iframe>
 
 >It has literally taken me longer to explain this video than it takes you to watch it. But is the claim true? And what would happen if you had to engage in 20 minutes of investigation for every 10 second piece of content you viewed that made a claim?
 >
@@ -726,76 +720,130 @@ Mike Caulfield has developed a great course to get us up and running with SIFT. 
 >
 >While short methods may seem less rigorous, they are in fact better than long methods for many tasks. When I switch lanes while driving on the highway, I don't do a ten minute analysis of whether a car *might* be in the lane next to me. I check the mirror, do a head check, and change lanes. If my father had given me a ten minute lane-changing process when teaching me to drive, I wouldn't use it, and frequent accidents would just be a part of my life. This is the sort of thing you need for reading the web as well.
 
+##### Problem 3: Using too many criteria results in stupid decisions
 
-
-CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
+>One popular idea is that checklists are important because they force students to evaluate dozens of criteria instead of just a few. But does evaluating more criteria result in better decisions? Many teachers say yes. The research says no.
+>
+>The problem with having dozens of criteria is that many of them conflict. Readers then get overwhelmed, unsure to which ones they should pay the most attention.[^2] And that produces what I call the "sleazy car salesperson" effect.
+>
+>Maybe you've had the good fortune to never have to deal with a car dealership. But the way it usually goes is this. You go in to get a car and you just want automatic braking, a rear camera, and satellite radio. What happens? Well, they've got a car that has all three, but it's also the luxury sedan and it's $8,000 more. You do get seat warmers and remote start, which are worth x hundred dollars, and the new side collision detection that's at least $1,000 as an after-market addition. Or you can get this other car that has two features but not the third, and if you add on the aftermarket cost it's less expensive than the luxury car, but you don't get that side collision detection, etc., etc. And... well, it's exhausting even to read that, right?
+>
+>Car dealers set up cars this way intentionally, so that you can never weigh a couple factors in isolation, which leads to us being cognitively overwhelmed and making bad decisions. The effects of this sort of criteria overload are well-documented, going back decades. Yet methodologies like CRAAP set up processes in the same way.
+>
+>On a pre-assessment we give to students, for example, we have students evaluate a statistical claim about firearm background checks. The sort of response we see repeatedly is, "Well, it's a .org so it's likely to be trustworthy, but it has an ad on the page so maybe not." It's this is "car lot" cognition. There's a tidal wave of conflicting signals so in the end we throw up our hands and say, "Who can know?"
 
 </article>
 
 CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
 
-Next is an article. 
+</article>
+
+#### Thank you, sir, may I have another
+
+We're back to Mike Caulfield's Check, Please! Starter Course and he's about to get to the main dish: SIFT. All these eating metaphors are making me hungry. 
+
+##### Introducing SIFT
+
+> So if long lists of things to think about only make things worse, how do we get better at sorting truth from fiction from everything in-between?
+>
+> Our solution is to give students and others a short list of things to do when looking at a source, and hook each of those things to one or two highly effective web techniques. We call the "things to do" moves and there are four of them:
+
+![Infographic showing the steps of SIFT: Stop, investigate the source, find trusted coverage, trace claims, quotes and media to the original context.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe3662e32-fba3-4ede-a0a1-3158cac5438b%2Fsift.png?table=block&id=a7a1f341-c590-4253-8f75-48453f8be726&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
+
+###### Stop
+
+>The first move is the simplest. **STOP** reminds you of two things.
+>
+>First, when you first hit a page and start to read it — STOP. Ask yourself whether you know and trust the website or source of the information. If you don't, use the other moves to get a sense of what you're looking at. Don't read it or share it until you know what it is.
+>
+>Second, after you begin the process and use the moves it can be too easy to go down a rabbit hole, chasing after more and more obscure facts or getting lost in a "click cycle". If you feel yourself getting overwhelmed in your fact-checking efforts, STOP and take a second to remind yourself what your goal is. Adjust your strategy if it isn't working. Make sure you approach the problem at the right amount of depth for your purpose.
+
+###### Investigate the source
+
+> We'll go more into this move in the next lesson. The key idea is to know what you're reading *before* you read it.
+>
+> This doesn't mean you have to do a Pulitzer prize-winning investigation into a source before you engage with it. But if you're reading a piece on economics by a Nobel prize-winning economist, you should know that before you read it. Conversely, if you're watching a video on the many benefits of milk consumption that was put out by the dairy industry, you probably want to know that as well.
+>
+> This doesn't mean the Nobel economist will always be right and that the dairy industry can't ever be trusted. But knowing the expertise and agenda of the source is crucial to your interpretation of what they say. Taking sixty seconds to figure out where it is from *before* reading will help you decide if it is worth your time, and if it is, help you to better understand its significance and trustworthiness.
+
+###### Find trusted coverage 
+
+> Sometimes you don't care about the particular article that reaches you. You care about the claim the article is making. You want to know if it is true or false. You want to know if it represents a consensus viewpoint, or if it is the subject of much disagreement.
+>
+> In this case your best strategy is to ignore the source that reached you and look for other trusted reporting or analysis on the claim. In other words, if you receive an article that says koalas have just been declared extinct from the Save the Koalas Foundation, the winning strategy may be to open up a new tab and find the *best* source you can that covers this, or, just as importantly, scan multiple sources to see what the consensus seems to be. In these cases we encourage you to "find trusted coverage" that better suits your needs — more trusted, more in-depth, or maybe just more varied. We'll show you some techniques to do this sort of thing quickly.
+>
+> Do you have to agree with the consensus? Absolutely not! But understanding the context and history of a claim will help you better evaluate it.
+
+###### Trace claims, quotes, and media back to the original context
+
+> A lot of things you find on the internet have been stripped of context. Maybe there's a video of a fight between two people. But what happened before that? Who started it? What was clipped out of the video and what stayed in? Maybe there's a picture that seems real but the caption is dubious at best. Maybe a claim is made about a new medical treatment supposedly based on a research paper — but you're not certain if the paper supports it.
+>
+> In these cases we'll have you trace the claim, quote, or media back to the source, so you can see it in its original context and get a sense if the version you saw was accurately presented.
+
+###### It's about REcontextualizing
+
+> There's a theme that runs through all of these moves: it's about getting the necessary context to read, view, or listen effectively. And doing that *first*.
+>
+> One piece of context is who the speaker or publisher is. What's their expertise? What's their agenda? What's their record of fairness or accuracy? So we investigate the source. Just as when you hear a rumor you want to know who the source of it is before reacting to it, when you encounter something on the web you need the same sort of context.
+>
+> When it comes to claims, a key piece of context includes whether they are broadly accepted or rejected or something in-between. By scanning for other coverage you can see the expert consensus on a claim, learn the history around it, and ultimately land on a better source.
+>
+> Finally, when evidence is presented with a certain frame — whether a quote or a video or a scientific finding — sometimes it helps to reconstruct the original context in which the photo was taken or research claim made. It can look quite different in context!
+>
+> In some cases these techniques will show you claims are outright wrong, or that sources are legitimately "bad actors" who are trying to deceive you. But even when material is not intentionally deceptive, the moves do something just as important: they reestablish the context that the web so often strips away, allowing for more fruitful engagement with all digital information.
+
+Vocabulary: bad actor, Pulitzer Prize
+
+
+
+CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
+
+*The text and media of this site, where possible, is released into the CC BY, and free for reuse and revision. We ask people copying this course to leave this note intact, so that students and teachers can find their way back to the original (periodically updated) version if necessary. We also ask librarians and reporters to consider linking to the canonical version.*
+
+*As the authors of the original version have not reviewed any other copy's modifications, the text of any site not arrived at through the above link should not be sourced to the original authors.*
+
+</article>
 
 <article>
-  We've been doing research into why students fail to separate fact from fiction on the web.
 
-What we've found? Students are bad at the web because they've been taught techniques that make them bad at it. And they've learned those those bad techniques from *teachers*.
+#### It's time to get those feelings out (in journal form)
 
-Here's some things students often believe:
+You are being introduced to some skills that will be new for most of you. It may start to seem like a lot, so it is time to start capturing the learning in such a way as to be more memorable for you in the coming weeks and months. I've kept notes on SIFT and have even vlogged about my learning in a public way on my YouTube channel. 
 
-- They believe that .org's are more trustworthy than .com's.
-- They believe that a good looking layout and few typos mean something is trustworthy.
-- They think pages that have ads on them are less trustworthy than those that don't.
-- They think that footnotes automatically make a site credible.
+##### Your Notebook
 
-These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
+> Throughout this course you'll be asked both to do basic fact-checking activities and to think more deeply about the material presented. Here we introduce three things to help you with that.
+>
+> We ask that you keep a notebook of your fact-checking exercises in a text editor or a word processor like Notepad, Google Docs, or Microsoft Word. If you are taking this as part of a class, you will periodically be asked to submit the contents of your fact-checking notebook for feedback from [your professor and others in the class]. 
+>
+> The format of the notebook is simple. For each fact-checking assignment you will be given a heading. Write the heading in your document in all capital letters. Then hit enter and answer the questions you are asked to answer. Avoid any fancy formatting as you may have to post this in a format where the formatting will not carry over. 
 
-</article>
+Here's an example of what your notebook might look like:
 
+![TOXIC FOOD BOWLS | The source here is reputable, an independent organization that hires real journalist, and has won awards](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb3d35e6e-fe12-4566-82c8-56df5dbf0714%2Fnotebook.png?table=block&id=1e665ada-81d5-4603-b007-c43956c1bfef&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1320&userId=&cache=v2)
 
+At the very end of the course, you'll be asked to pick your favorite example from the notebook and to create a video, which will be shared with others in the class. Keeping links in your notebook will help save you time, later on, when you go to share your learning in a more public way.  
 
+#####  Reflection prompts and vocabulary
 
-  We've been doing research into why students fail to separate fact from fiction on the web.
+Reflection prompts are used to suggest questions for deeper exploration. Each time you see questions for reflection in the course, copy and paste them over to your notebook and prepare to discuss them either during a synchronous class, or asynchronously, through a video or written response. 
 
-What we've found? Students are bad at the web because they've been taught techniques that make them bad at it. And they've learned those those bad techniques from *teachers*.
+###### Questions for reflection
 
-Here's some things students often believe:
+- Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
 
-- They believe that .org's are more trustworthy than .com's.
-- They believe that a good looking layout and few typos mean something is trustworthy.
-- They think pages that have ads on them are less trustworthy than those that don't.
-- They think that footnotes automatically make a site credible.
+- Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
+- Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
 
-These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
+###### Vocabulary: claims, sources
 
-
-
-
-
-
-  the problem with checklist approaches
-
-
-  We've been doing research into why students fail to separate fact from fiction on the web.
-
-What we've found? Students are bad at the web because they've been taught techniques that make them bad at it. And they've learned those those bad techniques from *teachers*.
-
-Here's some things students often believe:
-
-- They believe that .org's are more trustworthy than .com's.
-- They believe that a good looking layout and few typos mean something is trustworthy.
-- They think pages that have ads on them are less trustworthy than those that don't.
-- They think that footnotes automatically make a site credible.
-
-These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
+- For the purpose of this course, a **claim** is a statement that purports to express something about reality. "The U.S. landed a space craft on the moon in 1969" is a relatively simple claim that is true. "The moon landing of 1969 was fake." is a simple claim that is false. "The mission to land on the moon was driven by Cold War fear more than scientific curiousity" is a complex claim one can have a range of opinions on, but is still, for a given context, either a well-supported claim, a controversial claim, or a claim lacking any real support.
+- A **source** is the place where a claim or other information can be found. This course is a source of information about disinformation. Most claims can be found in multiple sources. You might find information about the moon landing in the Wall Street Journal, a website like Gizmodo, a textbook, a research paper, or a video recording of astronauts talking about the mission.
 
 </article>
 
-
-
-
-
-
+[^1]: Mike Caulfield has asked that people using the [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed) include the following note, so people know how to get back to the original: *The text and media of this site, where possible, is released into the CC BY, and free for reuse and revision. We ask people copying this course to leave this note intact, so that students and teachers can find their way back to the original (periodically updated) version if necessary. We also ask librarians and reporters to consider linking to the canonical version.*
+[^2]: Choices seem like such a good thing, in theory. However, as Mike Caulfield says in the in-depth section of this part of his SIFT course, "Many choices seems promising until you actually have to choose: UB research explains motivation fact..." He then links to [an article in Science Daily](https://www.sciencedaily.com/releases/2019/06/190613153712.htm), which explains how: "People faced with more options than they can effectively consider want to make a good decision, but feel they're unable to do so, according to the results of a novel study. Despite the apparent opportunities presented by a lot of options, the need to choose creates a 'paralyzing paradox,' according to the authors. 'You want to make a good choice, but feel like you can't.'"
 
 ## 05. This is how we do it (in a business context)
 
