@@ -60,7 +60,9 @@ As Christians, we are called to love our neighbors, tell the truth, and seek to 
 
 ### 00.01 It's more important than sword fighting
 
- --{{0}}--
+ ![Course header graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
+
+--{{0}}--
 
 When I first started working at Vanguard, I had my first teaching assistant (TA). His name was Brandon and he was about to graduate. To finish up his coursework, he needed units, but they could be in anything he wanted to take. I thought it was so cool that he got to take sword fighting[^1], even though he wasn't a theatre major and never set foot on the stage. They would practice on the Heath lawn and sometimes I would catch glimpses of them out there, looking like they were having a blast. 
 
