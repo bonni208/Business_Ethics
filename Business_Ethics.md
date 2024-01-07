@@ -31,11 +31,21 @@ I am so glad you're here. While I have taught this class well over ten times, th
 
 This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The is made up of ten lessons [^1] and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
 
-At certain parts of my life, I have felt stuck deciding on what seemed like two, binary choices. Like those old fashioned tv game shows where you had to pick door A or door B. Someone I worked with reminded me that there are hardly only just two options we might pick in our lives. The options are boundless. But, also, Henry Noun reminds us in the following quote that God is with us, through all the choices we make in our life and we can rest easy in that. 
+At certain parts of my life, I have felt stuck deciding on what seemed like two, binary choices. Like those old fashioned tv game shows where you had to pick door A or door B. 
+
+![Game show in the style of 1950s with two doors as choices: A or B](https://innovatelearning.s3.amazonaws.com/game-show-choice.png)
+
+Someone I worked with reminded me that there are hardly only just two options we might pick in our lives. The options are boundless. But, also, Henry Nouwen reminds us in the following quote that God is with us, through all the choices we make in our life and we can rest easy in that. 
 
 > There is no such thing as the right place, the right job, the right calling or ministry. I can be happy or unhappy in all situations. I am sure of it, because I have been … deciding to do this, that, or the other for the next five, ten, or twenty years is no great decision. Turning fully, unconditionally, and without fear to God is. Yet this awareness sets me free.
 >
 > -- Henry J.M. Nouwen 
+
+Thank you for taking the time out of your week to get started with Business Ethics (aka BUSN 435). 
+
+![LEGO bricks - AI generated - university campus](https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-00-start.png)
+
+*While not an actual LEGO set you can buy (nor am I quite that huge in real life), I'm looking forward to us being able to use our creativity together this semester to create something memorable. Not sold in stores. Not available in real life. Not Vanguard's actual campus. You get the idea...* 
 
 [^1]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
 [^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
@@ -46,7 +56,7 @@ At certain parts of my life, I have felt stuck deciding on what seemed like two,
 
 Welcome to Business Ethics (BUSN435) at Vanguard University. Throughout your experience of taking ten lessons and then experiencing ten challenges, you will grapple with essential questions about living a life of character and remaining true to your faith within the context of business. My aim is to equip you with the tools and insights necessary to navigate the complex landscape of ethical decision-making in the business world while upholding the values and principles rooted in your beliefs. Through these experiences, I hope to empower you to become an ethical leader who inspires positive change and positively impacts your professional and personal spheres.
 
-### 00.01 Why take a business ethics class
+### 00.01 | Why take a business ethics class | 50 min
 
 Speaking of decisions, there are likely many reasons a person may decide to take a class about business ethics. 
 
@@ -55,6 +65,8 @@ Speaking of decisions, there are likely many reasons a person may decide to take
 **Flexibility.** Sometimes students tell me that the flexibility of the course gave them the option to design their schedule to meet their needs (whether that be because they're an athlete and they can better navigate practice times and games, or because they have work during many of the weeks when most of us will be meeting on Zoom). 
 
 **The professor.** Finally, some people say that they have had me for classes, previously, and that they're excited for another adventure together. I don't take that lightly, as it is truly a joy to get to learn with others and I'm glad you have decided to take another class with me. 
+
+**You're not sure ~ yet.** It's also quite possible you don't know yet why you're taking this class. Perhaps as you put together your schedule, everything didn't fall into place like you had hoped it would. My encouragement to you is to consider this week all of your schedule and determine if there are any changes you want to make, as when I was in college, I didn't think as intentionally as I might have liked to do about all the possibilities. If this is you, I don't want you to think you're alone. 
 
 --{{0}}--
 
@@ -98,7 +110,7 @@ Most of us like to consider ourselves ethical people. However, without being awa
 
 !?[The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV)
 
-
+###### ? 00.01 | Review questions | The Importance of Business Ethics
 
 > Here are some questions to test your understanding from watching the video. 
 
@@ -142,7 +154,7 @@ Ethical responsibilities extend to society by promoting sustainable practices an
 
 [^1]: There's a lot more nuance regarding social media's impact on youth. The [Pew Research Center has some key findings from 2023](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/) to explore for more. 
 
-#### Your professor finds utter joy in teaching and learning
+#### You're joining someone who finds utter joy in teaching and learning
 
 Since the age of five, I knew what I was going to do for a living. I would have my stuffed animals and dolls set carfully out in my room, approximating a classroom. My mom had bought me materials from a local educational store. I had the books that my 'students' could use, as well as the 'teachers' edition, used to guide me in my pedagogy. My bedroom door had a sign hung on it, which read: Room 208. The name I used was Miss. Monroe, a testiment to the power of the 1970s version of the tv show Charlie's Angels' characters in my life at the time. 
 
@@ -180,7 +192,7 @@ You are also likely to notice that I enjoy laughing and having fun. As Christoph
 
 My hope is that we'll take our character seriously and the call to love our neighbors, while not taking ourselves too seriously (leaving room for growth and humility). May I be a person who models that right along with each of you. May you take the radical step of deciding each week that you're going to show up for the work in this class. If we do that together, it's quite possible we could leave changed people. 
 
-### 00.02 How this class works
+### 00.02 | How this class works
 
 Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how and when you can show up. 
 
@@ -191,6 +203,10 @@ Ok. Not really. I'm not actually going to be teaching anything about the space-t
 However, I do want to share how this class works, in terms of the 'time' that class is held each week. In a normal class, you walk into a classroom and the professor 'marks' you as present. Sometimes there are points associated with you entering the room (and staying there). Sometimes, you have more autonomy for determining when it makes sense for you to attend. 
 
 In our class, we have Zoom sessions, which are somewhat like a normal class, in that they have a start time and an end time. However, there's also an option for you to not participate in those, but to otherwise demonstrate your having 'shown up' for class that week. 
+
+On Canvas, you will see calendar entries most weeks called #connect, which reflect the times most of us will gather at the set time. During that time, we will often spend the time focused on  a portion of the lesson for that week (or occasionally part of a challenge). 
+
+Higher education policies require that we have something that approximates attendance in a normal class, so if you come to the Zoom session, I'll mark you as "S" which stands for synchronous (meaning you attended using the scheduled time option). If you aren't at the Zoom, but you share your lesson for the week by the deadline, I'll mark you as "A" ~ which stands for asynchronous (meaning you opted to do the asynchronous option that week). I'm getting ahead of myself, though. More on this later on. 
 
 #### Your story and our stories matter
 
@@ -215,17 +231,16 @@ I continue to find technology fascinating and marvel at both its positive and ne
 | **Instagram**          | Did you know that Instagram allows you to create a separate account from your main one? In this class, we will each keep an account where we can share the learning from our class, engage with each other and build community. |   Medium   |
 | **Raindrop.io**        | A big part of our class is going to be sharing with each other what we are learning and how we see business ethics through our unique contexts and current events. We will therefore need a place to store our stuff that connects us with each other and back into Canvas. We are going to use a digital bookmark tool called Raindrop.io, which lets us save stuff in a shared bookmark list, but will also push what we're finding onto our Canvas course shell. |   Medium   |
 | **Canvas Studio**      | Inside Canvas is a video creation and collection tool called Canvas Studio. When you're logged into Canvas from a computer, you can access the tool way over on the right hand side of your browser, in the same place you can view the calendar, dashboard, etc. This semester, we will be creating and sharing many videos and having everything in one place is going to be incredibly helpful for us all. |    Hard    |
+| **Goosechase**         | Another tool we will experiment with is a virtual scavenger hunt app called Goosechase. The only hard part (for some people) will be having enough room on your phone for an app. Other than that, Goosechase is easy to use, allowing you to share your learning with the community and connect with each other and me. |    Easy    |
 |                        |                                                              |            |
-
-
 
 #### Ten lessons and challenges
 
 You will notice a pattern in this class. Throughout the semester, we will all: 
 
-- Learn stuff - by watching videos, reading text, talking to each other and people we connect with as a class, wrestling with case studies, checking our understanding through games and quizzes
-- Do stuff - challenge ourselves to go beyond just learning something, but actually applying it in some way
-- Share stuff - the best kind of learning is the kind that is done in community with others
+- Learn stuff - by watching videos, reading text, talking to each other and people we connect with as a class, wrestling with case studies, checking our understanding through games and quizzes **#seek**
+- Do stuff - challenge ourselves to go beyond just learning something, but actually applying it in some way **#sense**
+- Share stuff - the best kind of learning is the kind that is done in community with others **#share**
 
 I know it is cliché, but you will get out of this class what you put into it. While I recognize that each of you has busy schedules and plenty of other priorities, I expect that you will invest not just time into this course, but also that you'll challenge yourself to make this a good ROI (return on investment) for the time and money spent such that you can be a part of it. Do the right thing by investing in yourself and others this semester. 
 
@@ -233,9 +248,63 @@ I know it is cliché, but you will get out of this class what you put into it. W
 >
 > -- 2 Thessalonians 3:13
 
+My commitment is the same right back to you. As you challenge yourself, I will be continuing to work to be effective at facilitating learning and helping us all to have fun and be compassionately challenged along the way. 
+
+###### ? 00.02 | Review questions | How this class works
+
+> Here are some review questions on how this class works. Test your understanding by answering them. 
+
+
+
+What is the definition of synchronous attendance in this class?
+
+[[ ]] Attending class via the alternative attendance options
+
+[[ ]] An option for those who can't meet or prefer not to meet at the scheduled times
+
+[[X]] Attending class during the scheduled time via Zoom
+
+[[ ]] Informing Dr. B about your absence in advance
+
+
+
+How is the class structured?
+
+[[ ]] Around five lessons and five case studies
+
+[[X]] Around ten lessons and ten challenges
+
+[[ ]] Around ten lessons, five challenges, and three exams
+
+[[ ]] Around a varied number of lessons and challenges
+
+
+
+You must attend the Zoom sessions each week.
+
+[[ ]] True
+
+[[X]] False
+
+
+
+You are expected to let Dr. B know if you are going to miss class.
+
+[[ ]] True
+
+[[X]] False
+
+See Canvas and the syllabus for more information about how the class is structured. I'm here, if you have any questions or are confused about how this all works. I know it is not the norm for most classes and may take some getting used to. I have heard overwhelmingly positive feedback about Flex-VU classes in the past and will commit to doing what I can to ensure that we have a good experience together this semester. 
+
 # Ten Lessons
 
 Welcome to the Ten Lessons, which make up one half of our Business Ethics course. These lessons cover key topics in ethical considerations within the business realm. Throughout the course, we'll explore various ethical frameworks, influential moral philosophers, the importance of fact-checking in the news and on social media, corporate social responsibility, the triple bottom line, the necessity for having an ability to change our minds, and both the positive and negative aspects of corporate behavior. We'll also discuss the roles of power and privilege in business for promoting positive outcomes. My goal is to create a learning community in which we can consider ways to cultivate our character and to be able to make more principled decisions in the complex world of business. 
+
+The goal of having these lessons is to engage you in learning more about ethics in the context of organizations. 
+
+!?[Ethics definted](https://youtu.be/4vWXpzlL7Mo?si=rLXDvfQnBHPLFFRN)
+
+Rules or guidelines that determine what is right and wrong for individuals. Codes of conduct within certain professions, such as accountants, journalists, or event planners help guide people toward more ethical decisions. 
 
 ## 01. It's all personal (or is it?)
 
@@ -259,35 +328,137 @@ In this short Inside Out movie clip, the character of Joy realizes the value of 
 
 !?[Clip: Joy realizes the value of sadness](https://youtu.be/V9OWEEuviHE?si=gPCW1ha4JD_bIkPg)
 
-In order to explore the topics in this class, recognizing the varying perspectives we will inevitably have, emotional intelligence is going to be crucial. 
+Historically-marginalized populations often face emotional challenges related to discrimination, bias, and inequality. Developing emotional intelligence can help individuals from these communities navigate these challenges, build resilience, and advocate for their rights effectively. In researching grit and perseverance, Dr. Angela Duckworth, a renowned psychologist, emphasizes the significance of emotional intelligence. Her work underscores how understanding and managing emotions can empower individuals, particularly those from disadvantaged backgrounds, to overcome challenges and achieve success. 
+
+James Baldwin, a prominent African American writer and activist, stressed the importance of empathy (which is a big part of emotional intelligence) in addressing racial inequalities. He argued that recognizing and empathizing with the experiences of marginalized communities is essential for fostering social change and dismantling systemic discrimination. 
+
+> "Love takes off the masks that we fear we cannot live without and know we cannot live within."
+>
+> -- James Baldwin
+
+In order to explore the topics in this class, recognizing the varying perspectives we will inevitably have and the unique cultures and backgrounds we each come from, emotional intelligence is going to be crucial. 
 
 ### 01.02 | Clarify and Seek Understanding
 
 When faced with a potentially offensive or unclear statement, don't immediately assume negative intent. Instead, ask for clarification or seek to understand the speaker's perspective. This proactive approach can prevent misunderstandings and build trust by demonstrating your willingness to engage in open and honest communication.
 
+In the following [movie clip from "The Princess Bride,"](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C) Vizzini, a character known for his intelligence, repeatedly uses the word "inconceivable" to describe unexpected events or situations. However, as the events become increasingly unusual, Inigo Montoya, one of his companions, becomes frustrated and points out, "You keep using that word. I do not think it means what you think it means."
+
+![The Princess Bride - Inconceivable](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C)
+
+Watching this exchange serves to reminder us all that effective communication requires not only speaking clearly but also seeking understanding and ensuring that the words used convey the intended meaning. It illustrates how misunderstandings can arise when individuals do not clarify or seek to understand the language and expressions used in communication.
+
+Paulo Freire, a Brazilian educator, highlights the importance of dialogue in his work on critical pedagogy. He argues that genuine understanding and transformation can only occur through dialogue that respects diverse perspectives and challenges oppressive systems. He also stresses the role that love plays in people being able to achieve this kind of mutual understanding.
+
+> "Dialogue cannot exist in the absence of a profound love for the world and for people. The naming of the world, which is an act of creation and re-creation, is not possible if it is not infused with love. Love is at the same time the foundation of dialogue and dialogue itself."
+>
+> -- Paulo Freire
+
+In these words, Freire underscores that meaningful dialogue and understanding require a deep love for the world and people. He suggests that through dialogue, we not only seek understanding but also engage in an act of creating and recreating our shared reality. Historically-marginalized communities often face misunderstandings and misrepresentations. Clarifying and seeking understanding is crucial to address these issues, promote cultural sensitivity, and dismantle stereotypes and biases.
+
+
+
 ### 01.03 | Separate feedback from identity
 
 Learn to separate feedback or criticism from your self-worth. Constructive feedback is often about the task or the situation at hand and not a judgment of your character. Remember that feedback is an opportunity for growth and improvement, not a personal attack.
 
-By implementing these strategies, individuals can minimize the tendency to take things personally, promote healthy communication, and build trust within a business or class context.
+In "The Office," Jim gets a formal warning about how much time he spends goofing around. When in fact, the people giving him the feedback tend to be unable to process their feelings toward Jim or communicate with him in an otherwise healthy way. 
 
-### 01.04 | Be aware of cognitive dissonance
+!?[Jim gets a formal warning](https://youtu.be/orm0sLYXSzw?si=FM9BNdMNttjW7niK)
 
-Recognize Cognitive Dissonance: In order to develop emotional intelligence, it's crucial to be aware of cognitive dissonance, a psychological phenomenon where individuals experience discomfort due to conflicting beliefs or values. 
+This scene serves as a reminder that feedback should be constructive, objective, and focused on job-related performance. When feedback becomes intertwined with personal comments, it can hinder professional growth and create discomfort in the workplace. Those individuals who are from historically-marginalized populations may often receive feedback tied to stereotypes or biases. When we can separate feedback from our identity, it can empower us to assert our authentic selves and challenge oppressive narratives.
 
-In the film "A Beautiful Mind," the character John Nash, a brilliant mathematician, experiences cognitive dissonance as he struggles with his mental health issues. The movie highlights the importance of recognizing and addressing cognitive dissonance, as it can impact our emotional well-being and decision-making. It's a great movie, in case you haven't seen it before. On a much shorter front, watch [this explainer from Concepts Unwrapped about Cognitive Dissonance](https://youtu.be/m_lCO2cBNts?si=FOTnpfcSHLs0iTTE) (6 minutes). 
+### 01.04 | Navigate cognitive dissonance
+
+In order to develop emotional intelligence, it's crucial to be aware of cognitive dissonance, a psychological phenomenon where individuals experience discomfort due to conflicting beliefs or values. Cognitive dissonanceoccurs when we experience a sort-of mental tug-of-war that leaves us feeling uneasy and seeking resolution. But how do we deal with this internal conflict? There are some common ways that the human mind attempts to find equilibrium within ourselves.
+
+Watch [this explainer from Concepts Unwrapped about Cognitive Dissonance](https://youtu.be/m_lCO2cBNts?si=FOTnpfcSHLs0iTTE) (6 minutes). 
 
 !?[Cognitive Dissonance | Concepts Unwrapped](https://youtu.be/m_lCO2cBNts?si=B75B1GhqPAVAbp7G)
 
-Developing emotional intelligence involves acknowledging and resolving these inner conflicts to make more informed and balanced choices.
+Edward Said, a Palestinian-American scholar, examined cognitive dissonance in the and argued that recognizing and addressing dissonance is crucial for promoting cross-cultural understanding and justice. Said emphasizes with the following quote the significance of recognizing and addressing the conflicts and dissonances that can arise when people from different cultures and backgrounds interact. 
+
+> "The conflicts, tensions, and incompatibilities between cultures and societies generate the stuff of history and politics. Understanding and acknowledging these dissonances, rather than smoothing them over, is an important step toward genuine cross-cultural awareness."
+>
+> -- Edward Said
+
+Said advocates for understanding these tensions as an essential aspect of human relationships, rather than attempting to erase or ignore them. In the film "A Beautiful Mind," the character John Nash, a brilliant mathematician, experiences cognitive dissonance as he struggles with his mental health issues. The movie highlights the importance of recognizing and addressing cognitive dissonance, as it can impact our emotional well-being and decision-making. It's a great movie, in case you haven't seen it before. Here's a [clip where Nash explains that he is different than other people](https://youtu.be/dCULi2k1su4?si=3PWv-chFXhoW9f-N). 
+
+!?[Clip: A beautiful mind - I don't like people much](https://youtu.be/dCULi2k1su4?si=3PWv-chFXhoW9f-N)
+
+Historically-marginalized groups can grapple with cognitive dissonance when faced with societal expectations that conflict with their authentic identities. Acknowledging and addressing these conflicts is essential for self-empowerment and cultural affirmation.
+
+Developing emotional intelligence involves acknowledging and resolving these inner conflicts to make more informed and balanced choices. By implementing these strategies, individuals can minimize the tendency to take things personally, promote healthy communication, and build trust within a business context (as well as in our class' learning community).
+
+###### ? 01.04 | Review questions: It's all personal (or is it?)
+
+> Answer the following questions to test your understanding of the concepts in this section. 
+
+How does the scene from Zootopia in this lesson demonstrate the ease with which bias can enter into our communication?
+
+[[ ]] By showing characters using biased language
+
+[[ ]] By highlighting the importance of diversity
+
+[[X]] By emphasizing emotional intelligence
+
+[[ ]] By portraying discrimination as insignificant
+
+
+
+Emotional intelligence is the ability to recognize, understand, manage, and use [[emotions]] effectively in interpersonal relationships.
+
+
+
+Why is it important to recognize varying perspectives and demonstrate emotional intelligence in communication?
+
+[[ ]] To avoid any disagreement
+
+[[X]] To foster empathy and better understanding
+
+[[ ]] To be more influential in expressing one's own viewpoint
+
+[[ ]] To win arguments
+
+
+
+In the Princess Bride clip where the word "inconceivable" is repeated, what does it illustrate regarding effective communication?
+
+[[ ]] The importance of continuing to use more complex vocabulary in our speaking
+
+[[ ]] The significance of clear speaking and using simple vocabulary 
+
+[[ ]] The need to use humor in communication
+
+[[X]] The importance of ensuring words convey the intended meaning in our communication
+
+
+
+According to the quote from Paulo Freire, what is the most necessary element for dialogue?
+
+[[ ]] Empathy
+
+[[X]] Love for the world and for people
+
+[[ ]] Logical reasoning
+
+[[ ]] Assertiveness
+
+
 
 ## 02. That seems really inappropriate (Get to know your favorite philosophers) 
 
 ![Course header graphic - lesson 02](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-02.jpg)
 
-Before we get to study applied business ethics (in the context of an organization or industry), it is important to establish a firm foundation. In this lesson, we will delve into the ideas and philosophies of influential thinkers who have shaped ethical thought over centuries. What are the fundamental principles that guide ethical decision-making in business? How do different philosophical perspectives offer unique insights into corporate responsibility, sustainability, and social justice? By getting to know these philosophers, we will gain a deeper understanding of the ethical complexities that arise in the business world and how to navigate them effectively.
+Before we get to study applied business ethics (in the context of an organization or industry), it is important to establish a firm foundation. Let's first delve into the ideas and philosophies of influential thinkers who have shaped ethical thought over centuries. 
 
-### 02.01 | We're going to Harvard to meet one of their most popular professors | 5 minutes #seek
+> What are the fundamental principles that guide ethical decision-making in business? How do different philosophical perspectives offer unique insights into corporate responsibility, sustainability, and social justice? 
+
+By getting to know these philosophers (and some associated ethical frameworks), we will gain a deeper understanding of the ethical complexities that arise in the business world and how to navigate them effectively. The good news is that we aren't going alone.
+
+### 02.01 | Road trip: We're going to Harvard
+
+![LEGO depiction of a road trip to Harvard University - a group of students about to hop in a VW bus](https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-01-roadtrip.png)
 
 Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! Now, don't get too excited, we won't be donning crimson robes and walking the hallowed grounds, but we will getting to make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^1].
 
@@ -305,17 +476,23 @@ As we travel (at least in our imaginations) to Harvard's campus and experience S
 
 [^1]: According to [an oped (opinion piece) by Thomas L. Friedman](https://www.nytimes.com/2011/06/15/opinion/15friedman.html) in the New York Times. 
 
-### 02.02 | What's the right thing to do? The moral side of murder | 50 minutes | #watch #seek
+### 02.02 | The moral side of murder and the case for cannibalism
 
-Watch: Sandel first video
+Episode One of Sandel's Justice class considers how effectively utilitarianism helps us use utility for decision making and inquires as to whether it helps us arrive at the right answer. In the first half of his lecture, Michael Sandel presents a hypothetical scenario to his students: Would you kill one person to save the lives of five others? Is it the right thing to do? This scenario launches a discussion on moral reasoning and the complexity of making ethical decisions in extreme situations.
 
-In the first lecture of his course on moral reasoning, Michael Sandel presents a hypothetical scenario to his students: Would you kill one person to save the lives of five others? Is it the right thing to do? This scenario launches a discussion on moral reasoning and the complexity of making ethical decisions in extreme situations.
+> If you had to choose between (1) killing one person to save the lives of five others and (2) doing nothing even though you knew that five people would die right before your eyes if you did nothing—what would you do?  What would be the right thing to do?
+
+In the second half of this thought-provoking video, Michael Sandel delves into the ethical principles of renowned utilitarian philosopher Jeremy Bentham. He introduces a well-known nineteenth-century legal case that unfolds as a shipwrecked crew of four individuals faces an agonizing dilemma. After enduring nineteen days adrift at sea, the captain makes a morally complex decision – to sacrifice the life of the weakest member, a young cabin boy, to ensure the survival of the rest by consuming his blood and body. 
+
+> Suppose you find yourself in a situation in which killing an innocent person is the only way to prevent many innocent people from dying. What’s the right thing to do? This question arose in The Queen v. Dudley and Stephens (1884), a famous English law case involving four men stranded in a lifeboat without food or water. How should we judge the action of Dudley and Stephens? Was it morally justified or morally wrong?
+
+This captivating case serves as a catalyst for an engaging classroom debate, challenging the moral validity of utilitarianism and its doctrine that deems "the greatest good for the greatest number" as the ultimate ethical guideline. Join us as we explore this profound moral inquiry and grapple with the complexities of ethical decision-making.
 
 Watch: [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://youtu.be/kBdfcR-8hEY?si=gpS0-hehZufCawH7)
 
 !?[Justice: What's The Right Thing To Do? Episode 01 THE MORAL SIDE OF MURDER](https://youtu.be/kBdfcR-8hEY?si=zljc0h84kXS4S_HB) 
 
-### 02.03 | Did ya get it? | 15 minutes | #sense
+###### ? 02.03 | Review questions | The moral side of murder
 
 Test your understanding of the basics of the concepts Sandel brought up in this first lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
 
@@ -354,6 +531,8 @@ In the trolley problem, if you choose to divert the trolley to save five people 
 [[x]] Utilitarian ethics.
 [[ ]] Existential ethics.
 
+### 02.04 Let's give them something to talk about
+
 Discuss Justice - Part 1
 
 The following discussion questions are adapted from Michael Sandel's materials. Answer the three questions posed below, as a means of reflecting further on the first Justice video. Refrain from looking up answers on the internet, as I want to discover what you think is the right thing to do here, not be influenced by what others think, or have thought in the past... 
@@ -378,11 +557,19 @@ https://quizlet.com/473181285/justice-part-1-flash-cards/?i=omwnz&x=1jqt
 
 
 
-### 02.04 | Name that tune... I mean trolley problem meme | 15 minutes | #share
+### 02.05 Name that tune... I mean trolley problem meme
 
 Find an example of the trolley problem in a meme or from a video clip. Here's an example one, which means this one is off limits to share. 
 
 !?[Clip: The trolley problem on The Good Place](https://youtu.be/lDnO4nDA3kM?si=Bd-RFuaB-L5bkqYa)
+
+
+
+Let's just say the topic of inappropriate things comes up in our household often. Let's also say that it isn't always because of something our kids have said in conversation. If pulling levers in the last Michael Sandel Justice video wasn't bad enough, now we are going to explore the case for cannibalism. 
+
+In The Case for Cannibalism, Michael Sandel explores the ethical principles introduced by utilitarian philosopher Jeremy Bentham. Sandel delves into a compelling historical case from the nineteenth century, centered around a shipwrecked crew of four individuals. Faced with the dire challenge of survival after nineteen days adrift at sea, the captain is forced to make a morally complex decision – to sacrifice the life of the weakest member, the cabin boy, in order to sustain the rest of the crew by consuming his blood and body.
+
+
 
 
 
@@ -429,7 +616,7 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 02.04 | Get real with John Rawls', y'all! | 15 minutes | #sense
+### 02.06 | Get real with John Rawls', y'all! | 15 minutes | #sense
 
 
 
@@ -439,7 +626,7 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 02.06 | Aristotle meets Batman | 15 minutes | #sense
+### 02.07 | Aristotle meets Batman | 15 minutes | #sense
 
 Another framework 
 
@@ -517,7 +704,9 @@ When I was earning my doctorate, one of our professors would regularly emphasize
 
 > We are going to be going through a case study that will help you think about how you might make a decision, in the case where it wasn't obvious what the right thing to do was. Again, it is easier than it seems. Use the links on Canvas to access the case and follow the directions for working in groups for the second half. 
 
-### 03.01 Ethical frameworks
+You are going to want to stop reading at this point and head over to Canvas, as otherwise the "ending" may be spoiled for the case and it won't be as meaningful or fun. 
+
+### 03.01 | Ethical frameworks
 
 Let's start with why everyone hates moral philosophy professors, or otherwise getting us to laugh a bit to warm up our brains to discover more about ethical frameworks. In this clip, The Good Place Channel does a mashup of two tv shows, both of which focus on philosophy: 
 
@@ -527,29 +716,177 @@ Ethical frameworks are systems of moral principles or guidelines that help indiv
 
 You explored some of the ethical frameworks, as you were going through the case study. Several ethical frameworks exist, each with its own principles and approaches to ethical decision making. Let's explore some examples of ethical frameworks
 
-#### Consequentialism
+#### Consequentialism: Weighing actions by their outcomes
 
-This framework asserts that the morality of an action is determined by its outcomes or consequences. **Utilitarianism**, a specific form of consequentialism, emphasizes maximizing overall happiness or minimizing suffering. Individuals following consequentialist ethics will consider the potential consequences of their actions and choose the course of action that results in the greatest good for the greatest number.
+This framework asserts that the morality of an action is determined by its outcomes or consequences. Let's look at an example of a company who took a look at the outcomes of their decisions and the resulting impacts on the plant. 
 
-#### Deontology
+> Patagonia, an outdoor apparel and gear company, decided to shift its entire product line to use recycled materials, emphasizing environmental sustainability. This decision was made in line with their consequentialist approach, focusing on the positive outcomes for the planet.
+
+!?[What's next? | Patagonia](https://youtu.be/eV_753wIUzo?si=NaOPwnl3jRpR03kV)
+
+> Patagonia's commitment to using recycled materials led to reduced environmental impact, increased brand loyalty among environmentally-conscious consumers, and positive financial results. The company's decision aligned with consequentialist ethics, as it resulted in both ecological benefits and improved profitability.
+
+**Utilitarianism**, a specific form of consequentialism, emphasizes maximizing overall happiness or minimizing suffering. Individuals following consequentialist ethics will consider the potential consequences of their actions and choose the course of action that results in the greatest good for the greatest number.
+
+Of course, businesses haven't always been focused on attaining good outcomes for stakeholders, or the planet. Let's look at a less-than-ideal consequentialist decision making approach, from the company Enron. 
+
+> Enron, once a leading energy company, engaged in unethical accounting practices to inflate its financial statements, a decision driven by a consequentialist approach aimed at maximizing shareholder value.
+
+!?[Enron: The Smartest Guys in the Room movie trailer](https://youtu.be/-w6duQhWuVk?si=bCrSX1JDe7uW1Znk)
+
+> The consequentialist pursuit of immediate profits through fraudulent accounting eventually led to the collapse of Enron. Thousands of employees lost their jobs and life savings, and investors suffered significant financial losses. Enron's unethical actions, driven by a narrow focus on short-term gains, had catastrophic consequences for all stakeholders involved.
+
+These examples illustrate how consequentialist decision-making in business can result in both positive and negative outcomes, depending on the ethical considerations and long-term consequences taken into account.
+
+#### Deontology: The moral compass of duties and principles
 
 Deontological ethics focuses on the inherent nature of actions rather than their outcomes. It emphasizes adherence to moral rules or duties, irrespective of the consequences. **Immanuel Kant's categorical imperative** is a well-known deontological approach that encourages individuals to act according to principles that could be universally applied without contradiction.
 
-#### Virtue Ethics
+> In the early 1980s, Johnson & Johnson faced a severe crisis when some bottles of their Tylenol product were tampered with, resulting in multiple deaths. The company's decision to recall all Tylenol products from store shelves and redesign packaging to prevent tampering aligns with deontological ethics.
 
-Virtue ethics places importance on the development of virtuous character traits. It suggests that ethical behavior arises from cultivating virtues like honesty, courage, compassion, and integrity. Instead of following strict rules, individuals using this framework strive to embody virtuous qualities.
+!?[Managing the Tylenol crisis](https://youtu.be/jtuvgAkKGqM?si=miUaNQTCcFNG9Lz5)
 
-#### Rights-Based Ethics
+> Johnson & Johnson's decision reflects the principles of Kant's Categorical Imperative, particularly the principle of treating individuals as ends in themselves, not as means to an end. By prioritizing customer safety over short-term profit, the company demonstrated a commitment to ethical duty and the well-being of its consumers. Johnson & Johnson's ethical response to the Tylenol crisis not only saved lives but also enhanced their reputation as a responsible and trustworthy company. While the short-term financial cost was significant, their deontological approach led to long-term benefits in terms of customer trust and brand loyalty.
 
-Rights-based ethics, often associated with the work of philosophers like **John Locke** and **John Stuart Mill**, emphasizes individual rights and freedoms. It asserts that ethical actions are those that respect and protect the rights of individuals, such as the right to life, liberty, and property.
+While Johnson & Johnson can celebrate the choices they made to support a trustworthy brand, other companies have not faired so well and have not acted in accordance to their values. 
 
-#### Social Contract Theory
+> VW faced a scandal when it was revealed that they had intentionally installed software in their diesel vehicles to manipulate emissions test results, prioritizing short-term profits over environmental and regulatory obligations.
+
+!?[Volkswagen's emissions scandal: A timeline](https://youtu.be/Y5TvFY7xRDM?si=osBvzDn4EQ1Y8eht)
+
+> VW's actions in the emissions scandal directly contradict Kant's Categorical Imperative. They treated regulators and consumers merely as means to achieve financial gain, disregarding their moral duty to act honestly and ethically. Kant's principle of universalizability suggests that VW's actions would lead to a world where companies routinely deceive regulators and customers, undermining trust in the industry. The scandal resulted in substantial fines, lawsuits, and damage to VW's reputation. The company's deontological violation of ethical principles not only harmed its brand but also raised questions about corporate responsibility and trust in the automotive industry.
+
+These contrasting examples serve as vivid illustrations of the profound impact ethical frameworks can have on business decisions. While Johnson & Johnson's deontological commitment to consumer safety, as exemplified in their response to the Tylenol crisis, showcased the enduring importance of moral duty and the Kantian Categorical Imperative, Volkswagen's transgressions revealed the devastating consequences of forsaking ethical principles for short-term gains. 
+
+These cases underscore that in the complex landscape of business ethics, adherence to deontological principles, such as treating individuals as ends in themselves, not as means to an end, is not only a matter of moral duty but also a path towards enduring trust, credibility, and long-term success in the corporate world. In the ever-evolving business landscape, the lessons drawn from these cases remain both instructive and cautionary, inviting us to continually examine the ethical foundations that guide our decisions and actions.
+
+#### Virtue Ethics: Cultivating excellence in character
+
+Virtue ethics places importance on the development of virtuous character traits. It suggests that ethical behavior arises from cultivating virtues like honesty, courage, compassion, and integrity. Instead of following strict rules, individuals using this framework strive to embody virtuous qualities. 
+
+> The Body Shop, a cosmetics and skincare company, has long been committed to ethical and environmentally responsible practices. They prioritize sourcing natural ingredients sustainably and supporting fair trade. This aligns with the virtue ethics approach, emphasizing virtues like environmental stewardship and social responsibility.
+
+!?[At 40, The Body Shop becomes most ethical, sustainable global business](https://youtu.be/nbe-8Y6NfMg?si=mWzTzCV2wTiE3BB9)
+
+> The Body Shop's dedication to virtue ethics has led to a positive brand image, increased customer loyalty, and a reputation for promoting ethical and sustainable business practices. Their commitment to virtues such as integrity, compassion, and environmental consciousness has not only been good for their bottom line but has also made a positive impact on the world.
+
+On an entirely different side of the equation, Wells Fargo faced a scandal when it was revealed that the bank had created millions of fake accounts for customers without their consent, driven by a culture that prioritized aggressive sales targets and short-term profits over ethical virtues.
+
+!?[How high up did the Wells Fargo fake accounts go?](https://youtu.be/wHYYUtoPA4s?si=wa17AXVYykF3f4Mw)
+
+> The unethical behavior at Wells Fargo had severe consequences, including significant financial penalties, damage to the bank's reputation, and the loss of customer trust. This incident serves as a stark reminder that even established organizations can falter when they lose sight of virtue ethics and prioritize profits over integrity and customer well-being.
+
+In the realm of business ethics, virtue ethics stands as a beacon of principled conduct, emphasizing the cultivation of virtuous character traits and ethical values. The Body Shop's unwavering commitment to sustainability and fair trade practices exemplifies how virtue ethics can lead to a positive and enduring impact, fostering trust and loyalty among consumers. Conversely, the Wells Fargo scandal serves as a cautionary tale, illustrating the perils of abandoning virtue ethics for short-term gains. Just as superheroes in the movies often uphold moral virtues to protect the greater good, businesses that prioritize ethical virtues create lasting legacies, while those that falter risk facing their own moral reckoning.
+
+#### Rights-Based Ethics: Upholding fundamental human rights
+
+Rights-based ethics, often associated with the work of philosophers like **John Locke** and **John Stuart Mill**, emphasizes individual rights and freedoms. It asserts that ethical actions are those that respect and protect the rights of individuals, such as the right to life, liberty, and property. 
+
+> Ben & Jerry's, an ice cream company, has long been an advocate for social justice and sustainability. They prioritize supporting various social causes, including fair labor practices and environmental responsibility. This aligns with rights-based ethics, which places a strong emphasis on respecting and upholding the rights of individuals and communities.
+
+!?[How Ben & Jerry’s Activism Helps Scoop Up Customers](https://youtu.be/-L0QyO8SClY?si=IinPwRM1hwgnN-Vw)
+
+> Ben & Jerry's commitment to rights-based ethics has not only cultivated a loyal customer base but has also created a positive impact on society. They actively support fair labor practices, ethical sourcing of ingredients, and community engagement, reflecting their dedication to respecting the rights of workers, farmers, and consumers. Their success demonstrates how adhering to rights-based ethics can lead to both profitability and social progress.
+
+Let's contrast Ben & Jerry's commitment to rights-based ethics to the contrasting case of Nike. While Ben & Jerry's has exemplified how upholding the rights and well-being of workers and communities can foster a positive brand image and drive social progress, the story of Nike underscores the repercussions a company can face when neglecting these fundamental rights. 
+
+> Nike faced significant controversy in the 1990s when reports revealed poor working conditions and low wages in overseas factories where their products were manufactured. The company's prioritization of cost reduction and profit maximization over the rights and well-being of factory workers conflicted with rights-based ethics. 
+>
+> Nike's violation of rights-based ethics led to widespread protests, boycotts, and damage to its reputation. The negative consequences, including public outrage and legal challenges, served as a stark reminder that disregarding the rights of workers can have severe repercussions for businesses.
+
+The clothes we wear pose an opportunity for human rights violations to occur, as the Nike example shows. An undercover BBC investigation uncovered a distressing reality. Syrian refugee children were found laboring in Turkish factories, producing clothing for prominent British retailers, including Marks and Spencer and online giant ASOS. While these brands assert their strong stance against exploitation and child labor, this report sheds light on the complex issues surrounding labor rights and ethical responsibility within the global supply chain. This disconcerting revelation echoes the concerns raised in the case of Nike's past labor controversies.
+
+!?[Undercover: The refugees who make our clothes - BBC](https://youtu.be/3tf6qc51Kbw?si=xP_iEDBYCBjo4TV7) 
+
+When it comes to business ethics, the lens of rights-based ethics remains a powerful guide, emphasizing the importance of respecting and upholding the fundamental rights of individuals and communities. Ben & Jerry's commitment to social justice and sustainability showcases how adhering to rights-based ethics can not only foster customer loyalty but also drive positive change in society. 
+
+Conversely, Nike's past missteps and the fast fashion industry as a whole underscore the enduring impact of disregarding workers' rights, serving as a cautionary tale for businesses that prioritize profit over ethical responsibility. Just as iconic heroes in literature and cinema champion justice and individual rights, businesses that embrace rights-based ethics have the potential to make a lasting, positive impact on the world while safeguarding their own moral integrity.
+
+
+
+#### Social Contract Theory: Navigating morality in collective agreements 
 
 This ethical framework, popularized by thinkers like **Thomas Hobbes** and **Jean-Jacques Rousseau**, posits that ethical norms and rules emerge from social agreements and contracts. It emphasizes the importance of following agreed-upon rules for the stability and well-being of society.
 
-### 03.02 Why bother learning about ethical frameworks
+> Starbucks has a longstanding commitment to social responsibility and sustainability. They prioritize fair trade practices, ethical sourcing, and community engagement, aligning with the principles of social contract theory. By respecting the implicit social contract between businesses and society, Starbucks has fostered a positive reputation and customer loyalty.
 
-Before the COVID pandemic hit the world in early 2020, I used to think that all the exercises used to consider ethical frameworks were too theoretical and not realistic enough. Well, let's just say I no longer believe that. More than ever, I find it essential to recognize the ways in which we are using ethical frameworks to guide our decision making and when those values may be in conflict with other people we are collaborating with regarding a decision. Ethical frameworks are essential to learn about for several reasons:
+!?[Follow Starbucks 15 Year Journey to 100% Ethically Sourced Coffee](https://youtu.be/X9g6Z0FYTn8?si=7zJss1EFo9UtqCyQ)
+
+> Starbucks' dedication to social contract theory has led to a positive impact on both their brand and the communities they serve. They actively contribute to the well-being of coffee farmers, support local initiatives, and engage in environmentally friendly practices. This commitment has not only boosted their bottom line but has also solidified their role as a responsible corporate citizen.
+
+One thing careful observers will notice about the Starbucks video is that it was produced by their own media people. While there is nothing wrong with promoting your values as a company to the public (and I do enjoy iced tea from Starbucks on a regular basis), I did a bit more digging and found this [rating for the Starbucks Corporation on the Ethical Consumer website.](https://www.ethicalconsumer.org/company-profile/starbucks-corporation), which didn't place them in as positive of a light. The Ethical Consumer is a UK-based non-profit research, political, and advocacy-oriented publisher which rates companies on their ethical and environmental behavior. 
+
+Let's just say not everyone is going to praise Starbucks for their adherence to social contract theory and environmental and social consciousness. For now, I'm going to keep drinking my iced teas, while also recognizing when I make purchases, I'm voting with our family's finances about the degree to which I'm going to support what a given company does. These are not easy choices and we should all resist thinking in dichotomous ways. 
+
+A company that has had their share of controversy regarding their business practices is Facebook, which was founded by Mark Zuckerberg. Facebook faced public backlash due to issues related to user data privacy and data breaches. Their actions, which disregarded user consent and the implicit social contract of trust, conflicted with the principles of social contract theory.
+
+!?[How Cambridge Analytics exploited the Facebook data of millions](https://youtu.be/mrnXv-g4yKU?si=yGxiYpwi1mmIbMcx)
+
+> Facebook's disregard for the social contract through the Cambridge Analytics scandal and other data breaches have led to public outrage, government investigations, and a loss of user trust. The negative consequences, including legal repercussions and damage to the company's reputation, underscored the importance of respecting the trust and expectations inherent in the social contract between technology companies and their users.
+
+Social contract theory serves as a guiding principle, highlighting the importance of honoring the unspoken agreements between businesses and society. Starbucks' espoused commitment to ethical practices and community engagement exemplifies how adhering to the principles of the social contract can lead to both business success and positive societal impact. Conversely, Facebook's lapses in data privacy and trust demonstrate the profound consequences of neglecting the social contract, serving as a cautionary tale for companies that overlook their responsibilities to their users and the broader community. Businesses that uphold the social contract have the potential to thrive while contributing to the greater good of the communities they serve.
+
+###### ? 03.01 | Review questions | Ethical frameworks
+
+> Use these questions to review your understanding of these ethical frameworks. 
+
+
+
+What ethical theory focuses on the consequences of actions to determine their moral worth?
+
+[[X]] Consequentialism
+
+[[ ]] Deontology
+
+[[ ]] Virtue ethics
+
+[[ ]] Rights-based ethics
+
+[[ ]] Social contract theory
+
+
+
+Which ethical framework emphasizes the importance of adhering to moral principles and duties, regardless of the outcomes?
+
+[[ ]] Consequentialism
+
+[[X]] Deontology
+
+[[ ]] Virtue ethics
+
+[[ ]] Rights-based ethics
+
+[[ ]] Social contract theory
+
+
+
+Which ethical theory is centered on the idea that individuals have inherent liberties that must not be violated?
+
+[[ ]] Consequentialism
+
+[[ ]] Deontology
+
+[[ ]] Virtue ethics
+
+[[X]] Rights-based ethics
+
+[[ ]] Social contract theory
+
+
+
+Deontology places a strong emphasis on moral [[principles]] and duties.
+
+
+
+Virtue ethics encourages individuals to develop virtuous [[character]] traits.
+
+
+
+### 03.02 | Why bother learning about ethical frameworks
+
+Before the COVID pandemic hit the world in early 2020, I used to think that all the exercises used to consider ethical frameworks were too theoretical and not realistic enough. I remember while earning my graduate degrees being presented with fictitious cases involving being on a life boat with just two matches, a hot dog, and 22 cotton swabs and trying to determine who was going to get to live. 
+
+I no longer believe that those cases were that far off. More than ever, I find it essential to recognize the ways in which we are using ethical frameworks to guide our decision making and when those values may be in conflict with other people we are collaborating with regarding a decision. Ethical frameworks are essential to learn about for several reasons.
 
 #### Guidance and structure for ethical decision making
 
@@ -576,6 +913,10 @@ Ethical frameworks encourage critical thinking by requiring individuals to consi
 It's easy for us to think that if we were faced with the same situation, we would stick to our beliefs. However, there's overwhelming evidence that humans are susceptible to bring influenced by others in ways we aren't always conscious of... 
 
 As we learn more about ethical frameworks and how to put them into practice in our own lives, they can serve as valuable tools for navigating the complexities of moral decision making. They help individuals and organizations make ethical choices that align with their values, principles, and societal expectations. Understanding these frameworks enhances moral reasoning and promotes ethical behavior in various personal, professional, and societal contexts.
+
+###### ? 03.02 | Review questions | Ethical frameworks and importance
+
+> Use the following questions to further review ethical frameworks. 
 
 
 
@@ -651,15 +992,13 @@ How do ethical frameworks contribute to critical thinking?
 
 
 
- --{{0}}--
+### 03.03 | An ethical decision making case study
 
-Discuss how it went for you going through the ethical decision making part 1. Are you at all familiar with the ethical concerns involved in medical research, or was more of this new to you? Did you notice any of the items you had to sort evoking strong reactions from you? What ones seemed super easy to categorize and why do you think that was? As you sorted them, what items made you think about how they show up in other contexts outside a medical research one? How have you seen some of these questions raised in this exercise show up in aspects of your life? 
-
-  --{{1}}--
-
-?[birds chirping](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
+Check Canvas for information about the ethical decision making case study we will be exploring on our own and then with others in the class. 
 
  
+
+
 
 
 
@@ -695,7 +1034,7 @@ Serve up the Starter Course
 
 
 
-### 04.01 Lesson One: Introduction to SIFT | 60 minutes | #sense
+### 04.01 | Introduction to SIFT | 60 minutes | #sense
 
 Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be making use of a lot what he has shared in his [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed), which he has made available under a Creative Commons license[^1]. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
 
@@ -986,7 +1325,7 @@ The Miseducation of Dylan Roof
 
 <article>
 
-#### Conclusion of Lesson One
+#### Conclusion
 
 > In this 30 minute lesson you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
 >
@@ -996,7 +1335,7 @@ The Miseducation of Dylan Roof
 
 <article>
 
-### 04.02 Lesson Two: Investigate the Source
+### 04.02 | Investigate the Source
 
 > One of the four "moves" is to "investigate the source". The following two short videos (less than four minutes) will introduce you to this move. As you'll see, we're not expecting people to do ground-breaking research, just to do some very quick checks.
 >
@@ -1233,7 +1572,7 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 
 <article>
 
-#### Conclusion of Lesson Two
+#### Conclusion
 
 > You finished lesson two! In the past thirty minutes, you've learned about one "move" (investigate the source) and one web technique associated with it ("just add wikipedia").
 >
@@ -1241,7 +1580,7 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 
 </article>
 
-### 04.03 Lesson Three: Further Investigation
+### 04.03 | Further Investigation
 
 > Let's put our investigate the source (the "I" in SIFT) move to use. We'll look into the problem of state-controlled media, and show you a variation of the "just add wikipedia" technique that you can use for individuals and organizations without websites.
 >
@@ -1390,7 +1729,7 @@ Questions for reflection
 >
 > Again, you need to come to your own conclusion on whether that assessment is damning. But whether you agree with the researchers or not, adopt their approach. Ask first and foremost when approaching an organization or source "What is this group set up to do?"
 
-#### Conclusion of Lesson Three
+#### Conclusion
 
 > You finished lesson three! In the past thirty minutes, you've expanded your knowledge of how to investigate sources. Three new techniques were introduced:
 >
@@ -1403,7 +1742,7 @@ Questions for reflection
 > - What state media is, and how to identify it
 > - The difference between bias and agenda, and why it matters
 
-### 04.04 Lesson Four: Find Trusted Coverage
+### 04.04 | Find Trusted Coverage
 
 > We've covered:
 >
@@ -1700,7 +2039,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 - When would a reverse-image search be more helpful? 
 - When would it be more of a waste of time to do a reverse-image search as part of your fact checking? 
 
-#### Conclusion of Lesson Four
+#### Conclusion
 
 > In this section you've learned to find trusted coverage when trying to determine if a claim is reliable. You learned three techniques:
 >
@@ -1712,7 +2051,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 
 
 
-### 04.05 Lesson Five: Trace Claims, Quotes, and Media to Their Original Context
+### 04.05 | Trace Claims, Quotes, and Media to Their Original Context
 
 > Most stuff you see on the web is not original reporting or research. Instead, it is often commentary on the re-reporting of re-reporting on some original story or piece of research. And that's a problem.
 >
@@ -1853,7 +2192,7 @@ Once you find the original report answer two questions in your fact-checking not
 >
 > As with so many of our examples, the truth is a bit more nuanced than it appears at first. And while knowing the nuance may not change your opinion on the issue, understanding what is genuinely new here will help better focus your efforts on the things you care about, no matter which side of the issue you find yourself on.
 
-#### Lesson Five Conclusion
+#### Conclusion
 
 > And... that's the five lesson induction course.
 >
@@ -1927,6 +2266,47 @@ Answers should include:
 
 
 
+Media bias chart?
+
+Video: Intro to the media bias chart
+
+Maybe on the challenge? 
+
+WHAT: Use the Interactive Media Bias Chart to explore key questions. 
+
+WHY: The Ad Fontes Media Bias Chart is one way of assessing the credibility of a business news source. 
+
+HOW: Visit the Interactive Media Bias Chart and create a screencast to answer the questions posed below. Paste the link to your screencast as your submission.
+
+------
+
+Record a video your exploration and answers to the questions below:
+
+- Visit the [interactive media bias chartLinks to an external site.](https://www.adfontesmedia.com/interactive-media-bias-chart-2/)
+- When you first get there, all sources will be showing/visible
+  - Which sources stand out as recognizable? Are there a lot of sources that are unfamiliar to you?
+- Toggle off the "display all courses" in the upper left-hand part of the chart
+  - Enter a news source that you use to get your news in the "Select specific news source box" (below the display all sources)
+  - Discuss what you can tell about that source from the information on the chart
+  - Enter a second news source that you use to get your news
+  - Discuss what you can tell about that second source from the information on the chart
+- Paste your Loom video link as your submission for this assignment.
+
+1) Three news stories that relate to the topics we are exploring in business ethics that were published within the past two weeks. 
+2) Shows the vertical rating rubric for each news story and where you would place this story on it. 
+3) Show the reliability guide for each news story and where you would place this story on it. 
+4) Shows the media bias chart with where you could place this story on it (based on your analysis of the vertical rating rubric and reliability guide).  
+
+News stories links: 
+
+1) link
+2) link
+3) link
+
+
+
+
+
 ## 07. The good, the bad, and the ugly
 
 ![Course lesson graphic 07](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-07.jpg)
@@ -1945,7 +2325,11 @@ Answers should include:
 
 2. **
 
+The True Cost: Who Pays the Real Price for YOUR Clothes | Investigative 
 
+https://youtu.be/5-0zHqYGnlo?si=JquVsoCDla03Y422
+
+"The True Cost: Who Pays the Real Price for YOUR Clothes | Investigative Documentary from 2015 This is a story about clothing. It’s about the clothes we wear, the people who make them, and the impact the industry is having on our world. The price of clothing has been decreasing for decades, while the human and environmental costs have grown dramatically. The True Cost is a groundbreaking documentary film that pulls back the curtain on the untold story and asks us to consider, who really pays the price for our clothing? Filmed in countries all over the world, from the brightest runways to the darkest slums, and featuring interviews with the world’s leading influencers including Stella McCartney, Livia Firth and Vandana Shiva, The True Cost is an unprecedented project that invites us to an eye-opening journey around the world and into the lives of the many people and places behind our clothes." ((From video description ))
 
 !?[Conflict of Interest | Concepts Unwrapped](https://youtu.be/aQpZnlWk9As?si=TMzhDqMZ4Xgj3O1u)
 
@@ -1981,242 +2365,3 @@ When presented with better information: agreeing on what is effective
 
 
 
-# Ten Challenges
-
-## 01. Make it personal: Commit to community + pkm
-
-3x3 video: Self-introduction with three things that are important to know about you and three artifacts about what you believe
-
-Dear younger me
-
-Set up Raindrop.io free account and email address used
-
-## 02. Get current (while connecting with the past)
-
-Link today's business ethics news stories with the past; philosophers, etc. Maybe tv shows? Movies? 
-
-
-
-## 03. Let's get physical (or medical, or whatever)
-
-Medical research case study.
-
-
-
-Work with a team to come up with a group solution and then compare that to yours. 
-
-Review the terms used in the ethical decision case by [using the flashcards on Quizlet](https://quizlet.com/473234960/ethical-decision-challenge-vocabulary-and-concepts-flash-cards/?i=omwnz&x=1jqt). 
-
-
-
-## 04. SIFT it out 
-
-
-
-
-
-## 05. Celebrate or challenge authentic CSR in the world
-
-
-
-
-
-## 06. Give it another try
-
-SIFT and share news/issues
-
-
-
-## 07. Get it good (or bad)
-
-
-
-
-
-## 08. Change your mind about something
-
-
-
-
-
-## 09. Use power and privilege for good
-
-
-
-
-
-
-
-## 10. Wrap it up with a bow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Book
-
-# Videos
-
-
-
-## Notes
-
-From November 27 ChatGPT
-
-I found a collection of business ethics videos from two sources: Ethics Unwrapped at the University of Texas Austin and the Markkula Center for Applied Ethics. However, I couldn't retrieve specific video durations or verify the current availability of each video. Here are some notable series and individual videos from these sources:
-
-1. **Ethics Unwrapped - University of Texas Austin**: This series covers a wide range of topics in business ethics. The series includes several sub-series, such as:
-   - **Concepts Unwrapped**: 36 short illustrated videos explaining behavioral ethics concepts and basic ethics principles. [More Information](https://ethicsunwrapped.utexas.edu/series/concepts-unwrapped)
-   - **Ethics Defined (Glossary)**: 58 animated videos, each 1 to 2 minutes, defining key ethics terms and concepts. [More Information](https://ethicsunwrapped.utexas.edu/glossary)
-   - **Ethics in Focus**: Unique videos highlighting ethical aspects of current and historical subjects. [More Information](https://ethicsunwrapped.utexas.edu/series/ethics-in-focus)
-   - **Giving Voice To Values**: Eight videos presenting the principles of values-driven leadership. [More Information](https://ethicsunwrapped.utexas.edu/series/giving-voice-to-values)
-   - **In It To Win**: A documentary and six short videos on behavioral ethics biases in the story of super-lobbyist Jack Abramoff. [More Information](https://ethicsunwrapped.utexas.edu/series/in-it-to-win)
-   - **Scandals Illustrated**: 30 videos introducing scandals with ethical insights and case studies. [More Information](https://ethicsunwrapped.utexas.edu/series/scandals-illustrated)
-
-2. **Markkula Center for Applied Ethics - Santa Clara University**: This channel features interviews with experts covering subjects from corporate governance to digital ethics. Notable videos include:
-   - **Voting for Ethics**: A short video with tips on ethical voting. [More Information](https://www.scu.edu/ethics/ethics-resources/ethics-videos/)
-   - **Essential Ethics - Small Business Challenges during COVID-19**: Series of interviews focusing on ethical decision-making in various business sectors during the pandemic. [More Information](https://www.scu.edu/ethics/ethics-resources/ethics-videos/)
-
-For specific video durations and to ensure their current availability, I recommend visiting the provided links and exploring the series and individual videos listed there.
-
-
-
-Rotating interatcions
-
-A) RSS Posts
-
-B) New discussion and link to articles
-
-C) Synthesize and / or apply
-
-
-
-There are 8 modules in this course
-
-M1 (11 min to complete)
-
-1-2 sentences 
-
-What's included
-
-ICON: Videos
-
-ICON: Reading
-
-ICON: Quiz
-
-Show info about modulc content
-
-7 Videos - Total minues
-
-Title * Lenght
-
-Title * Length
-
-
-
-
-
-### Terms:
-
-- **Business ethics**: Principles that guide decision-making in business.
-- **CSR (Corporate Social Responsibility)**: A company's commitment to manage the social, environmental, and economic effects of its operations responsibly.
-- **Greenwashing**: Misleading claims about the environmental benefits of a product, service, or company practices.
-- **Triple bottom line**: A framework that recommends that companies commit to focusing on social and environmental concerns just as they do on profits.
-- **Stakeholders**: All the parties that have an interest in the company's success, including employees, customers, investors, and the community.
-
-
-ADD
-
-- Ethical dilemma:
-- The trolley problem: 
-  Vocabulary Words and Definitions:
-
-- **Ethical Dilemmas**: Situations where individuals face choices between right and wrong actions or decisions that involve moral considerations.
-  Unethical: Not conforming to accepted moral principles or standards of right and wrong behavior.
-  Fraud: Wrongful or criminal deception intended to result in financial or personal gain.
-  Emission Results: Data related to the amount of pollutants or emissions released into the environment, often concerning vehicles and their impact on air quality.
-  Corporate Social Responsibility: A company's commitment to ethical and responsible business practices that consider their impact on society, the environment, and various stakeholders.
-  Protected Values: Deeply held moral or ethical principles that individuals are unwilling to compromise on, even when tempted to engage in unethical behavior.
-  Morally Right: Actions that align with established moral principles and are considered the correct or ethical choice.
-  Abusive Behavior: Harmful and disrespectful actions or conduct towards others, often involving the misuse of power or authority.
-  Public Image: The perception of a company or individual by the general public, often influenced by their actions, behavior, and reputation.
-  Investor: An individual or entity that provides capital or resources to a company in exchange for ownership shares or financial returns. 
-
-
-1. Public companies CEOs need to have a positive one of these, or it can impact the stock price and have other negative ramifications: 
-
-- [()]  No evidence of fraud
-- [()] Lack of ethical dilemmas
-- [()] Corporate social responsibility
-- [(x)] Public image 
-
-Learn:
-
-Play the matching game on Quizlet using the [Why Study Business flashcards] at least five times. On the sixth time, record yourself playing via a screencast and copy/paste that link into your Business Ethics Journal. 
-
-By engaging with these concepts through coursework and external resources, students will be better equipped to apply ethical considerations in their professional lives.
-
-Explore: 
-
-Visit the most current [Conscious Consumer Spending Index ]and explore the data in its various forms for around 10-15 minutes. Then, spend another 10-15 minutes reflecting on your experience. 
-
-### 
-
-
-
-
-
-
-
-## Ideas
-
-Conundrums for first busn435 
-If you had to live in a store for the rest of your life, which one would it be and why? 
-
-From 2023 end of year political gabfest conundrums episode 
-
-Would you put your trash in someone else’s cans out for pickup? 
-
-Rider in Van Halen’s contract. No M&Ms. SIFT? 
-
-History of Alzheimer’s. If he knew he would avoided it. I live in fear. How to safeguard my loved ones? Emily- there’s a very short sweet spot. Amy Bloom wrote a whole book about this. Went to Switzerland to where they support assisted suicide. David Plotz interviewed her about the book and there’s another great interview. 
-
-If you could save one thing from death. Old 500 year old tree or little monkeys 
-
-
-
-The business of...
-
-Guns in The U.S.
-For profit prisons 
-For profit healthcare 
-Vaping 
-Diet drug (diabetes) 
-
-[ ] Add: Syllabus video - see example on Antrh101.com/start under ten lessons. 
-
-[ ] Add: 1-3 short sentences "which when laid out in sequence will read almost like a manifesto" (quoting anth101.com/start from Mike Wesch)
-
-[ ] Add: line above the first assignment: See anth101.com/start at the very bottom for an example
-
-Text with pink highlighting. Is this possible? How to make assignments stand out? 
-
-
-
-### References
-
-[Ethics Unwrapped | McCombs School of Business at the University of Texas Austin](https://ethicsunwrapped.utexas.edu) 
