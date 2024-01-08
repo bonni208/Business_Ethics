@@ -202,6 +202,10 @@ You are also likely to notice that I enjoy laughing and having fun. As Christoph
 
 My hope is that we'll take our character seriously and the call to love our neighbors, while not taking ourselves too seriously (leaving room for growth and humility). May I be a person who models that right along with each of you. May you take the radical step of deciding each week that you're going to show up for the work in this class. If we do that together, it's quite possible we could leave changed people. 
 
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/jose-aragones-81QkOoPGahY-unsplash.jpg)
+
+Go back to your Google slides now and continue there, until such point as it invites you back over for the next part. 
+
 ### 00.02 | How this class works
 
 Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how and when you can show up. 
