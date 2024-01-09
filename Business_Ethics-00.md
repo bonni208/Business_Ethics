@@ -274,39 +274,25 @@ My commitment is the same right back to you. As you challenge yourself, I will b
 What is the definition of synchronous attendance in this class?
 
 [[ ]] Attending class via the alternative attendance options
-
 [[ ]] An option for those who can't meet or prefer not to meet at the scheduled times
-
 [[X]] Attending class during the scheduled time via Zoom
-
 [[ ]] Informing Dr. B about your absence in advance
-
-
 
 How is the class structured?
 
 [[ ]] Around five lessons and five case studies
-
 [[X]] Around ten lessons and ten challenges
-
 [[ ]] Around ten lessons, five challenges, and three exams
-
 [[ ]] Around a varied number of lessons and challenges
-
-
 
 You must attend the Zoom sessions each week.
 
 [[ ]] True
-
 [[X]] False
-
-
 
 You are expected to let Dr. B know if you are going to miss class.
 
 [[ ]] True
-
 [[X]] False
 
 See Canvas and the syllabus for more information about how the class is structured. I'm here, if you have any questions or are confused about how this all works. I know it is not the norm for most classes and may take some getting used to. I have heard overwhelmingly positive feedback about Flex-VU classes in the past and will commit to doing what I can to ensure that we have a good experience together this semester. 
