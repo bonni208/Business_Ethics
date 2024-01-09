@@ -271,8 +271,6 @@ My commitment is the same right back to you. As you challenge yourself, I will b
 
 > Here are some review questions on how this class works. Test your understanding by answering them. 
 
-###### ? 00.02 | Review questions | How this class works
-
 What is the definition of synchronous attendance in this class?
 
 [[ ]] Attending class via the alternative attendance options
