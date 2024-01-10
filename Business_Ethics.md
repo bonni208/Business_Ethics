@@ -185,13 +185,6 @@ By getting to know these philosophers (and some associated ethical frameworks), 
 
 Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! Now, don't get too excited, we won't be donning crimson robes and walking the hallowed grounds, but we will getting to make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^1].
 
-```html
-<figure>
-    <img src="https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-01-roadtrip.png" alt="LEGO depiction of a road trip to Harvard University - a group of students about to hop in a VW bus" />
-    <figcaption>This image was generated using the DALL-E AI image generation tool.</figcaption>
-</figure>
-```
-
 During our virtual visit, we'll also be meeting some of the biggest names in philosophy, like [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), and [John Rawls](https://en.wikipedia.org/wiki/John_Rawls). These philosophers have left their intellectual mark all over the study of ethics, and we'll be exploring how they guide our moral compasses in the complex world of business.
 
 We are going to be looking at the intriguing "Moral Side of Murder" lecture from Sandel's course. This isn't a murder mystery, but a journey into the ethical intricacies that make us question our deepest beliefs. It's a wild ride that will challenge our moral intuitions and spark lively debates.
@@ -202,7 +195,7 @@ As we travel (at least in our imaginations) to Harvard's campus and experience S
 >
 > -- Socrates
 
- Our trip to Harvard will guide us on a voyage of self-discovery, where we'll uncover the right path to ethical decision-making in the business world. 
+ Our trip to Harvard will guide us on a voyage (dare I say road trip? 😂) of self-discovery, where we'll uncover the right path to ethical decision-making in the business world. 
 
 [^1]: According to [an oped (opinion piece) by Thomas L. Friedman](https://www.nytimes.com/2011/06/15/opinion/15friedman.html) in the New York Times. 
 
@@ -212,17 +205,19 @@ Episode One of Sandel's Justice class considers how effectively utilitarianism h
 
 > If you had to choose between (1) killing one person to save the lives of five others and (2) doing nothing even though you knew that five people would die right before your eyes if you did nothing—what would you do?  What would be the right thing to do?
 
-In the second half of this thought-provoking video, Michael Sandel delves into the ethical principles of renowned utilitarian philosopher Jeremy Bentham. He introduces a well-known nineteenth-century legal case that unfolds as a shipwrecked crew of four individuals faces an agonizing dilemma. After enduring nineteen days adrift at sea, the captain makes a morally complex decision – to sacrifice the life of the weakest member, a young cabin boy, to ensure the survival of the rest by consuming his blood and body. 
+Yes, that sounds pretty heavy there. But Michael Sandel keeps the Harvard lecture hall laughing, as you will see in the video. One of the most memorable parts of this class for past students has been getting to see inside one of the largest lecture halls at Harvard and to see how the students there respond to his questions. 
+
+In the second half of this thought-provoking video, Michael Sandel delves into the ethical principles of renowned utilitarian philosopher Jeremy Bentham. To bring Bentham into our minds in a memorable way, Sandel introduces a well-known nineteenth-century legal case that unfolds as a shipwrecked crew of four individuals faces an agonizing dilemma. After enduring nineteen days adrift at sea, the captain makes a morally complex decision – to sacrifice the life of the weakest member, a young cabin boy, to ensure the survival of the rest by consuming his blood and body. 
 
 > Suppose you find yourself in a situation in which killing an innocent person is the only way to prevent many innocent people from dying. What’s the right thing to do? This question arose in The Queen v. Dudley and Stephens (1884), a famous English law case involving four men stranded in a lifeboat without food or water. How should we judge the action of Dudley and Stephens? Was it morally justified or morally wrong?
 
-This captivating case serves as a catalyst for an engaging classroom debate, challenging the moral validity of utilitarianism and its doctrine that deems "the greatest good for the greatest number" as the ultimate ethical guideline. Join us as we explore this profound moral inquiry and grapple with the complexities of ethical decision-making.
+This captivating case serves as a catalyst for an engaging classroom debate in this most-popular class at Harvard, challenging the moral validity of utilitarianism and its doctrine that deems "the greatest good for the greatest number" as the ultimate ethical guideline. Join us as we explore this profound moral inquiry and grapple with the complexities of ethical decision-making. 
 
-Watch: [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://youtu.be/kBdfcR-8hEY?si=gpS0-hehZufCawH7)
+Watch: [Justice: What's The Right Thing To Do? Episode 01 and 02"](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) (54 minutes)
 
-!?[Justice: What's The Right Thing To Do? Episode 01 THE MORAL SIDE OF MURDER](https://youtu.be/kBdfcR-8hEY?si=zljc0h84kXS4S_HB) 
+!?[Justice: What's The Right Thing To Do? Episode 01 and 02](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) 
 
-###### ? 02.03 | Review questions | The moral side of murder
+###### ? 02.02 | Review questions | The moral side of murder
 
 Test your understanding of the basics of the concepts Sandel brought up in this first lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
 
@@ -261,49 +256,29 @@ In the trolley problem, if you choose to divert the trolley to save five people 
 [[x]] Utilitarian ethics.
 [[ ]] Existential ethics.
 
-### 02.04 Let's give them something to talk about
+### 02.03 | What if everybody did that? 
 
-Discuss Justice - Part 1
+I was about to tell you about this super irritating book that our kids used to love to have me read when they were little. However, upon doing some digging, turns out that you can experience it for yourself. Actually, the woman who reads is has quite an easy to listen to cadence in her read aloud. Watch at least enough of the [What If Everybody Did That video](https://youtu.be/SD0apYFz5gg?si=ax2s7e4rPSG0M9YH) to get the gist of the main theme of the book, which was derived straight from our next philosopher: Immanuel Kant. 
 
-The following discussion questions are adapted from Michael Sandel's materials. Answer the three questions posed below, as a means of reflecting further on the first Justice video. Refrain from looking up answers on the internet, as I want to discover what you think is the right thing to do here, not be influenced by what others think, or have thought in the past... 
+!?[What If Everybody Did That? Book read aloud](https://youtu.be/SD0apYFz5gg?si=ax2s7e4rPSG0M9YH)
 
-Each question should prompt answers from you that are at least 4-5 sentences. You may alternatively record a video for each of the questions (please do the answers on separate videos, should you choose this route). Paste the link to each video in your reply. 
+We can learn a bit about this philosopher from the openly-licensed textbook [Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/chapter/kantian-deontology/) and the section on Immanuel Kant: 
 
-------
+> Relative to most other philosophers, Immanuel Kant (1724-1804) was a late bloomer, publishing his first significant work, *The Critique of Pure Reason*, in 1781 at age 57. 
 
-Let’s start with utilitarianism. According to the principle of utility, we should always do whatever will produce the greatest amount of happiness and whatever is necessary to prevent the greatest amount of unhappiness. But is that right? Should you always try to maximize happiness? Should you always do whatever is necessary to minimize unhappiness?
+![Immanuel Kant (1724-1804) by Johann Gottlieb Becker via Wikimedia Commons. This work is in the public domain.](https://press.rebus.community/app/uploads/sites/147/2019/09/image2-1.jpg)
 
-------
+> Some of the main questions that Kant’s ethics focuses on are questions of right and wrong: What makes an action right or wrong? Which actions are we required by morality to perform? Do consequences matter? Is it ever permissible to do something morally wrong in order to achieve good consequences? Is it important to do actions with good intentions? And what are good intentions? Some of Kant’s answers to some of these questions are complex, but as we will see, he doesn’t think that consequences matter and thus good consequences cannot justify wrong actions. He also thinks that intentions are important to the ethical evaluation of actions.
 
-1. There are times when the only way to prevent harm to a large number of people is to harm a smaller number of people. Is it always permissible to harm a smaller number in order to prevent harm to a large number? 
-2. Suppose you are driving through a narrow tunnel and a worker falls onto the road in front of you. There is not enough time for you to stop. If you keep straight, you will hit the worker and kill him, but if you swerve left into oncoming traffic, you will collide with a school bus and kill at least five children. What’s the right thing to do? Does utilitarianism have the right answer? 
-3. Ten thousand innocent civilians live next to a munitions factory in a country at war. If you bomb the factory, all of them will die. If you don’t bomb the factory, it will be used to produce bombs that will be dropped on fifty thousand innocent civilians in another country. What’s the right thing to do?
-
-
-
-Study Quizlet questions, while logged into your account 
-
-https://quizlet.com/473181285/justice-part-1-flash-cards/?i=omwnz&x=1jqt
-
-
-
-### 02.05 Name that tune... I mean trolley problem meme
-
-Find an example of the trolley problem in a meme or from a video clip. Here's an example one, which means this one is off limits to share. 
-
-!?[Clip: The trolley problem on The Good Place](https://youtu.be/lDnO4nDA3kM?si=Bd-RFuaB-L5bkqYa)
-
-
-
-Let's just say the topic of inappropriate things comes up in our household often. Let's also say that it isn't always because of something our kids have said in conversation. If pulling levers in the last Michael Sandel Justice video wasn't bad enough, now we are going to explore the case for cannibalism. 
-
-In The Case for Cannibalism, Michael Sandel explores the ethical principles introduced by utilitarian philosopher Jeremy Bentham. Sandel delves into a compelling historical case from the nineteenth century, centered around a shipwrecked crew of four individuals. Faced with the dire challenge of survival after nineteen days adrift at sea, the captain is forced to make a morally complex decision – to sacrifice the life of the weakest member, the cabin boy, in order to sustain the rest of the crew by consuming his blood and body.
-
-
-
-
+Watch: This video about [Immanuel Kant from Three Minute Philosophy](https://youtu.be/xwOCmJevigw?si=rQHOJ8mdJF_KzijA). 
 
 !?[Video: Three Minute Philosophy - Immanuel Kant](https://youtu.be/xwOCmJevigw?si=rQHOJ8mdJF_KzijA)
+
+###### ? 02.03 | Review questions: What if everybody did that?
+
+> Review the material from the videos and text, by answering the following questions. 
+
+
 
 Kant said that we are allowed to lie when the consequences of not lying would be dire/lethal.
 
@@ -473,6 +448,40 @@ These examples illustrate how consequentialist decision-making in business can r
 Deontological ethics focuses on the inherent nature of actions rather than their outcomes. It emphasizes adherence to moral rules or duties, irrespective of the consequences. **Immanuel Kant's categorical imperative** is a well-known deontological approach that encourages individuals to act according to principles that could be universally applied without contradiction.
 
 > In the early 1980s, Johnson & Johnson faced a severe crisis when some bottles of their Tylenol product were tampered with, resulting in multiple deaths. The company's decision to recall all Tylenol products from store shelves and redesign packaging to prevent tampering aligns with deontological ethics.
+
+Let's explore more from [Introduction to Philosophy: Ethics chapter on Kantian Deontology](https://press.rebus.community/intro-to-phil-ethics/chapter/kantian-deontology/): 
+
+> One of the distinctive features of Kant’s ethics is that it focuses on duties, defined by right and wrong. Right and wrong (which are the primary deontic categories, along with obligatory, optional, supererogatory, and others) are distinct from good and bad (which are value categories) in that they directly prescribe actions: right actions are ones we ought to do (are morally required to do) and wrong actions we ought not to do (are morally forbidden from doing). This style of ethics is referred to as deontology. The name comes from the Greek word *deon*, meaning duty or obligation. In deontology, the deontic categories are primary, while value determinations are derived from them. 
+>
+> Kant believes all our duties can be derived from the categorical imperative. We’ll first need to explain what Kant means by the phrase “categorical imperative” and then we’ll look at the content of this rule.
+>
+> First, Kant believes that morality must be rational. He models his morality on science, which seeks to discover universal laws that govern the natural world. Similarly, morality will be a system of universal rules that govern action. In Kant’s view, as we will see, right action is ultimately a rational action. As an ethics of duty, Kant believes that ethics consists of commands about what we ought to do. The word “imperative” in his categorical imperative means a command or order. However, unlike most other commands, which usually come from some authority, these commands come from within, from our own reason. Still, they function the same way: they are commands to do certain actions.
+>
+> Kant distinguishes two types of imperatives: hypothetical and categorical imperatives. 
+>
+> A hypothetical imperative is a contingent command. It’s conditional on a person’s wants, needs, or desires and normally comes in the following form: “If you want/need A, then you ought to do B.” For example, the advice, “If you want to do well on a test, then you should study a lot” would be a hypothetical imperative. The command that you study is contingent on your desire to do well on the test. Other examples are, “If you are thirsty, drink water,” or “If you want to be in better shape, you should exercise.” Such commands are more like advice on how to accomplish our goals than moral rules. If you don’t have a particular want, desire, or goal, then a hypothetical imperative doesn’t apply. For example, if you don’t want to be in better shape, then the hypothetical imperative that you should exercise, doesn’t apply to you.
+>
+> A genuinely moral imperative would not be contingent on wants, desires, or needs, and this is what is meant by a categorical imperative. A categorical imperative, instead of taking an if-then form, is an absolute command, such as, “Do A,” or “You ought to do A.” Examples of categorical imperatives would be “You shouldn’t kill,” “You ought to help those in need,” or “Don’t steal.” It doesn’t matter what your wants or goals are; you should follow a categorical imperative no matter what.
+>
+> But these aren’t *the* categorical imperative. Kant believes that there is one categorical imperative that is the most important and that should guide all of our actions. This is the ultimate categorical imperative from which all other moral rules are derived. This categorical imperative can be expressed in several different ways, and Kant presents three formulations of it in *The Groundwork*.
+>
+> #### THE FIRST FORMULATION OF THE CATEGORICAL IMPERATIVE
+>
+> The underlying idea behind the first formulation of the categorical imperative is that moral rules are supposed to be universal laws. If we think of comparable laws, such as scientific laws like the law of gravitational attraction or Newton’s three laws of motion, they are universal and apply to all people equally, no matter who they are or what their needs are. If our moral rules are to be rational, then they should have the same form.
+>
+> From this idea, Kant derives his first formulation of the categorical imperative, “act only in accordance with that maxim through which you can at the same time will that it become a universal law."
+>
+> First, we must explain this word “maxim.” 
+>
+> What Kant means by a maxim is a personal rule or a general principle that underlies a particular action. As rational beings, we don’t just act randomly; we devise certain rules that tell us what to do in different circumstances. A complete maxim will include three pieces: the action, the circumstances under which we do that action, and the purpose behind that action. For example, the maxim explaining why you’re reading this book, if it’s an assigned text, might be, “I will read all books assigned for class because I want to succeed in class.” Different principles could underlie the same action. For example, you might be reading this book simply to help you understand the topic, in which case your principle might be, “When I am confused about a topic, I will read an accessible text to improve my understanding.” The important point is that we are guided by general principles that we give to ourselves, that tell us what we’ll do in certain circumstances.
+>
+> The first formulation, thus, is a test of whether any particular maxim should be followed or not. We test a maxim by universalizing it, that is, by asking if it would be possible for everyone to live by this maxim. If the maxim can be universalized, meaning that it’s possible that everyone could live by it, then it’s permissible to follow it. If it can’t be universalized, then it is impermissible to follow it. The logic of the universalization test is that any rule you follow should apply to everyone—there’s nothing special about you that allows you to be an exception.
+>
+> To look at some examples, imagine you need money to pay off some debts. You go to a friend to borrow the money and tell this friend that you will pay him back. You know you won’t be able to pay your friend back, but you promise him nonetheless. You are making a false promise. Is this permissible? To test, we first look at the maxim underlying the action, something like, “If I need something, I’ll make a false promise in order to get what I need.” What would happen if everyone were to make false promises every time they needed something? False promises would be rampant, so rampant that promises would become meaningless; they would just be empty words. For this reason, the maxim can’t be universalized. The maxim included the idea of making a promise, but if, when universalized, promises cease to have any meaning, then we couldn’t really make a promise. Since the maxim can’t be universalized, we shouldn’t follow it, and thus we derive the duty to not make false promises.
+>
+> We should note that Kant’s universalization test is not asking whether universalizing a maxim would lead to undesirable consequences. Kant is not claiming that making a false promise is wrong because we wouldn’t want to live in a world where no one kept their promises. It’s wrong because it’s not possible to universalize the maxim. It’s not possible because it leads to a contradiction. In this case, the contradiction is in the concept of a promise: that it becomes meaningless when universalized. We can see this with other maxims. If you’re thinking of stealing something, the maxim underlying this action might be something like, “I’ll steal the things I want so I can have what I want.” If everyone were to follow this maxim, then the concept of ownership would cease to have any meaning, and if nothing were owned, then how would it be possible to steal? To steal means to take someone else’s property without permission, and this is where the contradiction comes in. It’s not possible to steal if nothing belongs to anyone. Thus, it’s not possible to universalize this maxim, and we thereby get the duty that we shouldn’t steal. Both of these contradictions are what Kant calls “contradictions in conception.”
+>
+> Another example Kant gives is of our obligation to help out others. Suppose you could help people but didn’t want to. Your maxim might be, “I will never help out anyone else since everyone should be independent.” If this were universalized, then everyone would be completely independent, with no one asking for, nor offering help. However, we wouldn’t be able to live in a world where no one helps anyone because we’ll inevitably sometimes need others’ help. The contradiction in this case is a practical contradiction, “a contradiction in will,” as Kant calls it. In this case, we would eventually have to break the maxim due to our need for help. Thus, from this, we get the duty that we should sometimes help out others in need.
 
 !?[Managing the Tylenol crisis](https://youtu.be/jtuvgAkKGqM?si=miUaNQTCcFNG9Lz5)
 
