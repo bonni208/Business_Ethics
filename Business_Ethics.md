@@ -89,7 +89,7 @@ In "The Office," Jim gets a formal warning about how much time he spends goofing
 
 This scene serves as a reminder that feedback should be constructive, objective, and focused on job-related performance. When feedback becomes intertwined with personal comments, it can hinder professional growth and create discomfort in the workplace. Those individuals who are from historically-marginalized populations may often receive feedback tied to stereotypes or biases. When we can separate feedback from our identity, it can empower us to assert our authentic selves and challenge oppressive narratives.
 
-In Difficult Conversations: How to Discuss What Matters Most, by Stone, Patton, and Heen, they describe how challenging it can be to have these kinds of conversations that aren't just about what happened, but also about how each person feels about what's being discussed, not to mention how it can ''bump against' their sense of identity. Difficult Conversations is one of the best books I ever read in my MA program. Even if you decide not to read the whole thing, I suggest taking a look at this [high-level summary of Difficult Conversations](https://eye.hms.harvard.edu/files/eye/files/difficult-conversations-summary.pdf), made available from Harvard University, where this research on difficult conversions has taken place. 
+In [Difficult Conversations: How to Discuss What Matters Most](https://vanguarduniversity.on.worldcat.org/oclc/40200290), by Stone, Patton, and Heen, they describe how challenging it can be to have these kinds of conversations that aren't just about what happened, but also about how each person feels about what's being discussed, not to mention how it can ''bump against' their sense of identity. Difficult Conversations is one of the best books I ever read in my MA program. Even if you decide not to read the whole thing, I suggest taking a look at this [high-level summary of Difficult Conversations](https://eye.hms.harvard.edu/files/eye/files/difficult-conversations-summary.pdf), made available from Harvard University, where this research on difficult conversions has taken place. 
 
 ### 01.04 | Navigate cognitive dissonance
 
@@ -117,6 +117,8 @@ Developing emotional intelligence involves acknowledging and resolving these inn
 
 > Answer the following questions to test your understanding of the concepts in this section. 
 
+
+
 How does the scene from Zootopia in this lesson demonstrate the ease with which bias can enter into our communication?
 
 [[ ]] By showing characters using biased language
@@ -126,6 +128,17 @@ How does the scene from Zootopia in this lesson demonstrate the ease with which 
 [[X]] By emphasizing emotional intelligence
 
 [[ ]] By portraying discrimination as insignificant
+
+
+
+How does the scene from Zootopia in this lesson demonstrate the ease with which bias can enter into our communication?
+
+[[ ]] By showing characters using biased language
+[[ ]] By highlighting the importance of diversity
+[[X]] By emphasizing emotional intelligence
+[[ ]] By portraying discrimination as insignificant
+
+
 
 
 
