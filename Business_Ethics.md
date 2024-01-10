@@ -122,23 +122,9 @@ Developing emotional intelligence involves acknowledging and resolving these inn
 How does the scene from Zootopia in this lesson demonstrate the ease with which bias can enter into our communication?
 
 [[ ]] By showing characters using biased language
-
 [[ ]] By highlighting the importance of diversity
-
-[[X]] By emphasizing emotional intelligence
-
+[[X]] By emphasizing how essential emotional intelligence is
 [[ ]] By portraying discrimination as insignificant
-
-
-
-How does the scene from Zootopia in this lesson demonstrate the ease with which bias can enter into our communication?
-
-[[ ]] By showing characters using biased language
-[[ ]] By highlighting the importance of diversity
-[[X]] By emphasizing emotional intelligence
-[[ ]] By portraying discrimination as insignificant
-
-
 
 
 
@@ -149,11 +135,8 @@ Emotional intelligence is the ability to recognize, understand, manage, and use 
 Why is it important to recognize varying perspectives and demonstrate emotional intelligence in communication?
 
 [[ ]] To avoid any disagreement
-
 [[X]] To foster empathy and better understanding
-
 [[ ]] To be more influential in expressing one's own viewpoint
-
 [[ ]] To win arguments
 
 
