@@ -67,7 +67,7 @@ When faced with a potentially offensive or unclear statement, don't immediately 
 
 In the following [movie clip from "The Princess Bride,"](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C) Vizzini, a character known for his intelligence, repeatedly uses the word "inconceivable" to describe unexpected events or situations. However, as the events become increasingly unusual, Inigo Montoya, one of his companions, becomes frustrated and points out, "You keep using that word. I do not think it means what you think it means."
 
-![The Princess Bride - Inconceivable](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C)
+!?[The Princess Bride - Inconceivable](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C)
 
 Watching this exchange serves to reminder us all that effective communication requires not only speaking clearly but also seeking understanding and ensuring that the words used convey the intended meaning. It illustrates how misunderstandings can arise when individuals do not clarify or seek to understand the language and expressions used in communication.
 
@@ -79,8 +79,6 @@ Paulo Freire, a Brazilian educator, highlights the importance of dialogue in his
 
 In these words, Freire underscores that meaningful dialogue and understanding require a deep love for the world and people. He suggests that through dialogue, we not only seek understanding but also engage in an act of creating and recreating our shared reality. Historically-marginalized communities often face misunderstandings and misrepresentations. Clarifying and seeking understanding is crucial to address these issues, promote cultural sensitivity, and dismantle stereotypes and biases.
 
-
-
 ### 01.03 | Separate feedback from identity
 
 Learn to separate feedback or criticism from your self-worth. Constructive feedback is often about the task or the situation at hand and not a judgment of your character. Remember that feedback is an opportunity for growth and improvement, not a personal attack.
@@ -90,6 +88,8 @@ In "The Office," Jim gets a formal warning about how much time he spends goofing
 !?[Jim gets a formal warning](https://youtu.be/orm0sLYXSzw?si=FM9BNdMNttjW7niK)
 
 This scene serves as a reminder that feedback should be constructive, objective, and focused on job-related performance. When feedback becomes intertwined with personal comments, it can hinder professional growth and create discomfort in the workplace. Those individuals who are from historically-marginalized populations may often receive feedback tied to stereotypes or biases. When we can separate feedback from our identity, it can empower us to assert our authentic selves and challenge oppressive narratives.
+
+In Difficult Conversations: How to Discuss What Matters Most, by Stone, Patton, and Heen, they describe how challenging it can be to have these kinds of conversations that aren't just about what happened, but also about how each person feels about what's being discussed, not to mention how it can ''bump against' their sense of identity. Difficult Conversations is one of the best books I ever read in my MA program. Even if you decide not to read the whole thing, I suggest taking a look at this [high-level summary of Difficult Conversations](https://eye.hms.harvard.edu/files/eye/files/difficult-conversations-summary.pdf), made available from Harvard University, where this research on difficult conversions has taken place. 
 
 ### 01.04 | Navigate cognitive dissonance
 
@@ -184,6 +184,13 @@ By getting to know these philosophers (and some associated ethical frameworks), 
 ![LEGO depiction of a road trip to Harvard University - a group of students about to hop in a VW bus](https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-01-roadtrip.png)
 
 Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! Now, don't get too excited, we won't be donning crimson robes and walking the hallowed grounds, but we will getting to make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^1].
+
+```html
+<figure>
+    <img src="https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-01-roadtrip.png" alt="LEGO depiction of a road trip to Harvard University - a group of students about to hop in a VW bus" />
+    <figcaption>This image was generated using the DALL-E AI image generation tool.</figcaption>
+</figure>
+```
 
 During our virtual visit, we'll also be meeting some of the biggest names in philosophy, like [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), and [John Rawls](https://en.wikipedia.org/wiki/John_Rawls). These philosophers have left their intellectual mark all over the study of ethics, and we'll be exploring how they guide our moral compasses in the complex world of business.
 
