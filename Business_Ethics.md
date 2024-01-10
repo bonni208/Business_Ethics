@@ -144,11 +144,8 @@ Why is it important to recognize varying perspectives and demonstrate emotional 
 In the Princess Bride clip where the word "inconceivable" is repeated, what does it illustrate regarding effective communication?
 
 [[ ]] The importance of continuing to use more complex vocabulary in our speaking
-
 [[ ]] The significance of clear speaking and using simple vocabulary 
-
 [[ ]] The need to use humor in communication
-
 [[X]] The importance of ensuring words convey the intended meaning in our communication
 
 
@@ -156,11 +153,8 @@ In the Princess Bride clip where the word "inconceivable" is repeated, what does
 According to the quote from Paulo Freire, what is the most necessary element for dialogue?
 
 [[ ]] Empathy
-
 [[X]] Love for the world and for people
-
 [[ ]] Logical reasoning
-
 [[ ]] Assertiveness
 
 
