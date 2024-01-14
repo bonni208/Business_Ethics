@@ -582,7 +582,7 @@ Throughout this class we are going to be working on developing and cultivating e
 
 In this short Inside Out movie clip, the character of Joy realizes the value of sadness. It is vital for us to be able to recognize our emotions and to attempt to understand and empathize with others' feelings. 
 
-https://youtu.be/V9OWEEuviHE?si=gPCW1ha4JD_bIkPg
+!?[Inside out clip: Joy realizes the value of sadness](https://youtu.be/V9OWEEuviHE?si=gPCW1ha4JD_bIkPg)
 
 In order to explore the topics in this class, recognizing the varying perspectives we will inevitably have, emotional intelligence is going to be crucial. The key elements of emotional intelligence are: 
 
@@ -674,7 +674,7 @@ Separating feedback from our identity is crucial for personal growth, effective 
 
 In order to develop emotional intelligence, it's crucial to be aware of cognitive dissonance, a psychological phenomenon where individuals experience discomfort due to conflicting beliefs or values. Watch this explainer from Concepts Unwrapped about Cognitive Dissonance: 
 
-[Concepts Unwrapped - Cognitive dissonance video](https://youtu.be/m_lCO2cBNts?si=FOTnpfcSHLs0iTTE)
+!?[Concepts Unwrapped - Cognitive dissonance video](https://youtu.be/m_lCO2cBNts?si=FOTnpfcSHLs0iTTE)
 
 As shared in the video, cognitive dissonance is a psychological concept that refers to the discomfort or tension that arises when an individual holds two contradictory beliefs, attitudes, or values, or when their actions are inconsistent with their beliefs. This state of mental conflict can lead to feelings of discomfort and the desire to reduce or eliminate this dissonance. 
 
