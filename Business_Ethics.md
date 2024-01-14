@@ -6,7 +6,7 @@ author:   Dr. Bonni Stachowiak
 
 email: bstachowiak@vanguard.edu
 
-version:  00.01.11
+version:  00.09.97
 
 language: en
 
@@ -446,7 +446,7 @@ In the movie Zootopia, Judy Hopps makes an unintentionally insensitive comment a
 
 
 ### 01.01 | Let's get personal
-This is probably where I'm about to show my age. But in my day, we had Olivia Newton John (who you may know from Grease, but in this case, we're going to her other lesser known role singing Let's Get Physical). You do not have to watch the following video. In fact, the music video on YouTube made me cringe on more than one occasion, so I'm only even posting the audio here. 
+This is probably where I'm about to show my age. But in my day, we had Olivia Newton John (who you may know from Grease, but in this case, we're going to her other lesser known role singing Let's Get Physical). You do not have to watch the following video. In fact, the music video on YouTube made me cringe on more than one occasion, so I'm only even posting the audio here. But when we say: "Let's get personal," I'm hoping at least some of us will be changing the lyrics to Let's Get Physical in our minds, and singing along with Olivia Newton-John.
 
 !?[Olivia Newton-John - Physical](https://youtu.be/VM7TpVWvJqM?si=ydhVkyb3LJqyfXsK)
 
@@ -486,7 +486,9 @@ Studying ethics or other potentially polarizing topics can be challenging, and i
 >
 > --Don Miguel Ruiz
 
-As we reflect on those words, we can have our awareness heightened and realize that people's reactions and responses are often a reflection of their own beliefs, experiences, and perspectives. When studying ethics or engaging in discussions on polarizing topics, people may have strong opinions and emotions tied to their personal experiences. It's important to remember that their reactions are not necessarily a judgment of you, or your ideas and identity, but rather a reflection of their own reality. Another quote from Ruiz stresses this idea even further: 
+While Don Miguel Ruiz describes this idea, in terms of our 'dreams,' I've often heard people describe it as the movie of our lives, and we are the central character in that movie. Our subjective experiences, self-awareness, and emotional investment in our own lives naturally lead us to perceive ourselves as the stars of the movie of our own stories. While we interact with a diverse cast of characters and share the world with billions of people, our personal narrative remains at the forefront of our consciousness.
+
+As we reflect on the words from Ruiz, we can have our awareness heightened and realize that people's reactions and responses are often a reflection of their own beliefs, experiences, and perspectives. They are the stars in the movies of their own lives. When studying ethics or engaging in discussions on polarizing topics, people may have strong opinions and emotions tied to their personal experiences. It's important to remember that their reactions are not necessarily a judgment of you, or your ideas and identity, but rather a reflection of their own reality. Another quote from Ruiz stresses this idea even further: 
 
 > "Even when a situation seems so personal, even if others insult you directly, it has nothing to do with you. What they say, what they do, and the opinions they give are according to the agreements they have in their own minds."
 >
@@ -555,8 +557,6 @@ Inherent Human Dignity, as related to Imago Dei, emphasizes:
 [[ ]] Discrimination in business
 [[ ]] Exploitation of employees
 
-Imago Dei is Latin for [[Image of God]].
-
 The concept of stewardship means responsibly managing [[resources]] and relationships.
 
 When ethical conflicts arise in business, considering Imago Dei can guide [[conflict]] resolution processes.
@@ -596,13 +596,13 @@ In order to explore the topics in this class, recognizing the varying perspectiv
 
 Emotional intelligence is crucial in the business world. As I consider people I consider to be both successful and ethical, they exude those core foundations of emotional intelligence, while being humble enough to identify areas where they have fallen short. Emphasis has tended to historically focused on an individual's intelligence quotient (IQ), while in more recent years, businesses have began to stress the value of a person's emotional quotient (EQ) for various reasons:
 
-1. **Leadership:** Leaders with high EI can inspire and motivate their teams, leading to increased productivity and employee satisfaction. Daniel Goleman is a primary figure who has emphasized the importance of EI in leadership.
+1. **Leadership:** Leaders with high EQ can inspire and motivate their teams, leading to increased productivity and employee satisfaction. Daniel Goleman is a primary figure who has emphasized the importance of EQ in leadership.
 
 2. **Teamwork:** EI fosters better teamwork and collaboration. Understanding and respecting diverse perspectives within a team can lead to innovative solutions and better decision-making.
 
-3. **Customer Relations:** Employees with high EI are better equipped to handle customer interactions, resolving issues effectively and providing exceptional service.
+3. **Customer Relations:** Employees with high EQ are better equipped to handle customer interactions, resolving issues effectively and providing exceptional service.
 
-4. **Conflict Resolution:** EI helps in resolving conflicts diplomatically, reducing workplace tension, and maintaining a harmonious work environment.
+4. **Conflict Resolution:** EQ helps in resolving conflicts diplomatically, reducing workplace tension, and maintaining a harmonious work environment.
 
 By applying emotional intelligence in our workplaces, organizations can navigate cultural nuances successfully, foster trust, and achieve business success in increasingly diverse cultural environments. Developing emotional intelligence involves acknowledging and resolving these inner conflicts to make more informed and balanced choices. By implementing these strategies, individuals can minimize the tendency to take things personally, promote healthy communication, and build trust within a business context (as well as in our class' learning community).
 
@@ -700,6 +700,109 @@ Recognizing cognitive dissonance and its impact in a business context is essenti
 
 This lesson has delved into the definition and importance of ethics, emphasizing not taking things personally and placing the Imago Dei at the center of our interactions. We have learned that true growth lies in holding each other accountable for developing emotional intelligence, fostering an environment of empathy and understanding. Moreover, we have recognized the significance of separating feedback from identity, allowing us to grow without fear of judgment. Finally, our exploration has highlighted the critical need to be aware of cognitive dissonance, a powerful tool in aligning our actions with our ethical principles. As we reflect on these lessons, let us strive to embody these principles in our daily lives, creating a more compassionate and ethical world for ourselves and those around us.
 
+###### ? 01.02 - 01.05 | Review questions | EQ, seeking understanding, feedback, and cognitive dissonance
+
+What is emotional intelligence (EQ)?
+
+[[ ]] A measure of academic intelligence
+[[X]] The ability to recognize, understand, manage, and effectively use one's own emotions and those of others
+[[ ]] The ability to solve complex math problems
+[[ ]] The ability to communicate effectively in a foreign language
+
+One of the ways people may attempt to reduce cognitive dissonance is by changing their beliefs or attitudes to align with their [[actions]].
+
+Which of the following is NOT one of the key elements of emotional intelligence?
+
+[[ ]] Self-Awareness
+[[ ]] Motivation
+[[X]] Creativity
+[[ ]] Empathy
+
+Why is emotional intelligence considered crucial in the business world?
+
+[[ ]] It helps in memorizing facts and figures.
+[[X]] It fosters better teamwork and collaboration.
+[[ ]] It improves physical fitness.
+[[ ]] It helps in predicting stock market trends.
+
+How can cognitive dissonance impact decision-making in business?
+
+[[ ]] It always leads to optimal decision-making
+[[X]] It can cloud judgment and lead to suboptimal decisions
+[[ ]] It has no impact on decision-making
+[[ ]] It leads to immediate resolution of conflicts
+
+Separating feedback from one's [[identity]] is essential for personal growth, effective communication, and emotional well-being.
+
+How can individuals practice empathy in developing emotional intelligence?
+
+[[ ]] By ignoring the feelings of others
+[[X]] By actively listening and demonstrating compassion
+[[ ]] By avoiding all emotional situations
+[[ ]] By focusing solely on their own emotions
+
+Which element of emotional intelligence involves effective interpersonal skills?
+
+[[ ]] Self-Regulation
+[[ ]] Self-Awareness
+[[X]] Social Skills
+[[ ]] Motivation
+
+How can open and honest dialogue contribute to productive communication?
+
+[[ ]] By suppressing different perspectives
+[[ ]] By discouraging discussion
+[[X]] By fostering mutual learning
+[[ ]] By promoting misunderstandings
+
+In the movie clip from "The Princess Bride," what does Inigo Montoya point out to Vizzini?
+
+[[ ]] Vizzini's excellent use of vocabulary
+[[ ]] Vizzini's impeccable timing
+[[X]] Vizzini's misuse of the word "inconceivable"
+[[ ]] Vizzini's logical reasoning
+
+What is the main reason to separate feedback or criticism from one's self-worth?
+
+[[ ]] To prove that criticism is always wrong
+[[ ]] To avoid receiving any feedback
+[[X]] To view feedback as an opportunity for growth and improvement
+[[ ]] To retaliate against those giving feedback
+
+Cognitive dissonance is a psychological phenomenon that arises when an individual holds two contradictory [[beliefs]], attitudes, or values, or when their actions are inconsistent with their beliefs.
+
+How can feedback that is closely tied to identity hinder professional growth?
+
+[[ ]] It can lead to more opportunities for promotion
+[[ ]] It can result in improved performance
+[[X]] It can create discomfort in the workplace
+[[ ]] It can enhance communication skills
+
+Emotional intelligence (EI) refers to the ability to recognize, understand, manage, and effectively use one's own emotions and those of [[others]].
+
+What gets emphasized in the following Steve Jobs quote, "The only way to do great work is to love what you do and to detach your ego from the outcome"?
+
+[[ ]] The importance of ego in professional success
+[[ ]] The need to take all feedback personally
+[[X]] The value of separating one's ego from the results of their work
+[[ ]] The idea that ego is more important than passion
+
+What is cognitive dissonance?
+
+[[X]] A state of mental conflict arising from holding contradictory beliefs or values
+[[ ]] A state of complete harmony in one's thoughts
+[[ ]] A type of meditation technique
+[[ ]] A neurological disorder
+
+Steve Jobs emphasized the need to detach your [[ego]] from the outcome in order to do great work.
+
+What is selective exposure in the context of cognitive dissonance?
+
+[[ ]] A psychological term for ignoring all feedback
+[[X]] Seeking additional information to justify one's actions
+[[ ]] Avoiding information that contradicts one's beliefs or actions
+[[ ]] Finding a middle ground to reconcile beliefs and actions
+
 ## 02. That seems really inappropriate (Get to know your favorite philosophers) 
 
 ![Course header graphic - lesson 02](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-02.jpg)
@@ -748,9 +851,21 @@ Watch: [Justice: What's The Right Thing To Do? Episode 01 and 02"](https://youtu
 
 !?[Justice: What's The Right Thing To Do? Episode 01 and 02](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) 
 
-###### ? 02.02 | Review questions | The moral side of murder
+###### ? 02.02 | Review questions | Justice lectures episodes 01 and 02 
 
-Test your understanding of the basics of the concepts Sandel brought up in this first lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
+Test your understanding of the basics of the concepts Sandel brought up in this first and second lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
+
+Michael Sandel played video clips from Shakespeare's Hamlet, Fear Factor, and The Simpsons to test John Stuart Mill's utilitarian theory.
+
+[[X]] True
+[[ ]] False
+
+Which philosopher is most closely associated with the development of utilitarianism?
+
+[[ ]] Immanuel Kant.
+[[x]] John Stuart Mill.
+[[ ]] Friedrich Nietzsche.
+[[ ]] Socrates.
 
 What is the main ethical dilemma in the trolley problem?
 
@@ -766,19 +881,40 @@ In utilitarianism, what is considered the most ethical action?
 [[x]] The action that produces the greatest good for the greatest number.
 [[ ]] The action that is easiest to perform.
 
+According to John Stuart Mill, what is the central idea of utilitarianism?
+
+[[ ]] The pursuit of individual happiness above all else.
+[[X]] The greatest good for the greatest number.
+[[ ]] Maximizing pleasure at any cost.
+[[ ]] Prioritizing the elite's happiness over the common people.
+
+In Michael Sandel's lecture, what did John Stuart Mill argue about the compatibility of utilitarianism and individual rights?
+
+[[ ]] They are fundamentally incompatible.
+[[ ]] Utilitarianism always prioritizes individual rights.
+[[X]] Seeking the greatest good can coexist with protecting individual rights.
+[[ ]] Individual rights should always take precedence over the greater good.
+
+According to Mill, [[higher]] pleasures are of a higher quality and should be prioritized over lower pleasures in the pursuit of happiness.
+
+John Stuart Mill believed that seeking "the greatest good for the greatest number" is not compatible with protecting individual rights.
+
+[[ ]] True
+[[X]] False
+
+Utilitarianism as presented by John Stuart Mill allows for a distinction between higher and lower pleasures.
+
+[[X]] True
+[[ ]] False
+
+John Stuart Mill argued that utilitarianism seeks to maximize [[pleasure]] for the greatest number.
+
 How does the trolley problem challenge utilitarian principles?
 
 [[ ]] It questions the value of individual rights.
 [[ ]] It creates a scenario where no one is truly happy.
 [[ ]] It presents a situation where all choices lead to a bad outcome.
 [[x]] It forces a choice between the greater good and individual morality.
-
-Which philosopher is most closely associated with the development of utilitarianism?
-
-[[ ]] Immanuel Kant.
-[[x]] John Stuart Mill.
-[[ ]] Friedrich Nietzsche.
-[[ ]] Socrates.
 
 In the trolley problem, if you choose to divert the trolley to save five people but kill one, you are primarily applying which ethical principle?
 
@@ -789,11 +925,13 @@ In the trolley problem, if you choose to divert the trolley to save five people 
 
 ### 02.03 | What if everybody did that? 
 
-I was about to tell you about this super irritating book that our kids used to love to have me read when they were little. However, upon doing some digging, turns out that you can experience it for yourself. Actually, the woman who reads is has quite an easy to listen to cadence in her read aloud. Watch at least enough of the [What If Everybody Did That video](https://youtu.be/SD0apYFz5gg?si=ax2s7e4rPSG0M9YH) to get the gist of the main theme of the book, which was derived straight from our next philosopher: Immanuel Kant. 
+I was about to tell you about this super irritating book that our kids used to love to have me read when they were little. However, upon doing some digging, turns out that you can experience it for yourself. Actually, the woman who reads is has quite an easy to listen to cadence in her read aloud. Looking back, perhaps it was just my reading of it that was irritating, when our kids were little? 
+
+> Watch at least enough of the [What If Everybody Did That video](https://youtu.be/SD0apYFz5gg?si=ax2s7e4rPSG0M9YH) to get the gist of the main theme of the book, which was derived straight from our next philosopher: Immanuel Kant. 
 
 !?[What If Everybody Did That? Book read aloud](https://youtu.be/SD0apYFz5gg?si=ax2s7e4rPSG0M9YH)
 
-We can learn a bit about this philosopher from the openly-licensed textbook [Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/chapter/kantian-deontology/) and the section on Immanuel Kant: 
+We can learn a bit about this philosopher from the openly-licensed textbook [Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/chapter/kantian-deontology/) and the section on Immanuel Kant, where they share that: 
 
 > Relative to most other philosophers, Immanuel Kant (1724-1804) was a late bloomer, publishing his first significant work, *The Critique of Pure Reason*, in 1781 at age 57. 
 
@@ -801,7 +939,7 @@ We can learn a bit about this philosopher from the openly-licensed textbook [Int
 
 > Some of the main questions that Kant’s ethics focuses on are questions of right and wrong: What makes an action right or wrong? Which actions are we required by morality to perform? Do consequences matter? Is it ever permissible to do something morally wrong in order to achieve good consequences? Is it important to do actions with good intentions? And what are good intentions? Some of Kant’s answers to some of these questions are complex, but as we will see, he doesn’t think that consequences matter and thus good consequences cannot justify wrong actions. He also thinks that intentions are important to the ethical evaluation of actions.
 
-Watch: This video about [Immanuel Kant from Three Minute Philosophy](https://youtu.be/xwOCmJevigw?si=rQHOJ8mdJF_KzijA). 
+Let's get to know Immanuel Kant, by watching a short video from  [Three Minute Philosophy: Immanuel Kant](https://youtu.be/xwOCmJevigw?si=rQHOJ8mdJF_KzijA). 
 
 !?[Video: Three Minute Philosophy - Immanuel Kant](https://youtu.be/xwOCmJevigw?si=rQHOJ8mdJF_KzijA)
 
@@ -809,23 +947,15 @@ Watch: This video about [Immanuel Kant from Three Minute Philosophy](https://you
 
 > Review the material from the videos and text, by answering the following questions. 
 
-
-
 Kant said that we are allowed to lie when the consequences of not lying would be dire/lethal.
 
 [[ ]] True
-
 [[X]] False
-
-
 
 Kant believed that it was ok to treat a human being a means to an end if it meant that the common good could be maximized.
 
 [[ ]] True
-
 [[X]] False
-
-
 
 Which of the following moral frameworks did Kant subscribe to?
 
@@ -834,27 +964,33 @@ Which of the following moral frameworks did Kant subscribe to?
 [[ ]] Egoism
 [[X]] Deontology
 
-
-
 Kant said that all actions must have universality. We should only do something if it would be ok if everyone were to do the same thing - and it still would be ok.
 
 [[X]] True
-
 [[ ]] False
-
-
 
 Does this fit with Kant's view? We should behave as if we are the absolute moral authority.
 
 [[X]] True
-
 [[ ]] False
 
 
 
-### 02.06 | Get real with John Rawls', y'all! | 15 minutes | #sense
+### 02.04 | Get real with John Rawls, y'all!
 
+Another philosopher we are definitely going to want to know is John Rawls, in our study of business ethics. John Rawls continues to this day to be influential in the field of political philosophy, particularly his theory of justice. Here are some key points that business ethics students should know about John Rawls:
 
+1. **Theory of Justice:** John Rawls is most renowned for his theory of justice as fairness, which he presented in his book "A Theory of Justice" published in 1971. This theory provides a framework for understanding what constitutes a just and fair society.
+
+2. **Original Position and Veil of Ignorance:** Rawls introduces the concept of the original position, a hypothetical state in which rational individuals make decisions about the principles of justice. These individuals are behind a "veil of ignorance," meaning they don't know their own personal attributes, such as their gender, race, social status, or wealth. This ensures that the principles of justice they choose are fair and impartial.
+
+3. **Two Principles of Justice:** Rawls proposes two principles of justice that individuals in the original position would agree upon:
+   - **First Principle (Equal Basic Liberties):** This principle states that each person should have an equal right to the most extensive basic liberties that are compatible with similar liberties for all.
+   - **Second Principle (Difference Principle):** This principle allows for social and economic inequalities as long as they benefit the least advantaged members of society. In other words, inequalities should be structured to improve the situation of the most vulnerable.
+
+4. **Maximin Principle:** Rawls argues for a maximin approach, which means that decisions should be made to maximize the well-being of the least advantaged in society. This reflects his emphasis on social justice and reducing inequality.
+
+It is time to further explore what John Rawls called the veil of ignorance. The Veil of Ignorance is a device for helping people more fairly envision a fair society (or business) by pretending that they are ignorant of their personal circumstances. Watch [this short video from Ethics Defined about the veil of ignorance](https://youtu.be/qWSYpiE54cg?si=RV2wS22aUeZWQd55). 
 
 !?[Veil of ignorance | Ethics defined](https://youtu.be/qWSYpiE54cg?si=U1bnJkVSZHdD1YEw)
 
@@ -862,11 +998,85 @@ Does this fit with Kant's view? We should behave as if we are the absolute moral
 
 
 
-### 02.07 | Aristotle meets Batman | 15 minutes | #sense
+In a business context, we can apply Rawls' ideas to ethical dilemmas. Rawls' emphasis on fairness, equal opportunities, and addressing the needs of the least advantaged can inform decisions business leaders make regarding corporate social responsibility, fair wages, and ethical business practices. There are critiques and debates surrounding Rawls' theory, including criticisms of the feasibility of implementing his principles in the real world and concerns about the balance between individual liberty and social equality. This takes us back to the grey areas of studying ethics. John Rawls' theory of justice provides a foundational framework for thinking about fairness and ethical decision-making in society, including its relevance to business practices and corporate ethics. Understanding Rawls' ideas can help us engage in discussions about ethical dilemmas in the business world from a broader philosophical perspective.
 
-Another framework 
+###### ? 02.04 | Review questions | Get real with John Rawls, y'all
+
+What is John Rawls most renowned for in the field of political philosophy?
+
+[[ ]] Theory of Equality
+[[X]] Theory of Justice as Fairness
+[[ ]] Theory of Wealth
+[[ ]] Theory of Liberty
+
+Rawls' theory allows for social and economic inequalities as long as they benefit the [[least]] advantaged members of society.
+
+In the original position, individuals are behind a "veil of ignorance." What does this mean?
+
+[[ ]] They are completely unaware of their surroundings.
+[[X]] They don't know their own personal attributes.
+[[ ]] They are free from making decisions.
+[[ ]] They have full knowledge of their personal attributes.
+
+Rawls' theory of justice emphasizes fairness and equal [[opportunities]].
+
+The original position is a hypothetical state in which individuals have complete knowledge of their personal attributes.
+
+[[ ]] True
+[[X]] False
+
+Rawls introduced the concept of the "Veil of [[Ignorance]]" to ensure impartial decision-making.
+
+According to Rawls, what are the two principles of justice that individuals in the original position would agree upon?
+
+[[ ]] Equal Basic Liberties and Maximum Wealth
+[[ ]] Equal Opportunities and Wealth Redistribution
+[[X]] Equal Basic Liberties and Difference Principle
+[[ ]] Equal Opportunities and Social Hierarchy
+
+What does Rawls' maximin principle emphasize?
+
+[[ ]] Maximizing individual liberty
+[[ ]] Maximizing social and economic inequalities
+[[X]] Maximizing the well-being of the least advantaged
+[[ ]] Maximizing individual wealth
+
+John Rawls presented his theory of justice in the book "A Theory of Justice" published in 1971.
+
+[[X]] True
+[[ ]] False
+
+In a business context, Rawls' ideas can inform decisions regarding corporate social [[responsibility]].
+
+True or False: Rawls' first principle of justice emphasizes equal basic liberties for all.
+
+[[X]] True
+[[ ]] False
+
+The maximin principle argues for maximizing the well-being of the most advantaged members of society.
+
+[[ ]] True
+[[X]] False
+
+One of the critiques of Rawls' theory is the feasibility of implementing his principles in the real [[world]].
+
+
+
+### 02.05 | Aristotle meets Batman
+
+Ready to meet our last philosopher? Well, at least for this lesson? Aristotle, an ancient Greek philosopher, laid the groundwork for virtue ethics, a philosophical approach that has enduring relevance in the field of business ethics. His profound insights into human nature and ethics continue to guide individuals and organizations in making ethical decisions. Aristotle believed that the ultimate purpose of human life is to achieve eudaimonia, often translated as "happiness" or "flourishing." Virtue ethics, as expounded by Aristotle, centers on the development of virtuous character traits as a means to attain this state of well-being. 
+
+> Virtue Ethics is a normative philosophical approach that urges people to live a moral life by cultivating virtuous habits.
+>
+> -- Ethics Unwrapped from McCombs School of Business at the University of Texas
+
+A cornerstone of Aristotle's virtue ethics is the idea of virtues and the golden mean. Virtues, such as courage, honesty, and justice, are character traits that contribute to both individual and societal well-being. Aristotle proposed that virtues lie between two extremes, with the golden mean representing the balanced and virtuous path. For example, courage is the space between recklessness and cowardice. Watch [this short video from McCombs School of Business Ethics Unwrapped](https://youtu.be/NMblKpkKYao?si=bfSjGM0WKXxXuAt_) to explore more about virtue ethics. 
 
 !?[Virtue ethics | Ethics defined](https://youtu.be/NMblKpkKYao?si=HBTUMDsa7BtyibW9)
+
+Virtue ethics is all about living a morally upright life through character development. This approach suggests that practicing virtues like honesty, bravery, and generosity leads to a virtuous character. Aristotle believed that these virtuous habits help individuals make ethical choices when faced with dilemmas. In the clip, we learn how to clarify the differences between moral philosophies, by considering the film The Dark Knight. Utilitarians might support Batman killing the Joker to save others, while deontologists would reject it solely because killing is wrong. In contrast, virtue ethicists focus on Batman's character, asking if he wants to become someone who takes lives. The answer is usually no. Virtue ethics teaches us how to be virtuous individuals and provides guidance for ethical living without rigid rules for specific dilemmas we might face.
+
+###### ?  02.05 | Review questions | Aristotle meets Batman
 
 1. What is the central focus of virtue ethics?
    
@@ -941,6 +1151,8 @@ When I was earning my doctorate, one of our professors would regularly emphasize
 > We are going to be going through a case study that will help you think about how you might make a decision, in the case where it wasn't obvious what the right thing to do was. Again, it is easier than it seems. Use the links on Canvas to access the case and follow the directions for working in groups for the second half. 
 
 You are going to want to stop reading at this point and head over to Canvas, as otherwise the "ending" may be spoiled for the case and it won't be as meaningful or fun. 
+
+![Stop sign](https://innovatelearning.s3.amazonaws.com/iman-Vaugz0s98pI-unsplash.jpg)
 
 ### 03.01 | Ethical frameworks
 
@@ -1264,11 +1476,7 @@ How do ethical frameworks contribute to critical thinking?
 
 ### 03.03 | An ethical decision making case study
 
-Check Canvas for information about the ethical decision making case study we will be exploring on our own and then with others in the class. 
-
- 
-
-
+Check Canvas for information about the next part of the ethical decision making case study we are exploring on our own and then with others in the class. 
 
 
 
@@ -1304,7 +1512,7 @@ Serve up the Starter Course
 
 
 
-### 04.01 | Introduction to SIFT | 60 minutes | #sense
+### 04.01 | Introduction to SIFT
 
 Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be making use of a lot what he has shared in his [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed), which he has made available under a Creative Commons license[^1]. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
 
