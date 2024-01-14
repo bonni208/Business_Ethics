@@ -1,4 +1,5 @@
 # Business Ethics
+
 <!--
 
 author:   Dr. Bonni Stachowiak
@@ -19,145 +20,685 @@ icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.png
 
 -->
 
-# Ten Lessons
+I am so glad you're here. While I have taught this class well over ten times, this time feels different. In the Spring of 2024, I have decided to 'burn the class down to the ground' and rebuild it in a format inspired by some of the greatest teachers I have ever met. Also, each class is unique and I am so looking forward to us becoming an us in the coming weeks. 
 
-Welcome to the Ten Lessons, which make up one half of our Business Ethics course. These lessons cover key topics in ethical considerations within the business realm. Throughout the course, we'll explore various ethical frameworks, influential moral philosophers, the importance of fact-checking in the news and on social media, corporate social responsibility, the triple bottom line, the necessity for having an ability to change our minds, and both the positive and negative aspects of corporate behavior. We'll also discuss the roles of power and privilege in business for promoting positive outcomes. My goal is to create a learning community in which we can consider ways to cultivate our character and to be able to make more principled decisions in the complex world of business. 
+> Watch the following video to get to know a few things about me, as well as discover a bit about our class. 
 
-The goal of having these lessons is to engage you in learning more about ethics in the context of organizations. 
+<iframe width="100%" height="580" allowfullscreen="true" allow="autoplay *" title="busn435-welcome-video-walk" src="https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c" frameborder="0"></iframe>
 
-!?[Ethics definted](https://youtu.be/4vWXpzlL7Mo?si=rLXDvfQnBHPLFFRN)
 
-Rules or guidelines that determine what is right and wrong for individuals. Codes of conduct within certain professions, such as accountants, journalists, or event planners help guide people toward more ethical decisions. 
+
+# Start
+
+This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The is made up of ten lessons [^1] and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
+
+At certain parts of my life, I have felt stuck deciding on what seemed like two, binary choices. Like those old fashioned tv game shows where you had to pick door A or door B. 
+
+![Game show in the style of 1950s with two doors as choices: A or B](https://innovatelearning.s3.amazonaws.com/game-show-choice.png)
+
+Someone I worked with reminded me that there are hardly only just two options we might pick in our lives. The options are boundless. But, also, Henry Nouwen reminds us in the following quote that God is with us, through all the choices we make in our life and we can rest easy in that. 
+
+> There is no such thing as the right place, the right job, the right calling or ministry. I can be happy or unhappy in all situations. I am sure of it, because I have been … deciding to do this, that, or the other for the next five, ten, or twenty years is no great decision. Turning fully, unconditionally, and without fear to God is. Yet this awareness sets me free.
+>
+> -- Henry J.M. Nouwen 
+
+Thank you for taking the time out of your week to get started with Business Ethics (aka BUSN 435). 
+
+![LEGO bricks - AI generated - university campus](https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-00-start.png)
+
+*While not an actual LEGO set you can buy (nor am I quite that huge in real life), I'm looking forward to us being able to use our creativity together this semester to create something memorable. Not sold in stores. Not available in real life. Not Vanguard's actual campus. Not absent of bias.[^3] You get the idea...* 
+
+[^1]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
+[^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
+[^3]: You probably figured this out, already, but I created that LEGO box image using artificial intelligence. Perhaps some of may have also noticed that none of the students depicted in the picture appear as if they are women. The first time I asked the bot to create an image of a female professor with blonde hair and glasses, the minifig of the professor was of a man (with a scruffy mustache and beard) with long, blonde hair.  We will be talking a lot about this in class, but bias exists all around us, and within us. And the more we can 'name' when it happens, the more we can seek to create a more just and equitable world. In the meantime, enjoy the LEGO box (with more to come throughout our class). 
+
+
+
+## 00. Let's get it started 
+
+![course header - lesson one](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-00-1.jpg)
+
+Welcome to Business Ethics (BUSN435) at Vanguard University. Throughout your experience of taking ten lessons and then experiencing ten challenges, you will grapple with essential questions about living a life of character and remaining true to your faith within the context of business. My aim is to equip you with the tools and insights necessary to navigate the complex landscape of ethical decision-making in the business world while upholding the values and principles rooted in your beliefs. Through these experiences, I hope to empower you to become an ethical leader who inspires positive change and positively impacts your professional and personal spheres.
+
+> As you progress through this lesson, be sure to watch the videos, read the text, and answer the review questions are you are presented with them. More information is available on Canvas about what's expected, along with due dates, etc. 
+
+One thing you're going to find about me is that I love music. Almost 100% of the time, there's a soundtrack playing in my head. So, if someone says something like: "Let's get it started," my mind is going instantly to music. Like [this song by The Black Eyed Peas](https://youtu.be/IKqV7DB8Iwg?si=AQ-9V0Y4VTCRM0z5). 
+
+> I know I just told you to be sure to watch all the videos. YOU CAN SKIP THIS ONE, because it is just a song. Unless you are really ready to get it started. 😂🎯🎉
+
+!?[The Black Eyed Peas - Let's Get It Started](https://youtu.be/IKqV7DB8Iwg?si=AQ-9V0Y4VTCRM0z5)
+
+Let's go. 
+
+### 00.01 | Why take a business ethics class | 50 min
+
+Speaking of decisions, there are likely many reasons a person may decide to take a class about business ethics. 
+
+**Requirement.** I often hear people say that they needed it to meet some requirement (whether that be for accounting majors to hit the number of units they need to eventually earn a CPA license someday, or for a business major who needs upper division business elective units). 
+
+**Flexibility.** Sometimes students tell me that the flexibility of the course gave them the option to design their schedule to meet their needs (whether that be because they're an athlete and they can better navigate practice times and games, or because they have work during many of the weeks when most of us will be meeting on Zoom). 
+
+**The professor.** Finally, some people say that they have had me for classes, previously, and that they're excited for another adventure together. I don't take that lightly, as it is truly a joy to get to learn with others and I'm glad you have decided to take another class with me. 
+
+**You're not sure ~ yet.** It's also quite possible you don't know yet why you're taking this class. Perhaps as you put together your schedule, everything didn't fall into place like you had hoped it would. My encouragement to you is to consider this week all of your schedule and determine if there are any changes you want to make, as when I was in college, I didn't think as intentionally as I might have liked to do about all the possibilities. If this is you, I don't want you to think you're alone. 
+
+--{{0}}--
+
+Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. 
+
+As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews. 
+
+> I sent an email out to those who were registered for the class a few weeks back, asking for you to reply to let me know why you're taking a class about business ethics. If you haven't done so, already, please email me and share your reasoning and what you hope to get out of the course. 
+
+#### It's more important than sword fighting
+
+When I first started working at Vanguard, I had my first teaching assistant (TA). His name was Brandon and he was about to graduate. To finish up his coursework, he needed units, but they could be in anything he wanted to take. I thought it was so cool that he got to take sword fighting[^1], even though he wasn't a theatre major and never set foot on the stage. The class would practice on the Heath lawn and sometimes I would catch glimpses of them out there, looking like they were having a blast. 
+
+This may be controversial, but for most people (besides theatre majors), I'm going to go out on a limb and say that business ethics is more important than sword fighting. If you find this offensive, reach out to me. Let's talk. I'm open to being wrong on this one. Speaking of sword fighting, I don't think I can reference it without putting [a clip from of one of my favorite movies of all time: The Princess Bride](https://youtu.be/I73sP93-0xA?si=dRfer2WimjEO2f53). 
+
+!?[The Princess Bride movie clip - My Name is Inigo Montoya (1987)](https://youtu.be/I73sP93-0xA?si=dRfer2WimjEO2f53)
+
+I'm pretty sure that Brandon never got as good as those actors in The Princess Bride at stage combat while at Vanguard, but he sure did brighten my days and I'm glad to have known him. I should probably get back to why someone may want to take a class about business ethics. 
+
+[^1]: I'm realizing now that the class was (maybe still is?) called stage combat. But sword fighting seems so much better that I'm going to leave the error in and just go with it. If you need some help with accepting mistakes, you've got to listen to David Wilcox signing [Leave It Like It Is](https://youtu.be/S7mkdHQX-NE?si=xpb8WTS0ZSUKR7NL). I love listening to it and being reminded not to take myself and my human foibles so seriously. 
+
+#### You will have a guide for life
+
+I realize that part about having a guide for life sounds pretty dramatic. But I truly believe that the more we understand about ethics, in general, and the context that most of us will spend a huge percentage of our lives (work), the more we will be able to bring more of God's love into the world. 
+
+A definition seems in order right about now: 
+
+> Business ethics are the principles that guide decision-making and are vital for transparency, inviting feedback, considering the impacts on employees, stakeholders, and society, and reflecting on past experiences. 
+
+Most of us like to consider ourselves ethical people. However, without being aware of the contexts in which we may be faced with incredibly challenging decisions, ones for which there are not easy answers, we are likely to make a choice that may not align with our espoused values. Every year we seem to hear about a company involved in some sort of ethical scandal affecting workers, customers, society as a whole, or the environment. Watch [The Importance of Business Ethics](https://www.youtube.com/watch?v=pHrDUu4Rjtg) to explore this further. 
+
+> The speaker in [The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV) discusses the importance of ethical behavior in business and the consequences of unethical actions. The video presents scenarios illustrating ethical dilemmas, cites examples of unethical corporate behavior, and emphasizes the negative impacts of a lack of ethics in organizations. Discover the significance of adhering to protected values and how ethical behavior can lead to improved employee morale, productivity, and long-term profitability, while recognizing how unethical actions can harm a company's reputation and investor confidence.
+
+!?[The Importance of Business Ethics](https://youtu.be/pHrDUu4Rjtg?si=Wra8DhuTZi21FcfV)
+
+###### ? 00.01 | Review questions | The Importance of Business Ethics
+
+> Here are some questions to test your understanding from watching the video. 
+
+Volkswagen is mentioned for lying about emissions in the video.
+
+[[X]] True
+[[ ]] False
+
+According to the video, a company's relationship with investors has no impact on ethical standards.
+
+[[ ]] True
+[[X]] False
+
+The video suggests that employees with strong commitment to ethical values are more likely to report unethical behavior.
+
+[[X]] True
+[[ ]] False
+
+What does the video primarily discuss?
+
+[[ ]] Benefits of coffee consumption
+[[X]] Ethical dilemmas in business
+[[ ]] The history of Starbucks
+[[ ]] Employee loyalty
+
+According to the video, what is the quickest way to lose trust with employees?
+
+[[ ]] Demanding high ethical standards
+[[X]] Lying to employees
+[[ ]] Offering fair trade products
+[[ ]]  Conducting experiments
+
+What did the individuals in Wagner's experiment receive $5 for?
+
+[[ ]] Reporting ethical breaches
+[[X]] Flipping tails four times
+[[ ]]  Lying to their employers
+[[ ]] Treating customers unethically
+
+Ethical responsibilities extend to society by promoting sustainable practices and corporate social responsibility (CSR), which are increasingly expected by customers, employees, and investors. To customers, ethical responsibilities include avoiding misleading practices like greenwashing and false advertising. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. 
+
+As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1]. Ethical treatment of employees is also crucial, as fair practices contribute to a successful organizational culture, which can benefit the company economically and legally.
+
+[^1]: There's a lot more nuance regarding social media's impact on youth. The [Pew Research Center has some key findings from 2023](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/) to explore for more. 
+
+#### You're joining someone who finds utter joy in teaching and learning
+
+Since the age of five, I knew what I was going to do for a living. I would have my stuffed animals and dolls set carfully out in my room, approximating a classroom. My mom had bought me materials from a local educational store. I had the books that my 'students' could use, as well as the 'teachers' edition, used to guide me in my pedagogy. My bedroom door had a sign hung on it, which read: Room 208. The name I used was Miss. Monroe, a testiment to the power of the 1970s version of the tv show Charlie's Angels' characters in my life at the time. 
+
+When I was in college, picking a major was easy. I majored in social sciences, meaning I got to pick three of my favorite subjects to focus on: psychology, sociology, and history. I was certain that I would graduate with a single subject waiver to teach high school classes and would earn my teaching credential during what would have been my fifth year in college. I did graduate on time with a bachelors degree in social sciences, but my adventures in teaching have taken me plenty of places, but never inside a high school classroom. 
+
+> I have always wanted to teach. 
+
+Fast forward to today. I teach as a professor of business and management at Vanguard. I'm also dean of teaching and learning, which gives  me opportunities to collaborate with other faculty to improve all of our teaching and support efforts that allow students to thrive in their learning. My passion is in continually becoming more effective facilitating learning for students. I’m also fortunate to get to coach faculty and support them in my dean role. 
+
+![Bonni podcasting](https://innovatelearning.s3.amazonaws.com/bonni-podcasting.jpg)
+
+Since June of 2014, I have been airing weekly podcast episodes of [Teaching in Higher Ed](https://teachinginhighered.com). I started podcasting upon the urging of my husband, Dave, who I had met while earning my MA degree in Organizational Leadership. He had started the [Coaching for Leaders](https://coachingforleaders.com) podcast three years prior to his nudging for me to launch one. Given how much I enjoy talking about teaching and learning, I'm grateful for the ways in which those hundreds of conversations have shaped me all these years. 
+
+I've been married to Dave since April of 2005. It took us many years and lots of medical interventions, but our two kids came into the world and have been surprising and delighting us ever since. One of my favorite things about being a parent is how infectious our son's and daughter's collective curiosity can be. 
+
+If you would like to learn more about me, I have a fairly active presence online, including: 
+
+- [Teaching in Higher Ed](https://teachinginhighered.com/) - website with my weekly podcast episodes, rare blog posts, and speaking resources from when I'm invited to share at other universities or conferences about teaching and learning
+- [LinkedIn](https://www.linkedin.com/in/bonnistachowiak/) - professional connections and occasional reflection posts
+- [Instagram](https://www.instagram.com/bonni208) - personal connections and occasional pics of what I'm up to
+- [BUSN435 Instagram](https://www.instagram.com/busn435/) - an opportunity for us to experience #OpenEducation, to the extent we are comfortable to do so ~ this account is for our class, specifically 
+
+![BUSN435 Instagram account, displaying a few sample quotes and the profile for the account](https://innovatelearning.s3.amazonaws.com/2024-01-08_10-32-41.jpg)
+
+#### If you show up for the work, you may just find your life transformed
+
+![Dr. B holds a sign that reads: 'show up for the work'](https://innovatelearning.s3.amazonaws.com/BonniHeadshots2022-46.jpg)
+
+Those social media profiles that include a cover image as part of what we are invited to set up, I often post a picture of me, sitting in my Vanguard office, holding a sign that reads: 
+
+> Show up for the work. 
+
+This is inspiration taken from the life of Christian author Rachel Held Evans, who sadly passed away in her late 30s. Her legacy lives on, in terms of inviting us to think seriously about what we believe and be open to changing our minds. She had a sign hanging above her writing desk that said those same words, representative of her vulnerability in spending time and being in relationship with people who thought differently than she did about important issues in the world. 
+
+You are also likely to notice that I enjoy laughing and having fun. As Christopher P. Long says:
+
+> Joy is at the heart of all meaningful work.
+
+My hope is that we'll take our character seriously and the call to love our neighbors, while not taking ourselves too seriously (leaving room for growth and humility). May I be a person who models that right along with each of you. May you take the radical step of deciding each week that you're going to show up for the work in this class. If we do that together, it's quite possible we could leave changed people. 
+
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/jose-aragones-81QkOoPGahY-unsplash.jpg)
+
+Go back to your Google slides now and continue there, until such point as it invites you back over for the next part. 
+
+### 00.02 | How this class works
+
+Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how and when you can show up. 
+
+#### The space-time continuum: Synchronous and asynchronous attendance
+
+Ok. Not really. I'm not actually going to be teaching anything about the space-time continuum in this course. If you're interested in that topic, you're going to want to take a different class. Or, [watch a video with Neil deGrasse Tyson explaining it a gazillion times better than I'll ever do](https://youtu.be/SJhovNXqH6A?si=cvVoZmYg39ja3BR7). 
+
+However, I do want to share how this class works, in terms of the 'time' that class is held each week. In a normal class, you walk into a classroom and the professor 'marks' you as present. Sometimes there are points associated with you entering the room (and staying there). Sometimes, you have more autonomy for determining when it makes sense for you to attend. 
+
+In our class, we have Zoom sessions, which are somewhat like a normal class, in that they have a start time and an end time. However, there's also an option for you to not participate in those, but to otherwise demonstrate your having 'shown up' for class that week. 
+
+On Canvas, you will see calendar entries most weeks called #connect, which reflect the times most of us will gather at the set time. During that time, we will often spend the time focused on  a portion of the lesson for that week (or occasionally part of a challenge). 
+
+Higher education policies require that we have something that approximates attendance in a normal class, so if you come to the Zoom session, I'll mark you as "S" which stands for synchronous (meaning you attended using the scheduled time option). If you aren't at the Zoom, but you share your lesson for the week by the deadline, I'll mark you as "A" ~ which stands for asynchronous (meaning you opted to do the asynchronous option that week). I'm getting ahead of myself, though. More on this later on. 
+
+#### Your story and our stories matter
+
+Vanguard has used the Your Story Matters tagline for quite some time. Some people find it to be trite, but I've always really liked it. I suppose how you feel about it may depend on how sincere you believe someone to be when they say that to you. 
+
+> Your story matters to me. 
+
+I started teaching at Vanguard in 2004. You can imagine that I've met a lot of students in that time. To this day, I always get excited and nervous about a new class starting. As weird as this may sound, you matter to me, even though in some cases, we may not have ever met, yet. I am looking forward to getting to know you throughout this class. 
+
+Individual stories are compelling. Something powerful happens when groups form and create collective stories together. In this class, I'm looking forward to when we become an 'us.' 
+
+We are going to need to work together to find ways of exploring topics together, while respecting and honoring each other in the process. It is highly likely that we will have different perspectives, making it that much more important to acknowledge and affirm [the imago dei](https://www.christianity.com/wiki/bible/image-of-god-meaning-imago-dei-in-the-bible.html) in each of us. 
+
+#### It takes a village, or at least some reliable tools
+
+My first job out of college was working for a computer training company. I used to teach technology classes to business professionals and would often fall asleep with a thick book next to me, back when people used to read books to learn how to use a software application. Even today, I love technology enough to mark on my calendar when any Apple Keynotes will be held, such as at their annual Worldwide Developers Conference (WWDC). Dave, my husband, and I used to consider it a 'romantic' date before we were married to sit and watch the latest keynote from WWDC back in the day. 😂
+
+I continue to find technology fascinating and marvel at both its positive and negative contributions to society and in business contexts. In this class, there is an essential set of technology tools that you'll need to use, in order to be successful. 
+
+
+
+| TOOL                   | DESCRIPTION                                                  | DIFFICULTY |
+| ---------------------- | :----------------------------------------------------------- | :--------: |
+| **Google docs/slides** | Throughout our class, you will be provided with a link to a document, which gets copied as a template inside of your Google account. Despite there being advances in what Microsoft 365 offers us, there's still nothing as fast and easy, as accessing a Google document and engaging with it on your own, or with others. |    Easy    |
+| **Quizlet**            | One of the best study methods supported by research is known as retrieval practice, or the testing effect. And one of the best tools I know of to create and share digital flashcards to support that practice is Quizlet. From your computer or phone, you can login to Quizlet, join our class, and strengthen your learning via the shared flashcards. |    Easy    |
+| **Instagram**          | Did you know that Instagram allows you to create a separate account from your main one? In this class, we will each keep an account where we can share the learning from our class, engage with each other and build community. |   Medium   |
+| **Raindrop.io**        | A big part of our class is going to be sharing with each other what we are learning and how we see business ethics through our unique contexts and current events. We will therefore need a place to store our stuff that connects us with each other and back into Canvas. We are going to use a digital bookmark tool called Raindrop.io, which lets us save stuff in a shared bookmark list, but will also push what we're finding onto our Canvas course shell. |   Medium   |
+| **Canvas Studio**      | Inside Canvas is a video creation and collection tool called Canvas Studio. When you're logged into Canvas from a computer, you can access the tool way over on the right hand side of your browser, in the same place you can view the calendar, dashboard, etc. This semester, we will be creating and sharing many videos and having everything in one place is going to be incredibly helpful for us all. |    Hard    |
+|                        |                                                              |            |
+
+#### Ten lessons and challenges
+
+You will notice a pattern in this class. Throughout the semester, we will all: 
+
+- Learn stuff - by watching videos, reading text, talking to each other and people we connect with as a class, wrestling with case studies, checking our understanding through games and quizzes **#seek**
+- Do stuff - challenge ourselves to go beyond just learning something, but actually applying it in some way **#sense**
+- Share stuff - the best kind of learning is the kind that is done in community with others **#share**
+
+I know it is cliché, but you will get out of this class what you put into it. While I recognize that each of you has busy schedules and plenty of other priorities, I expect that you will invest not just time into this course, but also that you'll challenge yourself to make this a good ROI (return on investment) for the time and money spent such that you can be a part of it. Do the right thing by investing in yourself and others this semester. 
+
+> "Brothers and sisters, do not be weary in doing what is right."
+>
+> -- 2 Thessalonians 3:13
+
+My commitment is the same right back to you. As you challenge yourself, I will be continuing to work to be effective at facilitating learning and helping us all to have fun and be compassionately challenged along the way. 
+
+###### ? 00.02 | Review questions | How this class works
+
+> Here are some review questions on how this class works. Test your understanding by answering them. 
+
+
+
+What is the definition of synchronous attendance in this class?
+
+[[ ]] Attending class via the alternative attendance options
+[[ ]] An option for those who can't meet or prefer not to meet at the scheduled times
+[[X]] Attending class during the scheduled time via Zoom
+[[ ]] Informing Dr. B about your absence in advance
+
+How is the class structured?
+
+[[ ]] Around five lessons and five case studies
+[[X]] Around ten lessons and ten challenges
+[[ ]] Around ten lessons, five challenges, and three exams
+[[ ]] Around a varied number of lessons and challenges
+
+You must attend the Zoom sessions each week.
+
+[[ ]] True
+[[X]] False
+
+You are expected to let Dr. B know if you are going to miss class.
+
+[[ ]] True
+[[X]] False
+
+See Canvas and the syllabus for more information about how the class is structured. I'm here, if you have any questions or are confused about how this all works. I know it is not the norm for most classes and may take some getting used to. I have heard overwhelmingly positive feedback about Flex-VU classes in the past and will commit to doing what I can to ensure that we have a good experience together this semester. 
+
+
 
 ## 01. It's all personal (or is it?)
+I'll admit to often feeling more nervous than normal when teaching this class. The topics we explore together tend to sometimes bump up against aspects of our identity such that it feels far beyond the normal way we might approach learning in some other classes. I want for us to take our commitment to being ethical people quite seriously, while not taking ourselves so seriously that we hinder the potential for growth. 
 
-![Course header graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
+In terms of the importance of taking this class seriously, the following come to mind as crucial reasons to do so:
 
-What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. 
+1. **Moral Integrity:** The study of ethics helps individuals and societies maintain moral integrity. It guides us in distinguishing right from wrong and encourages us to act in ways that align with our values and principles. This fosters trust, respect, and fairness in our interactions with others.
 
-In Zootopia, Judy Hopps (a rabbit police officer) is trying to solve a missing mammals case. During a press conference, she makes an unintentionally insensitive comment about predators. Nick Wilde, a fox and her unlikely partner, takes offense and confronts her about it.
+2. **Accountability:** Ethical principles provide a framework for holding individuals and institutions accountable for their actions. It ensures that those who engage in unethical behavior can be held responsible for their actions, leading to justice and fairness.
 
-!?[zootopia press conference scene](https://youtu.be/_abhnQkHOPU?si=e_0d7b1qjTYr6CKL)
+4. **Long-Term Success:** Ethical decision-making often leads to long-term success and sustainability. Businesses and organizations that prioritize ethics tend to build stronger reputations, attract loyal customers, and retain talented employees.
 
-This scene demonstrates how misunderstandings can arise, even with good intentions, and offers a valuable lesson about addressing such situations. While this story is fictional, these kinds of misunderstandings and opportunities for our biases to negatively impact us our relationships happen all the time in a business context. 
+5. **Personal Growth:** Embracing ethics can lead to personal growth and development. It encourages self-reflection and self-improvement, helping individuals become more empathetic, compassionate, and considerate of others.
 
-Avoiding taking things personally in a business or class context is essential for maintaining healthy relationships and effective communication. Here are a few ways we can work to accomplish that together and to create the kind of community that will foster the highest trust and deepest learning opportunities. 
+On the other hand, not taking ourselves too seriously is also important for several reasons:
 
-### 01.01 | Develop emotional intelligence
+1. **Humility:** Recognizing our own limitations and imperfections fosters humility. It allows us to learn from our mistakes and be open to different perspectives and ideas.
 
-Throughout this class we are going to be working on developing and cultivating emotional intelligence. Strengthen your emotional intelligence by understanding and managing your own emotions. Recognize that not everything is a personal attack or criticism. Practice empathy and try to understand the motivations and emotions of others in the situation. This allows you to respond thoughtfully rather than react emotionally.
+2. **Reduced Stress:** Taking ourselves too seriously can lead to excessive stress and anxiety. It's important to be able to laugh at ourselves and not let small setbacks or failures define our self-worth.
+
+3. **Improved Relationships:** People are often drawn to those who have a sense of humor and can take things lightly. It can enhance our social connections and make us more approachable.
+
+4. **Adaptability:** Being flexible and adaptable is easier when we don't take ourselves too seriously. We can better cope with change and unexpected challenges.
+
+5. **Creativity:** A more relaxed attitude can promote creativity and innovation. When we're not overly focused on perfection, we may be more willing to take risks and explore new ideas.
+
+Taking ethics seriously helps us maintain our moral compass, while not taking ourselves too seriously can lead to personal growth, reduced stress, and improved relationships. Balancing these two aspects is essential for leading a meaningful and fulfilling life. It is also a way we can experience greater growth throughout our time together.  
+
+---
+### 01.00 | What does it mean to be ethical?
+
+What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. I will be making many references to the show The Good Place in this class. While not set in a business context, The Good Place still offers us many lessons to draw from in business ethics. I won't ruin the ending for you, but will introduce some characters and plot points along the way. 
+
+> "The Good Place" is a television show that originally aired from 2016 to 2020. It was created by Michael Schur and features a unique blend of comedy, philosophy, and ethics. The show revolves around Eleanor Shellstrop, played by Kristen Bell, who wakes up in the afterlife and is told she has entered "The Good Place" due to her good deeds on Earth. However, Eleanor soon realizes that there has been a mistake, as she was not a virtuous person during her life. She teams up with other residents of The Good Place, including Chidi Anagonye (William Jackson Harper), Tahani Al-Jamil (Jameela Jamil), and Jason Mendoza (Manny Jacinto), to try and become a better person and earn her place in this supposed paradise.
+
+In this first clip, we are going to hear about how points get assigned in the good place. Throughout each person's life, they earn and lose points with each good and bad choice. There is a brief mention of suicide in this clip. 
+
+---
+
+!?[How Afterlife Points are Assigned - The Good Place](https://youtu.be/hY-Rzou38k4?si=xNeswSATebbNDH2U)
+
+You will continue to see clips show up from The Good Place in this course. It is a thought-provoking show that raises important ethical and philosophical questions. Its relevance to us in a business ethics course lies in its ability to spark discussions, illustrate ethical concepts, and provide valuable insights into moral decision-making, accountability, and personal growth, all of which are crucial aspects of ethical behavior in the business world. Besides, it is really funny and most students I meet appreciate humor being incorporated into classes versus more dry material. 
+
+---
+#### It's more than just knowing right from wrong 
+
+In answering the question of what it means to be ethical, it's more than just distinguishing right from wrong. It involves navigating a complex landscape filled with shades of grey and moral ambiguity. It's also about understanding how our decisions impact others. Here are several reasons why business ethics goes beyond a simplistic binary understanding of right and wrong: 
+
+1. **Cultural and Contextual Differences**: What may be considered ethically acceptable in one culture or context may not be viewed the same way in another. Business ethics must take into account cultural relativism and contextual nuances. What's morally right in one situation could be morally questionable in another.
+
+2. **Ethical Dilemmas**: Many business decisions involve ethical dilemmas where there are competing moral principles or values. For example, a company may need to decide between maximizing profits and ensuring the well-being of its employees. These situations require careful consideration of trade-offs and balancing conflicting interests.
+
+3. **Subjectivity**: Ethical judgments often involve subjective elements. People may have differing opinions on what is morally right or wrong based on their personal beliefs, values, and experiences. This subjectivity can make it challenging to arrive at a universally accepted ethical framework.
+
+4. **Legal vs. Ethical**: Something may be legal but still unethical, or it may be ethical but illegal. Legal frameworks provide a minimum standard of behavior, but they do not encompass all ethical considerations. Business ethics extends beyond compliance with laws and regulations.
+
+5. **Ethical Grey Areas**: In some cases, there may be ethical grey areas where it's difficult to determine what the right course of action is. These situations require critical thinking, ethical reasoning, and a consideration of potential consequences.
+
+6. **Conflicting Stakeholder Interests**: Businesses have multiple stakeholders with competing interests, including shareholders, employees, customers, suppliers, and the community. Balancing these interests ethically can be challenging, as decisions may impact some stakeholders positively and others negatively.
+
+7. **Ethical Risk Management**: Business ethics also involves managing ethical risks and potential conflicts of interest. Companies must implement policies and procedures to identify, mitigate, and prevent unethical behavior within their organization.
+
+8. **Evolving Ethical Standards**: Ethical standards can change over time as societal values evolve. What was considered ethically acceptable in the past may be viewed as unethical today. Businesses must stay attuned to these changing ethical norms and adapt their practices accordingly.
+
+9. **Gray Areas in Business Practices**: Some business practices, such as marketing tactics, pricing strategies, and competitive behavior, can operate in ethical grey areas. Decisions about how to engage in these practices ethically can be complex and nuanced.
+
+10. **Moral Dilemmas in Leadership**: Leaders often face moral dilemmas where they must choose between conflicting values, such as honesty and loyalty. Ethical leadership involves making difficult decisions with integrity and transparency.
+
+Let's look at an example in a fictional story, but one that is relatable in a real world context. In the movie Zootopia, Judy Hopps (a rabbit police officer) is trying to solve a missing mammals case. During a press conference, she makes an unintentionally insensitive comment about predators. Nick Wilde, a fox and her unlikely partner, takes offense and confronts her about it.
+
+!?[Zootopia clip: Judy Hopps at a press conference](https://youtu.be/_abhnQkHOPU?si=e_0d7b1qjTYr6CKL)
+
+This scene demonstrates how business ethics can move beyond simply right or wrong. Misunderstandings can so easily arise, even with good intentions. While this story is fictional, these kinds of misunderstandings and opportunities for our biases to negatively impact us our relationships happen all the time in a business context. 
+
+Business ethics is a multidimensional field that requires individuals and organizations to navigate complex ethical terrain. It involves considering diverse perspectives, weighing competing values, and making principled decisions that align with one's values and the expectations of society. Recognizing the presence of grey areas in business ethics underscores the need for critical thinking, ethical reasoning, and continuous reflection on ethical principles in the corporate world.
+
+
+
+###### ? 01.00 | Review questions | What does it mean to be ethical?
+
+
+
+What is the main focus of business ethics?
+
+[[ ]] Distinguishing right from wrong
+[[ ]] Maximizing profits
+[[X]] Understanding the impact of decisions on others
+[[ ]] Following legal regulations
+
+
+
+Why is business ethics more than just a binary understanding of right and wrong?
+
+[[ ]] Because it only applies to cultural contexts
+[[ ]] Because it solely relies on legal regulations
+[[X]] Because it involves navigating moral ambiguity and considering how decisions affect others
+[[ ]] Because it is entirely objective
+
+
+
+Which of the following statements about ethical dilemmas is true?
+
+[[ ]] Ethical dilemmas rarely occur in business decisions
+[[ ]] Ethical dilemmas involve clear-cut choices with no competing values
+[[X]] Ethical dilemmas involve situations where there are competing moral principles or values
+[[ ]] Ethical dilemmas are always easy to resolve
+
+
+
+What is the significance of recognizing ethical grey areas in business?
+
+[[ ]] It simplifies decision-making
+[[ ]] It eliminates the need for critical thinking
+[[X]] It highlights the need for ethical reasoning and reflection on principles
+[[ ]] It ensures compliance with laws and regulations
+
+
+
+Fill in the Blank Questions:
+
+
+
+Business ethics goes beyond a simplistic binary understanding of right and wrong by considering [[cultural]] and contextual nuances.
+
+
+
+Ethical judgments often involve subjective elements, such as personal beliefs, values, and [[experiences]].
+
+
+
+While something may be legal, it can still be considered [[unethical]], highlighting the distinction between legality and ethics.
+
+
+
+Business leaders often face moral dilemmas where they must choose between conflicting values, requiring them to make difficult decisions with [[integrity]] and transparency.
+
+
+
+In the movie Zootopia, Judy Hopps makes an unintentionally insensitive comment about predators during a press conference, demonstrating how misunderstandings can easily arise, even with good [[intentions]].
+
+
+
+
+
+### 01.01 | Let's get personal
+This is probably where I'm about to show my age. But in my day, we had Olivia Newton John (who you may know from Grease, but in this case, we're going to her other lesser known role singing Let's Get Physical). You do not have to watch the following video. In fact, the music video on YouTube made me cringe on more than one occasion, so I'm only even posting the audio here. 
+
+!?[Olivia Newton-John - Physical](https://youtu.be/VM7TpVWvJqM?si=ydhVkyb3LJqyfXsK)
+
+I'm going to be asking you to get personal in this class. Applying what you're learning in the uniqueness that only you can bring. I want us to have fun together, as well. Talking about some of the issues we will explore can bump up against our identities and unique cultural contexts. 
+
+#### Imago Dei at the foundation 
+
+One concept I ask that we keep at the center throughout our time together is Imago Dei. It is central to Christian beliefs and has significant implications for various aspects of life, including bringing our ethics and values into a business context. Imago Dei is Latin for "Image of God." It is a fundamental concept in Christian theology that asserts that every human being is created in the image and likeness of God. This concept is derived from the Bible, specifically from the book of Genesis, where it is stated: 
+
+> "So God created humanity in God's own image; male and female, God created them" (Genesis 1:27).
+
+Here's why Imago Dei is essential to consider when studying business ethics in such contexts:
+
+1. **Inherent Human Dignity:** Imago Dei underscores the inherent worth and dignity of every human being. It reminds Christians that all individuals, regardless of their roles in business or society, possess an intrinsic value that should be respected and upheld. This perspective challenges unethical practices such as exploitation, discrimination, or unjust treatment of employees, customers, or stakeholders.
+
+2. **Ethical Decision-Making:** Recognizing the image of God in every person serves as a moral compass in business ethics. Christian business students and professionals are encouraged to make ethical decisions that reflect God's values, such as honesty, integrity, and compassion. This means considering the welfare of others, being fair in business dealings, and avoiding actions that harm individuals or the community.
+
+3. **Compassion and Empathy:** Imago Dei encourages empathy and compassion in business interactions. Understanding that all individuals are created in God's image promotes a sense of responsibility to care for others, including employees, suppliers, and customers. This perspective fosters a business environment that prioritizes the well-being of all stakeholders.
+
+4. **Social Responsibility:** Christians often emphasize the concept of stewardship, which means responsibly managing resources and relationships. Imago Dei reinforces the idea that Christians have a duty to be socially responsible in their business practices. This includes ethical considerations related to environmental sustainability, philanthropy, and community engagement.
+
+5. **Conflict Resolution:** When ethical conflicts arise in business, considering Imago Dei can guide conflict resolution processes. Viewing others as bearers of God's image encourages Christians to seek peaceful and just resolutions, promoting reconciliation and forgiveness rather than hostility or retaliation.
+
+6. **Ethical Accountability:** The belief in Imago Dei reminds Christians of their ultimate accountability to God for their actions, including their business decisions. This accountability encourages transparency, integrity, and the pursuit of ethical excellence in business practices.
+
+Imago Dei is a foundational concept in Christian theology that has a profound impact on how business ethics is approached as Christians. It highlights the inherent dignity of all people, guides ethical decision-making, promotes compassion and social responsibility, and emphasizes accountability to a higher moral standard. Ultimately, it encourages a holistic and ethical approach to conducting business that aligns with Christian values and principles.
+
+---
+
+#### It's not personal
+
+I'm also going to be asking you to work to avoid taking things personally in both a business or class context, or at least for us to each agree to give each other the benefit of the doubt. This agreement to not take things personally is essential for maintaining healthy relationships and to have effective communication. 
+
+Studying ethics or other potentially polarizing topics can be challenging, and it is important to not take things personally during such discussions. One valuable source of wisdom on this subject is the book [The Four Agreements by Don Miguel Ruiz](https://search.worldcat.org/en/title/182962640). It is one of the best books I read while earning my MA degree. The Four Agreements provides valuable insights into personal growth and interpersonal relationships. The second agreement in the book is [*Don't Take Anything Personally*](https://www.thefouragreements.com/the-second-agreement-dont-take-anything-personally/), and it offers several key principles that explain why this is important. In that section, Ruiz writes: 
+
+> Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won't be the victim of needless suffering.
+>
+> --Don Miguel Ruiz
+
+As we reflect on those words, we can have our awareness heightened and realize that people's reactions and responses are often a reflection of their own beliefs, experiences, and perspectives. When studying ethics or engaging in discussions on polarizing topics, people may have strong opinions and emotions tied to their personal experiences. It's important to remember that their reactions are not necessarily a judgment of you, or your ideas and identity, but rather a reflection of their own reality. Another quote from Ruiz stresses this idea even further: 
+
+> "Even when a situation seems so personal, even if others insult you directly, it has nothing to do with you. What they say, what they do, and the opinions they give are according to the agreements they have in their own minds."
+>
+> --Don Miguel Ruiz
+
+This quote further reinforces the concept that people's actions and words are shaped by their own beliefs and agreements. In the context of studying ethics or engaging in discussions on sensitive topics, individuals may hold differing viewpoints. Disagreements and criticisms are often rooted in personal values and perspectives rather than a direct attack on your character.
+
+When we are developing empathy and cultural humility, it's essential to recognize that we are bound to make mistakes. We come from diverse backgrounds and have different life experiences, which can lead to misunderstandings and misinterpretations. By agreeing not to take things personally, we create a simultaneously safe and brave space for open dialogue and learning. Here's how not taking anything personally relates to empathy and cultural humility, two key elements of being ethical in a business context:
+
+1. **Empathy:** When we practice empathy, we strive to understand and share the feelings of others. However, in the process, we might unintentionally say or do something that offends or hurts someone from a different cultural background or with different beliefs. By not taking their reactions personally, we can acknowledge our mistakes, apologize if necessary, and continue to learn from one another without becoming defensive.
+
+2. **Cultural Humility:** Cultural humility involves recognizing the limitations of our own cultural perspective and being open to learning from others. In our journey to become more culturally humble, we might ask questions or engage in discussions that unintentionally come across as insensitive or ignorant. By not taking such reactions personally, we can accept feedback gracefully, educate ourselves, and grow more effectively in our understanding of different cultures and viewpoints.
+
+[The Four Agreements](https://search.worldcat.org/en/title/182962640) teaches us that not taking things personally is crucial for our emotional well-being and growth, especially when studying ethics or engaging in discussions on polarizing topics. Agreeing to not take anything personally allows us to recognize that others' reactions are often a reflection of their own reality and that by maintaining this perspective, we can develop empathy, cultural humility, and engage in meaningful dialogues for personal and collective growth.
+
+---
+#### Let's hold each other accountable
+
+None of what I am describing here is easy. Having Imago Dei at the foundation of how we treat others and agreeing not to take things personally are two of the most challenging ways to approach engaging with other human beings. Let's embrace personal and interpersonal accountability as a means toward striving to embody these two principles. 
+
+> Accountability is the responsibility and obligation of individuals and organizations to answer for their actions, decisions, and outcomes, especially in relation to ethical conduct.
+
+Establishing and maintaining that type of accountability with each other will be worth it, because of the growth made possible when learning in that kind of community. In this next section, we will explore a few ways we can work to accomplish that together and to create the kind of community that will foster the highest trust and deepest learning opportunities. 
+
+###### ? 01.01 | Review questions | Let's get personal
+
+Accountability is the responsibility and obligation of individuals and organizations to answer for their actions, decisions, and outcomes, especially in relation to [[ethical]] conduct.
+
+According to the text, why is it important not to take things personally during discussions on polarizing topics?
+
+[[ ]] To avoid all kinds of discussions
+[[X]] To maintain healthy relationships and effective communication
+[[ ]] To prove others wrong
+[[ ]] To assert your personal beliefs
+
+The Four Agreements teaches us that not taking things personally is crucial for our emotional well-being and growth, especially when studying ethics or engaging in discussions on polarizing topics. This perspective helps us develop empathy and [[cultural]] humility.
+
+What does "Imago Dei" mean?
+
+[[ ]] Image of Man
+[[X]] Image of God
+[[ ]] Image of Nature
+[[ ]] Image of Money
+
+In our class and in business, it is important for individuals to agree to give each other the [[benefit]] of the doubt when avoiding taking things personally.
+
+Which book by Don Miguel Ruiz is mentioned in the text as a source of wisdom on not taking things personally?
+
+[[X]] The Four Agreements
+[[ ]] The Power of Now
+[[ ]] The Art of War
+[[ ]] The Secret
+
+According to Don Miguel Ruiz, what does he say about others' actions and words?
+
+[[X]] They reflect their own reality and dream
+[[ ]] They are a direct attack on your character
+[[ ]] They have nothing to do with them
+[[ ]] They are meant to hurt you
+
+
+Inherent Human Dignity, as related to Imago Dei, emphasizes:
+
+[[ ]] The superiority of certain individuals
+[[X]] The intrinsic worth and dignity of every human being
+[[ ]] Discrimination in business
+[[ ]] Exploitation of employees
+
+Imago Dei is Latin for [[Image of God]].
+
+The concept of stewardship means responsibly managing [[resources]] and relationships.
+
+When ethical conflicts arise in business, considering Imago Dei can guide [[conflict]] resolution processes.
+
+Imago Dei encourages ethical accountability and [[social]] responsibility in business practices.
+
+What does the term cultural humility refer to?
+
+[[X]] Recognizing the limitations of one's cultural perspective
+[[ ]] Being proud of one's own culture
+[[ ]] Ignoring other cultures
+[[ ]] Promoting cultural superiority
+
+According to Don Miguel Ruiz, "Nothing others do is because of you. What others say and do is a projection of their own [[reality]], their own dream."
+
+---
+
+### 01.02 | Develop emotional intelligence
+
+Throughout this class we are going to be working on developing and cultivating emotional intelligence. Emotional intelligence (EI) refers to the ability to recognize, understand, manage, and effectively use one's own emotions and those of others. It is a crucial skill in both personal and professional contexts, including business. Strengthen your emotional intelligence by understanding and managing your own emotions. Recognize that not everything is a personal attack or criticism. Practice empathy and try to understand the motivations and emotions of others in the situation. This allows you to respond thoughtfully rather than react emotionally.
 
 In this short Inside Out movie clip, the character of Joy realizes the value of sadness. It is vital for us to be able to recognize our emotions and to attempt to understand and empathize with others' feelings. 
 
-!?[Clip: Joy realizes the value of sadness](https://youtu.be/V9OWEEuviHE?si=gPCW1ha4JD_bIkPg)
+https://youtu.be/V9OWEEuviHE?si=gPCW1ha4JD_bIkPg
 
-Historically-marginalized populations often face emotional challenges related to discrimination, bias, and inequality. Developing emotional intelligence can help individuals from these communities navigate these challenges, build resilience, and advocate for their rights effectively. In researching grit and perseverance, Dr. Angela Duckworth, a renowned psychologist, emphasizes the significance of emotional intelligence. Her work underscores how understanding and managing emotions can empower individuals, particularly those from disadvantaged backgrounds, to overcome challenges and achieve success. 
+In order to explore the topics in this class, recognizing the varying perspectives we will inevitably have, emotional intelligence is going to be crucial. The key elements of emotional intelligence are: 
 
-James Baldwin, a prominent African American writer and activist, stressed the importance of empathy (which is a big part of emotional intelligence) in addressing racial inequalities. He argued that recognizing and empathizing with the experiences of marginalized communities is essential for fostering social change and dismantling systemic discrimination. 
+1. **Self-Awareness:** This involves recognizing and understanding one's own emotions, strengths, weaknesses, and values. It helps individuals assess how their emotions impact their actions and decisions.
 
-> "Love takes off the masks that we fear we cannot live without and know we cannot live within."
->
-> -- James Baldwin
+2. **Self-Regulation:** Self-regulation is the ability to control and manage one's emotions, especially in high-pressure situations. It includes impulse control, adaptability, and emotional resilience.
 
-In order to explore the topics in this class, recognizing the varying perspectives we will inevitably have and the unique cultures and backgrounds we each come from, emotional intelligence is going to be crucial. 
+3. **Motivation:** Motivated individuals set and work toward goals, even in the face of challenges. They often have a strong sense of purpose and can delay gratification.
 
-### 01.02 | Clarify and Seek Understanding
+4. **Empathy:** Empathy is the ability to understand and share the feelings of others. It involves active listening, being attuned to non-verbal cues, and demonstrating compassion.
+
+5. **Social Skills:** Effective interpersonal skills, including communication, conflict resolution, and collaboration, are essential for building positive relationships and achieving common goals.
+
+Emotional intelligence is crucial in the business world. As I consider people I consider to be both successful and ethical, they exude those core foundations of emotional intelligence, while being humble enough to identify areas where they have fallen short. Emphasis has tended to historically focused on an individual's intelligence quotient (IQ), while in more recent years, businesses have began to stress the value of a person's emotional quotient (EQ) for various reasons:
+
+1. **Leadership:** Leaders with high EI can inspire and motivate their teams, leading to increased productivity and employee satisfaction. Daniel Goleman is a primary figure who has emphasized the importance of EI in leadership.
+
+2. **Teamwork:** EI fosters better teamwork and collaboration. Understanding and respecting diverse perspectives within a team can lead to innovative solutions and better decision-making.
+
+3. **Customer Relations:** Employees with high EI are better equipped to handle customer interactions, resolving issues effectively and providing exceptional service.
+
+4. **Conflict Resolution:** EI helps in resolving conflicts diplomatically, reducing workplace tension, and maintaining a harmonious work environment.
+
+By applying emotional intelligence in our workplaces, organizations can navigate cultural nuances successfully, foster trust, and achieve business success in increasingly diverse cultural environments. Developing emotional intelligence involves acknowledging and resolving these inner conflicts to make more informed and balanced choices. By implementing these strategies, individuals can minimize the tendency to take things personally, promote healthy communication, and build trust within a business context (as well as in our class' learning community).
+
+### 01.03 | Clarify and Seek Understanding
 
 When faced with a potentially offensive or unclear statement, don't immediately assume negative intent. Instead, ask for clarification or seek to understand the speaker's perspective. This proactive approach can prevent misunderstandings and build trust by demonstrating your willingness to engage in open and honest communication.
 
-In the following [movie clip from "The Princess Bride,"](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C) Vizzini, a character known for his intelligence, repeatedly uses the word "inconceivable" to describe unexpected events or situations. However, as the events become increasingly unusual, Inigo Montoya, one of his companions, becomes frustrated and points out, "You keep using that word. I do not think it means what you think it means."
-
-!?[The Princess Bride - Inconceivable](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C)
-
-Watching this exchange serves to reminder us all that effective communication requires not only speaking clearly but also seeking understanding and ensuring that the words used convey the intended meaning. It illustrates how misunderstandings can arise when individuals do not clarify or seek to understand the language and expressions used in communication.
-
-Paulo Freire, a Brazilian educator, highlights the importance of dialogue in his work on critical pedagogy. He argues that genuine understanding and transformation can only occur through dialogue that respects diverse perspectives and challenges oppressive systems. He also stresses the role that love plays in people being able to achieve this kind of mutual understanding.
-
-> "Dialogue cannot exist in the absence of a profound love for the world and for people. The naming of the world, which is an act of creation and re-creation, is not possible if it is not infused with love. Love is at the same time the foundation of dialogue and dialogue itself."
+> Dialogue cannot exist in the absence of a profound love for the world and for people. The naming of the world, which is an act of creation and re-creation, is not possible if it is not infused with love. Love is at the same time the foundation of dialogue and dialogue itself.
 >
 > -- Paulo Freire
 
-In these words, Freire underscores that meaningful dialogue and understanding require a deep love for the world and people. He suggests that through dialogue, we not only seek understanding but also engage in an act of creating and recreating our shared reality. Historically-marginalized communities often face misunderstandings and misrepresentations. Clarifying and seeking understanding is crucial to address these issues, promote cultural sensitivity, and dismantle stereotypes and biases.
+Clarifying and seeking understanding is crucial for fostering productive dialogue, mutual learning, and establishing ethical practices. Here are some ways we can achieve this:
 
-### 01.03 | Separate feedback from identity
+1. **Active Listening**: When discussing topics, both parties should practice active listening. This allows for a better understanding of each other's perspectives.
+2. **Open Dialogue**: Encourage open and honest discussions with each other. 
+3. **Feedback Loops**: Create mechanisms for feedback from me and from other students in the class, such that we can receive constructive feedback. This helps in ensuring that we have the opportunity to learn from each other.
 
-Learn to separate feedback or criticism from your self-worth. Constructive feedback is often about the task or the situation at hand and not a judgment of your character. Remember that feedback is an opportunity for growth and improvement, not a personal attack.
+In the following movie clip from the movie The Princess Bride, Vizzini, a character known for his intelligence, repeatedly uses the word "inconceivable" to describe unexpected events or situations. However, as the events become increasingly unusual, Inigo Montoya, one of his companions, becomes frustrated and points out, "You keep using that word. I do not think it means what you think it means."
 
-In "The Office," Jim gets a formal warning about how much time he spends goofing around. When in fact, the people giving him the feedback tend to be unable to process their feelings toward Jim or communicate with him in an otherwise healthy way. 
+!?[The Princess Bride - Inconceivable clip](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C)
 
-!?[Jim gets a formal warning](https://youtu.be/orm0sLYXSzw?si=FM9BNdMNttjW7niK)
+Watching this exchange serves to reminder us all that effective communication requires not only speaking clearly but also seeking understanding and ensuring that the words used convey the intended meaning. It illustrates how misunderstandings can arise when individuals do not clarify or seek to understand the language and expressions used in communication. Promoting understanding and inclusivity between business people and students taking a business ethics class is vital for fostering ethical business practices, cultural sensitivity, and productive dialogues. It benefits both parties and contributes to a more ethical and responsible business environment.
 
-This scene serves as a reminder that feedback should be constructive, objective, and focused on job-related performance. When feedback becomes intertwined with personal comments, it can hinder professional growth and create discomfort in the workplace. Those individuals who are from historically-marginalized populations may often receive feedback tied to stereotypes or biases. When we can separate feedback from our identity, it can empower us to assert our authentic selves and challenge oppressive narratives.
+### 01.04 | Separate feedback from identity
 
-In [Difficult Conversations: How to Discuss What Matters Most](https://vanguarduniversity.on.worldcat.org/oclc/40200290), by Stone, Patton, and Heen, they describe how challenging it can be to have these kinds of conversations that aren't just about what happened, but also about how each person feels about what's being discussed, not to mention how it can ''bump against' their sense of identity. Difficult Conversations is one of the best books I ever read in my MA program. Even if you decide not to read the whole thing, I suggest taking a look at this [high-level summary of Difficult Conversations](https://eye.hms.harvard.edu/files/eye/files/difficult-conversations-summary.pdf), made available from Harvard University, where this research on difficult conversions has taken place. 
+Learn to separate feedback or criticism from your self-worth. Constructive feedback is often about the task or the situation at hand and not a judgment of your character. Remember that feedback is an opportunity for growth and improvement, not a personal attack. Here's an example of feedback in a business context, just not a real one. In "The Office," Jim gets a formal warning about how much time he spends goofing around. When in fact, the people giving him the feedback tend to be unable to process their feelings toward Jim or communicate with him in an otherwise healthy way. 
 
-### 01.04 | Navigate cognitive dissonance
+!?[The Office clip: Jim gets his review](https://youtu.be/orm0sLYXSzw?si=FM9BNdMNttjW7niK)
 
-In order to develop emotional intelligence, it's crucial to be aware of cognitive dissonance, a psychological phenomenon where individuals experience discomfort due to conflicting beliefs or values. Cognitive dissonanceoccurs when we experience a sort-of mental tug-of-war that leaves us feeling uneasy and seeking resolution. But how do we deal with this internal conflict? There are some common ways that the human mind attempts to find equilibrium within ourselves.
+This scene serves as a reminder that feedback should be constructive, objective, and focused on job-related performance. When feedback becomes intertwined with personal comments, it can hinder professional growth and create discomfort in the workplace. Someone who stressed the idea of this type of separation was Steve Jobs, the former CEO of Apple. 
 
-Watch [this explainer from Concepts Unwrapped about Cognitive Dissonance](https://youtu.be/m_lCO2cBNts?si=FOTnpfcSHLs0iTTE) (6 minutes). 
-
-!?[Cognitive Dissonance | Concepts Unwrapped](https://youtu.be/m_lCO2cBNts?si=B75B1GhqPAVAbp7G)
-
-Edward Said, a Palestinian-American scholar, examined cognitive dissonance in the and argued that recognizing and addressing dissonance is crucial for promoting cross-cultural understanding and justice. Said emphasizes with the following quote the significance of recognizing and addressing the conflicts and dissonances that can arise when people from different cultures and backgrounds interact. 
-
-> "The conflicts, tensions, and incompatibilities between cultures and societies generate the stuff of history and politics. Understanding and acknowledging these dissonances, rather than smoothing them over, is an important step toward genuine cross-cultural awareness."
+> *"The only way to do great work is to love what you do and to detach your ego from the outcome."* 
 >
-> -- Edward Said
+> -- Steve Jobs
 
-Said advocates for understanding these tensions as an essential aspect of human relationships, rather than attempting to erase or ignore them. In the film "A Beautiful Mind," the character John Nash, a brilliant mathematician, experiences cognitive dissonance as he struggles with his mental health issues. The movie highlights the importance of recognizing and addressing cognitive dissonance, as it can impact our emotional well-being and decision-making. It's a great movie, in case you haven't seen it before. Here's a [clip where Nash explains that he is different than other people](https://youtu.be/dCULi2k1su4?si=3PWv-chFXhoW9f-N). 
+Separating feedback from our identity is vital for several reasons:
 
-!?[Clip: A beautiful mind - I don't like people much](https://youtu.be/dCULi2k1su4?si=3PWv-chFXhoW9f-N)
+1. **Objective Self-Improvement**: When we detach feedback from our identity, we can view it more objectively. This allows us to focus on improving our actions, behaviors, or work without feeling personally attacked or defensive. It promotes a growth mindset, where we see feedback as a tool for personal development rather than a judgment of our worth.
 
-Historically-marginalized groups can grapple with cognitive dissonance when faced with societal expectations that conflict with their authentic identities. Acknowledging and addressing these conflicts is essential for self-empowerment and cultural affirmation.
+2. **Effective Communication**: Feedback is meant to convey information about our actions or work. When feedback is tied to identity, it can lead to misunderstandings and defensive reactions. Detaching it from our identity makes it easier for both the giver and receiver to communicate effectively and ensure that the intended message is received.
 
-Developing emotional intelligence involves acknowledging and resolving these inner conflicts to make more informed and balanced choices. By implementing these strategies, individuals can minimize the tendency to take things personally, promote healthy communication, and build trust within a business context (as well as in our class' learning community).
+3. **Reducing Emotional Impact**: Feedback that is closely tied to our identity can be emotionally taxing. It can lead to anxiety, stress, and a fear of failure. By separating feedback from our identity, we can reduce the emotional impact and maintain our mental well-being.
 
-###### ? 01.04 | Review questions: It's all personal (or is it?)
+Yes, we recognize how important it is, but how do we do it? Here are some examples of how to separate feedback from our identity:
 
-> Answer the following questions to test your understanding of the concepts in this section. 
+1. **Focus on Actions, Not Person**: When providing feedback, frame it in terms of actions, behaviors, or specific tasks rather than making it about the person. For example, say, "Your report lacks clarity," instead of "You're not a good writer."
 
+2. **Use the "I" Statement**: When receiving feedback, encourage the giver to use "I" statements. For instance, "I found the presentation confusing" instead of "Your presentation was confusing." This shifts the focus to the individual's perspective rather than making it a general judgment.
 
+3. **Embrace a Growth Mindset**: Cultivate a mindset that sees feedback as an opportunity for growth and learning. Understand that everyone makes mistakes and that feedback is a means to improve, not a reflection of your worth.
 
-How does the scene from Zootopia in this lesson demonstrate the ease with which bias can enter into our communication?
+4. **Seek Clarification**: If feedback is vague or unclear, don't hesitate to ask for clarification. This allows you to better understand the specific areas that need improvement and prevents assumptions about your abilities.
 
-[[ ]] By showing characters using biased language
-[[ ]] By highlighting the importance of diversity
-[[X]] By emphasizing how essential emotional intelligence is
-[[ ]] By portraying discrimination as insignificant
+5. **Practice Active Listening**: When receiving feedback, actively listen to the giver's perspective without immediately reacting emotionally. Take a moment to process the information before responding.
 
+6. **Reflect on Feedback**: After receiving feedback, take some time to reflect on it. Consider whether it aligns with your goals and values. This can help you decide whether to incorporate the feedback into your actions or not.
 
+7. **Separate Constructive from Destructive Feedback**: Learn to differentiate between constructive feedback (aimed at improvement) and destructive criticism (intended to harm or belittle). Focus on constructive feedback and disregard the latter. [^1] 
 
-Emotional intelligence is the ability to recognize, understand, manage, and use [[emotions]] effectively in interpersonal relationships.
+8. **Maintain Self-Esteem**: Remember that feedback does not define your self-worth. You can be a valuable person regardless of any specific feedback you receive. I find it especially helpful to consider the person providing me with the feedback and whether or not they are a worthwhile source from which I can grow and develop. 
 
+Separating feedback from our identity is crucial for personal growth, effective communication, and emotional well-being. It allows us to learn from feedback without letting it define us.
 
+[^1]: Those from historically marginalized populations may experience what is known as weathering, which refers to a phenomenon where individuals from marginalized racial and ethnic groups experience the cumulative effects of stress, discrimination, and microaggressions over time. This term was coined by Dr. Arline T. Geronimus in the early 1990s. 
 
-Why is it important to recognize varying perspectives and demonstrate emotional intelligence in communication?
+### 01.05 | Be aware of cognitive dissonance
 
-[[ ]] To avoid any disagreement
-[[X]] To foster empathy and better understanding
-[[ ]] To be more influential in expressing one's own viewpoint
-[[ ]] To win arguments
+In order to develop emotional intelligence, it's crucial to be aware of cognitive dissonance, a psychological phenomenon where individuals experience discomfort due to conflicting beliefs or values. Watch this explainer from Concepts Unwrapped about Cognitive Dissonance: 
 
+[Concepts Unwrapped - Cognitive dissonance video](https://youtu.be/m_lCO2cBNts?si=FOTnpfcSHLs0iTTE)
 
+As shared in the video, cognitive dissonance is a psychological concept that refers to the discomfort or tension that arises when an individual holds two contradictory beliefs, attitudes, or values, or when their actions are inconsistent with their beliefs. This state of mental conflict can lead to feelings of discomfort and the desire to reduce or eliminate this dissonance. 
 
-In the Princess Bride clip where the word "inconceivable" is repeated, what does it illustrate regarding effective communication?
+Recognizing cognitive dissonance in a business context is crucial for several reasons:
 
-[[ ]] The importance of continuing to use more complex vocabulary in our speaking
-[[ ]] The significance of clear speaking and using simple vocabulary 
-[[ ]] The need to use humor in communication
-[[X]] The importance of ensuring words convey the intended meaning in our communication
+1. **Decision-Making**: In business, leaders and employees make numerous decisions daily, and many of these decisions involve trade-offs and conflicting information. When individuals experience cognitive dissonance, it can cloud their judgment and lead to suboptimal decision-making.
 
+2. **Employee Satisfaction and Engagement**: Employees may experience cognitive dissonance when their personal values or beliefs conflict with the actions or policies of their organization. This can result in decreased job satisfaction, disengagement, and even turnover.
 
+3. **Consumer Behavior**: Understanding how cognitive dissonance influences consumer behavior is essential for businesses. Consumers often experience dissonance when they make a purchase that conflicts with their beliefs or when they are exposed to conflicting information in advertising. Recognizing and addressing this can impact customer loyalty and brand perception.
 
-According to the quote from Paulo Freire, what is the most necessary element for dialogue?
+Our brains want things to make sense and will make every attempt to have that be the case, including when we experience cognitive dissonance. The ways people may attempt to reduce or eliminate cognitive dissonance include: 
 
-[[ ]] Empathy
-[[X]] Love for the world and for people
-[[ ]] Logical reasoning
-[[ ]] Assertiveness
+1. **Changing Beliefs or Attitudes**: One way to reduce cognitive dissonance is by altering one's beliefs or attitudes to align with their actions. For instance, an employee might rationalize unethical behavior by changing their beliefs about the importance of ethical conduct in business.
 
+2. **Seeking Information**: People often seek additional information or evidence that supports their actions or beliefs to reduce dissonance. In a business context, this can involve looking for data that justifies a particular decision or course of action.
 
+3. **Selective Exposure**: Individuals may avoid information that contradicts their beliefs or actions, a phenomenon known as selective exposure. In business, this can manifest as ignoring negative feedback or avoiding dissenting opinions.
+
+4. **Compromise**: Sometimes, individuals find a middle ground that allows them to reconcile conflicting beliefs or actions. In a business context, this might involve compromising on certain values to achieve a specific goal.
+
+5. **Social Validation**: Seeking validation from peers or colleagues who share similar beliefs or actions can help reduce cognitive dissonance. In business, this can lead to groupthink or conformity within an organization.
+
+Recognizing cognitive dissonance and its impact in a business context is essential for effective decision-making, employee satisfaction, and maintaining a positive corporate culture. Acknowledging diverse perspectives on how cognitive dissonance is experienced and resolved can lead to more comprehensive strategies for managing it in the workplace.
+
+This lesson has delved into the definition and importance of ethics, emphasizing not taking things personally and placing the Imago Dei at the center of our interactions. We have learned that true growth lies in holding each other accountable for developing emotional intelligence, fostering an environment of empathy and understanding. Moreover, we have recognized the significance of separating feedback from identity, allowing us to grow without fear of judgment. Finally, our exploration has highlighted the critical need to be aware of cognitive dissonance, a powerful tool in aligning our actions with our ethical principles. As we reflect on these lessons, let us strive to embody these principles in our daily lives, creating a more compassionate and ethical world for ourselves and those around us.
 
 ## 02. That seems really inappropriate (Get to know your favorite philosophers) 
 
