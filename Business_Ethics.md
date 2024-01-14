@@ -305,6 +305,9 @@ See Canvas and the syllabus for more information about how the class is structur
 
 
 ## 01. It's all personal (or is it?)
+
+![Lesson 01 graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
+
 I'll admit to often feeling more nervous than normal when teaching this class. The topics we explore together tend to sometimes bump up against aspects of our identity such that it feels far beyond the normal way we might approach learning in some other classes. I want for us to take our commitment to being ethical people quite seriously, while not taking ourselves so seriously that we hinder the potential for growth. 
 
 In terms of the importance of taking this class seriously, the following come to mind as crucial reasons to do so:
