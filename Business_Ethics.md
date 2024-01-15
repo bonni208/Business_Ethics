@@ -1163,7 +1163,7 @@ You are going to want to stop reading at this point and head over to Canvas, as 
 
 Let's start with why everyone hates moral philosophy professors, or otherwise getting us to laugh a bit to warm up our brains to discover more about ethical frameworks. In this clip, The Good Place Channel does a mashup of two tv shows, both of which focus on philosophy: 
 
-!?[Philosophy according to Jack and Chidi - The Good Place and AP Bio's mashup]((https://youtu.be/EQpkNxP7BxI?si=_GCs_XRryamqO-TV))
+!?[Philosophy according to Jack and Chidi - The Good Place and AP Bio's mashup](https://youtu.be/EQpkNxP7BxI?si=_GCs_XRryamqO-TV)
 
 Ethical frameworks are systems of moral principles or guidelines that help individuals and organizations make ethical decisions and evaluate the moral implications of their actions. These frameworks provide a structured approach to navigating complex ethical dilemmas by offering a set of principles, rules, or perspectives to consider when facing moral choices.
 
@@ -1375,23 +1375,23 @@ Before the COVID pandemic hit the world in early 2020, I used to think that all 
 
 I no longer believe that those cases were that far off. More than ever, I find it essential to recognize the ways in which we are using ethical frameworks to guide our decision making and when those values may be in conflict with other people we are collaborating with regarding a decision. Ethical frameworks are essential to learn about for several reasons.
 
-#### Guidance and structure for ethical decision making
+**Guidance and structure for ethical decision making**
 
 Ethical frameworks provide guidance and structure for evaluating ethical dilemmas and making consistent and principled decisions. For instance, when Apple Inc. faced the ethical dilemma of balancing user privacy with national security in the case of the San Bernardino terrorist attack, ethical frameworks helped them navigate the situation. Apple's decision to prioritize user privacy aligns with principles of individual rights, a key aspect of ethical frameworks.
 
-#### Consistency in ethical choices
+**Consistency in ethical choices**
 
 Ethical frameworks promote consistency in decision making, ensuring that organizations uphold their ethical values regardless of the situation. In the corporate world, companies like Patagonia consistently prioritize environmental sustainability in their business practices. This alignment with their values, guided by ethical principles, has resulted in long-term trust and loyalty from customers who appreciate their ethical stance.
 
-#### Clarity of values and principles
+**Clarity of values and principles**
 
 Ethical frameworks help individuals and organizations clarify their core values and principles. For instance, when Johnson & Johnson faced the Tylenol tampering crisis in the 1980s, the company's swift and ethical response demonstrated their commitment to the safety and well-being of consumers. By recalling all Tylenol products and redesigning packaging for tamper resistance, Johnson & Johnson showcased their ethical values and commitment to customer safety. This crisis management strategy aligned with their principles and communicated their ethical stance clearly to the public.
 
-#### Accountability for actions
+**Accountability for actions**
 
 Understanding ethical frameworks holds individuals and organizations accountable for their actions. A notable case is Enron, where corporate leaders engaged in unethical accounting practices. The Enron scandal led to legal consequences and ethical discussions, highlighting the importance of accountability in the business world.
 
-#### Promotion of critical thinking
+**Promotion of critical thinking**
 
 Ethical frameworks encourage critical thinking by requiring individuals to consider multiple perspectives. In the film "12 Angry Men," jurors are faced with the ethical dilemma of a murder trial. Through rigorous debate and examination of evidence, they employ ethical reasoning to arrive at a just verdict. This scene of Juror #3 breaking down and pronouncing his decision of "not guilty," illustrates the ways in which ethical frameworks promote critical thinking in decision making and how one person can courageously challenge the status quo.
 
@@ -1410,11 +1410,8 @@ As we learn more about ethical frameworks and how to put them into practice in o
 What does consequentialism primarily focus on?
 
 [[ ]] Adherence to moral duties
-
 [[X]] Outcomes or consequences
-
 [[ ]] Development of virtuous character traits
-
 [[ ]] Individual rights and freedoms
 
 
@@ -1422,11 +1419,8 @@ What does consequentialism primarily focus on?
 Which ethical framework emphasizes the cultivation of virtuous character traits?
 
 [[ ]] Consequentialism
-
 [[ ]] Deontology
-
 [[X]] Virtue ethics
-
 [[ ]] Rights-based ethics
 
 
@@ -1434,11 +1428,8 @@ Which ethical framework emphasizes the cultivation of virtuous character traits?
 According to deontological ethics, what is the primary factor in determining the morality of an action?
 
 [[ ]] Its outcomes or consequences
-
 [[X]] The inherent nature of the action
-
 [[ ]] The development of virtuous character traits
-
 [[ ]] Individual rights and freedoms
 
 
@@ -1446,11 +1437,8 @@ According to deontological ethics, what is the primary factor in determining the
 Why is it important to understand ethical frameworks?
 
 [[X]] They provide guidance and structure for ethical decision making.
-
 [[ ]] They encourage moral relativism.
-
 [[ ]] They promote inconsistency in ethical choices.
-
 [[ ]] They discourage critical thinking.
 
 
@@ -1458,11 +1446,8 @@ Why is it important to understand ethical frameworks?
 What is one benefit of ethical frameworks in decision making?
 
 [[ ]] They obscure personal values and principles.
-
 [[X]] They help individuals and organizations make consistent and principled decisions.
-
 [[ ]] They discourage individuals from considering multiple perspectives.
-
 [[ ]] They eliminate the need for accountability.
 
 
@@ -1470,11 +1455,8 @@ What is one benefit of ethical frameworks in decision making?
 How do ethical frameworks contribute to critical thinking?
 
 [[ ]] They discourage critical thinking by imposing rigid rules.
-
 [[ ]] They promote moral relativism, which hinders critical thinking.
-
 [[X]] They encourage critical thinking by requiring individuals to consider different moral perspectives.
-
 [[ ]] They have no impact on critical thinking skills.
 
 
