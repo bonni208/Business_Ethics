@@ -854,7 +854,9 @@ This captivating case serves as a catalyst for an engaging classroom debate in t
 
 Watch: [Justice: What's The Right Thing To Do? Episode 01 and 02"](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) (54 minutes)
 
-!?[Justice: What's The Right Thing To Do? Episode 01 and 02](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) 
+!?[Justice: What's The Right Thing To Do? Episode 01 and 02](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ)
+
+ 
 
 ###### ? 02.02 | Review questions | Justice lectures episodes 01 and 02 
 
