@@ -1322,13 +1322,9 @@ Social contract theory serves as a guiding principle, highlighting the importanc
 What ethical theory focuses on the consequences of actions to determine their moral worth?
 
 [[X]] Consequentialism
-
 [[ ]] Deontology
-
 [[ ]] Virtue ethics
-
 [[ ]] Rights-based ethics
-
 [[ ]] Social contract theory
 
 
@@ -1336,13 +1332,9 @@ What ethical theory focuses on the consequences of actions to determine their mo
 Which ethical framework emphasizes the importance of adhering to moral principles and duties, regardless of the outcomes?
 
 [[ ]] Consequentialism
-
 [[X]] Deontology
-
 [[ ]] Virtue ethics
-
 [[ ]] Rights-based ethics
-
 [[ ]] Social contract theory
 
 
@@ -1350,13 +1342,9 @@ Which ethical framework emphasizes the importance of adhering to moral principle
 Which ethical theory is centered on the idea that individuals have inherent liberties that must not be violated?
 
 [[ ]] Consequentialism
-
 [[ ]] Deontology
-
 [[ ]] Virtue ethics
-
 [[X]] Rights-based ethics
-
 [[ ]] Social contract theory
 
 
@@ -1546,9 +1534,7 @@ Throughout this lesson of the course, I will block off the sections written by a
 - For the purpose of this course, a **claim** is a statement that purports to express something about reality. "The U.S. landed a space craft on the moon in 1969" is a relatively simple claim that is true. "The moon landing of 1969 was fake." is a simple claim that is false. "The mission to land on the moon was driven by Cold War fear more than scientific curiousity" is a complex claim one can have a range of opinions on, but is still, for a given context, either a well-supported claim, a controversial claim, or a claim lacking any real support.
 - A **source** is the place where a claim or other information can be found. This course is a source of information about disinformation. Most claims can be found in multiple sources. You might find information about the moon landing in the Wall Street Journal, a website like Gizmodo, a textbook, a research paper, or a video recording of astronauts talking about the mission.
 
-</article>
 
-<article>
 
 #### **Play Fakeout!** 
 
@@ -1558,9 +1544,8 @@ Throughout this lesson of the course, I will block off the sections written by a
 
 > Play Fakeout by [following this link](http://newsliteracy.ca/fakeOut). Play all the way through, and make sure to watch the videos in the middle. Come back here, once you're done. 
 
-</article>
 
-<article>
+
 
 ####  The problem with checklist approaches
 
