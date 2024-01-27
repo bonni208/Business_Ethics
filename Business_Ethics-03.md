@@ -1383,9 +1383,13 @@ Understanding ethical frameworks holds individuals and organizations accountable
 
 Ethical frameworks encourage critical thinking by requiring individuals to consider multiple perspectives. In the film "12 Angry Men," jurors are faced with the ethical dilemma of a murder trial. Through rigorous debate and examination of evidence, they employ ethical reasoning to arrive at a just verdict. This scene of Juror #3 breaking down and pronouncing his decision of "not guilty," illustrates the ways in which ethical frameworks promote critical thinking in decision making and how one person can courageously challenge the status quo.
 
-![12 angry men movie clip](faced with his own short-comings and failures as a father to his own son, Juror #3 (Lee J. Cobb) finally breaks down and pronounces "Not Guilty.")
+!?[12 angry men movie clip](https://youtu.be/0jxVnlRdelU?si=lRUe1H41x_Z9el9G)
 
 It's easy for us to think that if we were faced with the same situation, we would stick to our beliefs. However, there's overwhelming evidence that humans are susceptible to bring influenced by others in ways we aren't always conscious of... 
+
+Consider the lessons from the [Asch conformity experiment](https://en.wikipedia.org/wiki/Asch_conformity_experiments), which was actually a series of experiments in which the psychologist Soloman Asch would put a single person in a group of people who believed that the others in the group were also participating in the research, when only one person's response was being examined. Asch would test to see that if the others in the group were to all report what was clearly the wrong answer, if the subject would go along with the others. 
+
+!?[Asch Experiment - Conformity](https://youtu.be/6AUqTwGV3GQ?si=fQYsH69TYoDE5rLB)
 
 As we learn more about ethical frameworks and how to put them into practice in our own lives, they can serve as valuable tools for navigating the complexities of moral decision making. They help individuals and organizations make ethical choices that align with their values, principles, and societal expectations. Understanding these frameworks enhances moral reasoning and promotes ethical behavior in various personal, professional, and societal contexts.
 
