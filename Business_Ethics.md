@@ -6,7 +6,7 @@ author:   Dr. Bonni Stachowiak
 
 email: bstachowiak@vanguard.edu
 
-version:  0.0.9
+version:  0.0.1
 
 language: en
 
@@ -1487,8 +1487,6 @@ How would we have figured out if this was true back at that time? There wasn't a
 
 In order to help us be taken seriously and to navigate today's business news and media landscape, it's time to serve up the Starter Course from Mike Caulfield.
 
-
-
 ### 04.01 | Introduction to SIFT
 
 Mike Caulfield is a prominent educator and digital literacy expert known for his work on a framework to help all of us be taken seriously and to be more literate in evaluating information we find online. He's best known for the SIFT model, which is featured in his "Check, Please! Starter Course," which we are about to embark on together. Mike Caulfield has a rich background in education, having worked at various institutions as an educator and researcher. He's known for his expertise in digital literacy and information literacy. Over the years, Caulfield has developed and refined the SIFT model, which is a practical framework for verifying and assessing online information. His work has been influential in equipping individuals with the skills to navigate the vast sea of information on the internet.
@@ -1519,9 +1517,7 @@ Throughout this lesson of the course, I will block off the sections written by a
 >
 > *As the authors of the original version have not reviewed any other copy's modifications, the text of any site not arrived at through the above link should not be sourced to the original authors.*
 
-<article>
-
-#### Introduction to SIFT
+**Introduction to SIFT**
 
 > This course will take you through the basics of quick source and claim-checking, and introduce you to our "four moves", a series of actions to take when encountering claims and sources on the web. 
 >
@@ -1531,12 +1527,10 @@ Throughout this lesson of the course, I will block off the sections written by a
 >
 > The first lesson is a bit longer than the rest, and will introduce you to our basic approach — the "four moves" and the acronym we use to remember them: SIFT. The lesson will take 40 minutes to complete, including all readings, activities, and videos.
 
-###### Vocabulary: claims, sources
+**Vocabulary: claims, sources**
 
-- For the purpose of this course, a **claim** is a statement that purports to express something about reality. "The U.S. landed a space craft on the moon in 1969" is a relatively simple claim that is true. "The moon landing of 1969 was fake." is a simple claim that is false. "The mission to land on the moon was driven by Cold War fear more than scientific curiousity" is a complex claim one can have a range of opinions on, but is still, for a given context, either a well-supported claim, a controversial claim, or a claim lacking any real support.
+- For the purpose of this course, a **claim** is a statement that purports to express something about reality. "The U.S. landed a space craft on the moon in 1969" is a relatively simple claim that is true. "The moon landing of 1969 was fake." is a simple claim that is false. "The mission to land on the moon was driven by Cold War fear more than scientific curiosity" is a complex claim one can have a range of opinions on, but is still, for a given context, either a well-supported claim, a controversial claim, or a claim lacking any real support.
 - A **source** is the place where a claim or other information can be found. This course is a source of information about disinformation. Most claims can be found in multiple sources. You might find information about the moon landing in the Wall Street Journal, a website like Gizmodo, a textbook, a research paper, or a video recording of astronauts talking about the mission.
-
-
 
 #### **Play Fakeout!** 
 
@@ -1545,8 +1539,6 @@ Throughout this lesson of the course, I will block off the sections written by a
 ![fakeout screenshot](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F248f9047-9d8d-41b8-b85f-b920f4b4aab6%2Ffakeout.png?table=block&id=f3cca8dd-265a-41a3-b41f-fb717f8c8c5b&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1370&userId=&cache=v2)
 
 > Play Fakeout by [following this link](http://newsliteracy.ca/fakeOut). Play all the way through, and make sure to watch the videos in the middle. Come back here, once you're done. 
-
-
 
 
 ####  The problem with checklist approaches
@@ -1564,11 +1556,7 @@ Throughout this lesson of the course, I will block off the sections written by a
 >
 > These are only a few of the (very wrong) things students believe. Before you learn to read the web you may have to unlearn some of the stuff you've been taught.
 
-</article>
-
-<article>
-
-#### How CRAAP goes astray
+**How CRAAP goes astray**
 
 ![A picture of the CRAAP method with 20+ questions.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0270152f-f0c3-421d-9e54-ae005ffa0f59%2Fcraap.jpg?table=block&id=70c03c84-53e4-48c9-8259-d7094c6876eb&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
 
@@ -1588,9 +1576,7 @@ Throughout this lesson of the course, I will block off the sections written by a
 >
 > Except there are three problems with this approach. Big problems.
 
-<article>
-
-##### Problem 1: The signals are meaningless
+**Problem 1: The signals are meaningless**
 
 ![Picture of Word document with autocorrect](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6c2a4e96-7d12-4448-aeac-5297d6998faf%2Fspellcheck.jpg?table=block&id=36429352-6ca8-48b6-bf09-2f0e48305af8&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=710&userId=&cache=v2))
 
@@ -1606,11 +1592,7 @@ Throughout this lesson of the course, I will block off the sections written by a
 >
 > To put it simply — the things that might mean something are easy to fake, and many things students are taught to look for don't mean anything at all.
 
-</article>
-
-<article>
-
-##### Problem 2: The checklist processes take too long
+**Problem 2: The checklist processes take too long**
 
 >Checklist processes were developed for students trying to decide which of a number of library resources to use for a paper. Given that time frame, such an approach might make sense. You can spend 20 minutes looking at each of three journal articles you found to see which would be the best fit for an end of term research project.
 >
@@ -1630,11 +1612,7 @@ Throughout this lesson of the course, I will block off the sections written by a
 >
 >While short methods may seem less rigorous, they are in fact better than long methods for many tasks. When I switch lanes while driving on the highway, I don't do a ten minute analysis of whether a car *might* be in the lane next to me. I check the mirror, do a head check, and change lanes. If my father had given me a ten minute lane-changing process when teaching me to drive, I wouldn't use it, and frequent accidents would just be a part of my life. This is the sort of thing you need for reading the web as well.
 
-</article>
-
-<article>
-
-##### Problem 3: Using too many criteria results in stupid decisions
+**Problem 3: Using too many criteria results in stupid decisions**
 
 >One popular idea is that checklists are important because they force students to evaluate dozens of criteria instead of just a few. But does evaluating more criteria result in better decisions? Many teachers say yes. The research says no.
 >
@@ -1648,15 +1626,11 @@ Throughout this lesson of the course, I will block off the sections written by a
 
 [^2]: Choices seem like such a good thing, in theory. However, as Mike Caulfield says in the in-depth section of this part of his SIFT course, "Many choices seems promising until you actually have to choose: UB research explains motivation fact..." He then links to [an article in Science Daily](https://www.sciencedaily.com/releases/2019/06/190613153712.htm), which explains how: "People faced with more options than they can effectively consider want to make a good decision, but feel they're unable to do so, according to the results of a novel study. Despite the apparent opportunities presented by a lot of options, the need to choose creates a 'paralyzing paradox,' according to the authors. 'You want to make a good choice, but feel like you can't.'"
 
-</article>
-
-<article>
-
-#### Thank you, sir, may I have another
+**Thank you, sir, may I have another**
 
 We're back to Mike Caulfield's Check, Please! Starter Course and he's about to get to the main dish: SIFT. All these eating metaphors are making me hungry. 
 
-##### Introducing SIFT
+#### Introducing SIFT
 
 > So if long lists of things to think about only make things worse, how do we get better at sorting truth from fiction from everything in-between?
 >
@@ -1664,11 +1638,7 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 
 ![Infographic showing the steps of SIFT: Stop, investigate the source, find trusted coverage, trace claims, quotes and media to the original context.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe3662e32-fba3-4ede-a0a1-3158cac5438b%2Fsift.png?table=block&id=a7a1f341-c590-4253-8f75-48453f8be726&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
 
-</article>
-
-<article>
-
-###### Stop
+**Stop**
 
 >The first move is the simplest. **STOP** reminds you of two things.
 >
@@ -1676,11 +1646,7 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 >Second, after you begin the process and use the moves it can be too easy to go down a rabbit hole, chasing after more and more obscure facts or getting lost in a "click cycle". If you feel yourself getting overwhelmed in your fact-checking efforts, STOP and take a second to remind yourself what your goal is. Adjust your strategy if it isn't working. Make sure you approach the problem at the right amount of depth for your purpose.
 
-</article>
-
-<article>
-
-###### Investigate the source
+**Investigate the source**
 
 > We'll go more into this move in the next lesson. The key idea is to know what you're reading *before* you read it.
 >
@@ -1688,11 +1654,7 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > This doesn't mean the Nobel economist will always be right and that the dairy industry can't ever be trusted. But knowing the expertise and agenda of the source is crucial to your interpretation of what they say. Taking sixty seconds to figure out where it is from *before* reading will help you decide if it is worth your time, and if it is, help you to better understand its significance and trustworthiness.
 
-</article>
-
-<article>
-
-###### Find trusted coverage 
+**Find trusted coverage** 
 
 > Sometimes you don't care about the particular article that reaches you. You care about the claim the article is making. You want to know if it is true or false. You want to know if it represents a consensus viewpoint, or if it is the subject of much disagreement.
 >
@@ -1700,21 +1662,13 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > Do you have to agree with the consensus? Absolutely not! But understanding the context and history of a claim will help you better evaluate it.
 
-</article>
-
-<article>
-
-###### Trace claims, quotes, and media back to the original context
+**Trace claims, quotes, and media back to the original context**
 
 > A lot of things you find on the internet have been stripped of context. Maybe there's a video of a fight between two people. But what happened before that? Who started it? What was clipped out of the video and what stayed in? Maybe there's a picture that seems real but the caption is dubious at best. Maybe a claim is made about a new medical treatment supposedly based on a research paper — but you're not certain if the paper supports it.
 >
 > In these cases we'll have you trace the claim, quote, or media back to the source, so you can see it in its original context and get a sense if the version you saw was accurately presented.
 
-</article>
-
-<article>
-
-###### It's about REcontextualizing
+**It's about REcontextualizing**
 
 > There's a theme that runs through all of these moves: it's about getting the necessary context to read, view, or listen effectively. And doing that *first*.
 >
@@ -1726,21 +1680,14 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > In some cases these techniques will show you claims are outright wrong, or that sources are legitimately "bad actors" who are trying to deceive you. But even when material is not intentionally deceptive, the moves do something just as important: they reestablish the context that the web so often strips away, allowing for more fruitful engagement with all digital information.
 
-</article>
-
-<article>
 
 Vocabulary: bad actor, Pulitzer Prize
 
-</article>
-
-<article>
-
-#### It's time to get those feelings out (in journal form)
+**It's time to get those feelings out**
 
 You are being introduced to some skills that will be new for most of you. It may start to seem like a lot, so it is time to start capturing the learning in such a way as to be more memorable for you in the coming weeks and months. I've kept notes on SIFT and have even vlogged about my learning in a public way on my YouTube channel. 
 
-##### Your Notebook
+#### Your Notebook
 
 > Throughout this course you'll be asked both to do basic fact-checking activities and to think more deeply about the material presented. Here we introduce three things to help you with that.
 >
@@ -1748,30 +1695,22 @@ You are being introduced to some skills that will be new for most of you. It may
 >
 > The format of the notebook is simple. For each fact-checking assignment you will be given a heading. Write the heading in your document in all capital letters. Then hit enter and answer the questions you are asked to answer. Avoid any fancy formatting as you may have to post this in a format where the formatting will not carry over. 
 
-Here's an example of what your notebook might look like:
-
-![TOXIC FOOD BOWLS | The source here is reputable, an independent organization that hires real journalist, and has won awards](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb3d35e6e-fe12-4566-82c8-56df5dbf0714%2Fnotebook.png?table=block&id=1e665ada-81d5-4603-b007-c43956c1bfef&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1320&userId=&cache=v2)
-
 At the very end of the course, you'll be asked to pick your favorite example from the notebook and to create a video, which will be shared with others in the class. Keeping links in your notebook will help save you time, later on, when you go to share your learning in a more public way.  
 
-#####  Reflection prompts and vocabulary
+**Reflection prompts and vocabulary**
 
 Reflection prompts are used to suggest questions for deeper exploration. Each time you see questions for reflection in the course, copy and paste them over to your notebook and prepare to discuss them either during a synchronous class, or asynchronously, through a video or written response. 
 
-###### Questions for reflection
+**Questions for reflection**
 
 - Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
 
 - Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
 - Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
 
-</article>
-
 [^1]: Mike Caulfield has asked that people using the [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed) include the following note, so people know how to get back to the original: *The text and media of this site, where possible, is released into the CC BY, and free for reuse and revision. We ask people copying this course to leave this note intact, so that students and teachers can find their way back to the original (periodically updated) version if necessary. We also ask librarians and reporters to consider linking to the canonical version.*
 
-<article>
-
-The Miseducation of Dylan Roof
+**The Miseducation of Dylan Roof**
 
 >Throughout this course, we'll be using a mixture of both weighty and trivial examples. Sometimes it may seem there's not much downside to being misinformed: who really cares if the "Alexa Voice-Activated Toilet" is real or Monster Brand Caffeinated Ham is fake?
 >
@@ -1785,15 +1724,12 @@ The Miseducation of Dylan Roof
 >
 > Once a person starts down the conspiracy spiral, it's very hard to get back out. There is such a gap between what they see in "respected" sources and what they see from extremist sites that they come to believe the respected sites must be in on the conspiracy. And while in the past many people might hold one or two conspiracy theories, the hyper-connected, algorithmic nature of the internet creates a situation where believing in one conspiracy theory may lead to your exposure to more and more radical conspiracy theories.
 
-###### Questions for reflection
+**Questions for reflection**
 
 - Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
 - Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
 - Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
 
-</article>
-
-<article>
 
 #### Conclusion
 
@@ -1801,9 +1737,6 @@ The Miseducation of Dylan Roof
 >
 > Now that we have the basics down we will start practicing some of the web techniques that you can use to get quick answers as you "sift".
 
-</article>
-
-<article>
 
 ### 04.02 | Investigate the Source
 
@@ -1817,9 +1750,6 @@ The Miseducation of Dylan Roof
 
 !?[Online Verification Skills - Video 2: Investigate the Source](https://youtu.be/hB6qjIxKltA?si=eaHlQfCG357nlbj9)
 
-</article>
-
-<article>
 
 #### Just add Wikipedia
 
@@ -1829,11 +1759,7 @@ The Miseducation of Dylan Roof
 
 > Notice that while the most relevant Wikipedia article usually floats to the top of results, this is not always true. In the case of researching Nuclear Matters, the most informative Wikipedia page was the second result. When looking at *Before It's News* the first Wikipedia result that came up was the right one — but it was second in the Google results, after a result from Rational Wiki.
 
-</article>
-
-<article>
-
-#### Use Surprise as an Indicator
+**Use Surprise as an Indicator**
 
 > What do you look for on the Wikipedia page? It varies. Sometimes — as with the Nuclear Matters material in the video above — what sticks out most is the agenda of the group, e.g. something you thought was a research group turns out to be a political advocacy group with ties to the industry. Sometimes it's the fact that a source has a history of unreliability, as was the case with *Before It's News*. And many times (most, actually!) it will turn out the source just fine, as we saw above with the *SacBee* example.
 >
@@ -1844,13 +1770,9 @@ The Miseducation of Dylan Roof
 >
 > If you thought something was from a straight news site and it turns out to be from a conspiracy site, that should surprise you. And given your new knowledge, your initial impression of the trustworthiness should plummet. If you thought you were looking at a minor, unknown newspaper and it turns out to be a multi-award winning national newspaper of record, maybe your assessment of its trustworthiness increases. The effects on trust are of course contextual as well: a small local paper may be a great source for local news, but a lousy source for health advice or international politics.
 
-###### Vocabulary: paper of record
+**Vocabulary: paper of record**
 
 A national paper of record is a reputable paper that attempts to cover all important national news with staff reporters. They are distinguished from regional and local papers which use staff primarily for local or regional news.
-
-</article>
-
-</article>
 
 #### What's Important Depends On Context
 
@@ -1864,16 +1786,12 @@ A national paper of record is a reputable paper that attempts to cover all impor
 >
 > One caveat — some students, used to just reacting to claims, may not be forming conscious opinions of what a source is. If this is the case with you, take just the smallest fraction of a second to think about what you think you are looking at before you research it. Do you think this is a major news source? A local paper? A government database? A grassroots, people-powered movement? A professional organization? As we go through the course we'll talk more about some of these categories of sources.
 
-Vocabulary: grassroots, professional organization
+**Vocabulary: grassroots, professional organization**
 
 - **Grassroots organizations** are organizations which are primarily run and funded by interested citizens and independent activists.
 - **Professional organizations** provide an array of services and support to people in a given field. An organization for electrical engineer may provide professional standards to follow, research on best practices, training for members, and lobbying for the field.
 
-</article>
-
-<article>
-
-#### SIFTing: Alexa-enabled toilet? (prompt)
+**SIFTing: Alexa-enabled toilet? (prompt)**
 
 > Each of our "Sifting" exercises will give you a scenario, show you a prompt associated with it, and ask you a question associated with it. You should "use your moves" on the prompt (the components of SIFT), then write your results in your notebook. If you are a student in a class, when you write your results in your notebook, make sure to use the specified heading, so that your teacher knows what prompt you are responding to.
 >
@@ -1891,11 +1809,7 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 >
 > When you are done, go to the next part to see how a fact-checker might approach this problem.
 
-</article>
-
-<article>
-
-#### SIFTing: Alexa toilet (discussion)
+**SIFTing: Alexa toilet (discussion)**
 
 > Here's an example of what a fact-checker might say:
 >
@@ -1905,7 +1819,7 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 >
 > How did we find that out? We used the Just add Wikipedia trick:
 
-![GIF showing someone typing http://tomsguide.com wikipedia into their web browser and viewing some info about Tom's Hardware](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/2223113f-0fa8-408f-a663-64083a1f9524/toms-guide1.gif?id=2f5f9113-2049-44b4-9d7e-16876465d7f5&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=D9s0HdWATVlflwgOAGti86EnPnxr87CBmqe3B374F_U)
+![GIF showing someone typing tomsguide.com wikipedia into their web browser and viewing some info about Tom's Hardware](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/2223113f-0fa8-408f-a663-64083a1f9524/toms-guide1.gif?id=2f5f9113-2049-44b4-9d7e-16876465d7f5&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=D9s0HdWATVlflwgOAGti86EnPnxr87CBmqe3B374F_U)
 
 > We searched for the site (adding our bare keyword "wikipedia"), and found the most relevant Wikipedia page at the top of the results. It wasn't an exact match, but it was close enough to check it out.
 >
@@ -1921,9 +1835,6 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 >
 > Although not shown in the animation, we used "control-f" to search for information on the web page. If you are familiar with control-f (command-f on a Mac) continue on with the lesson. But if not, [watch this video on how to find a word on a web page with control-F](https://youtu.be/D-FkKwRD4iY?si=8aq3kaUsf8D0hj5n) and [check out this article on using control-f on the web](https://www.theatlantic.com/technology/archive/2011/08/crazy-90-percent-of-people-dont-know-how-to-use-ctrl-f/243840/) — we'll be using it a lot.
 
-</article>
-
-<article>
 
 #### Wikipedia
 
@@ -1941,11 +1852,7 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 
 If you want to know more about how credible we should consider Wikipedia, see: [Can We Trust Wikipedia? 1.4 Billion People Can't Be Wrong](https://www.independent.co.uk/news/long_reads/wikipedia-explained-what-is-it-trustworthy-how-work-wikimedia-2030-a8213446.html). 
 
-</article>
-
-<article>
-
-#### Aligator (prompt)
+**Aligator (prompt)**
 
 Check out both of these news reports and answer the questions below.
 
@@ -1953,17 +1860,13 @@ Check out both of these news reports and answer the questions below.
 
 https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carolina-nursing-home/
 
-###### Questions
+**Questions**
 
 - Are these trustworthy news sources for this sort of story?
 - Is this story likely true?
 - If you had to pick the best source of the two based just on what you found on Wikipedia, which one would you pick, and why?
 
-</article>
-
-<article>
-
-#### Alligator (discussion)
+**Alligator (discussion)**
 
 > Here's one possible response:
 >
@@ -1985,31 +1888,23 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 >
 > Local and national newspapers employ reporters that have very similar skills, much more similar than fitness instructors and doctors. But even here authority differs depending on the type of story. For your first reflection, think of a sort of story where a local paper would have a high degree of authority. Then think of another sort of story where they might have far less authority.
 
-###### Questions for reflection
+**Questions for reflection**
 
 - For what sort of other stories might a local source be a particularly good authority?
 - For what sort of other stories might a local source not be a good authority?
 
-</article>
-
-<article>
-
-#### Volcano plain (prompt)
+**Volcano plane (prompt)**
 
 > Take a look at this story and answer the questions.
 
 [Malaysia Airline flight forced into emergency landing](https://worldnewsdailyreport.com/malaysia-airline-flight-forced-into-emergency-landing-after-flying-over-icelandic-volcano/)
 
-###### Questions
+**Questions**
 
 - What sort of source is this?
 - How do you know?
 
-</article>
-
-<article>
-
-#### Volcano plan (discussion)
+**Volcano plane (discussion)**
 
 > Here's one possible response:
 >
@@ -2021,7 +1916,7 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 
 > We search the URL or domain and add our bare keyword `wikipedia`. Selecting the most relevant search result we find it is a known satire site.
 
-#### A note about Buzzfeed
+**A note about Buzzfeed**
 
 > One thing you'll notice in the Wikipedia article is that Buzzfeed News is cited as source. Students are often confused by this, since they are most used to Buzzfeed being primarily a source of videos such as "I tried to eat five popular candies from Romania and this is what happened."
 >
@@ -2033,14 +1928,11 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 >
 > This presents an interesting problem — if you run a site that is supposedly a humor site, but in practice it is convincing people of awful things, are you responsible for that? What if you intentionally tweak satirical headlines so they are more likely to deceive people (and hence make you more money from ads)?
 
-###### Questions for Reflection
+**Questions for Reflection**
 
 - What are your feelings on fauxtire? Is it an ethical practice?
 - Should companies like Facebook and Twitter downrank articles if they are being spread based on the impression they are "real" when they are not? What are the dangers of that?
 
-</article>
-
-<article>
 
 #### Conclusion
 
@@ -2048,15 +1940,13 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 >
 > Next up we'll apply what you learned about investigating the source to a couple specific issues.
 
-</article>
-
 ### 04.03 | Further Investigation
 
 > Let's put our investigate the source (the "I" in SIFT) move to use. We'll look into the problem of state-controlled media, and show you a variation of the "just add wikipedia" technique that you can use for individuals and organizations without websites.
 >
 > Ready to get started?
 
-#### MH17 (prompt)
+**MH17 (prompt)**
 
 > For this exercise, you'll need a bit of background. MH17 was a passenger plane shot down by Ukrainian separatists. Take one minute to watch this short video on the history of the crash.
 
@@ -2080,7 +1970,7 @@ If we really wanted to see the video, we could make use of the Internet Wayback 
 
 You will learn more about the specifics related to the MH17 flight in the next section (discussion). 
 
-#### MH17 (discussion)
+**MH17 (discussion)**
 
 > You probably noticed in the initial video evidence strongly suggests elements of the Russian government were involved with the downing of the flight, though the targeting of the passenger plane was likely a mistake.
 >
@@ -2095,8 +1985,6 @@ You will learn more about the specifics related to the MH17 flight in the next s
 > What about RT?
 
 ![An animated GIF showing the 'just add Wikipedia' moves in checking out rt.com](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/74f18012-7723-4ed2-86e1-5d30f5c3d79f/rt-mh17.gif?id=281d2872-4ce2-4e22-8dce-1693671e6afd&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=eJrufsauirHQJw0A3FKhu5NEgaoQ8VuX0KnkHHXUtLg)
-
-
 
 > We do the same search for the URL or domain adding our bare keyword "wikipedia". As mentioned above, when we click through to the article we notice it is funded by the Russian government. Government funding is not necessarily bad, but scroll further we note that there are credible accusations it is a government propaganda outlet. In this case, read Reuters, a credible international news agency, and ditch RT.
 
@@ -2120,7 +2008,7 @@ The original link that Mike had in his course is no longer available. Again, if 
 
 [Facebook, Google and Twitter limit ads over Russia's invasion of Ukraine, by Shannon Bond](https://www.npr.org/2022/02/26/1083291122/russia-ukraine-facebook-google-youtube-twitter)
 
-###### Questions for reflection
+**Questions for reflection**
 
 - What obligations do American companies have to prevent this sort of use of their platforms? 
 - What responsibilities belong with the reader instead?
@@ -2138,7 +2026,7 @@ The original link that Mike had in his course is no longer available. Again, if 
 > - Google News Search https://www.google.com/search?tbm=nws&source=hp&q=news+query+here&oq=
 > - Google Scholar: https://scholar.google.com/
 
-#### Warming claims (prompt)
+**Warming claims (prompt)**
 
 > Here's an article by a guest author, Myles Allen, arguing that climate change is incredibly serious but that the way some activists are talking about the recent IPCC report (considered to be the scientific consensus on global warming) is at times alarmist. We are going down a very dangerous road if we don't act on climate change now, Allen agrees, but he also says the idea that most people will feel world-ending impacts in twelve years is not supported.
 
@@ -2150,7 +2038,7 @@ The original link that Mike had in his course is no longer available. Again, if 
 >
 > (Again, remember it's not about whether you think he is right or wrong here. We just want to know if his opinion here is worth considering and why.)
 
-#### Warming claims (discussion)
+**Warming claims (discussion)**
 
 > We check for Myles Allen in Wikipedia with the search `myles allen wikipedia`. There's a substantial chance he won't be in Wikipedia even if he *is* an expert, but it's a good first step to check there.
 >
@@ -2163,7 +2051,7 @@ The original link that Mike had in his course is no longer available. Again, if 
 Questions for reflection
 - One of the understandings key to media literacy is "authority is constructed and contextual".  Different communities (scientists, reporters, politicians, psychologists, car mechanics) have different criteria for authority (constructed) and the type and level of authority you need may depend on your context (contextual).  What other types of expertise could this issue benefit from?
 
-#### Smoke-free (prompt)
+**Smoke-free (prompt)**
 
 > Here's a summary of a report from an organization called Foundation for a Smoke-Free World. They want to eliminate smoking worldwide.
 
@@ -2171,7 +2059,7 @@ Questions for reflection
 
 > For this example, do a Google News search on the foundation name. Is there anything in particular we should know about this organization before reading their materials? Describe what you found out and what sources you used in your fact-checking notebook. Use the heading SMOKE-FREE.
 
-#### Smoke-free (discussion)
+**Smoke-free (discussion)**
 
 > In this case we use a Google News Search. There's multiple results, but we scan the little "keyword in context" blurbs to find relevant coverage.
 
@@ -2183,7 +2071,7 @@ Questions for reflection
 >
 > Even given all this, you might come to a conclusion that this organization is trustworthy, at least in some limited contexts. Or maybe not. But either way, it's crucial to know about the debate about this organization before you engage with (or share) its materials.
 
-#### Bias vs. Agenda
+**Bias vs. Agenda**
 
 > The above issue gets at an important distinction when looking at sources. Students often come to media literacy thinking that the primary thing they should be concerned about is bias. And since everyone has some form of bias, that ultimately leads to students thinking no one can really be trusted.
 >
@@ -2229,7 +2117,7 @@ Questions for reflection
 >
 > But first a story about Keanu Reeves.
 
-#### Quick checks for other reporting: Keanu Reeves
+**Quick checks for other reporting: Keanu Reeves**
 
 > Celebrity death hoaxes happen from time to time — in fact, one of the first big viral pieces of web fakery was a 2001 report that Britney Spears had died in a car crash. So when we see news that a celebrity has died, it's good to be cautious.
 >
@@ -2247,7 +2135,7 @@ Questions for reflection
 >
 > Conclusion: Keanu Reeves is not dead.
 
-#### Most big stories get covered by multiple outlets
+**Most big stories get covered by multiple outlets**
 
 > What does it look like when some one actually *has* died? This is a bit morbid, but the morning I am writing this MMA boxer Maxim Dadashev passed away due to injuries sustained in a fight. He was a minor figure you've probably not heard of, and yet when we search `Maxim Dadashev dead` in Google News search we find there are already multiple stories confirming this.
 
@@ -2255,12 +2143,12 @@ Questions for reflection
 
 > We click through to the USA Today story here, but we really didn't need to. Just seeing this many results on the news page is good enough for us to believe a claim of this sort. Go ahead and share this story, comment on it, and feel what emotions you have to.
 
-###### Questions for reflection
+**Questions for reflection**
 
 - Why did we search for Keanu Reeves instead of Keanu Reeves snowboard?
 - Why do you think so many otherwise smart people make errors when it comes to death hoaxes? What are the emotional drivers? What are the social incentives that push people not to check?
 
-#### Using fact-checks from news search: Chik-Fil-A
+**Using fact-checks from news search: Chik-Fil-A**
 
 Once I get a song in my head, I often have it floating around in there for quite some time. As soon as I saw Chik-Fil-A in this headline, I just had to share this one. It's such a good song, and maybe you've been sitting a while and need to take a quick mental break.  
 
@@ -2292,7 +2180,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 
 
-###### Questions for Reflection
+**Questions for Reflection**
 
 - The *Babylon Bee* has been criticized by many for repeatedly writing satire that is not notably satirical enough for people to recognize it as a joke. Critics say that this is reckless, as most people will develop false impressions from reading the headlines that float past on Facebook. What are your thoughts on this? Some links on this issue are included at the bottom of the page.
 
@@ -2312,7 +2200,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 > When we scan the blurbs we find that the first article — even though it is from a reputable source — contains the words fentanyl and shopping cart, but is not really about fentanyl on shopping carts. Likewise, the reference to shopping carts in the second one is to homelessness, not grocery store drug scares. It's the text of the third result that's in line with what we're researching, and that's the one we want to click. (Though once getting there we may want to use our source investigation techniques on Forbes).
 
-###### Vocabulary: click restraint
+**Vocabulary: click restraint**
 
 - **Click restraint** is a term introduced by Sam Wineburg and Sarah McGrew to describe a behavior fact-checkers exhibit that less skilled people do not. Fact-checkers scan multiple results to try and find the particular result that combines trustworthiness with relevance before they click, often visiting the second page of search results.
 
@@ -2332,7 +2220,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > The same way that you practice click restraint in looking for the most relevant link, you should also practice click restraint and choose the most credible result on the page. It won't always be the first. As we practice this more, choosing the best result will become much easier.
 
-#### SIFTing: UN Dance Protesting Nikki Haley (Prompt)
+**SIFTing: UN Dance Protesting Nikki Haley (Prompt)**
 
 > Early in 2018 the Trump administration announced that it would withdraw financial support for Palestine unless the country agreed to concessions. U.S. Ambassador Nicki Haley presented the U.S. position on the matter to the U.N. in January.
 >
@@ -2344,14 +2232,14 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > Fact check this, then answer the following questions in your fact-checking notebook under the heading UN DANCE:
 
-###### Questions
+**Questions**
 
 - Is the video unaltered (i.e., a "real" video)?
 
 - Is this video really a reaction to U.S. Ambassador Nikki Haley?
 - What else can you tell us about this video, and how do you know it?
 
-#### SIFTing: UN Dance Protesting Nikki Haley (Discussion)
+**SIFTing: UN Dance Protesting Nikki Haley (Discussion)**
 
 > So let's take a look:
 
@@ -2401,7 +2289,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > We'll come back to this point later, when we talk about the "T" in SIFT. But for now remember that even if photos and videos are "real" it's important to check trusted sources to make sure you have the whole story. If it turns out you were reacting to something manipulated or falsely framed, consider that your initial reaction was wrong, and adjust accordingly.
 
-#### SIFTing: ATM rats (prompt)
+**SIFTing: ATM rats (prompt)**
 
 > Take a look at this story about a rat eating ATM cash in India.
 
@@ -2413,7 +2301,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > Enter the results in your fact-checking notebook under the heading ATM RATS.
 
-#### SIFTing: ATM rats (discussion)
+**SIFTing: ATM rats (discussion)**
 
 > Let's take a look!
 
@@ -2454,7 +2342,15 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 !?[Mike Caulfield shows a reverse image search to find trusted work](https://youtu.be/LeOdDN3z9Mk)
 
-######  Questions
+**SIFTing: John Lennon's murderer? (prompt)**
+
+On the night of Monday, 8 December 1980, former Beatle and well-known peace activist John Lennon was shot dead by Mark David Chapman in the archway of his residence in New York City. Lennon had just returned from the recording studio with his wife, Yoko Ono.
+
+It is a well-known fact that hours before he shot him, the killer approached John Lennon for an autograph. But this photo has been shared with you with the caption "Creepy photo shows John Lennon signing album for his killer hours before his death!"
+
+![photo of John Lennon looking down and autographing something](https://canvas.instructure.com/courses/1383722/files/66794245/download?verifier=qC9EOhfZyFKHlGTm3bAkFvcprqqfJF4TbZuwx5Cp)
+
+**Questions**
 
 Answer the following questions in your fact-checking notebook:
 
@@ -2462,9 +2358,7 @@ Answer the following questions in your fact-checking notebook:
 - Is this really a photo of John Lennon signing an album for his killer?
 - What else do you know about the photograph?
 
-
-
-#### SIFTing: John Lennon's murderer? (discussion)
+**SIFTing: John Lennon's murderer? (discussion)**
 
 > We show one way to approach the issue below.  Remember to enter the results of your investigation in your notebook.
 
@@ -2472,7 +2366,7 @@ Answer the following questions in your fact-checking notebook:
 
 > In this case the photo is real, and the framing of the photo (that Lennon is signing an album for his killer) is accurate.
 
-#### A quick note from Dr. B about failure
+#### Quick note from Dr. B about failure
 
 I'm writing these words on January 4, 2024 (Dr. B). I wanted to break in here and say something about being wrong. I am going through the SIFT modules, again, despite having done so years ago. I use Safari for my web browser, so don't have quite as easy a time doing the reverse-image search as Mike shows in his video and GIFs. Long story short, I wound up finding the story in a tabloid and thought it was therefore fake. When I rewatched Mike's video, I discovered that I had both remembered wrong and followed down a rabbit trail that didn't pay off. 
 
@@ -2482,13 +2376,13 @@ All of us are going to be wrong in our lives. The strange thing about failure is
 >
 > --Robert Bjork
 
-I know it is easy for me to say not to worry if you're not getting all of these prompts right on your first try. Too much of education focuses on high stakes assessments, which don't always measure what they claim to... Now back to our regularly-scheduled program: aka Mike Caulfield. 
+I know it is easy for me to say not to worry if you're not getting all of these prompts right on your first try. Too much of education focuses on high stakes assessments, which don't always measure what they claim to... If you find yourself failing on some of these exercises, be sure to record it in your notebook. It will help deepen your learning. Now back to our regularly-scheduled program: aka Mike Caulfield. 
 
 #### Why Not Examine the Photo Itself?
 
 > One question I get asked from time to time is why I encourage people to look for trusted coverage rather than examine the photo itself for photoshopping. Many people have the experience of having seen something that is obviously fake. So why not look for signs of fakery?
 
-#### ![one of the many examples of the internet meme 'this looks shopped'](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6f430e8a-c7e5-428a-81f5-3a4d73bf8a95%2FShopped_sea1.jpg?table=block&id=1cf6a0f2-a67d-431f-8b6c-5e36ddbe1ef0&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1000&userId=&cache=v2)
+![one of the many examples of the internet meme 'this looks shopped'](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6f430e8a-c7e5-428a-81f5-3a4d73bf8a95%2FShopped_sea1.jpg?table=block&id=1cf6a0f2-a67d-431f-8b6c-5e36ddbe1ef0&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1000&userId=&cache=v2)
 
 > In practice we've found that this approach fails for a number of reasons. The biggest reason? 
 >
@@ -2504,7 +2398,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 
 > That's an extreme example, with a very weird looking picture, but stare at any image long enough and you'll find something wrong with it. Unless you're an expert in digital manipulation (you're not), it's better to find trusted commentary than pull out the magnifying glass.
 
-###### Questions 
+**Questions** 
 
 - When would a reverse-image search be more helpful? 
 - When would it be more of a waste of time to do a reverse-image search as part of your fact checking? 
@@ -2518,8 +2412,6 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 > - Reverse image searching to find relevant sources on an image
 >
 > Next we'll look at our final move: Tracing claims, quotes, and media to the original context.
-
-
 
 ### 04.05 | Trace Claims, Quotes, and Media to Their Original Context
 
@@ -2585,7 +2477,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 >
 > This is not to doubt Land's honesty. But the perceived authority of the study for many readers comes from the idea it was conducted by NASA and was substantial research at the time. When you attempt to trace the claim to the original context you find that the trail ends in 1992, it was not published at the time, and was not conducted by NASA. That changes how you might view the claim.
 
-#### Beer tax (prompt)
+**Beer tax (prompt)**
 
 > Take a look at [the tweet](https://x.com/JuddLegum/status/935512580155731968?s=20) below, which links to [a story from think progress.org](https://thinkprogress.org/alcohol-tax-cuts-c62a5bb7e90f/).
 
@@ -2598,7 +2490,7 @@ Once you find the original report answer two questions in your fact-checking not
 - What is the reputation of the organization or person producing the report? How credible are they on this claim?
 - What's the 1,000 people dying about? How does an alcohol tax affect that?
 
-#### Beer tax (discussion)
+**Beer tax (discussion)**
 
 > To solve this, we click to the page linked in the tweet, and scan it for links to the original report (or the original summary of the report). We find one such link:
 
@@ -2630,7 +2522,7 @@ Once you find the original report answer two questions in your fact-checking not
 >
 > The above analysis is healthy enough to go in the cart, and healthy enough to share with others. But if you have questions or concerns you should keep shopping! Just make sure that for the additional sources you consume you check those nutrition labels too.
 
-#### Guns in schools (prompt) 
+**Guns in schools (prompt)** 
 
 > The NRA — a political advocacy organization — currently argues that the correct response to school shootings is arming teachers and school personnel. In light of that position, a pro-gun control organization called Everytown circulated the following graphic:
 
@@ -2640,11 +2532,11 @@ Once you find the original report answer two questions in your fact-checking not
 >
 > Find the source of the quote, and read it in it's original context. For this one, do not stop at a fact-checker, but track the quote all the way to the transcript of the C-Span video where he said it.
 
-###### Questions
+**Questions**
 
 - Do you feel this portrayal of a major shift in policy is fair? Why or why not?
 
-#### Guns in schools (discussion)
+**Guns in schools (discussion)**
 
 > There are numerous fact-checks of this out there, but we asked you to look at the source of the quote itself in this instance. To do that you can either find it directly through search, or be lazy like me: go to a fact-checking page and click through to the video linked in it. Most fact-checkers link to the C-SPAN video:
 
