@@ -1,5 +1,3 @@
-# Business Ethics
-
 <!--
 
 author:   Dr. Bonni Stachowiak
@@ -22,7 +20,7 @@ icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.png
 
 -->
 
-
+# Business Ethics
 
 I am so glad you're here. While I have taught this class well over ten times, this time feels different. In the Spring of 2024, I have decided to 'burn the class down to the ground' and rebuild it in a format inspired by some of the greatest teachers I have ever met. Also, each class is unique and I am so looking forward to us becoming an us in the coming weeks. 
 
@@ -30,9 +28,7 @@ I am so glad you're here. While I have taught this class well over ten times, th
 
 <iframe width="100%" height="580" allowfullscreen="true" allow="autoplay *" title="busn435-welcome-video-walk" src="https://vanguard.instructuremedia.com/embed/cba6c2a1-32b3-4a4f-b01e-6e14dd3a132c" frameborder="0"></iframe>
 
-
-
-# Start
+**Design**
 
 This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The is made up of ten lessons [^1] and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
 
@@ -55,8 +51,6 @@ Thank you for taking the time out of your week to get started with Business Ethi
 [^1]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
 [^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
 [^3]: You probably figured this out, already, but I created that LEGO box image using artificial intelligence. Perhaps some of may have also noticed that none of the students depicted in the picture appear as if they are women. The first time I asked the bot to create an image of a female professor with blonde hair and glasses, the minifig of the professor was of a man (with a scruffy mustache and beard) with long, blonde hair.  We will be talking a lot about this in class, but bias exists all around us, and within us. And the more we can 'name' when it happens, the more we can seek to create a more just and equitable world. In the meantime, enjoy the LEGO box (with more to come throughout our class). 
-
-
 
 ## 00. Let's get it started 
 
