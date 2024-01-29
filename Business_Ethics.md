@@ -68,7 +68,7 @@ One thing you're going to find about me is that I love music. Almost 100% of the
 
 Let's go. 
 
-### 00.01 | Why take a business ethics class | 50 min
+### 00.01 | Why take a business ethics class
 
 Speaking of decisions, there are likely many reasons a person may decide to take a class about business ethics. 
 
