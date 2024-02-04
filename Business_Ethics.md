@@ -1838,9 +1838,9 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 >
 > As an example, consider a situation where you need to source a claim that the Dallas 2016 police shooter was motivated by hatred of police officers. Wikipedia will summarize what is known about his motives and, more importantly, will source each claim, as follows:
 >
-> **Chief Brown said that Johnson, who was black, was upset about recent police shootings and the Black Lives Matter movement, and "stated he wanted to kill white people, especially white officers."[[4]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-NBC.Shot-4)[[5]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-ShapiroSuspect-5) A friend and former coworker of Johnson's described him as "always [being] distrustful of the police."[[61]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-DallasNews.Know-61) Another former coworker said he seemed "very affected" by recent police shootings of black men.[[64]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-DallasNews.Complex-64) A friend said that Johnson had [anger management](https://en.wikipedia.org/wiki/Anger_management) problems and would repeatedly watch video of the 1991 beating of [Rodney King](https://en.wikipedia.org/wiki/Rodney_King) by police officers.[[85]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-85)**
+> Chief Brown said that Johnson, who was black, was upset about recent police shootings and the Black Lives Matter movement, and "stated he wanted to kill white people, especially white officers.[^1][^2]"  A friend and former coworker of Johnson's described him as "always [being] distrustful of the police.[^3]" Another former coworker said he seemed "very affected" by recent police shootings of black men.[^4] A friend said that Johnson had anger management problems and would repeatedly watch video of the 1991 beating of Rodney King by police officers.[^5]
 >
-> Investigators found no ties between Johnson and international terrorist or domestic extremist groups.[[66]](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-nprwhatweknow-66)
+> Investigators found no ties between Johnson and international terrorist or domestic extremist groups.[^6]
 >
 > Each footnote leads to a source that the community has deemed reliable. The article as a whole contains over 160 footnotes. If you are researching a complex question, starting with the resources and summaries provided by Wikipedia can give you a substantial running start on an issue.
 
@@ -1875,6 +1875,8 @@ Check out both of these news reports and answer the questions below.
 > What about KDVR?
 
 ![GIF of typing https://KDVR.com wikipedia into Google browser search](https://innovatelearning.s3.amazonaws.com/kdvr.gif)
+
+[^1]: [Source](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-NBC.Shot-4), [^2]: [Source]((https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-ShapiroSuspect-5)), [^3]: [Source]((https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-DallasNews.Know-61)), [^4]: [Source](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-DallasNews.Complex-64), [^5]: [Source](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-85), [^6]: [Source](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers#cite_note-nprwhatweknow-66)
 
 #### When are local sources good?
 
