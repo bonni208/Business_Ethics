@@ -1813,7 +1813,7 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 >
 > How did we find that out? We used the Just add Wikipedia trick:
 
-![GIF showing someone typing tomsguide.com wikipedia into their web browser and viewing some info about Tom's Hardware](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/2223113f-0fa8-408f-a663-64083a1f9524/toms-guide1.gif?id=2f5f9113-2049-44b4-9d7e-16876465d7f5&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=D9s0HdWATVlflwgOAGti86EnPnxr87CBmqe3B374F_U)
+![GIF showing someone typing tomsguide.com wikipedia into their web browser and viewing some info about Tom's Hardware](https://innovatelearning.s3.amazonaws.com/toms-guide1.gif)
 
 > We searched for the site (adding our bare keyword "wikipedia"), and found the most relevant Wikipedia page at the top of the results. It wasn't an exact match, but it was close enough to check it out.
 >
@@ -1850,9 +1850,9 @@ If you want to know more about how credible we should consider Wikipedia, see: [
 
 Check out both of these news reports and answer the questions below.
 
-[https://abcnews4.com/news/local/granddaughter-of-90-ye...](https://abcnews4.com/news/local/granddaughter-of-90-year-old-woman-killed-by-alligator-sues-west-ashley-nursing-home)
+[Granddaughter of 90 year old woman killed by alligator sues West Ashley nursing home](https://abcnews4.com/news/local/granddaughter-of-90-year-old-woman-killed-by-alligator-sues-west-ashley-nursing-home)
 
-https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carolina-nursing-home/
+[90 Year Old woman killed by alligator at South Carolina nursing home](https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carolina-nursing-home)
 
 **Questions**
 
@@ -1868,13 +1868,13 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 >
 > How do we get there? We start by doing our "just add wikipedia" trick. Let's show the ABC one first:
 
-![GIF showing the ABC add wikipedia trick](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/3b72c03d-534a-4d73-bae9-ef2f542dad1d/alligator-abc1.gif?id=f5e706fd-d26f-4d7d-ab47-aa0a4d83807a&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=h4rWparGuJCKsDZ-KEbzAfIY0inpVvKMw4js3kAnD2w)
+![GIF showing the ABC add wikipedia trick](https://innovatelearning.s3.amazonaws.com/alligator-abc1.gif)
 
 > We search the URL or domain and add our bare keyword "wikipedia". Selecting the most relevant search result we find it is about a local TV station in Charleston. Just to be sure the article is for the right site, we scroll down and make sure the URL matches. It does!
 >
 > What about KDVR?
 
-![GIF of typing https://KDVR.com wikipedia into Google browser search](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/83fdb898-ac56-427f-ba6f-5ad716eb2d01/kdvr.gif?id=3d62d56f-baf0-4dbb-b0cb-8e004ed46a15&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=6uUWVOpF8DGrB6UtisBYWYr3Ngap0YZ2BLXKra7ffzw)
+![GIF of typing https://KDVR.com wikipedia into Google browser search](https://innovatelearning.s3.amazonaws.com/kdvr.gif)
 
 #### When are local sources good?
 
@@ -1906,7 +1906,7 @@ https://kdvr.com/2016/07/29/90-year-old-woman-killed-by-alligator-at-south-carol
 >
 > How do we get there? We start by doing our "just add wikipedia" trick. Let's show the ABC one first:
 
-![Search the URL and add Wikipedia](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/cf2ec0a4-6114-44e1-9664-56b4ef5ce498/volcano1.gif?id=97f137ee-3a02-40ba-b640-6b41a97061bf&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704427200000&signature=28vk_1iqJnQSMCaEYJLLwbf7Ffxf1THOoGn1lVFUMuo)
+![Search the URL and add Wikipedia](https://innovatelearning.s3.amazonaws.com/volcano1.gif)
 
 > We search the URL or domain and add our bare keyword `wikipedia`. Selecting the most relevant search result we find it is a known satire site.
 
@@ -1972,13 +1972,13 @@ You will learn more about the specifics related to the MH17 flight in the next s
 >
 > How did we find that information? We started by doing our "just add wikipedia" trick. Let's show the Reuters one first:
 
-![GIF showing the "just add wikipedia" moves in checking out Reuters.com](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/6376aecc-e95c-406c-986b-7be1faea6ffa/reuters-mh17.gif?id=dfcfaf5d-90cc-4a34-b392-3df109b312ae&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=wkTiWazsszOeORa1VVg8pwyxnTR0GVhYJVis2Gdos4Q)
+![GIF showing the "just add wikipedia" moves in checking out Reuters.com](https://innovatelearning.s3.amazonaws.com/reuters-mh17.gif)
 
 > We search the URL or domain and add our bare keyword "wikipedia". Selecting the most relevant search result, we find Reuters is an international news organization. Scanning the article we note that there have been a few controversies related to timidity with climate change reporting and allegations of anti-Israel bias, but nothing that relates to this subject.
 >
 > What about RT?
 
-![An animated GIF showing the 'just add Wikipedia' moves in checking out rt.com](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/74f18012-7723-4ed2-86e1-5d30f5c3d79f/rt-mh17.gif?id=281d2872-4ce2-4e22-8dce-1693671e6afd&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=eJrufsauirHQJw0A3FKhu5NEgaoQ8VuX0KnkHHXUtLg)
+![An animated GIF showing the 'just add Wikipedia' moves in checking out rt.com](https://innovatelearning.s3.amazonaws.com/rt-mh17.gif)
 
 > We do the same search for the URL or domain adding our bare keyword "wikipedia". As mentioned above, when we click through to the article we notice it is funded by the Russian government. Government funding is not necessarily bad, but scroll further we note that there are credible accusations it is a government propaganda outlet. In this case, read Reuters, a credible international news agency, and ditch RT.
 
@@ -2038,7 +2038,7 @@ The original link that Mike had in his course is no longer available. Again, if 
 >
 > In this case, we luck out! He's in there:
 
-![Animated GIF showing wikipedia search results for Myles Allen](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/02d63bc8-b10d-4833-85dd-e8808c6a9b9e/myles.gif?id=5831a803-1219-4605-9bf4-5ff77fc010e5&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=srrIfNk3ZW876gcywvnEwpltKBuk3oQiuvHhkBob65o)
+![Animated GIF showing wikipedia search results for Myles Allen](https://innovatelearning.s3.amazonaws.com/myles.gif)
 
 > Look at the Wikipedia article and then look (skim, really) his opinion piece. Does he have relevant expertise? Double check the answer in your fact-checking notebook and write down your assessment of the writer's expertise.
 
@@ -2057,7 +2057,7 @@ Questions for reflection
 
 > In this case we use a Google News Search. There's multiple results, but we scan the little "keyword in context" blurbs to find relevant coverage.
 
-![GIF showing the search for Foundation for a Smoke-Free World](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/4310bbd7-b18c-45a7-83bf-42747867c450/smokefreeworld.gif?id=e140a218-9f54-43b2-b9a7-3047ba5d0b66&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=F6KsToi4ibmBTLrrYnFQsMDWxWST2RVrCM7XP5YmBEY)
+![GIF showing the search for Foundation for a Smoke-Free World](https://innovatelearning.s3.amazonaws.com/smokefreeworld.gif)
 
 > We choose the source PRWatch. PRWatch isn't a perfect source — they've been accused at times of having an anti-corporate bias — but in general their reporting is well-sourced.
 >
@@ -2123,7 +2123,7 @@ Questions for reflection
 
 > Is it true? If it was, we'd expect there to be lots of news stories about it. So we check.
 
-![GIF showing that Keanu Reeves was very much alive as that headline was claiming he had died](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/29fef051-eaa5-467b-99c7-e2f152a204f7/keanu-snowboard-ibn.gif?id=e25dea8c-db83-4461-990c-83102e42665d&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=t8tLBUIGP31zYKkmhX-3n8Cc24CcrcZ5i0dM_Iqw8XQ)
+![GIF showing that Keanu Reeves was very much alive as that headline was claiming he had died](https://innovatelearning.s3.amazonaws.com/keanu-snowboard-ibn.gif)
 
 > What do we find? The top stories about Keanu Reeves are about him making a surprise stop to sign a fan's yard sign. Doesn't sound very dead! Just to be sure, we search for `Keanu Reeves dead` and the only thing that comes up are stories about how a video game with "Death" in the title almost featured Reeves.
 >
@@ -2133,7 +2133,7 @@ Questions for reflection
 
 > What does it look like when some one actually *has* died? This is a bit morbid, but the morning I am writing this MMA boxer Maxim Dadashev passed away due to injuries sustained in a fight. He was a minor figure you've probably not heard of, and yet when we search `Maxim Dadashev dead` in Google News search we find there are already multiple stories confirming this.
 
-![GIF showing Maxim Dadas has died](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/d91c05f1-a47f-4196-a397-cad91c7b6625/mmaboxer-usa-today-barekeyword.gif?id=65d496a2-fcf4-48fc-aad8-4a326038e832&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=IZGQqCtWdAW-8USVIxmBBnJAaFtnGjqoUXoaZI3vJEM)
+![GIF showing Maxim Dadas has died](https://innovatelearning.s3.amazonaws.com/mmaboxer-usa-today-barekeyword.gif)
 
 > We click through to the USA Today story here, but we really didn't need to. Just seeing this many results on the news page is good enough for us to believe a claim of this sort. Go ahead and share this story, comment on it, and feel what emotions you have to.
 
@@ -2158,7 +2158,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 > In this case we do the news search, and we do find something: a fact-check by Snopes:
 
-![GIF of Google search for Chick-Fil-A Georgia county](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/e2ef7116-44ce-42a8-8849-7586de0c0048/chik-fil-a-lawmaker.gif?id=7c8a2c17-5b67-4a5d-b5ad-8dc3433108d2&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=OPycIXSHPgP30eLIIWrMbW1cOKgn3XWK_1qboiyoCY8)
+![GIF of Google search for Chick-Fil-A Georgia county](https://innovatelearning.s3.amazonaws.com/chik-fil-a-lawmaker.gif)
 
 
 
@@ -2204,7 +2204,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > Another aspect of stopping is occasionally reformulating a search. We do see one fact-check in the above results, but perhaps we're surprised we don't see more. Maybe we start reading the Forbes story but find it unclear. If the results are not what we want we can modify the search query, here by adding "fact-check".
 
-![GIF showing fentanyl grocery cart fact check](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/c3a91350-a6af-4be8-87e5-d378b695fd06/fentanyl-shopping-cart-fact-check.gif?id=c6cb61a9-a406-43ad-bcf5-7253bdfa1c69&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=VW62nGC4LEiQZ7j3Y9rS3g3hlYbhyXZKAtgqxp-P56w)
+![GIF showing fentanyl grocery cart fact check](https://innovatelearning.s3.amazonaws.com/fentanyl-shopping-cart-fact-check.gif)
 
 > When we do that we see at least a half dozen fact-checks on this from Poynter (a well known fact-checking outfit), CBS News, and others. We choose the CBS News link and find a good explanation of why the fentanyl story is highly improbable, combined with advice that wiping those handles during flu season is something you might want to do anyway.
 
@@ -2237,7 +2237,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 > So let's take a look:
 
-![Search for UN dance protest and resulting story on Snopes](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/bf1f55a2-728b-457d-a7ed-2f6a80d4d8fc/haley-un.gif?id=1761eccb-c55f-4cf8-8d4a-0147d19733a5&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=Y57vwvEuahlhtzmFvmnXy1J3ShCD8t07Jv2OHUXmigA)
+![Search for UN dance protest and resulting story on Snopes](https://innovatelearning.s3.amazonaws.com/haley-un.gif)
 
 > In this case we could just click the fact-check we see in the general search, assuming we either recognized Snopes or Al-Araby as a reputable source. If we don't recognize those sources or see relevant material, we click into Google News.
 >
@@ -2299,7 +2299,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 > Let's take a look!
 
-![Google search for atm rat cash india](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/8353bf62-c19f-4cda-8965-c9a99b38536e/atm-rat.gif?id=3c7d8e0d-d502-4759-8a64-13669066ad44&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704477600000&signature=6theBjPB5Lb6AjfY1VKstQjShqEOMnzxUXcrn9-Odyk)
+![Google search for atm rat cash india](https://innovatelearning.s3.amazonaws.com/atm-rat.gif)
 
 > In this case there's a lot of good sources on that search page. I chose Reuters, due to their expertise with international reporting, but most choices here are fine. At the time I did this search I saw Newsweek, USA Today, BBC News, Thrillist (a culture site), and Business Insider.
 >
@@ -2356,7 +2356,7 @@ Answer the following questions in your fact-checking notebook:
 
 > We show one way to approach the issue below.  Remember to enter the results of your investigation in your notebook.
 
-![Mike Caulfield fact checks the John Lennon autograph photo](https://youtu.be/g62-JZHXmYY)
+!?[Mike Caulfield fact checks the John Lennon autograph photo](https://youtu.be/g62-JZHXmYY)
 
 > In this case the photo is real, and the framing of the photo (that Lennon is signing an album for his killer) is accurate.
 
@@ -2500,7 +2500,7 @@ Once you find the original report answer two questions in your fact-checking not
 >
 > So our second move, now that we *know* the original source, is to *investigate* the source.
 
-![GIF showing search for Brookings institution on wikipedia](https://file.notion.so/f/f/092af283-56b1-460c-aaed-5b228f26afbc/92c7bd86-0ffd-4bfe-b4bc-06f1cf17a553/brookings.gif?id=0e631aea-c7f0-4c83-9e9b-6dfe142a7853&table=block&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&expirationTimestamp=1704484800000&signature=PYudmnkQekqU2HL76c5LMQC71uyN1ndYaLCUjqJJNRI)
+![GIF showing search for Brookings institution on wikipedia](https://innovatelearning.s3.amazonaws.com/brookings.gif)
 
 > In this case, a search for Brookings on Wikipedia shows that Brookings is a well respected think-tank that conducts this sort of policy analysis regularly, has a high marks for credibility, and seems to be centrist in political leanings, and not explicitly partisan.
 
@@ -2560,173 +2560,3 @@ This is back to being Dr. B, again. Here are a few resources that you might be i
 - [**PODCAST:** Verified with Mike Caulfield on the Teaching in Higher Ed Podcast, hosted by Bonni Stachowiak](https://teachinginhighered.com/492)
 
 - [**VIDEOS:** My YouTube channel where I vlog my own learning about SIFT (the four moves)](https://www.youtube.com/playlist?list=PLA4TNb6P_shZ6Oe0lEq0BuGhLYkikjxYl)
-
-
-
-## 05. This is how we do it (in a business context)
-
-![Course lesson graphic 05](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-05.jpg)
-
-Being your best self
-
-https://ethicsunwrapped.utexas.edu
-
-**United Nations Sustainable Development Goals** 
-
-Browse the UN's SDGs https://sdgs.un.org/goals 
-
-Watch 3 tips on SDGs https://vanguard.instructuremedia.com/embed/cb219ffc-ec51-4357-82de-f097e75b2191 
-
-The video compared the Sustainable Development Goals to a birthday cake
-
-[][ ][[ ]] True
-[[x]] False
-
-Hint: It was a type of cake, yes, but was it a birthday cake, or some other type? 
-
-
-
-Which one of the following was NOT one of the ways that the video suggested a company could organize their goals to align with the SDGs?
-
-[[ ]] Environmental goals
-
-[[ ]] Employee goals
-
-[[ ]] Community goals
-
-[[ ]] Worldwide goals
-
-
-
-You notice that the U.S. is performing higher than a less-developed country in the SDGs. Explain why solely looking at that measure may be misleading. 
-
-Which of the two SDGs are you most personally interested in learning more about and finding out how you may be able to contribute to improving around the world? In your answer, link to the information about each of the two goals you list from the [17 goals websiteLinks to an external site.](https://sdgs.un.org/goals). For example, if you were interested in ensuring sustainable consumption and production patterns, you would link to that goals' page: [https://sdgs.un.org/goals/goal12Links to an external site.](https://sdgs.un.org/goals/goal12) 
-
-EXAMPLE:
-
-[Goal 12: Ensure sustainable consumption and production patternsLinks to an external site.](https://sdgs.un.org/goals/goal12) - I'm interested in this goal because when I think about how much food gets wasted just in our family, it pains me to extend that out to the world... Currently, our consumption patterns are built to continue and even extend those habits. This one also interests me as it relates to fast fashion, which is [shared about on the SDB websiteLinks to an external site.](https://sdgs.un.org/news/conscious-fashion-and-lifestyle-action-network-25073). 
-
-Answers should include:
-
-1. Number and name of goal
-2. Linked to goal on UN website
-3. 2-3 sentences explaining why you have a personal interest in that particular goal (this should read as a personal reflection and not something copied from somewhere else)
-
-
-
-
-
-## 06. Practice makes perfect (or does it?) 
-
-![Course lesson graphic 06](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-06.jpg)
-
-
-
-Media bias chart?
-
-Video: Intro to the media bias chart
-
-Maybe on the challenge? 
-
-WHAT: Use the Interactive Media Bias Chart to explore key questions. 
-
-WHY: The Ad Fontes Media Bias Chart is one way of assessing the credibility of a business news source. 
-
-HOW: Visit the Interactive Media Bias Chart and create a screencast to answer the questions posed below. Paste the link to your screencast as your submission.
-
-------
-
-Record a video your exploration and answers to the questions below:
-
-- Visit the [interactive media bias chartLinks to an external site.](https://www.adfontesmedia.com/interactive-media-bias-chart-2/)
-- When you first get there, all sources will be showing/visible
-  - Which sources stand out as recognizable? Are there a lot of sources that are unfamiliar to you?
-- Toggle off the "display all courses" in the upper left-hand part of the chart
-  - Enter a news source that you use to get your news in the "Select specific news source box" (below the display all sources)
-  - Discuss what you can tell about that source from the information on the chart
-  - Enter a second news source that you use to get your news
-  - Discuss what you can tell about that second source from the information on the chart
-- Paste your Loom video link as your submission for this assignment.
-
-1) Three news stories that relate to the topics we are exploring in business ethics that were published within the past two weeks. 
-2) Shows the vertical rating rubric for each news story and where you would place this story on it. 
-3) Show the reliability guide for each news story and where you would place this story on it. 
-4) Shows the media bias chart with where you could place this story on it (based on your analysis of the vertical rating rubric and reliability guide).  
-
-News stories links: 
-
-1) link
-2) link
-3) link
-
-
-
-
-
-## 07. The good, the bad, and the ugly
-
-![Course lesson graphic 07](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-07.jpg)
-
-!?[Paid Family Leave: Last Week Tonight with John Oliver (HBO)](https://youtu.be/zIhKAQX5izw?si=OfjCwaHshuV_T2qY)
-
-
-
-40% of workers are not covered under the federal paid leave laws. 
-
-[[x]] True
-
-[[ ]] False
-
-1. - **Scandals Illustrated**: 30 videos introducing scandals with ethical insights and case studies. [More Information](https://ethicsunwrapped.utexas.edu/series/scandals-illustrated)
-
-2. **
-
-The True Cost: Who Pays the Real Price for YOUR Clothes | Investigative 
-
-https://youtu.be/5-0zHqYGnlo?si=JquVsoCDla03Y422
-
-"The True Cost: Who Pays the Real Price for YOUR Clothes | Investigative Documentary from 2015 This is a story about clothing. It’s about the clothes we wear, the people who make them, and the impact the industry is having on our world. The price of clothing has been decreasing for decades, while the human and environmental costs have grown dramatically. The True Cost is a groundbreaking documentary film that pulls back the curtain on the untold story and asks us to consider, who really pays the price for our clothing? Filmed in countries all over the world, from the brightest runways to the darkest slums, and featuring interviews with the world’s leading influencers including Stella McCartney, Livia Firth and Vandana Shiva, The True Cost is an unprecedented project that invites us to an eye-opening journey around the world and into the lives of the many people and places behind our clothes." ((From video description ))
-
-!?[Conflict of Interest | Concepts Unwrapped](https://youtu.be/aQpZnlWk9As?si=TMzhDqMZ4Xgj3O1u)
-
-
-
-Song: Tell me lies
-
-Ethics class as song titles? 
-
-Tell me lies. Tell me sweet little lies 
-You will be found (found/tonight)
-
-
-
-## 08. Change our mind about changing our minds
-
-![Course lesson graphic 08](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-08.jpg)
-
-Importance of watching our language and behaviors: being people of integrity
-
-"...to be honest..." (what is it you're really trying to say here? Transparent? Candid?)
-
-Clip of Mike Caulfiled and Bonni reflecting on This American Life tooth fairy example 
-
-
-
-When presented with better information: agreeing on what is effective
-
-
-
-## 09. To infinity and beyond (using power and privilege responsibly)
-
-![Course lesson graphic 09](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-09.jpg)
-
-
-
-## 10. Wrap it up with a bow
-
-![Course lesson graphic 10](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-10.jpg)
-
-
-
-
-
