@@ -1681,7 +1681,7 @@ Vocabulary: bad actor, Pulitzer Prize
 
 You are being introduced to some skills that will be new for most of you. It may start to seem like a lot, so it is time to start capturing the learning in such a way as to be more memorable for you in the coming weeks and months. I've kept notes on SIFT and have even vlogged about my learning in a public way on my YouTube channel. 
 
-#### Your Notebook
+#### Your notebook
 
 > Throughout this course you'll be asked both to do basic fact-checking activities and to think more deeply about the material presented. Here we introduce three things to help you with that.
 >
@@ -1768,7 +1768,7 @@ Reflection prompts are used to suggest questions for deeper exploration. Each ti
 
 A national paper of record is a reputable paper that attempts to cover all important national news with staff reporters. They are distinguished from regional and local papers which use staff primarily for local or regional news.
 
-#### What's Important Depends On Context
+#### What's important depends on context
 
 > What you take note of when doing investigate the source searches will be highly dependent on how you initially interpreted the source.
 >
@@ -1918,7 +1918,7 @@ Check out both of these news reports and answer the questions below.
 >
 > That Buzzfeed site isn't good news source for very much. It's not "fake", but it's not very serious. Years ago, however, Buzzfeed spun off a reliable, award winning news publication under the name "Buzzfeed News" (domain: www.buzzfeednews.com). And harkening back to our "contextual authority" discussion earlier, it turns out that Buzzfeed News has two of the top experts in the world on the "fake news" phenomenon. So when you see a link to Buzzfeed News on question about the trustworthiness of a site, it's well worth following.
 
-#### The Problem of Fauxtire
+#### The problem of fauxtire
 
 > One problem — larger in the past, but still extant — is the problem of "fauxtire". Experts on disinformation use the term fauxtire to describe sites such as World News Daily Report which claimed to be satire sites (like the Onion) but in practice were not linked to because people thought they were funny but because people were fooled into thinking the stories were real.
 >
@@ -1936,7 +1936,7 @@ Check out both of these news reports and answer the questions below.
 >
 > Next up we'll apply what you learned about investigating the source to a couple specific issues.
 
-### 04.03 | Further Investigation
+### 04.03 | Further investigation
 
 > Let's put our investigate the source (the "I" in SIFT) move to use. We'll look into the problem of state-controlled media, and show you a variation of the "just add wikipedia" technique that you can use for individuals and organizations without websites.
 >
@@ -2184,7 +2184,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 - Even if you disagree with the rating of false, does the Snopes article give you enough information to make up your own mind?
 
-#### Scanning Results Using "Click Restraint"
+#### Scanning results using "click restraint"
 
 > Some times a search on a claim will turn up multiple stories, many of which are not relevant. Consider this bit of viral news that circulated on Facebook:
 >
@@ -2200,7 +2200,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 - **Click restraint** is a term introduced by Sam Wineburg and Sarah McGrew to describe a behavior fact-checkers exhibit that less skilled people do not. Fact-checkers scan multiple results to try and find the particular result that combines trustworthiness with relevance before they click, often visiting the second page of search results.
 
-#### Remember to Stop
+#### Remember to stop
 
 > This brings us to the move that often gets forgotten by students: the "S" in SIFT for "stop." As seen above, one aspect of "stopping" is to stop before you reflexively click the top search result. You want to take a second or two to make sure you're clicking the best result, not just the first one you see.
 >
@@ -2210,7 +2210,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 > When we do that we see at least a half dozen fact-checks on this from Poynter (a well known fact-checking outfit), CBS News, and others. We choose the CBS News link and find a good explanation of why the fentanyl story is highly improbable, combined with advice that wiping those handles during flu season is something you might want to do anyway.
 
-#### Not Everything In Google News Is Credible
+#### Not everything in Google News is credible
 
 > Although we mentioned this earlier in the course, it bears repeating. Using news search can give you a more trustworthy set of results than web search, but there are still untrustworthy sites in the mix, including a few that publish outright false information.
 >
@@ -2245,7 +2245,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > Our finding? The clip is miscaptioned. It's not from 2018, it's not about Trump or Nikki Haley or protest. It's an enjoyable but rather unremarkable clip of a 2013 event where a famous Palestinian singer was invited to sing at the United Nations.
 
-#### False Frames
+#### False frames
 
 > While there are videos and photos that are fake or manipulated online, a far more common tactic is to take real media and miscaption it. The example above is pretty blatant. But often it is more subtle — and more dangerous.
 >
@@ -2269,7 +2269,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > **She said her feelings at the time were of sadness, fear and concern, and added that she had talked to other witnesses to try to find out what was happening and see if she could offer help. She then called her family and helped a woman get to Waterloo station.**
 
-#### Sharpening the Event
+#### Sharpening the event
 
 > Some frames aren't wholly false, but are sharpened to the point where they are deceptive. An example of this sort of sharpening was the 2019 Covington student altercation with a Native American drummer in Washington D.C.
 >
@@ -2317,7 +2317,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > This is a really subtle point, and we'll talk about it more later.
 
-#### Trading Up
+#### Trading up
 
 > Often we get trustworthy news from not so trustworthy places. Maximum.com might be a great site, but it's unlikely, in this case, that they individually verified a story in India. They are just re-reporting it. Social media exacerbates the issue, since which article reaches you is more determined by the clickbaity-ness of their headline than the quality of their reporting.
 >
@@ -2325,7 +2325,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > When you use social media in this way, you let social media do what it does best (personalized topic discovery) while relying on either news or other search to address social media's big problem (credibility, clickbait, manipulation). If you find a better story on the subject, share that story instead, and in doing so make social media a bit better for everyone.
 
-#### How to use reverse image search to Find Trusted Coverage
+#### How to use reverse image search to find trusted coverage
 
 > Sometimes (many times!) claims or stories will come to you in the form of images. If you want to find trusted coverage of the issue, claim, or photo, you have a couple options:
 >
@@ -2374,7 +2374,7 @@ All of us are going to be wrong in our lives. The strange thing about failure is
 
 I know it is easy for me to say not to worry if you're not getting all of these prompts right on your first try. Too much of education focuses on high stakes assessments, which don't always measure what they claim to... If you find yourself failing on some of these exercises, be sure to record it in your notebook. It will help deepen your learning. Now back to our regularly-scheduled program: aka Mike Caulfield. 
 
-#### Why Not Examine the Photo Itself?
+#### Why not examine the photo itself?
 
 > One question I get asked from time to time is why I encourage people to look for trusted coverage rather than examine the photo itself for photoshopping. Many people have the experience of having seen something that is obviously fake. So why not look for signs of fakery?
 
@@ -2409,7 +2409,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 >
 > Next we'll look at our final move: Tracing claims, quotes, and media to the original context.
 
-### 04.05 | Trace Claims, Quotes, and Media to Their Original Context
+### 04.05 | Trace claims, quotes, and media to their original context
 
 > Most stuff you see on the web is not original reporting or research. Instead, it is often commentary on the re-reporting of re-reporting on some original story or piece of research. And that's a problem.
 >
@@ -2419,13 +2419,13 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 >
 > Very often by the time a story finds you on the web it has been altered so much that it presents a radically wrong version of an event or a piece of research. The person you are reading usually did no original reporting, made no phone calls to check facts, and often barely skimmed the original story before writing up their blog post, thinkpiece, hot take, or re-reported news item. And so they either get things wrong by mistake, or, in some cases, intentionally mislead.
 
-#### Trace It to the Original
+#### Trace it to the original
 
 > Fortunately, there is a solution to this problem. Usually, the original reporting, research, or photo is available on the web. By going to the original reporting or research source (or finding a high quality secondary source that did the hard work of verification) you can get a story that is more complete, or a research finding that is more accurate. This two minute video shows you how going to the source can be as easy as clicking through a link:
 
 !?[Online verification skills - Video 3 - find the original source](https://youtu.be/tRZ-N3OvvUs)
 
-#### Leveling, Sharpening, and Assimilation
+#### Leveling, sharpening, and assimilation
 
 > Early studies of rumors suggested that as rumors traveled further from the source they were altered in predictable ways. They were"leveled" — as they traveled, details are stripped out. They are also "sharpened" — certain small details are added or emphasized to give the story more "punch". And both of these processes happened in the context of "assimilation" — the details that were omitted and the details that were added or emphasized are chosen because they either fit what the speaker thinks is the main theme of the story, or what the speaker thinks the listener will be most interested in.
 >
@@ -2461,7 +2461,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 >
 > When looking at information of this sort, figure out what the original reporting source was, and go take a look. Some publications can add value, particularly if reporters are experienced and knowledgeable in the field they are reporting in. But if it's clear the thing your looking at is just re-reporting of reporting, go up to the source and once at the source do your normal (I)nvestigate the Source moves.
 
-#### Beware the Sourceless Story
+#### Beware the sourceless story
 
 > Consider this post by John D'oh, in which he references [an article from Curious Mind Magazine](https://curiousmindmagazine.com/research-shows-born-creative-geniuses-education-dumb-us/):
 
@@ -2506,7 +2506,7 @@ Once you find the original report answer two questions in your fact-checking not
 
 > In this case, a search for Brookings on Wikipedia shows that Brookings is a well respected think-tank that conducts this sort of policy analysis regularly, has a high marks for credibility, and seems to be centrist in political leanings, and not explicitly partisan.
 
-#### Your Research Shopping Cart
+#### Your research shopping cart
 
 > The search above gave you a good result on Brookings — good enough for you to take the analysis seriously, in any case. Good enough for you to share this with others if that's what you want to do.
 >
@@ -2562,3 +2562,906 @@ This is back to being Dr. B, again. Here are a few resources that you might be i
 - [**PODCAST:** Verified with Mike Caulfield on the Teaching in Higher Ed Podcast, hosted by Bonni Stachowiak](https://teachinginhighered.com/492)
 
 - [**VIDEOS:** My YouTube channel where I vlog my own learning about SIFT (the four moves)](https://www.youtube.com/playlist?list=PLA4TNb6P_shZ6Oe0lEq0BuGhLYkikjxYl)
+
+## 05. The Good
+
+![Course lesson graphic 05](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-05.jpg)
+
+In the realm of business ethics, the phrase "the good, the bad, and the ugly" encapsulates the multifaceted nature of ethical dilemmas within organizational settings. Originating from the title of a classic Western film directed by Sergio Leone in 1966, this expression has transcended its cinematic origins to become a metaphorical framework for understanding the spectrum of ethical behaviors in various contexts, including in business.
+
+!? ["The Good, the Bad and the Ugly" - official trailer](https://youtu.be/WCN5JJY_wiA?si=yzPki2u8blNCznds)
+
+In "The Good, the Bad, and the Ugly," the characters navigate a morally ambiguous landscape characterized by greed, betrayal, and survival. The movie epitomizes the moral complexity inherent in human interactions, where notions of good and evil blur amidst conflicting motivations and interests. The phrase "the good, the bad, and the ugly" has found resonance in scholarly discourse and everyday vernacular, serving as a metaphorical lens through which to examine ethical decisions and behaviors. In the context of business ethics, "the good" signifies virtuous conduct characterized by integrity, accountability, and social responsibility. Conversely, "the bad" encompasses actions that transgress ethical norms, ranging from deceitful practices to outright fraud. 
+
+We will save "the ugly" for a future lesson, where we explore those actions that are not illegal, but that are immoral or harmful to the broader society, in some way. 
+
+Before we can start talking about the various ways that companies may structure themselves to align with their core purpose and values, it is essential to review some key terms that you perhaps have already heard about in other classes. 
+
+### 05. 01 | The benefits of structuring as a corporation
+
+> The concept of **limited liability** means that the owners (shareholders or stockholders) of corporations, as well as directors and managers, are protected by laws stating that in most circumstances, their losses in case of business failure cannot exceed the amount they paid for their shares of ownership ([Figure 4.2](https://openstax.org/books/business-ethics/pages/4-1-corporate-law-and-corporate-responsibility#OSX_Ethics_04_01_LimitedLi)). The same protection applies to owners of some other business entities such as limited liability companies (LLCs). An LLC is similar to a corporation in that owners have limited liability; however, it is organized and managed more like a partnership. For purposes of granting owners the protection of limited liability, several types of entities are possible within each state, including a corporation, an LLC, a limited liability partnership, and a limited partnership.
+
+![A diagram showing the relationship of corporate directors to limited liability. A large centered circle is labeled “Corporation”. Just overlapping the “Corporation” circle on the left edge is a circle labeled “Directors”. Just overlapping the “Corporation” circle on the top edge is a circle labeled “Shareholders”. Just overlapping the “Corporation” circle on the right edge is a circle labeled “Officers”. An arrow extends from the “Shareholders” circle to the “Directors” circle. An arrow extends from the “Directors” circle to the “Officers” circle. Inside the bottom edge of the “Corporation” circle is a circle labeled “Liability is limited to corporate assets”.](https://openstax.org/apps/archive/20231218.154301/resources/4983ff2c601ca06c04b207b48e448460acbfe1fc)
+
+***Figure** **4.2** Corporate shareholders elect directors who appoint the company’s officers—all of whom benefit from limited liability. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)*
+
+> Without state incorporation laws, business owners would be subject to personal liability for business losses, which could create several disadvantages. Ownership would be riskier, so owners could have more difficulty selling their ownership interests. They could also be subject to a pro rata share of income taxes. These types of personal financial liability could limit the ability of businesses to raise capital by selling stock. Limited liability, by reducing the amount a shareholder can lose from investing in a corporation by buying its stock, increases the investment’s attractiveness to potential new shareholders. Ultimately, corporate status increases both the potential number of willing investors and the amount of capital they are likely to invest. After all, would you be willing to invest your money in a business if you knew not only that you could lose the capital you invested, but also that you could be sued personally for any and all debts of the business? 
+>
+> Corporate status is conferred upon a business by state law (statute) when a state issues the business a charter of incorporation. The protective shield of corporate status enables businesses to socialize their losses in a way that traditional proprietorships and partnerships are not able to do. *Socializing* a loss is a means to amortize it or spread it out over society in general, so the owners do not absorb it individually. Amortization is similar to the idea behind insurance, in which many people bear a small share in a loss, rather than one or a few people bearing all of it. Therefore, it is accurate to say that society enables corporations to exist, both by passing laws that create them and by limiting the financial risk exposure of their owners. Since our society grants for-profit businesses the right to incorporate and make unlimited profits with limited liability, a reasonable person could conclude that corporations owe a debt to society in return. 
+>
+> Corporations’ **quid pro quo**—a Latin term meaning *this for that*—is acceptance of corporate social responsibility, to benefit the many stakeholders to whom corporations may owe a duty, including customers, the community, the environment, employees, media, and the government ([Figure 4.3](https://openstax.org/books/business-ethics/pages/4-1-corporate-law-and-corporate-responsibility#OSX_Ethics_04_01_CorpStake)).
+
+![A diagram showing typical stakeholders. In the center is a circle labeled “Business Corporations”. Around the “Business Corporations” circle are six circles labeled “Government”, “Environment”, “Community”, “Media”, “Customers”, and “Employees”.](https://openstax.org/apps/archive/20231218.154301/resources/555a3aa1d9564b515f904270eaa2119424ebf052)
+
+***Figure** **4.3** A corporation’s typical stakeholders include (but are not limited to) its customers or clients, the community in which it operates, the natural environment, its employees, the media, and the government. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)*
+
+#### Balancing the Many Responsibilities of a Corporation
+
+> A longstanding ethical debate about corporate social responsibility asks whether, in fact, a corporation owes a duty to society or only to its shareholders. The line of important court cases shaping this issue spans almost a century and includes a series of landmark cases involving the Ford Motor Company, the Wrigley Company, and Hobby Lobby.
+>
+> In *Dodge v. Ford Motor Company* (1919), the Michigan Supreme Court ruled in favor of **shareholder primacy**, saying that founder Henry Ford must operate the Ford Motor Company primarily in the profit-maximizing interests of its shareholders.[2 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-002)In the traditional corporate model, a corporation earns revenue and, after deducting expenses, distributes the profits to shareholders in the form of dividends. Ford had announced that his company would stop paying big dividends to shareholders and instead would use its profits to achieve several other goals, including improving product quality, expanding company facilities, and perhaps most surprisingly, lowering prices. Shareholders then sued Ford, asking the court to order Ford Motor Company to continue allocating the lion’s share of profits to high dividend payments. (It is ironic that the named shareholders who sued Ford were the Dodge brothers, former Ford suppliers who had recently started their own car company.)
+>
+> At the trial, Ford ([Figure 4.4](https://openstax.org/books/business-ethics/pages/4-1-corporate-law-and-corporate-responsibility#OSX_Ethics_04_01_Ford)) testified that he believed his company was sufficiently profitable to consider its broader obligation and engage in activities to benefit the public, including its workers and customers. This was a unique position for the founder and primary owner of a large corporation to take in the early twentieth century. During the rise of capitalism in the United States, most owners sought only to maximize profits, because that was the primary basis of their ability to attract capital and to reinvest in the company. Most investors were interested in a healthy return on their investment, rather than any type of social good. Shareholders contended that the concern Ford expressed for his workers and customers was both improper and illegal. The court agreed, and Ford was forced to abandon his managerial goal of balancing profits and realizing broader social goals.[3](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-003)
+
+![Part A shows a line of people assembling products. Part B shows Henry Ford.](https://openstax.org/apps/archive/20231218.154301/resources/edf38a92fc06c0c1f9e14cba42352016a0716029)
+
+***Figure** **4.4** In 1913, workers are shown laboring on a Ford assembly line (a) in Highland Park, Michigan. In Dodge v. Ford Motor Company (1919), the Michigan Supreme Court ruled that Henry Ford (b) must operate the Ford Motor Company primarily in the profit-maximizing interests of its shareholders rather than in the broader interests of his workers and customers. (credit a: modification of “Ford assembly line - 1913” by unknown/Wikimedia Commons, Public Domain; credit b: modification of “Portrait of Henry Ford” by Hartsook/Wikimedia Commons, Public Domain)*
+
+> Ironically, in the same case, the court upheld the validity of a doctrine known as the **business judgment rule**, a common-law principle stating that officers, directors, and managers of a corporation are not liable for losses incurred when the evidence demonstrates that decisions were reasonable and made in good faith, which gives corporate management latitude in deciding how to run the company.[4 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-004)Essentially, the business judgment rule holds that a court will not second-guess the decisions of a company’s managers or directors.
+>
+> The legality and appropriateness of social responsibility as a business policy have followed a long and winding road since 1919. In the 1950s and 1960s, for example, some state courts rejected the shareholder primacy doctrine, instead ruling that a broad interpretation of the business judgment rule allowed managers discretion when it came to allocating company assets, including using them for programs demonstrating social awareness.
+>
+> In 1968, in a highly publicized case, the court ruled that the board of directors of the Wrigley Company, of baseball and chewing gum fame, had a significant amount of discretion in determining how to balance the interests of stakeholders.[5 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-005)The case of *Shlensky v. Wrigley* (1968) revolved around William Wrigley Jr.’s ownership of the Chicago Cubs. The baseball team had steadfastly refused to install the lights necessary for playing night games at Wrigley Field, even though every other stadium in major league baseball had lights. Instead, the Cubs had respected the local community’s belief that night baseball games and their associated lights would negatively affect the surrounding neighborhood, creating more opportunities for crime. In the view of some investors, however, the Cubs’ decision was depressing profits for shareholders. The shareholders brought a challenge against the Wrigley Company, but the Cubs’ owners won the case.
+>
+> The Wrigley case represented a shift from the idea that corporations should pursue only the maximization of shareholder value, as had been held in the Ford Motor Company case.[6 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-006)As a follow-up to this case, lights were finally installed at Wrigley Field in 1988, but only after the owner, William Wrigley III, had sold the team (in 1981) to the Tribune Company, a large media conglomerate that fought for six years to install lights. However, the case stands as precedent for the ability of management to balance various interests and profits when making decisions.
+>
+> Dodge v. Ford* (1919) and *Shlensky v. Wrigley* (1968) established the dynamic nature of the debate over the shareholder primacy doctrine and indicated a shift in both legal thought and precedent toward allowing management greater latitude in deciding how to best manage a corporation. A more recent decision, *Burwell v. Hobby Lobby* (2014), demonstrated what some may consider the double-edged sword of this latitude.[7 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-007)In a 5–4 decision in favor of Hobby Lobby, the Supreme Court ruled that some corporations (those that are closely held by a few shareholders) can object on ethical, moral, or religious grounds to the Affordable Care Act’s rule that health insurance policies must cover various forms of contraception; such companies can elect not to offer such coverage.
+>
+> The majority opinion in the case was written by Justice Samuel Alito, joined by Chief Justice John Roberts and Justices Antonin Scalia, Clarence Thomas, and Anthony Kennedy. In essence, the Court ruled that business owners could place their personal values first and follow their own agenda. The case received a great deal of publicity, some of it quite negative. Essentially, the Court held in this case that “corporate law does not require for-profit corporations to pursue profit at the expense of everything else,”[8 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-008)similar to the ruling in the Chicago Cubs/Wrigley Field case.
+>
+> The decision was a victory for the family that owns Hobby Lobby and has been praised by some and criticized by others for expanding the rights of corporate owners. Some analysts believe it represents more than just an expansion of management prerogative and enlarges the right of corporations to be treated as a “person.” The Hobby Lobby case can be interpreted to mean the people who control corporations (owners and/or management) may act on their own values in a way that might well be inconsistent with the interests of employees and other minority shareholders. In the majority decision, Alito wrote, “A corporation is simply a form of organization used by human beings to achieve desired ends. When rights, whether constitutional or statutory, are extended to corporations, the purpose is to protect the rights of these people.”[9 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-009)Hobby Lobby is primarily owned by one family, and Alito’s comments seem to suggest that another interpretation would limit the applicability of the case to only closely held corporations, in which the majority of the stock is owned by a small number of shareholders.
+>
+> Some might think Henry Ford’s attempt to forego profits in order to pay workers higher wages was a good choice but not find Hobby Lobby’s preference for limiting female employees’ health insurance benefits on religious grounds to be so. However, the law must be interpreted logically: If you give management the prerogative to put one social issue ahead of profits, should management not also be able to pursue any social issue of its choosing? An extension of the logic used in the Hobby Lobby case could lead to an expansion of the corporate rights of the personhood doctrine, for example, by allowing the individual right to privacy to become a shield against regulatory scrutiny by government agencies (although a corporation is not a natural person).
+>
+> Another potential problem with giving management greater rights to pursue social agendas is protecting the interests of minority shareholders who disagree with the majority. Since corporation law is state law, the protections for minority shareholders vary widely, but owners of a small number of shares have little or no power to influence the choices the corporation makes. Some states allow cumulative voting for seats on the board of directors, which increases minority shareholder power. Others permit buyouts or dissolution statutes that apply to closely held corporations. However, in a traditional large corporation, none of these protections for minority interests are likely to apply. Of course, another option is for disgruntled shareholders to sell their shares.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Two Sides of the Corporate Responsibility Debate
+
+> The issue of corporate social responsibility is the subject of high-level global discussion and debate among leaders in the public and private sectors, such as the World Economic Forum Annual Meeting in Davos, Switzerland. Numerous respected academic centers also hold forums on CSR, such as the Center on Democracy, Development, and the Rule of Law at Stanford University and the Harvard Law School Forum on Corporate Governance and Financial Regulation.
+>
+> As we have seen, slow but steady acceptance of CSR as a legitimate business concept has led to the legal and ethical position that corporate directors and managers may exercise business judgment and discretion in running a **corporation**. This development has come about for multiple reasons: a) the fact that society allows LLCs to exist, **b**) the sheer magnitude of the economic power corporations possess, and c) the desire of corporations to act responsibly in order to avoid more extensive government regulation. Managers are usually accorded significant latitude as long as they can point to a rational interpretation of their actions as benefiting the **corporation** as a whole in the long term. The combination of economic and political power in the world’s largest corporations necessitates that executives consider the interests of a broader set of stakeholders, rather than only stockholders. Indeed, social, environmental, and charitable programs often create shareholder value rather than take away from it. And honoring obligations to all stakeholders in a **corporation**—including those who own no stock shares—is the **moral minimum** a firm must undertake to satisfy the base threshold for acting ethically.
+>
+> A recent study by researchers at Princeton and the University of Texas indicates that corporations benefit from following CSR policies in multiple ways.[10 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-010)These benefits are collectively called a “halo effect” and can add value to the business. As an example, consumers frequently take CSR spending as an indirect indicator that a company’s products are of high quality, and often they are also more willing to buy these products as an indirect way of donating to a good cause.
+>
+> However, some economists, such as Milton Friedman, Henry Hazlitt, Adam Smith, and others, have argued that CSR initiatives based on environmental or social justice instead *limit* shareholder wealth.[11 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-011)The Nobel Prize-winning economist Milton Friedman (1912–2006) believed shareholders should be able decide for themselves what social initiatives to donate to or to take part in, rather than having a business executive decide for them. He argued that both government regulation and corporate social initiatives allow an outside third party to make these choices for shareholders.
+>
+> In Friedman’s opinion, too much power assumed by corporate management in pursuing a social agenda might ultimately lead to a form of corporate autocracy. Supporters of the profit maximization principle believe it is a waste of corporate resources to reduce air pollution below the level required by law, to require vendors to participate in a sustainable supply chain initiative, or to pay lower-level employees a salary above the legally mandated minimum wage. Friedman asserted that “doing good deeds” is not the job of corporations; it is the right of those people who want to do them but should not be imposed on those who do not. His philosophy asserts that socially oriented initiatives are analogous to a form of outside regulation, resulting in higher costs to those corporations that follow socially responsible policies.
+>
+> When Friedman was laying out this position in the 1970s, it reflected the prevailing opinion of a majority of U.S. shareholders and commentators on corporate law at that time. In the years since then, however, Friedman’s perspective has fallen into disfavor. This does not invalidate his point of view, but it does demonstrate that public opinion about corporations is subject to change over time. The subjectivity or relativity with which we view companies along with their perceived rights and responsibilities is a major theme this text addresses.
+>
+> Do corporate directors owe a specific fiduciary duty to shareholders? A **fiduciary duty** is a very high level of legal responsibility owed by those who manage someone else’s money, which includes the duties of care and loyalty. Some examples of relationships that include a fiduciary duty are those between a trustee of an estate and its beneficiary, and between a fund manager and a client. According to the American Bar Association, the business judgment rule states “that as fiduciaries, corporate directors owe the corporation and its shareholders fiduciary duties of diligence and fidelity in performing their corporate duties. These fiduciary obligations include the duty of care and the duty of loyalty . . . the duty of care consists of an obligation to act on an informed basis; the duty of loyalty requires the board and its directors to maintain, in good faith, the corporation’s and its shareholders’ best interests over anyone else’s interests.”[12 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-012)So it would seem that the answer is yes, corporate directors do have a specific fiduciary duty to promote the best interests of the corporation. But what exactly does that duty entail? Does that specifically mean returning profits to shareholders in the form of dividends? As we have seen, these questions have frequently spilled over into the courts, in the form of shareholder lawsuits challenging the actions of directors and/or management.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Fiduciary duty and communication
+
+> Fiduciary duty also includes a duty of communication, as you can read in the [oft-cited *Meinhard v. Salmon* case](https://www.nycourts.gov/reporter/archives/meinhard_salmon.htm) from 1928, where the New York Court of Appeals held that business partners may have a fiduciary duty to one another regarding business opportunities that arise during the course of the partnership.
+>
+> UCLA law professor [Steven Bainbridge wrote in the *New York Times*](https://www.nytimes.com/roomfordebate/2015/04/16/what-are-corporations-obligations-to-shareholders/a-duty-to-shareholder-value.): “If directors were allowed to deviate from shareholder wealth maximization, they would inevitably turn to indeterminate balancing standards, which provide no accountability.” As support for his position, Bainbridge pointed to a 2010 case, *eBay Domestic Holdings Inc. v. Newmark*, in which a Delaware court ruled that corporate directors are bound by fiduciary duties and standards that include “acting to promote the value of the corporation for the benefit of its stockholders.”
+>
+> However, Lynn Stout, a professor at Cornell University Law School, wrote a contrasting piece in the *New York Times* in which she said, “There is a common belief that corporate directors have a legal duty to maximize corporate profits and shareholder value—even if this means skirting ethical rules, damaging the environment or harming employees. But this belief is utterly false. Modern corporate law does not require for-profit corporations to pursue profit at the expense of everything else, and many do not.”[15 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-015)Her opinion is based in part on the Hobby Lobby decision referenced above.
+>
+> Thus, while ethicists may agree that corporations do indeed owe social responsibilities to society, legal experts still differ over this point. The fact that we have seen inconsistent decisions from the courts over the last century confirms the lack of legal consensus. Of course, both legal and ethical opinion are always in flux, so where the debate stands today in no way indicates where it will be in ten years. On this issue, public opinion, as well as that of politicians and even the courts, is like a pendulum swinging back and forth, usually between points of view that are center-right or center-left, rather than at the extremes. However, the pendulum is reset every so often, and the arc within which it swings may differ from era to era.
+
+#### Enhancing Livelihoods through Unilever's Project Shakti
+
+> According to management guru Peter Drucker, whose ideas significantly contributed to the foundations of thought about the workings of the modern business corporation, workers “need to know the organization’s mission and to believe in it.” How do organizations ensure this commitment? By satisfying workers’ values.[16 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-016)A program undertaken by Unilever, the Dutch-British multinational company co-headquartered in Rotterdam and London, illustrates the kind of values-oriented corporate endeavor Drucker describes. [Project Shakti](https://www.unilever.com/news/news-search/2019/becoming-a-micro-entrepreneur-in-rural-colombia/) is a Unilever CSR initiative in India that links corporate social responsibility and financial opportunities for local women. It is considered a leading example of micro-entrepreneurship, and it expands the concept of sustainability to include not only environmental issues but also economic opportunity and financial networking in underdeveloped areas.
+>
+> The goal, according to Unilever, is to give rural Shakti women the ability to earn money for themselves and their families as micro-entrepreneurs. Unilever’s subsidiary in India, Hindustan Lever, has started training programs for thousands of women in small towns and villages across India to help them understand how to run their own small sole proprietorships as distributors of the company’s products. With support from a team of rural sales managers, women who had been unable to support themselves are now becoming empowered by learning how a supply chain works, what products Hindustan Lever produces, and how to distribute them. The sales managers also act in a consulting capacity to help with business basics, money management, negotiations, and related skills that help the women run their businesses effectively.
+
+![Shakti Project Unilever](https://innovatelearning.s3.amazonaws.com/micro-entrepreneur.webp)
+
+> The program was so successful that Unilever expanded it to include Shakti men, typically the sons, brothers, or husbands of the women already running businesses. The men, who are essentially like delivery drivers, sell Unilever products using bicycles for transportation, enabling them to cover a larger area than women cover on foot. The women spend most of their time running the business.
+>
+> Project Shakti has enlisted more than 100,000 rural participants, which includes about 75,000 women. The project has changed their lives in ways that are profound, and not only because of the income earned. The women now have increased self-esteem based on a sense of empowerment, and they finally feel they have a place in Indian society. According to the Unilever Sustainable Living Plan, Project Shakti is one of the best and most sustainable ways the company can address women’s social concerns. It allows Unilever to conduct business in a socially responsible manner, helping women to help themselves while extending the reach of its products.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+### 05.02 | An alternate business formation: the Benefit Corporation
+
+Benefit corporations, or B Corps, represent a paradigm shift in corporate governance by allowing companies to prioritize social and environmental objectives alongside financial goals. Unlike traditional C corporations, which, as we have discussed, are often seen as legally required to prioritize the interests of shareholders above all else, benefit corporations have the flexibility to pursue a broader set of objectives that benefit various stakeholders, including employees, communities, and the environment. This alternative corporate structure enables companies to embed their social and environmental values into their DNA, aligning business practices with their broader mission and purpose. 
+
+#### The movement
+
+The B Corp movement is a collective endeavor aimed at transforming our economic system by redefining the rules of business. Led by organizations like B Lab, this movement mobilizes the B Corp community to tackle society's most pressing challenges through collective action and collaboration. B Corps are working together to build a more inclusive, sustainable, and equitable economy. Through advocacy, certification, and activism, the B Corp movement is driving meaningful change and inspiring businesses worldwide to prioritize purpose alongside profit. 
+
+!?[B Corp Movement](https://vimeo.com/651234509)
+
+B Lab started in 2006 and seeks to transform the world's economies to place people and the planet over profits. They have established standards and networks such that companies can shift "our global economy from a system that profits few to one that benefits all: advancing a new model that moves from concentrating wealth and power to ensuring equity, from extraction to generation, and from prioritizing individualism to embracing interdependence." On the [B Corporation website](https://www.bcorporation.net/en-us/movement/about-b-lab/) they stress: 
+
+> We won’t stop until *all* business is a force for good.
+
+#### Examples of B Corps
+
+One example of a well-known benefit corporation we have explored often in this class is Patagonia, the outdoor apparel company renowned for its commitment to environmental sustainability and social responsibility. As a certified B Corp, Patagonia integrates environmental and social considerations into its business decisions, from supply chain management to product design and marketing. The company's mission statement—"Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis"—guides its operations and drives innovation in sustainable practices.
+
+Warby Parker, a popular eyewear brand, exemplifies the benefits of the benefit corporation structure in prioritizing social impact. Beyond its core business of selling stylish and affordable eyewear, Warby Parker is committed to providing access to vision care for underserved communities. Through its "Buy a Pair, Give a Pair" program, the company donates a pair of glasses to someone in need for every pair sold. By embracing the benefit corporation model, Warby Parker has been able to integrate its social mission into its business strategy, creating shared value for customers, employees, and society as a whole.
+
+#### B Lab Standards
+
+The B Lab standards serve as a comprehensive framework for assessing a company's social and environmental performance, transparency, and accountability. Developed by B Lab, these rigorous criteria evaluate various aspects of a company's operations, including its impact on workers, communities, customers, and the environment. By measuring performance across five key areas—governance, workers, customers, community, and environment—the B Lab standards provide a holistic assessment of a company's commitment to social and environmental responsibility. 
+
+Companies that seek B Corp certification must measure their impact according to the B Lab's standards. The [B Impact Assessment](https://www.bcorporation.net/en-us/programs-and-tools/b-impact-assessment/) facilitates more then 150,000 organizations assessing and improving their "positive impact performance for environment, communities, customers, suppliers, employees, and shareholders." Through the B Corp certification process, companies undergo a thorough evaluation to ensure compliance with these standards, demonstrating their commitment to using business as a force for good. By adhering to the B Lab standards, companies can distinguish themselves as leaders in ethical and sustainable business practices, inspiring trust, loyalty, and positive impact among stakeholders.
+
+### 05.03 | Stockholders, stakeholders, and goodwill
+
+Historically, corporations have focused solely on how their actions will benefit investors. In fact, the very act of forming an entity as a corporation, can sometimes translate to the primary goal being related to financial gains for the organization. As discussed in the prior section, the debate about the extent to which corporations play a role in social good has been occurring for generations. Remember how Milton Friedman stressed that a business person's responsibility "[is to increase profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)"? Friedman believed that business people should stay focused on matters having to do with making money and contributing positively to the economy. His assertions have been influential to decades of business leaders and are known as the **Friedman doctrine**. 
+
+Amy Merrick pushes back on Milton Friedman's myopic focus on profits in her article for Chicago Booth Review [Is the Friedman Doctrine Still Relevant in the 21st Century? A Year of Crises has Heightened the Debate About What Corporations Owe Society.](https://www.chicagobooth.edu/review/friedman-doctrine-still-relevant-21st-century) Merrick outlines the ways in which businesses are asked today to not only declare their values in tangible ways, but to back them up "with clear financial commitments, such as Netflix's pledge to invest $100 million in support of Black communities in the U.S." She also discusses the ways that social media have transformed the relationship between businesses and their stakeholders. Potential stockholders want to know that the companies they are investing in are demonstrating social impact, in addition to showing financial returns. Merrick concludes [the piece](https://www.chicagobooth.edu/review/friedman-doctrine-still-relevant-21st-century) by writing: 
+
+> At a time of widespread crisis, companies may not have to choose between shareholders and the community. In the 21st century, enriching one may require boosting the other.
+
+Legal and corporate governance experts disagree as to the extent to which corporations are required to have profits come before considering other stakeholder needs. In 2015, The New York Times ran a debate with multiple experts sharing their views regarding the question of whether "[the law allows corporations to pursue social goals like environmental sustainability or worker well being?](https://www.nytimes.com/roomfordebate/2015/04/16/what-are-corporations-obligations-to-shareholders)" [According to Lynn Stout](https://www.nytimes.com/roomfordebate/2015/04/16/what-are-corporations-obligations-to-shareholders/corporations-dont-have-to-maximize-profits), author of *The ShareHolder Value Myth*, corporations aren't required to maximize profits. She cites the [Hobby Lobby U.S. Supreme Court opinion](https://caselaw.findlaw.com/court/us-supreme-court/13-354.html), which states that: 
+
+> Modern corporate law does not require for-profit corporations to pursue profit at the expense of everything else, and many do not."
+
+David G. Yosifon, author of *Corporate Friction: How Corporate Law Impedes American Progress and What to Do About It*, offers a different perspective. He describes in [his contribution to the 2015 New York Times debate](https://www.nytimes.com/roomfordebate/2015/04/16/what-are-corporations-obligations-to-shareholders/its-law-but-it-shouldnt-be) how the vast majority of companies incorporate in Delaware. The state has been clear about shareholder value reigning supreme, as illustrated by a quote from the then chief justice of the Delaware Supreme Court, Leo Strine, stating in [a law review article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2576389) that: "Directors must make stockholder welfare their sole end." In the documentary The Corporation, the creators criticized the degree to which stockholders reap the benefits from companies' gains and the complex and often controversial nature of corporate power and its implications for our world. 
+
+!?[The Corporation - the trailer](https://youtu.be/exY4u0XsEGI?si=FbrdIyXN3xnlVr7S)
+
+Making a distinction between stockholders and stakeholders is essential as we reflect on the good, the bad, and the ugly, in a business context. From shareholders seeking financial returns to employees striving for meaningful work, and communities advocating for social responsibility, each stakeholder plays a vital role in shaping the reputation and success of a company.   
+
+#### Stockholders
+
+Stockholders are people who own a part of a company by buying its stocks. They can earn money when the company does well, usually through dividends or by selling their stocks for more than they paid for them. Stockholders are also called shareholders, as they own shares of stock. 
+
+> Understanding the impact of a business decision on the stockholder and various other stakeholders is critical to the ethical conduct of business. Indeed, prioritizing the claims of various stakeholders in the company is one of the most challenging tasks business professionals face. Considering only stockholders can often result in unethical decisions; the impact on all stakeholders must be considered and rationally assessed.
+>
+> Managers do sometimes focus predominantly on stockholders, especially those holding the largest number of shares, because these powerful individuals and groups can influence whether managers keep their jobs or are dismissed (e.g., when they are held accountable for the company’s missing projected profit goals). And many believe the sole purpose of a business is, in fact, to maximize stockholders’ short-term profits. However, considering only stockholders and short-term impacts on them is one of the most common errors business managers make. It is often in the long-term interests of a business *not* to accommodate stockowners alone but rather to take into account a broad array of stakeholders and the long-term and short-term consequences for a course of action.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Stakeholders
+
+Stakeholders are individuals, groups, or organizations that have an interest or are affected by the actions and decisions of a company. They include a wide range of parties, such as employees, customers, suppliers, shareholders, communities, government agencies, and advocacy groups. Each stakeholder group has its own interests, expectations, and concerns related to the company's activities, and effective stakeholder management involves identifying, understanding, and addressing these interests to create positive relationships and outcomes.
+
+Some ethical thinkers distinguish shareholder capitalism from what is called stakeholder capitalism, two contrasting approaches to corporate governance and business management. 
+
+**Shareholder capitalism**, traditionally dominant in many Western economies, prioritizes the interests of shareholders above all else, aiming to maximize shareholder value and returns on investment. This model often leads to a focus on short-term profits, cost-cutting measures, and shareholder-centric decision-making, sometimes at the expense of other stakeholders' interests, such as employees, customers, and communities. 
+
+In contrast, **stakeholder capitalism** advocates for a broader view of corporate purpose, recognizing the importance of balancing the interests of all stakeholders, including employees, customers, suppliers, communities, and shareholders. This approach emphasizes long-term sustainability, ethical conduct, and social responsibility, viewing business success as intertwined with the well-being of society and the environment. As debates over corporate governance and social impact continue to evolve, understanding the differences between shareholder and stakeholder capitalism is essential for shaping the future of business and economic systems.
+
+[What is Stakeholder Capitalism? Here's a Definition, and 4 Ways to Make It a Reality](https://youtu.be/z4Kdwbdyye0?si=b_T8zTz8yEaLd3ov)
+
+Effective stakeholder management is crucial for the long-term success and sustainability of a company for several reasons. Firstly, stakeholders can significantly impact a company's reputation, brand image, and social license to operate. Positive relationships with stakeholders can enhance trust, loyalty, and goodwill, while negative interactions can lead to reputational damage, boycotts, and regulatory scrutiny. By actively engaging with stakeholders and addressing their concerns, companies can build stronger relationships, mitigate risks, and enhance their reputation in the marketplace.
+
+Secondly, stakeholders often possess valuable knowledge, resources, and expertise that can benefit a company's operations, innovation, and decision-making processes. Employees, for example, may offer insights into workplace culture and productivity, while customers can provide feedback on products and services. By involving stakeholders in decision-making and co-creating solutions, companies can tap into diverse perspectives and harness collective intelligence to drive innovation and improve performance.
+
+Thirdly, effective stakeholder management is essential for ensuring alignment between a company's business objectives and societal expectations. In today's interconnected world, companies are increasingly expected to demonstrate social responsibility, environmental stewardship, and ethical conduct. By listening to stakeholders and incorporating their feedback into business strategies, companies can better address societal needs and expectations, enhance their social license to operate, and contribute to sustainable development.
+
+Effective stakeholder management is a strategic imperative for companies seeking to build trust, mitigate risks, drive innovation, and create long-term value for all stakeholders. By recognizing the importance of stakeholder relationships and adopting inclusive and transparent approaches to engagement, companies can foster mutual understanding, collaboration, and shared value, ultimately contributing to their own success and the well-being of society as a whole.
+
+#### Goodwill
+
+> The positive feeling stakeholders have for any particular company is called **goodwill**, which is an important component of almost any business entity, even though it is not directly attributable to the company’s assets and liabilities. Among other intangible assets, goodwill might include the worth of a business’s reputation, the value of its brand name, the intellectual capital and attitude of its workforce, and the loyalty of its established customer base. Even being socially responsible generates goodwill. The ethical behavior of managers will have a positive influence on the value of each of those components. Goodwill cannot be earned or created in a short time, but it can be the key to success and profitability.
+>
+> A company’s name, its corporate logo, and its trademark will necessarily increase in value as stakeholders view that company in a more favorable light. A good reputation is essential for success in the modern business world, and with information about the company and its actions readily available via mass media and the Internet (e.g., on public rating sites such as Yelp), management’s values are always subject to scrutiny and open debate. These values affect the environment outside and inside the company. The **corporate culture**, for instance, consists of shared beliefs, values, and behaviors that create the internal or organizational context within which managers and employees interact. Practicing ethical behavior at all levels—from CEO to upper and middle management to general employees—helps cultivate an ethical corporate culture and ethical employee relations.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+### 05.04 | Corporate social responsibility and doing well by doing good
+
+In recent years, many businesses have recognized the importance of integrating corporate social responsibility (CSR) into their values and practices, realizing that doing well by doing good is not just a moral imperative but also a strategic advantage. [Corporate Social Responsibility (CSR)](https://www.investopedia.com/terms/t/triple-bottom-line.asp) is the idea that businesses have a duty to serve society as well as their bottom line. It encompasses efforts to create positive social and environmental impact through business activities. Companies like Patagonia and Ben & Jerry's are often cited as examples for their commitment to sustainability, community engagement, and social justice. 
+
+!?[The Business Case for Corporate Social Responsibility](https://youtu.be/ZoKihFLCY0s?si=aMPJAhfcqlPT2ddd)
+
+From multinational corporations to startups, companies are adopting sustainable practices, philanthropic initiatives, and ethical supply chain management. One notable example is Patagonia, a renowned outdoor apparel company, which has consistently demonstrated its commitment to environmental sustainability through initiatives like the *1% for the Planet* program. In a counter-intuitive move that expresses their values, Patagonia tells consumers we should buy fewer clothes and demand that they are produced in sustainable ways through our collective power as purchasers. 
+
+> Everything we make has an impact on people and the planet. The clothing industry is one of the worst offenders of labor abuses and the pollution driving the climate crisis, but it doesn’t have to be this way. You have the power to change the way clothes are made. Buy Less, Demand More.
+
+!?[Buy less, demand more](https://youtu.be/PxuB8PoIBj0?si=t32CMtT-uAWpp0-Y)
+
+> Sustainability isn't just about being green; it's about ensuring a future for generations to come. 
+>
+> -- Yvon Chouinard, Founder of Patagonia
+
+Patagonia shares about their sustainability efforts and the progress they have made toward their goals of producing even more products that are produced in Fair Trade Certified factories and their efforts toward more organically produced fibers through their partnerships with farmers. 
+
+![Patagonia sustainability](https://innovatelearning.s3.amazonaws.com/patagonia.jpeg)
+
+
+
+Another company with vibrant aspirations toward lower carbon emissions and a reduced, negative environmental impact is Apple. In 2020, Apple made public commitments to "bring its entire carbon footprint to net zero by 2030 — through innovations in materials, clean energy, low-carbon shipping, and restoring natural ecosystems." In 2023, Apple shared about their progress via a playful video in which they talk about their organization's sustainability goals. In this video, they share how Mother Nature is now asking Apple for an update, saying that it had better contain good news. 
+
+!?[2030 Status | Mother Nature | Apple](https://youtu.be/QNv9PRDIhes?si=KQpc9qQMqs41dmTU)
+
+Corporate Social Responsibility (CSR) is often talked about in terms of the three Ps: People, Planet, Profit. John Elkington, a British sustainability expert and management consultant, [came up with the expression "triple bottom line"](https://hbr.org/2018/06/25-years-ago-i-coined-the-phrase-triple-bottom-line-heres-why-im-giving-up-on-it) to assess how well companies were doing, not just in terms of their financial performance. CSR encompasses a multifaceted approach to business ethics, with each *P* representing a distinct aspect of CSR, highlighting the interconnectedness between business success and societal well-being.
+
+#### People 
+
+At the heart of CSR lies a commitment to people, encompassing employees, customers, communities, and broader society. Businesses that prioritize the *People* aspect of CSR prioritize the well-being and empowerment of their stakeholders. For example, companies may invest in employee development programs, promote diversity and inclusion in the workplace, and support community initiatives aimed at addressing social challenges. 
+
+*Tegu's commitment to address the homelessness problem in Honduras*
+
+Toy business founders Cindy and Chris Haughey started [Tegu](https://tegu.com) to address the problems faced by people in Honduras. The country faces a high unemployment rate, which has contributed to a significant homeless population in Honduras. Tegu is a for-profit business with a mission to provide sustainable income opportunities while combating human trafficking, exploitation, and poverty.
+
+Tegu's core business revolves around producing high-quality wooden toys using sustainably sourced materials. By establishing a manufacturing facility in Honduras, https://tegu.com creates job opportunities for local residents, empowering them with dignified work and a stable income. Through its employment practices, Tegu aims to address the root causes of homelessness and poverty by providing individuals with the means to support themselves and their families.
+
+![Colorful Tegu blocks on the ground in front of a child's feet](https://innovatelearning.s3.amazonaws.com/bg-three.png.webp)
+
+Chis Haughey [shared on the Ending Human Trafficking Podcast](https://endinghumantrafficking.org/10/) with hosts Dr. Sandie Morgan and Dr. Dave Stachowiak: 
+
+> Tegu does have a larger vision than simply running a profitable company, making some cool toys. The idea really started with experience that I had in Honduras with a ministry in home for street boys. There’s a pretty big street kid population in Honduras and specifically in Tegucigalpa, the capital city. And my initial connection was in 2004 with that home. It led to some relationships being formed as the missionaries working there. Such that when I was back on business in 2006, an idea came up to try and start a for-profit business that would begin to generate jobs and extend the mission of the street boys home so that those boys coming out of the home and others like them would actually have some economic opportunities for themselves to earn a living wage at a purposeful and well-paying job, which is a real need in Honduras. So it really kind of started with an awareness that there are serious social needs. There’s a lot of poverty... one of the biggest impacts that you can have on the society is creating an entrepreneurial business that over time will grow and will employ people as opposed to poor Hondurans without jobs, looking for other means of sustained sustainment for themselves.
+
+Tegu goes beyond job creation by actively collaborating with community organizations and partners to address broader social issues in Honduras. The company works closely with local nonprofits, government agencies, and grassroots initiatives to support education, healthcare, and community development initiatives. By leveraging its resources and network, Tegu contributes to building stronger and more resilient communities, tackling systemic challenges such as poverty, homelessness, and exploitation.
+
+#### Planet
+
+The *Planet* aspect of CSR focuses on environmental sustainability and stewardship. Businesses that recognize the importance of minimizing their environmental footprint, conserving natural resources, and mitigating climate change, are emblematic of sustainable thinking. Companies may adopt renewable energy sources, implement waste reduction strategies, and invest in environmenaly-friendly products and packaging. The [Business as Mission (BAM) organization stresses Creation Care](https://www.businessasmission.ca/blog/stewarding-creation-through-business) as one of four bottom-lines that they stress in their work. 
+
+*Chop Valve's commitment to sustainability and innovation*
+
+When was the last time you went out for a meal that involved chop sticks? Instead of having used chop sticks go into landfills, Chop Value has other idea. They share on their website about how they are able to [recycle chopsticks from businesses](https://chopvalue.com/pages/chopstickplus), produce new products in [local micro factories](https://chopvalue.com/pages/locations), and design beautiful products: 
+
+>Our resource is what others may view as waste - that means we don’t take virgin materials from the environment. Every chopstick is perfect, slender, and defect-free, making them ideal to develop an
+>innovative engineered material. When designing products, our mindset has been circularity and longevity. This allows us to minimize our environmental impact while creating sustainable solutions engineered to last.
+
+In the industrial manufacturing sector, Chop Value provides us with examples of what it looks like when a company has an unwavering commitment to sustainability and innovation. In Vancouver, alone, more than 100 million chopsticks are thrown out every day. To make each of these chopsticks, they must be processed, harvested, and transported to the place where they will be consumed. 
+
+!?[100m chopsticks recycles... and counting!](https://youtu.be/NB1AQaeQORI?si=e5NZ6RW60w-Zd5jT)
+
+Chop Value not only addresses the issue of waste in their business model, but also fosters a culture of sustainability and innovation. They reminds us that every resource, no matter how seemingly insignificant, holds the potential for positive impact when approached with creativity and purpose. 
+
+#### Profit 
+
+While CSR emphasizes social and environmental responsibility, businesses must also maintain profitability to ensure long-term viability and sustainability. The *Profit* aspect of CSR acknowledges that financial success is essential for businesses to invest in social and environmental initiatives effectively. However, businesses that prioritize profit over people and the planet risk compromising their ethical integrity and long-term success. It is crucial for businesses to strike a balance between profit and purpose, recognizing that ethical business practices can drive profitability while creating positive social and environmental impact. 
+
+*TOMS Shoes commitment to business being a force to be used for good*
+
+Starting out, TOMS Shoes was known for their uncommon practice of giving a pair of shoes away, each time a pair was purchased by a consumer. Founder Blake Mycoskie traveled to Argentina and discovered that many children were unable to go to school, due to not being able to afford shoes to wear. When he returned from the trip, he came up with the idea to sell shoes, which would in turn allow for a second pair of shoes to be given away. If someone bought a pair today, another pair would be given away tomorrow. [Tomorrow's shoes](https://youtu.be/7gsO3PQXhyY?si=oUEm1OUGDSslJc8X) wouldn't fit, so founder Blake Mycoskie shortened the brand's iconic name to TOMS. 
+
+!?[TOMS founder on one-for-one method: I was bad at math](https://youtu.be/7gsO3PQXhyY?si=oUEm1OUGDSslJc8X)
+
+Much has changed since the company's founding in 2006, though the fundamental mission has remained the same. Amy Smith, TOMS Chief Brand and Impact Officer, describes the importance of this core practice in establishing the values that still guide them today. [She explains](https://www.toms.com/us/impact/report.html) how their mission to improve lives has continued since the start, but that it has extended to include a focus on mental health in recent years. 
+
+>Now what it means to "improve lives" has evolved for us. As the pioneers of the One for One® model, we began matching each pair of shoes purchased with a donation of a pair of shoes. A catalyst for the way a great number of brands began to approach business, our example set into motion the importance of improving human lives—socially, environmentally and internally. But mostly, our mission begged us to look inwards at ways we could stretch our impact further and even more effectively.
+>
+>Enter mental health. While the world affairs of 2020 put mental health under a direct spotlight, it has been a neglected part of human health for much longer. The mental health crisis touches everyone—with 1 in 8 people in the world experiencing a mental health challenge; and ripples of those mental health challenges impacting all of us.
+>
+>At TOMS, we believe every single individual deserves access to quality, affirming mental health care. It's why TOMS has evolved its strategy to give a third of our profits to help support organizations making meaningful mental health strides in their communities.
+
+TOMS Shoes has masterfully integrated social and environmental impact into its business model while maintaining profitability through several key strategies. While this charitable aspect is central to TOMS' brand identity and mission, it also serves as a powerful marketing tool, attracting socially conscious consumers who are willing to pay a premium for products with a purpose. This approach not only drives sales but also enhances brand loyalty and strengthens customer relationships, ultimately contributing to sustained profitability.
+
+TOMS has also diversified its product offerings beyond shoes to include eyewear, apparel, and accessories, allowing the company to reach new markets and appeal to a broader customer base. By expanding its product line while maintaining its commitment to social impact, TOMS has been able to drive revenue growth and increase market share, further bolstering its financial sustainability. They have also prioritized operational efficiency and cost management to ensure that its social and environmental initiatives remain financially viable. The company has implemented supply chain transparency and responsible sourcing practices to minimize costs and reduce environmental impact, while also investing in innovation and technology to streamline operations and improve productivity. 
+
+TOMS Shoes has demonstrated that it is possible to maintain profitability while also prioritizing social and environmental impact. Through its innovative business model, diverse product offerings, operational efficiency, and strategic partnerships, TOMS has successfully balanced purpose and profit, setting a powerful example for businesses seeking to create positive change in the world.
+
+### 05.05 | Ethical leadership 
+
+Leaders who embody and promote ethical behavior through their actions and decisions can make a tremendous impact in organizations, in terms of ultimately getting more people to do the right thing, when faced with difficult choices. Ethical leaders are instrumental in shaping an organization's culture and ethical standards. They inspire trust and respect among employees and stakeholders by being transparent, fair, and responsible. Microsoft's CEO, Satya Nadella, emphasizes the importance of fostering a culture of empathy, diversity, and inclusion, where ethical considerations are woven into the fabric of decision-making processes.
+
+> The culture is absolutely core to everything we do at Microsoft. We have to be able to be great listeners, great communicators, and be able to bring out the best in people.
+>
+> -- Satya Nadella
+
+Ethical leaders cultivate organizational cultures that prioritize ethical conduct, encourage open communication, and empower employees to speak up against wrongdoing. Ethical leadership in the business world transcends borders, cultures, and societal norms, embodying principles of integrity, inclusivity, and social responsibility. Leaders from historically marginalized populations often bring unique perspectives and transformative approaches to ethical leadership, contributing significantly to their organizations and communities. Here, we explore a few exemplary figures who have made a notable impact through their ethical leadership.
+
+#### Indra Nooyi - Purposeful leadership
+
+Indra Nooyi, the former CEO of PepsiCo, stands out as an example of ethical leadership. Born in India, Nooyi became one of the most powerful women in the business world, leading PepsiCo with a blend of strategic foresight and deep ethical commitment. Under her leadership, PepsiCo not only saw remarkable financial growth but also took significant strides in sustainability and health-conscious product offerings. 
+
+> Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader. 
+>
+> -- Indra Nooyi
+
+Nooyi's leadership style was characterized by her focus on [*Performance with Purpose*](https://www.forbes.com/sites/grantfreeland/2020/02/24/indra-nooyis-passions-people-performance--purpose-at-pepsico-and-beyond/?sh=dad790c457c6), aiming to leave a positive imprint on society and the environment while achieving business success. She spearheaded initiatives aimed at minimizing the company's ecological footprint, such as redesigning packaging materials to lessen waste, making strides in water conservation, transitioning to renewable energy sources, and emphasizing recycling practices. By 2020, all company-operated facilities in the U.S. were powered by 100% renewable electricity. 
+
+![Indra Nooyi, smiles at camera](https://innovatelearning.s3.amazonaws.com/nooyi.webp)
+
+Another key aspect of *Performance with Purpose* was fostering a corporate culture that encouraged employee loyalty and retention. For instance, Nooyi personally reached out to the families of her executive team, writing letters to their parents and even visiting their homes. This unique approach was aimed at forging a deeper, more personal connection between the company and its employees, underscoring the human aspect of corporate leadership. Nooyi's journey reflects the challenges and triumphs of leading ethically as a woman of color in a highly competitive industry.
+
+#### Rosalind Brewer - Diversity and inclusion
+
+Rosalind Brewer, the former CEO of Walgreens Boots Alliance and former COO of Starbucks, is renowned for her commitment to diversity, equity, and inclusion (DEI). As one of the few African American women who has held leadership positions in Fortune 500 companies, Brewer has consistently advocated for racial equality and diversity in the corporate sector. Her leadership was particularly evident during her time at Starbucks, where she played a crucial role in initiating racial bias training for employees, showcasing her commitment to creating an inclusive and ethical corporate culture. 
+
+![Rosalind Brewer looks off camera and smiles](https://innovatelearning.s3.amazonaws.com/brewer.jpeg)
+
+In an [interview for Stanford Graduate School of Business View from the Top](https://www.gsb.stanford.edu/insights/rosalind-brewer-find-your-voice-dont-be-silent), Brewer shared a key turning point for her in finding her voice. 
+
+> The stress was so high of me trying to be two different people. I could not bear it anymore, I was not myself, and so I just reconciled that I’ve got to bring my whole self to work. And the more that I was like who I am in my day, in my personal life, at work, actually work took off.
+>
+> -- Rosalind Brewer
+
+Rosalind Brewer has achieved several groundbreaking firsts, including her roles as CEO of Walgreens Boots Alliance, Group President and COO of Starbucks, and CEO of Sam's Club. Her trailblazing journey has made her one of the most distinguished figures in corporate America, especially [noted by USA Today as a leading woman and one of the most influential Black female executives](https://www.usatoday.com/story/news/2019/02/04/amazon-names-starbucks-exec-rosalind-brewer-first-black-board-member/2769779002/). Both Forbes and Fortune magazines have celebrated her, naming Brewer among the ranks of the most powerful women in the business world.
+
+#### Paul Polman - Sustainable environmental impact
+
+Another prominent figure known for ethical leadership in their career is Paul Polman, former CEO of Unilever. Polman has been widely recognized for integrating sustainability and ethical practices into the core of Unilever's business strategy. Under his leadership from 2009 to 2019, Unilever set ambitious goals to reduce its environmental footprint and increase its positive social impact through the Unilever Sustainable Living Plan. This plan aimed at decoupling the company's growth from its environmental impact, while increasing its positive social benefits.
+
+![Paul Polman smiles at camera](https://innovatelearning.s3.amazonaws.com/paul-polman-headshot.jpeg)
+
+Polman's advocacy for sustainable business practices extended beyond Unilever, as he actively engaged in global discussions on climate change, sustainable development, and responsible capitalism. During his tenure as CEO of Unilever from 2009 to 2019, Paul Polman ambitiously aimed to unlink the company's expansion from its environmental impact while amplifying its positive social contributions through the [Unilever Sustainable Living Plan](https://www.unilever.com/planet-and-society/). Under Polman's guidance, Unilever not only surpassed its competitors in terms of returns but also achieved a performance more than twice that of the FTSE index. Recognizing his exceptional leadership and impact, the Financial Times hailed Polman as one of the most outstanding CEOs of the past decade in 2018.
+
+> Climate change is sometimes misunderstood about being changes in the weather. In reality it is about changes in our very way of life. 
+>
+> -- Paul Polman
+
+In 2019, venturing beyond Unilever, Polman, alongside Jeff Seabright (Unilever's former Chief Sustainability Officer) and Kees Kruythoff, launched IMAGINE. This innovative organization is dedicated to assisting businesses in tackling poverty and inequality, as well as combating the urgent threat of climate change. Polman has actively engaged in venture capital, investing in a range of high-profile startups focused on climate solutions and mission-driven objectives. 
+
+Through his relentless advocacy for environmental sustainability, social equity, and responsible business practices, Polman has emerged as a leading global advocate for [conscientious capitalism](https://www.investopedia.com/terms/c/conscious-capitalism.asp) and sustainable development. He has been a vocal supporter of the United Nations Sustainable Development Goals (SDGs) and has encouraged other business leaders to prioritize long-term sustainability over short-term profits.
+
+### 05.06 | The United Nations Sustainable Development Goals (SDGs)
+
+Many businesses have embraced the [United Nations Sustainable Development Goals (SDGs)](https://www.un.org/sustainabledevelopment/) as a guiding framework for their CSR initiatives. These 17 interlinked goals address global challenges such as poverty, inequality, climate change, and environmental degradation. Companies align their activities with specific SDGs, demonstrating a commitment to contributing to broader societal progress.
+
+![SDGs Poster: No poverty, zero hunger, good health and well being, quality education, gender equality, clean water and sanitation, affordability and clean energy, decent work and economic growth, industry, innovation, and infrastructure, reduced inequalities, etc.](https://innovatelearning.s3.amazonaws.com/E_SDG_poster_UN_emblem_PRINT%202020.jpg)
+
+By integrating the United Nations Sustainable Development Goals into their CSR strategies, businesses play a vital role in advancing sustainable development while simultaneously driving value for shareholders and stakeholders alike. 
+
+#### Sustainable transportation business examples
+
+Let's look at some examples of how BYD is integrating the SDGs into their goals, in the area of transportation. [Sustainable transport](https://sdgs.un.org/sites/default/files/2021-10/Transportation%20Report%202021_FullReport_Digital.pdf) plays a pivotal role in addressing global challenges such as climate change, air pollution, [ending energy poverty](https://www.un.org/en/climatechange/damilola-ogunbiyi-ending-energy-poverty), and urban congestion while contributing to the attainment of several United Nations Sustainable Development Goals (SDGs). From electric vehicles to public transportation initiatives, businesses and governments are driving towards a more sustainable future through innovative solutions in transportation.
+
+*SDG 7: Affordable and clean energy*
+
+Sustainable transport aligns closely with [SDG 7](https://sdgs.un.org/goals/goal7), which aims to ensure access to affordable, reliable, sustainable, and modern energy for all. Electric vehicles (EVs) have emerged as a key component of sustainable transportation, offering an environmentally friendly alternative to traditional fossil fuel-powered vehicles. Companies like Tesla, Nissan, and BMW are leading the charge in the EV market, developing innovative technologies and infrastructure to accelerate the transition towards clean energy transportation.
+
+- **NIO Inc.:** NIO is a Chinese electric vehicle manufacturer known for its innovative EV designs and battery-swapping technology. By providing affordable electric vehicles and expanding access to clean energy transportation options, NIO contributes to reducing carbon emissions and promoting sustainable mobility.
+
+- **ChargePoint:** ChargePoint operates one of the world's largest networks of electric vehicle charging stations. By investing in charging infrastructure and promoting electric vehicle adoption, ChargePoint supports the transition to clean energy transportation, making it more accessible and convenient for consumers and businesses alike.
+
+>We have the solutions to make sure that everyone gets adequate power in a clean way. We just need to
+>implement them now.
+>
+>-- Damilola Ogunbiyi, CEO of Sustainable Energy for All
+
+*SDG 11: Sustainable cities and communities*
+
+Sustainable transport is essential for achieving [SDG 11](https://sdgs.un.org/goals/goal11), which aims to make cities and human settlements inclusive, safe, resilient, and sustainable. Public transportation systems, including buses, trains, and metros, play a critical role in promoting accessible and efficient mobility while reducing greenhouse gas emissions and traffic congestion. Cities like Curitiba, Brazil, and Copenhagen, Denmark, have implemented innovative urban planning strategies and public transit systems that prioritize sustainability and improve quality of life for residents.
+
+- **Uber Technologies Inc.:** Uber, a global ride-hailing company, plays a significant role in promoting sustainable urban mobility. Through initiatives such as UberPool and UberGreen, which encourage carpooling and the use of electric vehicles, Uber contributes to reducing traffic congestion, improving air quality, and enhancing the overall sustainability of cities.
+
+- **Citymapper:** Citymapper is a mobile app that provides users with real-time information on public transportation options, including buses, trains, and bicycles. By empowering individuals to make informed choices about their transportation modes, Citymapper promotes sustainable urban mobility and fosters the development of livable, resilient cities.
+
+> *How do we slow down what matters the most and speed up what benefits change and progress? We don’t want to impede progress, but we are seeking reconnection to ourselves, to each other, and with the world.*
+>
+> -- John Maeda, Microsoft Vice President of Design and Artificial Intelligence
+
+*SDG 13: Climate action*
+
+Sustainable transport is a key component of [SDG 13](https://sdgs.un.org/goals/goal13), which calls for urgent action to combat climate change and its impacts. By transitioning to low-emission vehicles, investing in public transportation infrastructure, and promoting active modes of transport such as walking and cycling, businesses and governments can significantly reduce carbon emissions and mitigate the effects of climate change. 
+
+- **Proterra Inc.:** Proterra designs and manufactures zero-emission electric buses for public transit agencies and commercial fleets. By replacing diesel buses with electric alternatives, Proterra helps mitigate climate change, reduce air pollution, and advance the goals of SDG 13 by promoting clean transportation solutions.
+
+- **Bird Rides Inc.:** Bird is a micro-mobility company that offers electric scooters and bicycles for short-distance urban travel. By providing environmentally friendly alternatives to car travel, Bird contributes to reducing greenhouse gas emissions and combating climate change while promoting active transportation and improving urban air quality.
+
+Initiatives like [the Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement) and the [Sustainable Mobility for All](https://www.sum4all.org/global-roadmap-action) (SuM4All) partnership demonstrate global efforts to promote sustainable transportation as a crucial element of climate action.
+
+> There is only one possible future for humanity and that is a sustainable one. 
+>
+> -- Patricia Espinosa, Executive Secretary of the UNFCCC
+
+These businesses exemplify how sustainable transportation initiatives contribute to achieving multiple SDGs simultaneously. By providing affordable and clean energy transportation options, promoting sustainable urban mobility, and advancing climate action, these companies play a crucial role in building more resilient, inclusive, and sustainable communities for future generations. Through sustainable transport initiatives, businesses, governments, and non-profit organizations are not only advancing the goals of sustainability but also fostering inclusive, resilient, and thriving communities for generations to come.
+
+#### Equity and inclusion business examples
+
+In pursuit of a more equitable and inclusive society, it is imperative to address interconnected challenges related to gender equality, decent work, and reduced inequalities. Sustainable Development Goals (SDGs) 5, 8, and 10 collectively underscore the importance of creating empowering and inclusive workplaces where all individuals have equal opportunities to thrive. Through concerted efforts to promote gender equality, foster decent work conditions, and reduce disparities, businesses play a pivotal role in advancing social progress and economic prosperity for all. Let's explore an example from Dr. Iman Abuzeid, a Black female entrepreneur and co-founder of a $1 billion startup aimed at addressing the critical national nursing shortage. 
+
+!?[Black female entrepreneur co-founds $1 billion company](https://youtu.be/7m1tvsZfwo0?si=eqbZ_sUT-lgjqUjK)
+
+*SDG 5: Gender Equality*
+
+[SDG 5](https://sdgs.un.org/goals/goal5) aims to achieve gender equality and empower all women and girls, recognizing their fundamental rights and opportunities in all spheres of life. This goal encompasses targets related to ending discrimination and violence against women, ensuring equal access to education and employment, and promoting women's participation in decision-making processes.
+
+- **The Coca-Cola Company:** Coca-Cola has implemented various initiatives to promote gender equality and empower women in its workforce and supply chain. The company's [5by20 program](https://www.coca-colacompany.com/content/dam/company/us/en/policies/pdf/sustainability/coca-cola-5by20-report-march-2021.pdf) aims to economically empower 5 million women entrepreneurs by 2020 through business skills training, access to financing, and market linkages. Additionally, Coca-Cola has committed to achieving gender parity in leadership positions and fostering an inclusive work culture where all employees, regardless of gender, can thrive and contribute to the company's success.
+
+- **Accenture:** Accenture, a global professional services company, has prioritized gender equality and diversity in its workforce and corporate practices. Through initiatives such as the [Getting to Equal](https://www.accenture.com/us-en/about/inclusion-diversity/gender-equality) campaign, Accenture advocates for gender-balanced leadership, pay equity, and inclusive workplace policies. The company also provides mentorship and career development opportunities for women, supporting their advancement into leadership roles and ensuring a more equitable representation at all levels of the organization.
+
+> Being honest about where you stand can be a hard—yet crucial—first step toward becoming a more inclusive company. 
+>
+> -- Chad Jerdee, General Counsel & Chief Compliance Officer, Accenture
+
+*SDG 8: Decent work and economic growth*
+
+[SDG 8](https://sdgs.un.org/goals/goal8) focuses on promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all. This goal encompasses targets related to creating quality jobs, ensuring fair wages and safe working conditions, and fostering entrepreneurship and innovation. 
+
+- **Danone:** Danone, a multinational food and beverage company, embraces the principles of decent work and economic growth in its operations worldwide. The company prioritizes employee engagement, diversity, and inclusion, fostering a culture of respect, collaboration, and innovation. Danone also invests in skills development and training programs for its employees, empowering them to contribute meaningfully to the company's success while promoting lifelong learning and professional growth.
+- **Salesforce:** Salesforce, a leading cloud-based software company, prioritizes decent work and economic growth through its commitment to employee well-being, diversity, and social responsibility. Through initiatives such as the [Equality for All](https://www.salesforce.com/company/equality/) program, Salesforce promotes equal opportunities for underrepresented groups, fosters inclusive workplaces, and advocates for fair labor practices across their global operations. 
+
+> We believe the business of business is improving the state of the world. It's not just about making money; it's also about doing good. 
+>
+> -- Marc Benioff, Salesforce CEO
+
+*SDG 10: Reduced inequalities*
+
+SDG 10 aims to reduce inequalities within and among countries, addressing disparities based on income, gender, age, disability, race, ethnicity, origin, religion, or economic status. This goal encompasses targets related to social protection, fiscal policy, labor rights, and inclusive social and economic policies.
+
+1. **Microsoft:** Microsoft is committed to reducing inequalities through its philanthropic efforts and corporate initiatives. The company's "DigiGirlz" program provides opportunities for girls and young women to explore careers in technology and gain digital skills, addressing gender disparities in the STEM fields. Additionally, Microsoft's accessibility initiatives focus on designing inclusive products and services that empower people with disabilities to participate fully in society and the economy, reducing barriers and promoting equal opportunities for all.
+2. **Unilever:** Unilever, a multinational consumer goods company, integrates social inclusion and equity principles into its business practices and sustainability agenda. Through initiatives such as the "Unilever Sustainable Living Plan," the company aims to improve livelihoods, enhance access to basic necessities, and promote economic inclusion for marginalized communities. Unilever also prioritizes diversity and inclusion in its workforce and supply chain, ensuring fair representation and opportunities for advancement for people from diverse backgrounds and underrepresented groups.
+
+> [2020] has undoubtedly widened the social divide, and decisive and collective action is needed to build a society that helps to improve livelihoods, embraces diversity, nurtures talent, and offers opportunities for everyone.
+>
+> -- Alan Jope, Unilever CEO
+
+By embracing the principles of gender equality, decent work, and reduced inequalities, businesses can contribute to building more inclusive and equitable societies while driving sustainable economic growth and prosperity. Through strategic initiatives, partnerships, and advocacy efforts, companies have the opportunity to create empowering workplaces, foster diversity and inclusion, and address systemic barriers to social and economic advancement, ultimately advancing the collective goals of SDGs 5, 8, and 10.
+
+*Where are we now?*
+
+We are more than halfway through the timeframe in which the goals were meant to be attained. How do things look for us in working together to achieving these goals? Investments are needed in jobs, energy transitions, food sourcing, and in global solidarity, overall. 
+
+!?[What Will it Take to Achieve the Sustainable Development Goals?](https://youtu.be/enGJyhu6Xr0?si=TYTUzXZO5XpXdNWg)
+
+By aligning with the United Nations Sustainable Development Goals, these companies demonstrate the pivotal role of business in driving positive societal impact and advancing global sustainability objectives. Through diverse voices and proactive initiatives, businesses contribute to a more equitable, resilient, and sustainable future for all.
+
+### 05.07 Foster professional ethics in your career
+
+People often remark when taking this class their surprise that the individuals who worked for the businesses that have become well known for their scandals did not do more to protect their own integrity, while doing right by the company and its stakeholders. This section explores ways that you might foster professional ethics in your career, starting with how to increase your likelihood of finding a company that aligns with your values, the role that professional associations can play in shaping the actions of their members, and how your purchases reflect your ethics and integrity. 
+
+*The following is a section of Business Ethics, by Stephen M. Byers and Kurt Stanberry, which may be accessed for free on the [Business Ethics website](https://openstax.org/books/business-ethics/pages/1-introduction).* 
+
+#### Be a Professional with integrity 
+
+> Ethical professionals work for companies whose values align with their own. How do you evaluate a company to see whether it is a good occupational fit and one that will allow you to live your ethical values every day?
+
+**Finding the right fit**
+
+> Ethics has become a major consideration for young people in their selection of work and career. The following observation about young British workers applies to their counterparts in the United States, as well: “There’s a quiet revolution happening. . . but it’s not about pay, hours or contracts. It’s a coup d’état led by the nation’s young, politically engaged jobseekers who demand employers enshrine values and ethics in their business model, not just profit.”
+>
+> Many job seekers want to feel that what they are doing is not just making money but making a difference, that is, contributing to the company in unique ways that reflect their core values, conscience, and personality. They believe an individual has worth beyond his or her immediate work or position. Many modern companies thus try to give greater weight to the human cost of decisions and employee happiness. They know that, according to studies, employees in “companies that work to build and maintain ethical workplace cultures are more financially successful and have more motivated, productive employees.” The decision whether to transfer someone from Boston to Salt Lake City, for instance, would now likely include the employee from the beginning and consider the impact on family members and the employee’s future, in addition to the needs of the company.
+>
+> This was not always the case, and there are several reasons for the change. The first is that satisfied employees are more productive and feel greater commitment to the organization. Second, there are more options for job seekers, which gives them more freedom to choose a company for which to work.
+>
+> “When we graduate from school, or whenever we are thinking about changing jobs, we are matching three things in deciding on our “vocation”—the job market (Are there jobs and opportunities?), our skills (Do I have the right skills to succeed in a particular job?) and our passions or beliefs (What do I want to do?) [with the concept that] worthwhile work can be found in working in a corporate culture that respects its workers and their personal lives. You may work where management is supportive and workers thrive and advance, but you can also find yourself working in a toxic environment where human dignity is torn down every day and responding to one’s family commitments is regarded as weaknesses.”
+>
+> Many business journals report annually on how highly employees rate their work places ([Figure 11.5](https://openstax.org/books/business-ethics/pages/11-3-becoming-an-ethical-professional#OSX_Ethics_11_03_EmpSatis)). For example, you can consult *Fortune’s* annual list of “100 Best Companies to Work For,” which you can search by such factors as diversity, compensation, and paid time off. You can also consult specialized lists such as *Forbes’* “100 Best Workplaces for Women” and *Black Enterprise’s* “50 Best Companies for Diversity.”
+
+![This bar chart is titled “Best U.S. Employers as Ranked by Employees.” The left side lists employers and the bar extends to the right, with a ranking for each company out of 10. From the best ranked company down, the chart shows Costco with 9.58, Google with 9.57, REI with 9.53, Memorial Hermann Health System with 9.45, United States Automobile Association with 9.42, MD Anderson Cancer Center with 9.40, Penn Medicine with 9.34, Mayo Clinic with 9.34, City of Austin with 9.31, and Wegmans Food Markets with 9.30. attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license](https://openstax.org/apps/archive/20231218.154301/resources/455140d29ac724e82256d46c3375bc31b2e15aa7)
+
+***Figure** **11.5** With insurance coverage for part-time workers, higher-than-industry-average pay, and an overall employee satisfaction rating of 9.58 of a possible 10, Costco is often rated the best large employer to work for by Forbes and Statista. It is not just a generous employer; it is efficient, too, operating on a profit margin that meets the norm in the retail grocery business.  (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)*
+
+> A third reason more companies are considering what truly makes employees happy is that even more than loyalty, employees appear to value the freedom and responsibility to act as moral agents in their own lives. A *moral agent* is someone capable of distinguishing right from wrong and willing to be held accountable for his or her choices.
+>
+> The exercise of moral agency includes making a judgment about the alignment of personal and corporate conscience. Rather than jumping at the first job offer, moral agents assess whether the values expressed by the organization conform with their own, while recognizing that there is no perfect job. Even the most ethical organizations make mistakes, and even the most corrupt have managers and workers of integrity ([Figure 11.6](https://openstax.org/books/business-ethics/pages/11-3-becoming-an-ethical-professional#OSX_Ethics_11_03_Power)). This is why the “right fit” is more likely to be a job in which you can grow or that itself will change in a way that allows you to find greater meaning in it.
+
+![This image shows a hand-painted sign that says “Abuse of power comes as no surprise.”](https://openstax.org/apps/archive/20231218.154301/resources/7a551baee6062e3c882396aa88438cccec0813bb)
+
+***Figure** **11.6** Abuse of power may not come as a surprise, but it should not be “business as usual.” A firm should balance profitability with responsibility to society in a way that lifts the communities and neighborhoods of which we are part. (credit: modification of “Los Angeles Women's March (Unsplash)” by Samantha Sophia/Wikimedia Commons, Public Domain)*
+
+**It’s not about the money—Is it?**
+
+> You may follow a professional vocation that offers low pay or low status but yields nontangible rewards, such as nonprofit work, nursing, or teaching. Or you may find a position that pays a great deal and offers job security but leaves you feeling unhappy or unfulfilled. For some professionals, these might include law, accounting, dentistry, or anything else. The point is that occupations with high compensation and a certain stature do not always infuse their holders with the greatest psychological and emotional rewards, and it is different for each of us. In the best of all worlds, you might embark on a well-paying career that helps others or contributes a much-needed good or service to society. Finding such work is easier said than done, of course, because the aim of most jobs is not to help people find meaning or happiness. Where these do occur, they are often ancillary effects of work, whose real purpose is the profitability without which there would not be any jobs at all.
+>
+> Also consider the gap between the purpose of the business and the purpose of the individuals in it. Except in a few startups, these purposes are not identical. Even artists, musicians, and independent practitioners who derive great meaning from their work are not immune to the frustrations over money or career that affect everyone else.
+>
+> It has been estimated, however, that [the amount of money needed to be happy is not actually that much, at least by Western standards, although it is well above the poverty line](https://greatergood.berkeley.edu/article/item/how_does_valuing_money_affect_your_happiness). Most people find themselves somewhere in the middle in terms of satisfaction and pay. Finding the proper balance between the two for *you* is taking a step on the way to your growth as a professional. You will make that assessment not once but throughout your career as you move in and out of jobs. Even if it turns out to be the best decision of your life, the choice to work for a company because of its mission, leadership, or cultural values should be intentional and based on sufficient knowledge of the company and yourself. To be appreciated for your contributions in the workplace, to work with congenial colleagues, or to provide a product or service of which you are proud might rival money as your most intrinsic motivator at work. Studies attest to this and, as professionals of integrity, we must each decide for ourselves how strong a benefit salary alone is in the jobs we select.
+
+**The role of ethical top leadership**
+
+> As you consider your future path, perhaps leading toward a leadership role, keep in mind that perhaps the most effective way ethical behavior is learned in a company is through the modeling of that behavior by senior executives and others in leadership positions. This modeling sets what is known as “tone at the top.” Employees may already have a personal moral code when they join an organization, but when they see key figures in the workplace actually living out the ethical values of the company, they are more likely to follow suit and take ethics seriously. Leaders’ ethical behavior is especially important [in emerging fields like artificial intelligence](https://www.cnet.com/tech/tech-industry/read-googles-ai-ethics-memo-we-are-not-developing-ai-for-use-in-weapons/), where questions of safety, bias, misuse of technology, and privacy are raised daily. It is not enough to offer codes of conduct, training, reporting, and review programs, no matter how thorough or sophisticated, if management does not adhere to or promote them. These are tools rather than solutions. The solutions come from leaders using the tools and showing others how to do the same. This takes practice, reinforcement, and collaboration at all levels of an organization. The result will be a culture of ethics that permeates the company from top to bottom.
+
+To learn more about how top leadership can impact the ethics of employees, see the appendix [Profiles in Business Ethics: Contemporary Thought Leaders](https://openstax.org/books/business-ethics/pages/b-profiles-in-business-ethics-contemporary-thought-leaders) from the open textbook we have been exploring in this section.
+
+**What where you work says about you**
+
+> Ethics matter not merely because acting unethically will end in a compliance problem or public relations nightmare but because ethics is a way of life, not a hurdle to overcome. Moreover, the benefit of ethical behavior can grow over time so that a company begins to attract other ethical professionals and develops a reputation for honesty, integrity, and dependability. In a globally competitive world, these are not inconsequential factors. In an ethical workplace, employee satisfaction creates more loyalty to the company and morale improves because employees and managers feel they are part of an effort they can be proud of. Business performance picks up in ways ranging from higher earnings per share to increased customer retention to more satisfied employees.
+>
+> Consider the net income of two corporations that, as of 2018, have appeared on eleven consecutive annual lists of the world’s most ethical companies as determined by the [Ethisphere Institute](https://ethisphere.com). The first is United Parcel Service (UPS), founded in 1907, which earned net income of $4.91 billion in 2017. The second is Xerox, founded in 1906, which earned net income of $195 million in 2017. Notice the staying power of these two companies, as well. Each is more than a century old and has a global presence. 
+>
+> Again, employee loyalty, a positive work environment, and strong financial performance are not accidents; they are the result of intentional efforts on the part of leadership and board members who provide ethical vision and a plan for execution to all stakeholders. Ethical business need not be a zero-sum game with winners and losers; it can create situations in which everyone wins. Is there a more attractive environment for those just starting out in their careers? To be part of something profitable, responsible, and individually uplifting justifies all the work required to get there.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Leverage professional associations and codes of conduct
+
+Professional associations and codes of conduct play a crucial role in fostering ethical behavior and promoting best practices within industries. These organizations provide guidelines, standards, and support networks to help businesses uphold integrity, accountability, and professionalism in their operations. Here are some examples from organizations you may belong to, depending on where your career takes you. 
+
+- **American Marketing Association (AMA):** AMA is a professional association for marketing professionals, researchers, and academics worldwide. It offers education, research, and networking opportunities to help marketers stay informed about industry trends and best practices. [AMA's Statement of Ethics](https://www.ama.org/ama-statement-of-ethics/) provides guidelines for ethical marketing practices, emphasizing principles such as honesty, responsibility, respect, and transparency in marketing communications, advertising, and customer relationships.
+- **Public Relations Society of America (PRSA):** PRSA is the leading professional association for public relations practitioners in the United States. It provides resources, training, and networking opportunities to support PR professionals in promoting ethical communication and building trust with stakeholders. [PRSA's Code of Ethics](https://www.prsa.org/about/ethics/prsa-code-of-ethics) outlines core principles such as honesty, integrity, transparency, and fairness that members are expected to uphold in their PR campaigns, media relations, and stakeholder engagement efforts.
+- **American Management Association (AMA):** AMA is dedicated to supporting managers and leaders in their professional development and advancing the practice of management. The [AMA's code of ethics](https://aom.org/about-aom/ethics/code-of-ethics), emphasizes principles of responsibility, integrity, and respect for people's rights and dignity. The AMA provides guidance on ethical decision-making, conflict resolution, and stakeholder engagement, helping managers navigate complex ethical dilemmas in the workplace. Through its commitment to fostering ethical leadership and promoting best practices in management, the AMA plays a vital role in shaping the ethical standards and behaviors of managers and leaders across industries.
+- **Society for Human Resource Management (SHRM):** SHRM is the world's largest HR professional society, representing HR professionals across industries. It offers resources, training, and certifications to support HR professionals in promoting ethical behavior, diversity, and inclusion in the workplace. [SHRM's Code of Ethical and Professional Standards in Human Resource Management](https://www.shrm.org/about/bylaws-and-code-of-ethics/code-of-ethics) provides guidelines for HR practitioners to uphold integrity, fairness, and respect for human dignity in their interactions with employees and stakeholders.
+
+- **International Association of Business Communicators (IABC):** IABC is a global professional association for communication professionals, including corporate communicators, public relations practitioners, and marketing professionals. It offers professional development opportunities and sets standards for ethical communication practices through its [Code of Ethics for Professional Communicators](https://www.iabc.com/About/Purpose/Code-of-Ethics). The code emphasizes honesty, transparency, accuracy, and respect for diverse perspectives in communication efforts.
+- **American Institute of Certified Public Accountants (AICPA):** AICPA is the premier national professional organization for CPAs, providing resources, education, advocacy, and networking opportunities to support the accounting profession. AICPA sets ethical standards for CPAs through its [Code of Professional Conduct](https://pub.aicpa.org/codeofconduct/Ethics.aspx) and offers various certifications, including the CPA designation. Membership in AICPA is highly regarded among accounting professionals and is considered a mark of excellence and commitment to ethical practice in the field of accounting.
+- **American Institute of Graphic Arts (AIGA):** AIGA stands as the largest professional association for design in the United States. It supports graphic designers and creative professionals across various disciplines, providing resources, advocacy, and ethical guidelines to enhance their practice and professional growth. [AIGA's Standards of Professional Practice](https://www.aiga.org/resources/aiga-standards-of-professional-practice) offers a framework for designers to navigate ethical challenges, emphasizing the importance of respect, transparency, and responsibility in their work. 
+- **National Association of Realtors (NAR):** The NAR represents over one million members across the United States, including residential and commercial realtors. [The NAR Code of Ethics](https://www.nar.realtor/about-nar/governing-documents/the-code-of-ethics) outlines a comprehensive set of ethical guidelines that realtors are expected to adhere to, emphasizing honesty, fairness, and respect in all dealings with clients, the public, and other realtors. 
+
+### 05. 08 | Our role as a consumers
+
+In today's interconnected global economy, consumers wield significant power to influence business practices and drive positive change through their purchasing decisions. By aligning our values with ethical considerations, we can promote fair labor practices, environmental sustainability, and social responsibility within the business community. Here, we explore various aspects of business ethics and the role of consumers in shaping a more ethical marketplace.
+
+#### Fair Trade: Supporting Ethical Supply Chains
+Fair trade initiatives aim to ensure that producers in developing countries receive fair compensation for their labor and goods. By choosing products with fair trade certifications, consumers can support ethical supply chains and contribute to the economic empowerment of marginalized communities. For example, purchasing fair trade coffee, chocolate, or clothing helps combat exploitative labor practices and promotes sustainable development in regions where workers are often vulnerable to exploitation. The benefits of Fairtrade are illustrated in [this video from FairtradeANZ](https://youtu.be/CkN0WDDqIUM?si=R7E1dUGnbXpYzG9C). 
+
+!?[Benefits of Fairtrade](https://youtu.be/CkN0WDDqIUM?si=R7E1dUGnbXpYzG9C)
+
+For Christians, buying fair trade products aligns with the principles of social justice, compassion, and stewardship emphasized in our faith. By purchasing fair trade goods, Christians can support ethical supply chains that ensure fair wages and dignified working conditions for workers, many of whom are marginalized and vulnerable to exploitation. Additionally, buying fair trade enables Christians to live out our commitment to loving our neighbors and caring for the least among us, as fair trade initiatives often prioritize the well-being of communities in developing countries. Through conscious consumption choices, Christians can contribute to a more just and equitable world, reflecting the values of fairness, compassion, and solidarity espoused in their faith.
+
+#### Combatting Labor Trafficking: Ethical Sourcing and Supply Chain Transparency
+Labor trafficking remains a pervasive issue in many industries, from agriculture to manufacturing. As consumers, we have a responsibility to demand transparency and accountability from companies regarding their sourcing and supply chain practices. By choosing products from companies that prioritize ethical sourcing and supply chain transparency, we can help combat labor trafficking and ensure that workers are treated with dignity and respect. 
+
+!?[Combating human trafficking in supply chains](https://youtu.be/FkQhDnzPgTI?si=mxZOkdyS2EVoWzgy)
+
+Combatting labor trafficking, advocating for ethical sourcing, and demanding transparency in supply chains are not just ethical imperatives for Christians, but also can be expressions of our commitment to upholding human dignity and justice. By actively engaging in efforts to combat labor trafficking, Christians can fulfill our mandate to:
+
+> ...seek justice, love mercy, and walk humbly with God.
+>
+> -- Micah 6:8
+
+God asks us to stand in solidarity with the oppressed and vulnerable. Prioritizing ethical sourcing and supply chain transparency reflects the Christian call to stewardship, recognizing that all people are created in the image of God and deserving of fair treatment and respect. By demanding accountability and transparency from businesses, Christians can contribute to the creation of a more just and equitable economic system, one that honors the inherent worth and dignity of every individual and ensures that no one is exploited or marginalized in the pursuit of profit.
+
+#### Fair Wages: Supporting Livelihoods and Economic Equity
+
+Fair wages are essential for ensuring that workers can meet their basic needs and enjoy a decent standard of living. As consumers, we can support companies that pay fair wages to their employees and advocate for policies that promote economic equity. By boycotting companies that engage in wage theft or exploitation and supporting businesses that prioritize fair labor practices, we can help create a more equitable and just society.
+
+Pay equity is an essential part of morality... and not just for humans. In a now-famous series of experiments, Frans de Waal paid two monkeys unequally. An innate sense of fairness transcends species and illustrates principles of equity and justice that resonate throughout the animal kingdom.
+
+!?[Two monkeys were paid unequally: excerpt from Frans de Baal's TED talk](https://youtu.be/meiU6TxysCg?si=kHBZVWaXijAYygZc)
+
+As consumers, Christians can play a vital role in promoting fair wages and economic equity by making intentional choices that prioritize the well-being of workers and marginalized communities. Upholding the biblical principle that "the laborer deserves his wages" (Luke 10:7), we can support companies that pay fair wages and provide dignified working conditions for their employees. By choosing products and services from businesses that prioritize fair labor practices, Christians can advocate for economic justice and equity, ensuring that workers receive compensation that enables them to meet their basic needs and support their families. Additionally, Christians can use their purchasing power to advocate for policies that promote economic equity, such as living wage initiatives and support for labor unions. Through conscientious consumption and advocacy efforts, Christians can contribute to the creation of a more just and equitable society where all individuals are valued and empowered to thrive.
+
+#### Ethical Fashion: Resisting the Temptation of Fast Fashion
+Fast fashion thrives on low-cost production, rapid turnover, and exploitation of workers and the environment. By opting for sustainable and ethically produced clothing brands, consumers can resist the allure of fast fashion and support companies that prioritize fair labor practices and environmental sustainability. The BBC shares how clothes that we donate with good intent, wind up in landfills and negatively impacting countries in West Africa and other parts of the globe. 
+
+!?[Fast fashion: The dumping ground for unwanted clothes - BBC News](https://youtu.be/MHnDqelUh-4?si=qjSpEyaxFi-4jPCv)
+
+UN Goodwill Ambassador Roberta Annan explains in that clip how the fashion industry wastes 500 billion dollars a year, globally, due to fast fashion. Choosing quality over quantity, embracing slow fashion principles, and advocating for transparency in the fashion industry can help combat the negative impacts of fast fashion on workers and the planet.
+
+Christians can resist the allure of fast fashion by adopting a mindful and intentional approach to consumption rooted in principles of stewardship, simplicity, and ethical responsibility. By prioritizing quality over quantity and embracing the concept of "less is more," Christians can resist the cultural pressure to constantly consume and instead focus on investing in durable, timeless clothing that reflects their values. By choosing clothing that aligns with our values and beliefs, Christians can make a positive impact on both the fashion industry and the planet, embodying the call to live simply, responsibly, and in harmony with God's creation.
+
+#### Empowering Workers' Rights: Recognizing the Negative Impact of Income Inequality
+Throughout our nation's history, our laws, institutions, and social norms have played a role in shaping a segmented or dual economy. Examining various historical eras and social movements sheds light on the emergence of an informal economy and the systematic marginalization of numerous groups from the labor market, notably people of color, women, and immigrants. Faced with barriers to entry into the regulated job market, many individuals have resorted to alternative means of earning a livelihood within a parallel informal economy. 
+
+!?[The history of workers' rights | City Rising | KCET](https://youtu.be/lQ_JwQfbVNg?si=9ubcF-Jtua3uiksj)
+
+Women of color have historically been on the forefront of the advocacy for workers rights. Historically marginalized and excluded from many quality job opportunities, they have often found themselves performing essential yet arduous work that underpins the economy, all while lacking the protections afforded to other workers. A glaring example of this inequality is seen in the Social Security Act of 1935, which initially excluded domestic workers— a workforce comprised largely of Black women. 
+
+![**The women in this photo are domestic workers hoping to be hired for a day’s work, as captured by Robert McNeill for Fortune magazine.** [Source](https://americanart.si.edu/artwork/make-wish-bronx-slave-market-170th-street-new-york-34041)**: Robert McNeill, Make A Wish (Bronx Slave Market, 170th Street, New York), 1938, Smithsonian American Art Museum.**](https://innovatelearning.s3.amazonaws.com/dora-lee-jones.jpeg)
+
+> Dora Lee Jones helped found the Domestic Workers Union in Harlem in 1934 in defiance of New York City’s “slave markets,” as they were known. With few employment options during the Depression, Black women would gather daily in the morning at certain locations and wait for white middle-class women to hire them, typically for terrible wages. The union called for a minimum wage, overtime, two weeks’ notice for termination – and no window washing. (Workers were regularly asked to perform the dangerous task of cleaning the outside of upper-floor apartment windows.) The DWU eventually affiliated with the predecessor to today’s Service Employees International Union.
+>
+> More stories about this movement may be found on the [U.S. Department of Labor Blog: 8 Black Women Labor Leaders You Should Know](https://blog.dol.gov/2024/01/17/8-black-women-labor-leaders-you-should-know).
+
+Despite facing systemic barriers and discrimination, women of color have been instrumental in advancing the cause of labor rights, championing fairness, dignity, and equality in the workplace for all workers. Through their resilience and activism, they have made significant strides towards creating a more just and equitable society. Unions have historically played a crucial role in advocating for workers' rights, fair wages, and safe working conditions. As consumers, we can support unionized companies and industries by choosing products and services from companies that respect workers' right to organize and bargain collectively. By standing in solidarity with unionized workers and not crossing picket lines during labor disputes, consumers can help strengthen workers' bargaining power and advance social justice.
+
+As Christians, we are called to embody the teachings of Jesus Christ, who advocated for love, compassion, and justice for all. In response to the negative impacts of income inequality, we are called to act with empathy and solidarity towards those who are marginalized and disadvantaged in our society. This may involve advocating for policies that promote economic equity, such as fair wages, affordable housing, and access to education and healthcare for all. Additionally, we can actively support organizations and initiatives that address the root causes of income inequality and work towards systemic change. Through our actions and advocacy, we can strive to create a society where all individuals are valued, respected, and afforded equal opportunities to flourish.
+
+#### Kindness: Acknowledging and Appreciating Essential Workers
+Vanguard student Rebekah Robeck felt a call toward kindness strongly back in 2018. A Costa Mesa High School Student at the time, she saw a lack of care and decided to infuse her school with something different. Rebekah and her mom brought pizzas adorned with "Let's be kind to each other" signs adhered to each box. Robeck shares about the kind of care she is talking about as: 
+
+> Kindness, to me, is the way you treat not only the people you know, but also the people you don’t know with the most respect to making that person feel like they matter.
+>
+> -- Rebekah Robeck 
+
+![Rebekah Robeck holds Let's Be Kind t-shirt with her mom, both smiling](https://innovatelearning.s3.amazonaws.com/Rebekah.kindness.jpg)
+
+Robeck wants to grow Let's Be Kind to grow around the world, so that communities can work together to change their cultures.  Robeck was awarded the Mayor's Award by Costa Mesa's Mayor Katrina Foley for starting this kindness movement.. 
+
+!?[Costa Mesa Mayor's Award - Rebekah Robeck, Let's Be Kind](https://youtu.be/heCUSXF_93M?si=XtYajMjacjhbj4rf)
+
+Healthcare workers, restaurant staff, and hotel employees have faced unprecedented challenges and risks, providing us with with some of the most fundamental services in our society. We are experiencing a shortage of these types of workers, such as in the nursing workforce, with stress and burnout being a big factor in the not being able to retain nurses ([Tamata & Mohammadnezhad, 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9912424/)). In 2023, [nearly 2 million hospitality and leisure jobs were unfilled](https://www.washingtonpost.com/business/2023/02/03/worker-shortage-restaurants-hotels-economy/), with workers wanting more flexibility, better benefits, and a more stable job. 
+
+Genesis 2 reveals that work is a foundational part of being human. In fact, if we go back to Genesis 1, we see depictions of an active God who works in creating all of humanity. The act of rest is also modeled for us by God and we are told how vital a sabbath is for our physical and spiritual lives ([John L. Mackay, 2018](https://www.christian.org.uk/wp-content/uploads/dignityofwork.pdf)). "There is nothing better for a man than to enjoy his work," we are told in  Ecclesiastes 3:22, despite the inherent difficulties of work described in other verses in Ecclesiastes. The United States Conference of Catholic Bishops stresses the importance of [the dignity of work and the rights of workers](https://www.usccb.org/beliefs-and-teachings/what-we-believe/catholic-social-teaching/the-dignity-of-work-and-the-rights-of-workers). They urge us to do better, writing that: 
+
+> The economy must serve people, not the other way around. Work is more than a way to make a living; it is a form of continuing participation in God’s creation. If the dignity of work is to be protected, then the basic rights of workers must be respected--the right to productive work, to decent and fair wages, to the organization and joining of unions, to private property, and to economic initiative.
+
+As consumers, we can show kindness and appreciation to these essential workers by respecting safety protocols, tipping generously, and advocating for fair wages and working conditions. By recognizing the value of their labor and expressing gratitude for their service, we can contribute to a culture of dignity, respect, and compassion in the workplace. 
+
+#### Environmental Responsibility: Choosing Sustainable Products and Practices
+Environmental sustainability is a critical aspect of business ethics, as companies have a responsibility to minimize their environmental footprint and mitigate climate change. As consumers, we can support companies that prioritize sustainability by choosing products with eco-friendly certifications, reducing waste, and advocating for policies that promote environmental conservation and stewardship.
+
+As stewards of God's creation, Christians are called to be mindful of the impact our actions have on the environment and future generations. Choosing sustainable products and practices aligns with our faith commitment to care for the Earth and all its inhabitants. By opting for environmentally-friendly alternatives, Christians can reduce their ecological footprint, conserve natural resources, and mitigate climate change. This includes supporting companies that prioritize ethical sourcing, fair labor practices, and sustainable manufacturing processes. Additionally, Christians can incorporate habits into our daily lives, such as reducing waste, conserving energy, and supporting local agriculture. Through these actions, Christians demonstrate their reverence for God's creation and contribute to the well-being of the planet and all its inhabitants.
+
+![Katherine Hayhoe leans against a fence made from twigs, smiling with her arms folded](https://innovatelearning.s3.amazonaws.com/katharine-hayhoe.jpg.webp)
+
+One well-known Christian who works for environmental causes is [Katharine Hayhoe](https://en.wikipedia.org/wiki/Katharine_Hayhoe). She is an atmospheric scientist and a professor of political science at Texas Tech University, known for her efforts to bridge the gap between scientists and Christians on the issue of climate change. Hayhoe is also the director of the Climate Science Center at Texas Tech University and has been actively involved in raising awareness about climate change through her research, public speaking engagements, and advocacy work. 
+
+!?[Dr. Katherine Hayhoe Teaches Us How to Talk to People Who Don't Believe in Climate Change](https://youtu.be/LVjmGVufADk?si=zzJJECYg5HFU83gs)
+
+As a devout Christian, Hayhoe emphasizes the importance of caring for God's creation and has been instrumental in promoting dialogue and action on environmental issues within Christian communities. She is widely respected for her expertise in climate science and her ability to communicate the urgency of addressing climate change from a Christian perspective.
+
+#### Consider money's role in happiness
+
+Money undoubtedly plays a significant role in people's lives, providing access to basic necessities, opportunities for education and healthcare, and a sense of security. However, research suggests that beyond a certain threshold, increases in income have diminishing returns on happiness and well-being ([Dunn & Norton, 2013](https://www.hbs.edu/faculty/Pages/item.aspx?num=43404)). You have probably heard the expression that money can't buy happiness. Michael Norton, Harvard Business School professor, challenges this thinking. His research challenges the way we tend to think about the role money may play in our lives. 
+
+!?[Money can buy happiness](https://youtu.be/ZwGEQcFo9RE?si=S1ZKP884TtDJHd2C)
+
+While financial stability can alleviate stress and contribute to overall life satisfaction, material wealth alone does not guarantee happiness. In fact, the pursuit of wealth at the expense of other values, such as relationships, personal growth, and community engagement, can lead to feelings of emptiness and dissatisfaction. 
+
+For Christians, reflections on money's role in our lives as consumers are deeply rooted in spiritual teachings and values. While recognizing the practical importance of financial resources for meeting basic needs and supporting oneself and others, Christians are also mindful of the potential pitfalls of materialism and greed. The Bible warns against the love of money as a root of all kinds of evil (1 Timothy 6:10) and encourages believers to prioritize spiritual wealth and treasures in heaven over earthly possessions (Matthew 6:19-21). Therefore, Christians approach consumerism with a sense of stewardship, recognizing that all material blessings ultimately come from God and are to be used responsibly and in accordance with God's will. By practicing discernment, generosity, and humility in our consumption habits, Christians seek to honor God with their finances and use their resources to advance God's kingdom and promote justice and compassion in the world.
+
+> Our consumer culture is organized against history. There is a depreciation of memory and a ridicule of hope, which means everything must be held in the now, either an urgent now or an eternal now.
+>
+> -- Walter Brueggemann
+
+As consumers, our ethical role lies in recognizing the limitations of material possessions in fostering happiness and prioritizing purchases that align with our values and contribute to the well-being of others and the planet. By practicing conscious consumption, supporting ethical and sustainable businesses, and cultivating gratitude and contentment, we can foster a more meaningful and fulfilling relationship with money and contribute to a happier and more equitable society.
+
+Consumers play a pivotal role in shaping the ethical landscape of the business world. By making informed and ethical purchasing decisions, advocating for social and environmental responsibility, and supporting companies that prioritize ethical practices, we can contribute to a more just, equitable, and sustainable future for all.
+
+## 06. The Bad
+
+![Course lesson graphic 06](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-06.jpg)
+
+We started with the good in the last lesson. Now it is time for the bad: those things that are both unethical and illegal (at least under US law). From insider trading to environmental pollution, from sweatshop labor to tax evasion, we confront the harsh realities of profit-driven enterprises that prioritize short-term gains over long-term integrity. We have talked about the grey areas in business ethics often in this class, but let's look more at actions that are more clearly defined as wrong. Few moments in movies capture the essence of unethical behavior as vividly as Gordon Gekko's "Greed is good" speech from the 1987 film "Wall Street." This iconic scene features Gekko, played with charismatic fervor by Michael Douglas, addressing a tense shareholder meeting with a monologue that champions greed as a driving force for progress and success. 
+
+!?[Wall Street movie clip - Greed is Good](https://youtu.be/VVxYOQS6ggk?si=CqZ25_w67wUPi9jb)
+
+### 06.01 Price fixing 
+
+When two or more competitors agree to set prices at a certain level, typically higher than what would exist in a competitive market, that is known as price fixing. This collusion restricts competition and harms consumers by artificially inflating prices. Price fixing is illegal under antitrust laws in many countries, including the United States, European Union, and others. It can result in significant fines and penalties for the companies involved, as well as damage to their reputation. Price fixing is distinct from price gouging, which we will look at in the ugly lesson. Both of these manipulation of prices fall under the broad category of profiteering, which is explained by the One Minute Economist in the following video clip: 
+
+!?[profiteering, price fixing and price gouging defined](https://youtu.be/r1FyO8G28U4?si=zUShP6OCpS4Yc0Et)
+
+#### DRAM chips
+
+One example of price fixing occurred in the early 2000s, among major manufacturers of dynamic random-access memory (DRAM) chips. DRAM chips are essential components in computers and electronic devices. During this period, leading companies such as Samsung, Hynix, and Micron were found to have engaged in an illicit price-fixing scheme. An [investigation by the United States Department of Justice (DOJ)](https://web.archive.org/web/20051211072509/http://www.usdoj.gov/atr/public/press_releases/2004/206631.htm) uncovered evidence of collusion among these companies to artificially inflate prices and stifle competition in the DRAM market. This manipulation involved the exchange of pricing information and coordination of production levels to maintain higher prices for DRAM chips. As a result, consumers faced artificially inflated prices for essential components, and competitors were unfairly disadvantaged in the marketplace.
+
+In response to these revelations, the DOJ pursued criminal charges against several executives from the implicated companies. Guilty pleas were entered, and substantial fines were imposed, with Samsung agreeing to pay a fine of $300 million—one of the largest antitrust penalties in U.S. history at the time. This case serves as a stark reminder of the detrimental impact of price-fixing practices on consumer welfare and market integrity. It underscores the importance of stringent antitrust enforcement measures to safeguard competition and promote fairness in the marketplace.
+
+#### Auto parts 
+
+Another example of price fixing involves the global automotive parts sector. This scandal, uncovered in the early 2010s, became one of the largest antitrust enforcement actions in automotive history. Several manufacturers were found guilty of colluding to set prices for a variety of car parts, including seat belts, radiators, windshield wipers, air conditioning systems, and steering wheels. The collusion affected millions of cars sold by major automakers around the world, leading to inflated prices for both the manufacturers and, ultimately, consumers. Companies involved in this cartel were subjected to hefty fines by regulatory authorities across multiple jurisdictions, including the United States, Europe, and Asia. The U.S. Department of Justice imposed fines totaling over $2.9 billion on various companies, highlighting the extensive nature of the collusion.
+
+The revelation of this price-fixing conspiracy shed light on the pervasive issue of anti-competitive practices in the automotive supply chain. Investigations revealed that executives from these companies met in secret to agree on the prices and bids for automotive parts, manipulating the market to their advantage for years. This not only undermined the principles of free competition but also hurt consumers by driving up costs and limiting choices. The fallout from this scandal prompted a reevaluation of antitrust laws and enforcement mechanisms within the automotive industry, leading to stricter regulations and increased scrutiny of supply chain practices. It served as a stark reminder of the importance of vigilance and integrity in maintaining fair market conditions.
+
+The price-fixing scandals in both the DRAM chips industry and the global automotive parts sector underscore the detrimental impact of anti-competitive practices on markets and consumers alike. These cases, marked by collusion and manipulation by major corporations, highlight the critical need for robust antitrust laws and vigilant enforcement to safeguard the principles of fair competition. The hefty fines and legal repercussions faced by the companies involved serve as a potent reminder of the legal and ethical obligations businesses have towards market integrity. Moreover, these incidents emphasize the importance of transparency and accountability in corporate conduct to prevent such malpractices. As industries continue to evolve with technological advancements and globalization, the lessons learned from these scandals remain relevant, urging both businesses and regulators to ensure that competition remains fair and markets remain dynamic and open, ultimately benefiting consumers and economies at large.
+
+#### The Informant!
+
+I try to avoid sharing clips from movies that I have not seen, but I am about to in this case. [The Informant! (2009)](https://www.imdb.com/title/tt1130080/) is a dark comedy, based on a true story, as recounted in the nonfiction book [The Informant: A True Story by Kurt Eichenwald](https://en.wikipedia.org/wiki/The_Informant_(book)). It stars Matt Damon as Mark Whitacre, an executive at the agribusiness giant Archer Daniels Midland (ADM). Whitacre turns whistleblower for the FBI to expose the company's involvement in a global lysine price-fixing conspiracy. As the story unfolds, Whitacre's unreliable nature and his own legal violations complicate the investigation. 
+
+!?[The Informant! Movie clip - price fixing](https://youtu.be/FF9t_GekWjU?si=h7wtf9HU5-dNrYjP)
+
+The examination of price fixing through the lens of real-world scandals involving DRAM chips, the global auto parts industry, and the cinematic portrayal in The Informant! illustrates the pervasive and damaging nature of this illegal practice. These examples underscore the significant impact that collusion and market manipulation can have on economies, businesses, and consumers, highlighting the necessity for stringent regulatory oversight and ethical business conduct.
+
+### 06.02 | Insider trading
+
+Insider trading stands as a prominent example of unethical and illegal conduct within the world of business, striking at the very heart of fair market practices and investor trust. This malpractice involves trading a public company's stock or other securities (such as bonds or stock options) by individuals with access to nonpublic, material information about the company. Such actions not only undermine the integrity of financial markets but also compromise the level playing field that regulations seek to maintain, allowing a select few to profit at the expense of the uninformed majority. Insider trading erodes public confidence in the financial system, making it a focal point of regulatory bodies worldwide. This section delves into the intricacies of insider trading, exploring its implications for business ethics, the regulatory landscape designed to combat it, and the broader impact on corporate governance and public trust.
+
+#### The difficulty of proving insider trading
+
+This video provides a definition of insider trading, along with a discussion of why it can be so difficult to prove. The example of Martha Stewart is given, to illustrate the challenges. 
+
+!?[What is Insider Trading](https://youtu.be/dn7uIqQDHag?si=Gkh30uNiwuC9n3Lt)
+
+#### Boiler Room's depiction of "pump and dump" financial schemes
+
+The film Boiler Room (2000) portrays a brokerage firm engaging in pump and dump schemes, which involve artificially inflating the price of stocks owned by the firm (pumping) through false and misleading positive statements, in order to sell off the overvalued shares at a higher price (dumping). Once the operators of the scheme sell their overpriced shares, the prices of the stocks collapse, leaving many investors with significant losses. Such practices are a form of securities fraud and are illegal under U.S. law, specifically violating regulations enforced by the Securities and Exchange Commission (SEC). The movie also touches on elements of insider trading, misrepresentation, and manipulation of the market, all of which are against the law and carry serious penalties, including fines and imprisonment for those convicted. 
+
+!?[Boiler Room (2000) Official Trailer](https://youtu.be/kgCLG4gCAvI?si=WqRlPPowI2rHDZVM)
+
+This film revolves around a college dropout who gets a job as a broker for a suburban investment firm, which puts him on the fast track to success. However, he soon discovers the firm's unethical practices, including insider trading. Boiler Room serves as a cautionary tale about the lure of quick wealth and the ethical and legal boundaries crossed in the pursuit of financial gain.
+
+#### Martha Stewart and ImClone Systems
+
+One of the most high-profile cases of insider trading involves Martha Stewart, a prominent businesswoman and media personality, and her dealings with the biopharmaceutical company ImClone Systems. In late 2001, just before the Food and Drug Administration (FDA) announced its decision to reject ImClone's application for a new cancer drug, Stewart sold nearly 4,000 shares of ImClone stock. This sale was prompted by a tip she received from her broker, who had insider information that the company's CEO was attempting to sell his shares in anticipation of the negative FDA announcement.
+
+Stewart's sale of ImClone stock, based on nonpublic, material information, resulted in her avoiding losses of approximately $45,000. The case against Stewart brought to light the intricate web of relationships and information flow that can lead to insider trading. In 2004, Martha Stewart was convicted of conspiracy, obstruction of an agency proceeding, and making false statements to federal investigators. Although she was not charged with insider trading itself, her case is often cited as a clear example of the unethical use of insider information for personal gain. Stewart's conviction led to a five-month prison sentence, highlighting the severe consequences of engaging in or being connected to insider trading activities.
+
+#### Raj Rajaratnam and the Galleon Group
+
+Raj Rajaratnam, the founder of the Galleon Group, a major hedge fund, was convicted in one of the largest insider trading cases in United States history. Rajaratnam was accused of using confidential information from corporate insiders to make profitable trades in the stock market. The case revealed a network of insiders across various industries, including technology and consulting, who provided Rajaratnam with material, nonpublic information about earnings reports, mergers, and acquisitions.
+
+!?[Scandals Illustrated | Raj Rajaratnman: Insider Trading](https://youtu.be/eKRWFe2yWQA?si=9VRms20dd4JYFAm2)
+
+The illegal trades made by Rajaratnam and his associates at the Galleon Group generated over $60 million in illicit profits. The investigation into Rajaratnam's activities involved wiretaps, a first in the context of insider trading cases, unveiling the sophisticated methods used to exchange insider information covertly. In 2011, Rajaratnam was convicted on 14 counts of conspiracy and securities fraud, receiving an 11-year prison sentence and being ordered to pay significant fines and forfeitures. This case underscores the systemic nature of insider trading within certain segments of the financial industry and the lengths to which individuals may go to exploit confidential information for financial gains.
+
+!?[Raj Rajaratnam Convicted in inside-trade case](https://youtu.be/iinHRu97xEQ?si=jOm7lCZK521ZY_hQ)
+
+These examples of insider trading illustrate not only the illegal nature of using nonpublic information for trading but also the broader ethical implications for trust and integrity in the financial markets. They serve as cautionary tales for individuals and institutions alike about the importance of adhering to ethical standards and the legal consequences of failing to do so.
+
+
+
+
+
+### 06.03 | Environmental pollution
+
+Actions taken by businesses can have a profound impact on the natural world and the people who inhabit the communities in which companies are located. This section explores corporate negligence, illegal dumping, regulatory evasion, and the significant repercussions these actions can have on ecosystems and vulnerable populations. 
+
+A pivotal case that brings to light the severity and human cost of environmental pollution is the story of Erin Brockovich, a legal clerk who became instrumental in building a case against the Pacific Gas and Electric Company (PG&E) of California in 1993. Brockovich's relentless investigation revealed that PG&E had been contaminating the drinking water of Hinkley, California, with hexavalent chromium, a toxic chemical known to cause cancer. This real-life saga not only exemplifies the devastating health impacts of corporate environmental negligence but also highlights the power of individual activism in holding corporations accountable.
+
+!?[A lame-ass offer - Erin Brockovich](https://youtu.be/BGX4nMrnxg0?si=Z-85iQuxVHF5i_Pa)
+
+Don't miss the best part of the clip, when the attorney for the other side begins to take a drink of the water they have provided in the conference room. Erin Brockovich says: 
+
+> By the way, we had that water brought in special for you folks. It came from a well in Hinkley. 
+>
+> -- Erin Brockovich
+
+#### Corporate negligence and environmental harm
+
+Let's examine more about the PG&E and Hinkley Groundwater Contamination case. PG&E was found to have contaminated the groundwater of Hinkley, California, with hexavalent chromium, a carcinogenic chemical. The case resulted in a $333 million settlement in 1996, the largest of its kind at that time. This case not only demonstrated the direct health impacts of corporate environmental negligence but also emphasized the power of community action and legal recourse in holding corporations accountable. In the following clip, Erin Brockovich begins listing the negative health consequences experienced by the residents of Hinkley, all of which she is able to communicate without needing to look at any notes. 
+
+!?[Erin Brockovich Movie clip - I thought we were negotiating here?](https://youtu.be/5Jdk3riKKwo?si=AXESWnmV1l6IMqxq)
+
+Corporate negligence in environmental practices often leads to significant harm, affecting ecosystems, human health, and communities, especially those that are most vulnerable. Another case related to corporate negligence arose from the Deepwater Horizon oil spill in 2010. Operated by British Petroleum (BP), the offshore drilling rig exploded and sank in the Gulf of Mexico, causing the largest marine oil spill in history. Over 4.9 million barrels of oil flowed into the Gulf, devastating marine life, damaging ecosystems, and harming local economies reliant on tourism and fishing. BP was found guilty of gross negligence and willful misconduct, resulting in penalties exceeding $65 billion.
+
+!?[Deepwater Horizon movie clip 2016](https://youtu.be/6EwLURR9h1o?si=hz01RSz5eimDpol5)
+
+#### Illegal dumping and waste mismanagement
+
+Illegal dumping and waste mismanagement represent severe ethical and environmental challenges, illustrating a blatant disregard for ecological well-being and public health. These practices can have a detrimental impact, with businesses prioritizing cost-saving measures over environmental responsibility, leading to legal repercussions and public outcry.
+
+**Trafigura and the Probo Koala Incident**
+
+One of the most egregious examples of illegal dumping involved Trafigura, a multinational commodity trading company. In 2006, the company chartered the cargo ship Probo Koala, which offloaded toxic waste in Abidjan, Côte d'Ivoire, affecting tens of thousands of residents with its hazardous fumes. The waste contained toxic substances like caustic soda and hydrogen sulfide, leading to widespread health issues and environmental damage. Trafigura faced legal actions and, in 2007, agreed to a settlement with the Ivorian government, paying $198 million without admitting wrongdoing. Further legal challenges in Europe resulted in additional fines and compensation payments.
+
+!?[Ten years later, Ivorian toxic waste victims still demanding justice, compensation](https://youtu.be/2eu1PdU-st8?si=o3C8yymRbzHiv-BK)
+
+**Love Canal, New York Disaster**
+
+In the late 1970s, Love Canal, a neighborhood in Niagara Falls, New York, became the symbol of the environmental consequences of hazardous waste mismanagement. The area was built on top of a toxic waste dump used by the Hooker Chemical Company (now Occidental Petroleum Corporation) to dispose of over 21,000 tons of chemical waste. The chemicals leached into the ground and contaminated the surrounding environment, leading to health issues among the residents, including birth defects and cancers. The Love Canal incident prompted significant environmental legislation in the United States.
+
+!?[Love Canal - 40 years later](https://youtu.be/fe2QPzfBsq8?si=JNIWe1zefOu5tG2-)
+
+**Waste Management, Inc. and Environmental Violations**
+
+Waste Management, Inc., a leading waste management company in North America, has faced numerous lawsuits and fines related to illegal dumping and environmental violations. In various instances, the company has been accused of mismanaging landfill operations, resulting in groundwater contamination, odor issues, and non-compliance with environmental regulations. These cases highlight the challenges of waste management in urban areas and the importance of adhering to environmental laws to protect communities and natural resources. The Wall Street Journal explains how WM is working to become more sustainable and to make money from these changes: 
+
+!?[The next big Wall Street stock? It's trash | WSJ](https://youtu.be/G1dx__P36qw?si=Z4Qih1Y1xi7_T6hJ)
+
+These instances of dumping and waste mismanagement exemplify the dire consequences of prioritizing short-term gains over environmental stewardship and ethical responsibility. They serve as a reminder of the importance of rigorous regulatory frameworks, corporate accountability, and public awareness in combating environmental pollution and safeguarding the planet for future generations.
+
+#### Legislation protecting against pollution
+
+> Ideally, all levels of government—local, state, and federal—should work with each other and with private-sector businesses to accomplish a fair and rational balance between their respective roles in maintaining a just society. Rarely does one actor alone solve a problem; more often, it takes either a state-federal or a government-business partnership to make a significant impact on a social or economic challenge. Such partnerships are often quite effective, according to Deloitte, a global consulting and accounting firm.[50](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-049)
+>
+> For example, the federal **Clean Air Act of 1970** gives the EPA nationwide authority, but controlling air **pollution**, which does not recognize borders, also necessitates that state governments play a very significant role in enforcing environmental standards. In turn, about half the states also allow major cities to have their own air quality regulatory programs. “Think globally, act locally” seems to capture the essence of government regulation in air quality. For decades, California has had an air-quality program that not only attempts to comply with mandates in the federal program but also goes a step further to create state-specific rules, such as stricter auto emissions guidelines.
+>
+> In another example, in May 2017, the Environment and Natural Resources Division of the U.S. Department of Justice, together with the EPA and the Texas Commission on Environmental Quality, announced a settlement with Vopak, a Houston energy company, related to air-quality violations by the company.[51 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-050)Both federal and state government agencies had filed actions against Vopak, stating that the company failed to comply with Clean Air Act requirements to properly manage equipment at its on-site wastewater treatment facility, resulting in excess emissions of a variety of hazardous air pollutants, as well as volatile organic compounds, in an area classified as not meeting ground-level ozone standards. Per the settlement terms, the company, at considerable cost, “will install state-of-the art **pollution** controls at the wastewater treatment system and use infrared cameras” to detect otherwise undetectable air **pollution** from its chemical storage tanks. Additionally, Vopak will pay a $2.5 million civil penalty.[52](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-051)
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+
+
+#### Regulatory evasion and loophole exploitation 
+
+
+
+#### Impact on communities and environmental justice 
+
+
+
+
+
+Sweatshop labor
+
+
+
+Tax evasion
+
+### 06.04 | Tax Evasion
+
+Tax evasion, the illegal non-payment or underpayment of taxes, poses a significant ethical and legal challenge within both corporate and individual contexts. This deliberate act not only undermines the integrity of tax systems but also shifts the financial burden to law-abiding taxpayers and deprives governments of funds necessary for public services. Unlike tax avoidance, which exploits legal loopholes to minimize tax liabilities, tax evasion involves deceitful practices such as underreporting income, inflating deductions, or hiding money in offshore accounts. 
+
+#### Corporate Tax Evasion Examples
+
+**Enron**: Before its collapse in 2001, Enron was involved in numerous aggressive tax evasion strategies, including the use of offshore entities to hide profits and inflate losses. By manipulating financial statements and tax filings, Enron not only deceived investors and regulators but also avoided paying millions in taxes, contributing to its infamous bankruptcy and scandal.
+
+>Isn't there a flaw in the logic of that phrase - speak truth to power? It assumes that power doesn't know the truth. But power knows the truth just as well, if not better, than the powerless know the truth. Enron knows what it's doing. We don't have to tell it what it's doing. We have to tell other people what Enron is doing.
+>
+>-- Arundhati Roy
+
+**HSBC Swiss Bank Account Scandal (2015)**: A leaked list of account holders in HSBC's Swiss private banking arm revealed evidence of the bank aiding clients worldwide in concealing assets and evading taxes. The revelations prompted investigations across several countries, shedding light on the widespread issue of using offshore accounts for tax evasion by wealthy individuals and corporations.
+
+!?[HSBC files - how secret Swiss account data detailing misconduct came to light | Guardian Explainers](https://youtu.be/rlg64vr0DXs?si=qDmgnfql2tEFgWnL)
+
+#### Individual Tax Evasion Examples
+
+**Wesley Snipes**: The American actor was convicted in 2008 for willful failure to file federal income tax returns. Snipes attempted to evade taxes on millions of dollars of income using fraudulent tax schemes, leading to a three-year prison sentence. This high-profile case underscored the legal consequences of tax evasion and the government's commitment to prosecuting such offenses.
+
+!?[Snipes sentenced to 3 years on tax charges](https://youtu.be/I5yZ-JJQAuw?si=yk4Er7D01UnAwPY3)
+
+**Al Capone**: One of the most famous examples of individual tax evasion is that of Al Capone, the notorious gangster who was eventually imprisoned not for his myriad of criminal enterprises, but for evading taxes on his ill-gotten gains. In 1931, Capone was convicted of tax evasion and sentenced to 11 years in federal prison, illustrating that no one, regardless of their power or status, is above the law. HistoryNet offers us this humorous (stylized?) look at how the IRS pinned Capone: 
+
+!?[This week in history: how the IRS pinned notorious gangster Al Capone](https://youtu.be/dPHxMz0B9KI?si=4VtInig2UFyw6yYu)
+
+Tax evasion raises profound ethical questions about fairness, social responsibility, and the social contract between individuals, corporations, and the state. It erodes trust in the tax system, exacerbates inequality, and places an undue burden on those who pay their fair share. The funds lost to tax evasion could support essential public services such as healthcare, education, and infrastructure, directly impacting societal welfare and development. The fight against tax evasion requires a multifaceted approach, including tighter regulations, international cooperation to close offshore tax havens, and greater transparency in financial reporting. Highlighting these cases of tax evasion serves not only to inform but also to remind individuals and corporations of the legal and ethical imperatives of tax compliance. By fostering a culture of integrity and accountability, societies can work towards more equitable and just tax systems.
+
+### 06: 05 | Whistleblower retaliation 
+
+In many jurisdictions, it is illegal for companies to discriminate against or retaliate against whistleblowers who report unethical or illegal activities within their organizations. Whistleblowers play a crucial role in exposing wrongdoing and promoting transparency and accountability in the workplace. Laws such as the Sarbanes-Oxley Act in the United States and the Public Interest Disclosure Act in the United Kingdom provide legal protections for whistleblowers, prohibiting employers from taking adverse actions against them for speaking out. In the U.S., the Occupational Safety and Heath Administration urges workers to report unsafe or illegal workplace conditions and has a dedicated [Whistleblowers website](https://www.whistleblowers.gov) to inform citizens about their rights and provide resources. 
+
+!?[5 things you should know about whistleblower retaliation](https://youtu.be/56E-WED1hLc?si=0n55BGrc5Y59lJd_)
+
+>The act of **whistleblowing**—going to an official government agency and disclosing an employer’s violation of the law—is different from everyday criticism. In fact, whistleblowing is largely viewed as a public service because it helps society reduce bad workplace behavior. Being a whistleblower is not easy, however, and someone inclined to act as one should expect many hurdles. If a whistleblower’s identity becomes known, his or her revelations may amount to career suicide. Even if they keep their job, whistleblowers often are not promoted, and they may face resentment not only from management but also from rank-and-file workers who fear the loss of their own jobs. Whistleblowers may also be blacklisted, making it difficult for them to get a job at a different firm, and all as a result of doing what is ethical.
+>
+>Blowing the whistle on your employer is thus a big decision with significant ramifications. However, most employees do not want to cover up unethical or illegal conduct, nor should they. When should employees decide to blow the whistle on their boss or company? Ethicists say it should be done with an appropriate motive—to get the company to comply with the law or to protect potential victims—and not to get revenge on a boss at whom you are angry. Of course, even if an employee has a personal revenge motive, if the company actively is breaking the law, it is still important that the wrongdoing be reported. In any case, knowing when and how to blow the whistle is a challenge for an employee wanting to do the right thing.
+>
+>The employee should usually try internal reporting channels first, to disclose the problem to management before going public. Sometimes workers mistakenly identify something as wrongdoing that was not wrongdoing after all. Internal reporting gives management a chance to start an investigation and attempt to rectify the situation. The employee who goes to the government should also have some kind of hard evidence that wrongful actions have occurred; the violation should be serious, and blowing the whistle should have some likelihood of stopping the wrongful act.
+>
+>Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Protections under the Occupational Safety and Health Act of 1970
+
+>Under many federal laws, an employer cannot retaliate by firing, demoting, or taking any other adverse action against workers who report injuries, concerns, or other protected activity. One of the first laws with a specific whistleblower protection provision was the Occupational Safety and Health Act of 1970. Since passage of that law, Congress has expanded whistleblower authority to protect workers who report violations of more than twenty different federal laws across various topics. (There is no all-purpose whistleblower protection; it must be granted by individual statutes.)
+>
+>A sample of the specific laws under which whistleblowing employees are protected can be found in the environmental area, where it is in the public interest for employees to report violations of the law to the authorities, which, in turn, helps the average citizen concerned about clean air and water. The Clean Air Act protects any employee reporting air emission violations from area, stationary, and mobile sources from any retaliation for such reporting. The Water Pollution Control Act similarly protects from retaliation any employee who reports alleged violations relating to discharge of pollutants into water.
+>
+>Without the help of employees who are “on the ground” and see the violations occur, it could be difficult for government regulators to always find the source of pollution. Even when whistleblowers are not acting completely altruistically, their revelations may still be true and worthy of being brought to the public’s attention. Thus, in such situations, the responsible employee becomes a steward of the public interest, and we all should want whistleblowers to come forward. Yet not all whistleblowers are white knights, and not all their firms are evil dragons worthy of being slain.
+>
+>These legal protections typically include safeguards against termination, demotion, harassment, or any other form of retaliation against whistleblowers. Companies found to have engaged in such retaliatory actions can face severe legal consequences, including fines, civil lawsuits, and damage to their reputation. 
+>
+>Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Healthcare industry example
+
+Retaliating against whistleblowers is illegal in the United States, though common. This NBC story about a neurosurgeon's whistleblower complaint illustrates the key challenges often found in these situations. He alleges retaliation from executives at a Florida hospital after voicing concerns about management practices compromising patient care. NBC correspondent Cynthia McFadden investigates the pattern of allegations against HCA-owned hospitals, the largest for-profit hospital chain in the United States.
+
+!?[Whistleblower says he's facing retaliation for speaking out about hospital management](https://youtu.be/5BmE5IFrssg?si=t9y8XP3FQ1tUi5pj)
+
+#### Monetary implications
+
+>Blowing the whistle may bring the employee more than just intrinsic ethical rewards; it may also result in cash. The most lucrative law under which employees can blow the whistle is the False Claims Act (FCA), 31 U.S.C. §§ 3729–3733. This legislation was enacted in 1863, during the American Civil War, because Congress was worried that suppliers of goods to the Union Army might cheat the government. The FCA has been amended many times since then, and today it serves as a leading example of a statutory law that remains important after more than 150 years. The FCA provides that any person who knowingly submits false claims to the government must pay a civil penalty for each false claim, plus triple the amount of the government’s damages. The amount of this basic civil penalty is regularly adjusted by the cost of living, and the current penalty range is from $5500 to $11,000.
+>
+>More importantly for our discussion, the **qui tam provision** of the law allows private persons (called relators) to file lawsuits for violations of the FCA on behalf of the government and to receive part of any penalty imposed. The person bringing the action is a type of a whistleblower, but one who initiates legal action on his or her own rather than simply reporting it to a government agency. If the government believes it is a worthwhile case and intervenes in the lawsuit, then the relator (whistleblower) is entitled to receive between 15 and 25 percent of the amount the government recovers. If the government thinks winning is a long shot and declines to intervene in the lawsuit, the relator’s share increases to 25 to 30 percent.
+>
+>A few whistleblowers have become rich (and famous, thanks to an ABC News story), with awards ranging in the neighborhood of $100 million.[38 ](https://openstax.org/books/business-ethics/pages/7-endnotes#rf-0073)In 2012, a single whistleblower, Bradley Birkenfeld, a former UBS employee, was awarded $104 million by the Internal Revenue Service (IRS), making him the most highly rewarded whistleblower in history. Birkenfeld also spent time in prison for participating in the tax fraud he reported. In 2009, ten former Pfizer employees were awarded $102 million for exposing an illegal promotion of prescription medications. John Kopchinski, the original whistleblower and one of the ten, received $50 million. In another case involving the health care company HCA, two employees who blew the whistle on Medicare fraud ended up receiving a combined total of $100 million.
+>
+>It is not just the size of the reward that should get your attention but also the amount of money these employees saved taxpayers and/or shareholders. They turned in companies that were cheating the Centers for Medicare and Medicaid Services (affecting taxpayers), the IRS (affecting government revenues), and private health insurance (affecting premiums). The public saved far more than the reward paid to the whistleblowers.
+>
+>Incredibly high rewards such as the aforementioned are somewhat unusual, but according to National Whistleblower Center director Stephen Kohn, “Birkenfeld’s and Eckard’s rewards act like advertisements for the U.S. government’s whistleblower programs, which make hundreds of rewards every year.”[39 ](https://openstax.org/books/business-ethics/pages/7-endnotes#rf-0083)The FCA is one of four laws under which whistleblowers can receive a reward; the others are administered by the IRS, the SEC, and the Commodity Futures Trading Commission. Most whistleblowers do not get paid until the lawsuit and all appeals have concluded and the full amount of any monetary penalty has been paid to the government. Many complex cases of business fraud can go on for several years before a verdict is rendered and appealed (or a settlement is reached). An employee whose identity has been disclosed and who has been unofficially blacklisted may not see any reward money for several years.
+>
+>Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Sherron Watkins and Enron
+
+> Enron is one of the most infamous examples of corporate fraud in U.S. history. The scandal that destroyed the company resulted in approximately $60 billion in lost shareholder value. Sherron Watkins, an officer of the company, discovered the fraud and first went to her boss and mentor, founder and chairperson Ken Lay, to report the suspected accounting and financial irregularities. She was ignored more than once and eventually went to the press with her story. Because she did not go directly to the SEC, Watkins received no whistleblower protection. (The Sarbanes-Oxley Act was not passed until after the Enron scandal. In fact, it was Watkins’s circumstance and Enron’s misdeeds that helped convince Congress to pass the law.[40 ](https://openstax.org/books/business-ethics/pages/7-endnotes#rf-0093))
+>
+> Now a respected national speaker on the topic of ethics and employees’ responsibility, Watkins talks about how an employee should handle such situations. “When you’re faced with something that really matters, if you’re silent, you’re starting on the wrong path . . . go against the crowd if need be,” she said in a speech to the National Character and Leadership Symposium, (a seminar to instill leadership and moral qualities in young men and women).
+>
+> Watkins talks openly about the risk of being an honest employee, something employees should consider when evaluating what they owe their company, the public, and themselves. “I will never have a job in corporate America again. The minute you speak truth to power and you’re not heard, your career is never the same again.”
+>
+> Enron’s corporate leaders dealt with the looming crisis by a combination of blaming others and leaving their employees to fend for themselves. According to Watkins, “Within two weeks of me finding this fraud, [Enron president] Jeff Skilling quit. We did feel like we were on a battleship, and things were not going well, and the captain had just taken a helicopter home. The fall of 2001 was just the bleakest time in my life, because everything I thought was secure was no longer secure.”
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Risks faced by whistleblowers
+
+> Sometimes employees, including managers, face an ethical dilemma that they seek to address from within rather than becoming a whistleblower. The risk is that they may be ignored or that their speaking up will be held against them. However, companies should want and expect employees to step forward and report wrongdoing to their superiors, and they should support that decision, not punish it. Sallie Krawcheck, a financial industry executive, was not a whistleblower in either the classical or the legal sense. She went to her boss with her discovery of wrongdoing at work, which means she had no legal protection under whistleblower statutes. Read her story in the following box.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Sallie Krawcheck and Merrill Lynch
+
+> Shortly after Sallie Krawcheck took over as chief of Merrill Lynch’s wealth management division at Bank of America, she discovered that a mutual fund called the Stable Value Fund, a financial product Merrill had sold to customers as an investment for their 401k plans, was not as stable as its name implied. The team at Merrill had made a mistake by managing the fund in a way that assumed a higher risk than was acceptable to its investors, and the fund ended up losing much of its value. Unfortunately, because it was supposed to be a low-risk fund, the people who had invested in it, and who would suffer most from Merrill’s mistakes, were earners of relatively modest incomes, including Walmart employees, who made up the largest group.
+>
+> According to Krawcheck, she had two options. Option one was to say tough luck to the Stable Value Fund’s investors, including the Walmart employees, explaining that all investments carry some degree of risk. Option two was to bail out the investors by pouring money into the fund to increase its value. Krawcheck had already been burned once by trying to be ethical. She had been head of CitiGroup’s wealth management division (Smith Barney); in that capacity, she had made a decision to reimburse clients for some of their losses she felt were due to company mistakes. Rather than supporting her decision, however, CitiGroup terminated her, in large part for making the ethical decision rather than the profitable one. Now she was in the same predicament with a new company. Should Krawcheck risk her job again by choosing the ethical act, or should she make a purely financial decision and tell the 401k investors they would have to take the loss?
+>
+> Krawcheck began talking to people inside and outside the company to see what they thought. Most told her to just keep her head down and do nothing. One “industry titan” told her there was nothing to be done, that everyone knows stable-value funds are not really stable. Unconvinced, Krawcheck took the problem to Bank of America’s CEO. He agreed to back her up and put company money into the depleted stable-value funds to prop them up.
+>
+> Krawcheck opted to be honest and ethical by helping the small investors and felt good about it. “I thought, ethical business was good business,” she says. “It came down to my sense of purpose as well as my sense of my industry’s purpose; it wasn’t about some abstract ethical theorem . . . the answer wasn’t that I got into the business simply to make a lot of money. It was because it was a business that I knew could have a positive impact on clients’ lives.”[41](https://openstax.org/books/business-ethics/pages/7-endnotes#rf-0103)
+>
+> But the story does not really have a happy ending. Krawcheck writes that she thought at the time she had done the right thing *and* still had her job, a win/win outcome of a very tough ethical dilemma. However, speaking out did come at a cost. Krawcheck lost some important and powerful allies within the company, and although she did not lose her job at that time, she writes “the political damage was done; when that CEO retired, the clock began ticking down on my time at Bank of America, and before long I was ‘reorganized out’ of that role.”[42](https://openstax.org/books/business-ethics/pages/7-endnotes#rf-0113)
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+Those are just a couple of examples of well known whistleblowers. To learn from more people's stories, visit the [National Whistleblower Center's Recognizing Whistleblowers webpage](https://www.whistleblowers.org/members_categories/meet-whistleblowers/) established to recognize and honor the role people have played in reporting wrongdoing in this way. By safeguarding whistleblowers from retaliation, the related laws encourage a culture of accountability and integrity within organizations, empowering employees to report wrongdoing without fear of reprisal. 
+
+### 06.06 | Corporate espionage
+
+The practice of illegally acquiring trade secrets or confidential information from competitors, known as corporate espionage, presents a significant ethical quandary in the business world. While companies strive to gain competitive advantages, engaging in espionage undermines trust, distorts market competition, and violates legal standards. Competitive intelligence gathering, when conducted within legal and ethical boundaries, is a legitimate business practice, involving the analysis of publicly available information to inform strategic decisions. However, corporate espionage crosses this ethical and legal divide by resorting to theft, hacking, bribery, or surveillance to access protected or confidential information. Such actions not only breach legal statutes, like the Economic Espionage Act of 1917 in the United States, but also contravene fundamental principles of fairness and integrity in business.
+
+!?[RSA 2020 Cyber Tips - Combating Economic Espionage](https://youtu.be/BxlO5O4Gb_c?si=tyFmJ8vUfIqumhzF)
+
+The FBI works with American businesses and universities to protect trade secrets and intellectual property against the threats of theft from foreign governments going against U.S. laws and international trade norms. Our country is [estimated to lose $300 billion dollars annually from intellectual property theft](https://youtu.be/_r75ewD9oII?si=kebqk3Vtl1pdIcZ9). Inside and outside the U.S., the threats posed by corporate espionage are high. 
+
+#### High-Profile Cases of Corporate Espionage
+
+Well known cases of corporate espionage serve as reminders of the intense competitive pressures in the global business landscape and the lengths to which companies will go to gain an edge over their rivals. These incidents highlight the ethical and legal challenges inherent in protecting intellectual property and maintaining fair competition. They not only illustrate the strategic importance of corporate secrets but also the critical need for businesses to navigate the fine line between competitive intelligence and unlawful espionage. 
+
+- **Hewlett-Packard and Oracle**: In a notable instance of corporate espionage, HP filed a lawsuit against Oracle after hiring an ex-HP executive, alleging that Oracle used trade secrets and confidential information to compete unfairly. The [lawsuit was settled in 2010](https://www.reuters.com/article/idUSTRE68J4Q4/), and the executive hired by Oracle, Mark Hurd, agreed to protect HP's confidential information, while performing his job functions at Oracle. 
+- **Starbucks and Dunkin' Donuts**: Another case involved a [former Starbucks executive who was caught providing confidential product information to Dunkin' Donuts](https://nypost.com/2009/10/29/dunkin-donuts-exec-settles-java-case/). This breach of trust and unethical behavior led to legal action and highlighted the importance of loyalty and integrity within the corporate sector.
+- **General Motors vs. Volkswagen**: In 1993, one of the automotive industry's most notorious cases of corporate espionage unfolded when [General Motors (GM) and its subsidiary, Opel, accused Volkswagen (VW) of industrial espionage](https://www.nytimes.com/1993/08/09/business/gm-papers-destroyed-vw-admits.html). The controversy centered around José Ignacio López de Arriortúa, a top executive who left GM for VW, allegedly taking with him several key employees and sensitive documents related to GM's manufacturing processes and future plans. GM claimed that López and his team used these documents to streamline VW's production, giving the German automaker a competitive edge. 
+- **Google Parent Company Alphabet vs Uber**: A more recent example of corporate espionage involves the legal battle between Google's parent company, Alphabet, and Uber over self-driving car technology. In 2017, Alphabet's Waymo sued Uber, alleging that Anthony Levandowski, a former Google engineer and a pioneer in autonomous vehicle technology, had stolen thousands of documents containing trade secrets before leaving to start his own company, which was quickly acquired by Uber. Waymo claimed that Uber used this stolen information to accelerate its own self-driving car technology. The lawsuit was settled in 2018, with Uber agreeing to give Waymo a 0.34% stake in Uber, [valued at approximately $245 million](https://www.nytimes.com/2018/02/09/technology/uber-waymo-lawsuit-driverless.html), and ensuring that Waymo's confidential information was not incorporated into Uber hardware and software. 
+
+!?[Google Parent Alphabet Sues Uber Over Trade Secrets | The Wall Street Journal](https://youtu.be/cuKAPzSk5Ag?si=3sxA_WQlVbYh-h5f)
+
+These cases illustrate the potential legal repercussions and damage to reputations that can result from engaging in corporate espionage. They emphasize the need for companies to foster a culture of ethical behavior and respect for competitors' intellectual property.
+
+#### How companies navigate  the competitive landscape ethically and legally
+
+Businesses must navigate the competitive landscape with a commitment to ethical principles. Establishing clear guidelines on competitive intelligence gathering, training employees on ethical conduct, and implementing robust security measures to protect one's own intellectual property are essential steps in promoting an ethical business environment. Furthermore, corporations have a responsibility to stakeholders to engage in practices that ensure long-term sustainability and trust, rather than seeking short-term gains through unethical means.
+
+Corporate espionage, with its illegal and immoral undertones, poses significant challenges to the ethical integrity of the business community. It is imperative for companies to distinguish between competitive intelligence and espionage, adhering to legal and ethical standards in their pursuit of market leadership. By fostering a culture of transparency, respect for competition, and ethical conduct, businesses can contribute to a fair and trustworthy corporate ecosystem. This commitment to ethics not only safeguards the company's reputation and legal standing but also upholds the broader values of fairness and integrity that are foundational to a functioning and competitive marketplace.
