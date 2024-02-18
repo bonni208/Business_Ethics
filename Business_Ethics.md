@@ -1732,7 +1732,7 @@ Reflection prompts are used to suggest questions for deeper exploration. Each ti
 > Now that we have the basics down we will start practicing some of the web techniques that you can use to get quick answers as you "sift".
 
 
-### 04.02 | Investigate the Source
+### 04.02 | Investigate the source
 
 > One of the four "moves" is to "investigate the source". The following two short videos (less than four minutes) will introduce you to this move. As you'll see, we're not expecting people to do ground-breaking research, just to do some very quick checks.
 >
@@ -2563,7 +2563,7 @@ This is back to being Dr. B, again. Here are a few resources that you might be i
 
 - [**VIDEOS:** My YouTube channel where I vlog my own learning about SIFT (the four moves)](https://www.youtube.com/playlist?list=PLA4TNb6P_shZ6Oe0lEq0BuGhLYkikjxYl)
 
-## 05. The Good
+## 05. The good
 
 ![Course lesson graphic 05](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-05.jpg)
 
@@ -2575,28 +2575,35 @@ In "The Good, the Bad, and the Ugly," the characters navigate a morally ambiguou
 
 We will save "the ugly" for a future lesson, where we explore those actions that are not illegal, but that are immoral or harmful to the broader society, in some way. 
 
-#### ? 05.00 | Review questions | The good, the bad, and the ugly
+##### ? 05.00 | Review questions | The good, the bad, and the ugly
 
-The phrase "the good, the bad, and the ugly" originally comes from a classic Western film directed by Sergio Leone in 1966.
+The phrase "*the good, the bad, and the ugly*" originally comes from a classic Western film directed by Sergio Leone in 1966.
 
 [[X]] True
 [[ ]] False
 
-In this business ethics textbook, the good refers to actions that are unethical but not illegal.
+In this business ethics textbook, *the good* refers to actions that are unethical but not illegal.
 
 [[ ]] True
 [[X]] False
 
 
-The concept of the bad in the context of business ethics includes actions that are deceitful, fraudulent, and illegal.
+The concept of *the bad* in the context of business ethics includes actions that are deceitful, fraudulent, and illegal.
 
 [[X]] True
 [[ ]] False
 
-The exploration of the ugly in this business ethics text refers to actions that are illegal and morally wrong.
+The exploration of *the ugly* in this business ethics text refers to actions that are illegal and morally wrong.
 
 [[ ]] True
 [[X]] False
+
+The phrase "the good, the bad, and the ugly" is used in the context of business ethics to:
+
+[[ ]] Highlight the financial outcomes of different business strategies.
+[[X]] Examine the spectrum of ethical behaviors within organizational settings.
+[[ ]] Discuss the legal consequences of business decisions.
+[[ ]] Focus solely on the positive aspects of business practices.
 
 Before we can start talking about the various ways that companies may structure themselves to align with their core purpose and values, it is essential to review some key terms that you perhaps have already heard about in other classes. 
 
@@ -2618,6 +2625,49 @@ Before we can start talking about the various ways that companies may structure 
 
 ***Figure** **4.3** A corporation’s typical stakeholders include (but are not limited to) its customers or clients, the community in which it operates, the natural environment, its employees, the media, and the government. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)*
 
+##### ? 05.01 | Review questions | Limited liability
+
+Limited liability means that the owners of corporations can lose more than they invested in shares.
+
+[[ ]] True
+[[x]] False
+
+An LLC is organized and managed more like a corporation than a partnership.
+
+[[x]] True
+[[ ]] False
+
+Limited liability increases the attractiveness of investments to potential shareholders.
+
+[[ ]] True
+[[x]] False
+
+Limited liability protects owners from losing more than:
+
+[[ ]] The interest earned on their investments.
+[[x]] The amount they paid for their shares of ownership.
+[[ ]] All of their personal assets.
+[[ ]] The total assets of the corporation.
+
+Corporate status is conferred upon a business by:
+
+[[ ]] Federal law.
+[[ ]] An executive order.
+[[x]] State law (statute).
+[[ ]] A national business registry.
+
+Fill in the blank: Corporate status enables businesses to _______ their losses, spreading them out over society rather than being absorbed individually.
+
+[[socialize]]
+
+Fill in the blank: Corporations owe a debt to society in return for the right to make unlimited profits with _______.
+
+[[limited liability]]
+
+Fill in the blank: The concept of "quid pro quo" in corporate social responsibility means _______.
+
+[[this for that]]
+
 #### Balancing the Many Responsibilities of a Corporation
 
 > A longstanding ethical debate about corporate social responsibility asks whether, in fact, a corporation owes a duty to society or only to its shareholders. The line of important court cases shaping this issue spans almost a century and includes a series of landmark cases involving the Ford Motor Company, the Wrigley Company, and Hobby Lobby.
@@ -2634,7 +2684,7 @@ Before we can start talking about the various ways that companies may structure 
 >
 > The legality and appropriateness of social responsibility as a business policy have followed a long and winding road since 1919. In the 1950s and 1960s, for example, some state courts rejected the shareholder primacy doctrine, instead ruling that a broad interpretation of the business judgment rule allowed managers discretion when it came to allocating company assets, including using them for programs demonstrating social awareness.
 >
-> In 1968, in a highly publicized case, the court ruled that the board of directors of the Wrigley Company, of baseball and chewing gum fame, had a significant amount of discretion in determining how to balance the interests of stakeholders.[5 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-005)The case of *Shlensky v. Wrigley* (1968) revolved around William Wrigley Jr.’s ownership of the Chicago Cubs. The baseball team had steadfastly refused to install the lights necessary for playing night games at Wrigley Field, even though every other stadium in major league baseball had lights. Instead, the Cubs had respected the local community’s belief that night baseball games and their associated lights would negatively affect the surrounding neighborhood, creating more opportunities for crime. In the view of some investors, however, the Cubs’ decision was depressing profits for shareholders. The shareholders brought a challenge against the Wrigley Company, but the Cubs’ owners won the case.
+> In 1968, in a highly publicized case, the court ruled that the board of directors of the Wrigley Company, of baseball and chewing gum fame, had a significant amount of discretion in determining how to balance the interests of stakeholders.[5 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-005)The case of **Shlensky v. Wrigley** (1968) revolved around William Wrigley Jr.’s ownership of the Chicago Cubs. The baseball team had steadfastly refused to install the lights necessary for playing night games at Wrigley Field, even though every other stadium in major league baseball had lights. Instead, the Cubs had respected the local community’s belief that night baseball games and their associated lights would negatively affect the surrounding neighborhood, creating more opportunities for crime. In the view of some investors, however, the Cubs’ decision was depressing profits for shareholders. The shareholders brought a challenge against the Wrigley Company, but the Cubs’ owners won the case.
 >
 > The Wrigley case represented a shift from the idea that corporations should pursue only the maximization of shareholder value, as had been held in the Ford Motor Company case.[6 ](https://openstax.org/books/business-ethics/pages/4-endnotes#rf-006)As a follow-up to this case, lights were finally installed at Wrigley Field in 1988, but only after the owner, William Wrigley III, had sold the team (in 1981) to the Tribune Company, a large media conglomerate that fought for six years to install lights. However, the case stands as precedent for the ability of management to balance various interests and profits when making decisions.
 >
@@ -2692,6 +2742,46 @@ Before we can start talking about the various ways that companies may structure 
 >
 > Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
 
+##### ? 05.01 | Review questions | The benefits of structuring as a corporation
+
+The Michigan Supreme Court's ruling in Dodge v. Ford Motor Company supported the idea that corporations owe a duty primarily to society over shareholders.
+
+[[x]] True
+[[ ]] False
+
+The Wrigley case indicated a shift towards recognizing the rights of corporations to balance stakeholder interests against maximizing shareholder value.
+
+[[X]] True
+[[ ]] False
+
+The principle that corporate directors and officers are not liable for honest mistakes of judgment is known as:
+
+[[ ]] Corporate immunity doctrine.
+[[ ]] Shareholder supremacy rule.
+[[x]] Business judgment rule.
+[[ ]] Stakeholder engagement policy.
+
+The Supreme Court ruling in Burwell v. Hobby Lobby expanded corporate rights by allowing corporations to:
+
+[[ ]] Ignore all federal laws on moral grounds.
+[[ ]] Operate without any legal constraints.
+[[x]] Object to specific federal mandates on ethical, moral, or religious grounds.
+[[ ]] Exclusively prioritize shareholder profits over all other considerations.
+
+Fill in the blank: The debate over corporate social responsibility is often framed as a duty to _______ versus a duty to shareholders.
+
+[[ society ]]
+
+Fill in the blank: Milton Friedman argued that corporate social initiatives limit _______ wealth.
+
+[[ shareholder ]]
+
+Fill in the blank: Corporate directors have a fiduciary duty to promote the best interests of the _______.
+
+[[ corporation ]]
+
+
+
 ### 05.02 | An alternate business formation: the Benefit Corporation
 
 Benefit corporations, or B Corps, represent a paradigm shift in corporate governance by allowing companies to prioritize social and environmental objectives alongside financial goals. Unlike traditional C corporations, which, as we have discussed, are often seen as legally required to prioritize the interests of shareholders above all else, benefit corporations have the flexibility to pursue a broader set of objectives that benefit various stakeholders, including employees, communities, and the environment. This alternative corporate structure enables companies to embed their social and environmental values into their DNA, aligning business practices with their broader mission and purpose. 
@@ -2708,15 +2798,56 @@ B Lab started in 2006 and seeks to transform the world's economies to place peop
 
 #### Examples of B Corps
 
-One example of a well-known benefit corporation we have explored often in this class is Patagonia, the outdoor apparel company renowned for its commitment to environmental sustainability and social responsibility. As a certified B Corp, Patagonia integrates environmental and social considerations into its business decisions, from supply chain management to product design and marketing. The company's mission statement—"Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis"—guides its operations and drives innovation in sustainable practices.
+One example of a well-known benefit corporation we have explored often in this class is Patagonia, the outdoor apparel company renowned for its commitment to environmental sustainability and social responsibility. As a certified B Corp, Patagonia integrates environmental and social considerations into its business decisions, from supply chain management to product design and marketing. The company's mission statement guides its operations and drives innovation in sustainable practices:
 
-Warby Parker, a popular eyewear brand, exemplifies the benefits of the benefit corporation structure in prioritizing social impact. Beyond its core business of selling stylish and affordable eyewear, Warby Parker is committed to providing access to vision care for underserved communities. Through its "Buy a Pair, Give a Pair" program, the company donates a pair of glasses to someone in need for every pair sold. By embracing the benefit corporation model, Warby Parker has been able to integrate its social mission into its business strategy, creating shared value for customers, employees, and society as a whole.
+> Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
+>
+> -- Patagonia's mission statement
+
+Warby Parker, a popular eyewear brand, exemplifies the benefits of the benefit corporation structure in prioritizing social impact. Beyond its core business of selling stylish and affordable eyewear, Warby Parker is committed to providing access to vision care for underserved communities. 
+
+![Girl wearing glasses with a smile on her face](https://innovatelearning.s3.amazonaws.com/buy-a-pair-give-a-pair.jpg)
+
+Through its "Buy a Pair, Give a Pair" program, the company donates a pair of glasses to someone in need for every pair sold. By embracing the benefit corporation model, Warby Parker has been able to integrate its social mission into its business strategy, creating shared value for customers, employees, and society as a whole.
 
 #### B Lab Standards
 
 The B Lab standards serve as a comprehensive framework for assessing a company's social and environmental performance, transparency, and accountability. Developed by B Lab, these rigorous criteria evaluate various aspects of a company's operations, including its impact on workers, communities, customers, and the environment. By measuring performance across five key areas—governance, workers, customers, community, and environment—the B Lab standards provide a holistic assessment of a company's commitment to social and environmental responsibility. 
 
 Companies that seek B Corp certification must measure their impact according to the B Lab's standards. The [B Impact Assessment](https://www.bcorporation.net/en-us/programs-and-tools/b-impact-assessment/) facilitates more then 150,000 organizations assessing and improving their "positive impact performance for environment, communities, customers, suppliers, employees, and shareholders." Through the B Corp certification process, companies undergo a thorough evaluation to ensure compliance with these standards, demonstrating their commitment to using business as a force for good. By adhering to the B Lab standards, companies can distinguish themselves as leaders in ethical and sustainable business practices, inspiring trust, loyalty, and positive impact among stakeholders.
+
+##### ? 05.02 | Review questions | Benefit corporations
+
+Benefit corporations are legally required to prioritize shareholder interests over social and environmental goals.
+
+[[ ]] True
+[[X]] False
+
+Patagonia, as a certified B Corp, focuses on integrating environmental and social considerations into all areas of its business operations.
+
+[[X]] True
+[[ ]] False
+
+B Lab standards evaluate a company's performance in which of the following areas?
+
+[[ ]] Financial profitability only.
+[[ ]] Shareholder returns.
+[[x]] Governance, workers, customers, community, and environment.
+[[ ]] Executive compensation.
+
+Fill in the blank: Companies seeking B Corp certification must assess their impact using an _______ assessment.
+
+[[Impact]]
+
+Fill in the blank: Warby Parker's "Buy a Pair, Give a Pair" program is an example of how benefit corporations can create shared value for _______, employees, and society.
+
+[[ customers ]]
+
+Fill in the blank: The B Corp movement aims to build a more _______, sustainable, and equitable economy through collective action.
+
+[[ inclusive ]]
+
+
 
 ### 05.03 | Stockholders, stakeholders, and goodwill
 
@@ -2773,6 +2904,39 @@ Effective stakeholder management is a strategic imperative for companies seeking
 > A company’s name, its corporate logo, and its trademark will necessarily increase in value as stakeholders view that company in a more favorable light. A good reputation is essential for success in the modern business world, and with information about the company and its actions readily available via mass media and the Internet (e.g., on public rating sites such as Yelp), management’s values are always subject to scrutiny and open debate. These values affect the environment outside and inside the company. The **corporate culture**, for instance, consists of shared beliefs, values, and behaviors that create the internal or organizational context within which managers and employees interact. Practicing ethical behavior at all levels—from CEO to upper and middle management to general employees—helps cultivate an ethical corporate culture and ethical employee relations.
 >
 > Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+##### ? 05.03 | Review questions | Stockholders, stakeholders, and goodwill
+
+Milton Friedman's Friedman doctrine exclusively focuses on the social responsibilities of businesses rather than their financial performance.
+
+[[ ]] True
+[[X]] False
+
+Legal experts unanimously agree that corporations must prioritize profits over other stakeholder needs.
+
+[[ ]] True
+[[X]] False
+
+According to the debate on corporate social goals, corporations:
+
+[[ ]] Are only legally permitted to focus on environmental sustainability.
+[[ ]] Must ignore worker well-being to maximize profits.
+[[x]] Are not required to maximize profits at the expense of everything else.
+[[ ]] Should prioritize shareholder value according to all state laws.
+
+Fill in the blank: Shareholder capitalism prioritizes the interests of _______ above all else.
+
+[[ shareholders ]]
+
+Fill in the blank: Stakeholder capitalism recognizes the importance of balancing the interests of all stakeholders, including employees, customers, suppliers, communities, and  _______.
+
+[[shareholders]]
+
+Fill in the blank: ________ includes the value of a company's reputation, brand name, and the loyalty of its established customer base.
+
+[[goodwill]]
+
+
 
 ### 05.04 | Corporate social responsibility and doing well by doing good
 
@@ -2861,6 +3025,61 @@ TOMS has also diversified its product offerings beyond shoes to include eyewear,
 
 TOMS Shoes has demonstrated that it is possible to maintain profitability while also prioritizing social and environmental impact. Through its innovative business model, diverse product offerings, operational efficiency, and strategic partnerships, TOMS has successfully balanced purpose and profit, setting a powerful example for businesses seeking to create positive change in the world.
 
+##### ? 05.04 | Review questions | Corporate social responsibility and going well by doing good 
+
+Corporate Social Responsibility (CSR) solely focuses on a company's profitability, excluding social and environmental considerations.
+
+[[ ]] True
+[[x]] False
+
+Patagonia's initiative, *1% for the Planet*, exemplifies its commitment to environmental sustainability by encouraging consumers to buy more clothes.
+
+[[ ]] True
+[[X]] False
+
+
+The triple bottom line introduced by John Elkington focuses on assessing companies based on:
+
+[[ ]] Only their financial performance.
+[[ ]] Their leadership in the industry.
+[[x]] People, Planet, Profit, highlighting the interconnectedness between business success and societal well-being.
+[[ ]] The number of their employees.
+
+Which aspect of CSR focuses on ensuring the well-being and empowerment of employees, customers, and broader society?
+
+[[ ]] Profit
+[[x]] People
+[[ ]] Planet
+[[ ]] Progress
+
+
+What is the primary environmental goal set by Apple as part of its CSR initiatives?
+
+[[ ]] To become the industry leader in technology innovation
+[[x]] To bring its entire carbon footprint to net zero by 2030
+[[ ]] To increase its market share globally
+[[ ]] To enhance user privacy and data protection
+
+
+How does Chop Value contribute to environmental sustainability?
+
+[[ ]] By increasing the production of chopsticks
+[[x]] By recycling used chopsticks into new products
+[[ ]] By lobbying for global environmental policies
+[[ ]] By focusing solely on profit maximization
+
+
+What innovative approach does TOMS Shoes use to integrate social responsibility into its business model?
+
+[[ ]] Investing in technology startups
+[[x]] Donating a pair of shoes for every pair sold
+[[ ]] Maximizing shareholder dividends
+[[ ]] Reducing operational costs
+
+Fill in the blank: Chop Value's innovative approach involves recycling _______ to create new products.
+
+[[ chopsticks ]]
+
 ### 05.05 | Ethical leadership 
 
 Leaders who embody and promote ethical behavior through their actions and decisions can make a tremendous impact in organizations, in terms of ultimately getting more people to do the right thing, when faced with difficult choices. Ethical leaders are instrumental in shaping an organization's culture and ethical standards. They inspire trust and respect among employees and stakeholders by being transparent, fair, and responsible. Microsoft's CEO, Satya Nadella, emphasizes the importance of fostering a culture of empathy, diversity, and inclusion, where ethical considerations are woven into the fabric of decision-making processes.
@@ -2914,6 +3133,51 @@ Polman's advocacy for sustainable business practices extended beyond Unilever, a
 In 2019, venturing beyond Unilever, Polman, alongside Jeff Seabright (Unilever's former Chief Sustainability Officer) and Kees Kruythoff, launched IMAGINE. This innovative organization is dedicated to assisting businesses in tackling poverty and inequality, as well as combating the urgent threat of climate change. Polman has actively engaged in venture capital, investing in a range of high-profile startups focused on climate solutions and mission-driven objectives. 
 
 Through his relentless advocacy for environmental sustainability, social equity, and responsible business practices, Polman has emerged as a leading global advocate for [conscientious capitalism](https://www.investopedia.com/terms/c/conscious-capitalism.asp) and sustainable development. He has been a vocal supporter of the United Nations Sustainable Development Goals (SDGs) and has encouraged other business leaders to prioritize long-term sustainability over short-term profits.
+
+##### ? 05.05 | Review questions | Ethical leadership
+
+Satya Nadella believes that the success of Microsoft is solely based on technological innovation, without the need for a strong ethical culture.
+
+[[ ]] True
+[[X]] False
+
+Rosalind Brewer has been a vocal advocate for racial equality and diversity in the corporate sector, significantly contributing to initiatives aimed at creating an inclusive corporate culture.
+
+[[X]] True
+[[ ]] False
+
+Under Paul Polman's leadership, Unilever aimed to decouple the company's growth from its environmental impact, focusing on sustainable business practices.
+
+[[X]] True
+[[ ]] False
+
+What is the core element of ethical leadership emphasized by Microsoft's CEO, Satya Nadella?
+
+[[ ]] Maximizing shareholder value
+[[ ]] Focusing solely on technological innovation
+[[x]] Fostering a culture of empathy, diversity, and inclusion
+[[ ]] Prioritizing aggressive market competition
+
+Indra Nooyi's leadership at PepsiCo was characterized by which of the following strategies?
+
+[[ ]] Ignoring environmental concerns for the sake of profit
+[[ ]] Focusing exclusively on short-term financial gains
+[[x]] Integrating sustainability and health-conscious product offerings
+[[ ]] Reducing the company's global presence
+
+Rosalind Brewer's commitment to diversity and inclusion was notably demonstrated during her tenure at:
+
+[[ ]] Microsoft
+[[x]] Starbucks
+[[ ]] Google
+[[ ]] Amazon
+
+Paul Polman's leadership at Unilever was distinguished by his focus on:
+
+[[ ]] Disregarding environmental sustainability for faster growth
+[[x]] Reducing environmental footprint and increasing positive social impact
+[[ ]] Solely expanding market share without regard to corporate social responsibility
+[[ ]] Concentrating exclusively on immediate financial returns
 
 ### 05.06 | The United Nations Sustainable Development Goals (SDGs)
 
@@ -3018,6 +3282,43 @@ We are more than halfway through the timeframe in which the goals were meant to 
 
 By aligning with the United Nations Sustainable Development Goals, these companies demonstrate the pivotal role of business in driving positive societal impact and advancing global sustainability objectives. Through diverse voices and proactive initiatives, businesses contribute to a more equitable, resilient, and sustainable future for all.
 
+##### ? 05.06 | Review questions | SDGs
+
+The United Nations Sustainable Development Goals (SDGs) are focused solely on environmental issues.
+
+[[ ]] True
+[[X]] False
+
+
+Electric vehicles (EVs) are an essential component of SDG 7, which aims for affordable and clean energy.
+
+[[X]] True
+[[ ]] False
+
+Uber's initiatives such as UberPool and UberGreen contribute to achieving SDG 11 by promoting sustainable urban mobility.
+
+[[X]] True
+[[ ]] False
+
+SDG 13, which calls for urgent action to combat climate change, is directly supported by companies investing in:
+
+[[ ]] High-emission transportation options.
+[[ ]] Fossil fuel extraction.
+[[X]] Low-emission vehicles and public transportation infrastructure.
+[[ ]] Single-use plastic production.
+
+Fill in the blank: Proterra Inc. supports SDG 13 by manufacturing zero-emission electric _______ for public transit.
+
+[[ buses ]]
+
+Fill in the blank: The Coca-Cola Company's 5by20 program aims to economically empower 5 million women entrepreneurs, directly contributing to SDG _______.
+
+[[ 5 ]]
+
+Fill in the blank: Salesforce's commitment to employee well-being and social responsibility supports SDG _______ by promoting decent work and economic growth.
+
+[[ 8 ]]
+
 ### 05.07 Foster professional ethics in your career
 
 People often remark when taking this class their surprise that the individuals who worked for the businesses that have become well known for their scandals did not do more to protect their own integrity, while doing right by the company and its stakeholders. This section explores ways that you might foster professional ethics in your career, starting with how to increase your likelihood of finding a company that aligns with your values, the role that professional associations can play in shaping the actions of their members, and how your purchases reflect your ethics and integrity. 
@@ -3089,6 +3390,40 @@ Professional associations and codes of conduct play a crucial role in fostering 
 - **American Institute of Certified Public Accountants (AICPA):** AICPA is the premier national professional organization for CPAs, providing resources, education, advocacy, and networking opportunities to support the accounting profession. AICPA sets ethical standards for CPAs through its [Code of Professional Conduct](https://pub.aicpa.org/codeofconduct/Ethics.aspx) and offers various certifications, including the CPA designation. Membership in AICPA is highly regarded among accounting professionals and is considered a mark of excellence and commitment to ethical practice in the field of accounting.
 - **American Institute of Graphic Arts (AIGA):** AIGA stands as the largest professional association for design in the United States. It supports graphic designers and creative professionals across various disciplines, providing resources, advocacy, and ethical guidelines to enhance their practice and professional growth. [AIGA's Standards of Professional Practice](https://www.aiga.org/resources/aiga-standards-of-professional-practice) offers a framework for designers to navigate ethical challenges, emphasizing the importance of respect, transparency, and responsibility in their work. 
 - **National Association of Realtors (NAR):** The NAR represents over one million members across the United States, including residential and commercial realtors. [The NAR Code of Ethics](https://www.nar.realtor/about-nar/governing-documents/the-code-of-ethics) outlines a comprehensive set of ethical guidelines that realtors are expected to adhere to, emphasizing honesty, fairness, and respect in all dealings with clients, the public, and other realtors. 
+
+##### ? 05.07 | Review questions | Foster professional ethics in your career 
+
+Professional associations and codes of conduct play a minor role in fostering ethical behavior within industries.
+
+[[ ]] True
+[[X]] False
+
+According to the text, what is a key consideration for young people when selecting work and career opportunities?
+
+[[X]] Ensuring alignment of company values with personal ethics.
+[[ ]] Focusing solely on pay and contractual benefits.
+[[ ]] Pursuing opportunities for rapid career advancement.
+[[ ]] Prioritizing job location over company culture.
+
+Fill in the blank: The exercise of moral agency involves making judgments about the alignment of personal and corporate _______.
+
+[[ conscience ]]
+
+Fill in the blank: According to the text, the role of top leadership in fostering ethical behavior is to set the _______ at the top.
+
+[[ tone ]]
+
+According to the text, job satisfaction and loyalty are primarily influenced by financial compensation.
+
+[[ ]] True
+[[X]] False
+
+Which organization provides ethical guidelines for HR practitioners to uphold integrity, fairness, and respect for human dignity?
+
+[[ ]] American Marketing Association (AMA)
+[[ ]] American Management Association (AMA)
+[[X]] Society for Human Resource Management (SHRM)
+[[ ]] Public Relations Society of America (PRSA)
 
 ### 05. 08 | Our role as a consumers
 
@@ -3163,7 +3498,7 @@ Robeck wants to grow Let's Be Kind to grow around the world, so that communities
 
 !?[Costa Mesa Mayor's Award - Rebekah Robeck, Let's Be Kind](https://youtu.be/heCUSXF_93M?si=XtYajMjacjhbj4rf)
 
-Healthcare workers, restaurant staff, and hotel employees have faced unprecedented challenges and risks, providing us with with some of the most fundamental services in our society. We are experiencing a shortage of these types of workers, such as in the nursing workforce, with stress and burnout being a big factor in the not being able to retain nurses ([Tamata & Mohammadnezhad, 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9912424/)). In 2023, [nearly 2 million hospitality and leisure jobs were unfilled](https://www.washingtonpost.com/business/2023/02/03/worker-shortage-restaurants-hotels-economy/), with workers wanting more flexibility, better benefits, and a more stable job. 
+While Robeck's Let's Be Kind initiative started in a school context, there are plenty of other contexts that are in desperate need of our collective kindness. Healthcare workers, restaurant staff, and hotel employees have faced unprecedented challenges and risks, providing us with with some of the most fundamental services in our society. We are experiencing a shortage of these types of workers, such as in the nursing workforce, with stress and burnout being a big factor in the not being able to retain nurses ([Tamata & Mohammadnezhad, 2023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9912424/)). In 2023, [nearly 2 million hospitality and leisure jobs were unfilled](https://www.washingtonpost.com/business/2023/02/03/worker-shortage-restaurants-hotels-economy/), with workers wanting more flexibility, better benefits, and a more stable job. 
 
 Genesis 2 reveals that work is a foundational part of being human. In fact, if we go back to Genesis 1, we see depictions of an active God who works in creating all of humanity. The act of rest is also modeled for us by God and we are told how vital a sabbath is for our physical and spiritual lives ([John L. Mackay, 2018](https://www.christian.org.uk/wp-content/uploads/dignityofwork.pdf)). "There is nothing better for a man than to enjoy his work," we are told in  Ecclesiastes 3:22, despite the inherent difficulties of work described in other verses in Ecclesiastes. The United States Conference of Catholic Bishops stresses the importance of [the dignity of work and the rights of workers](https://www.usccb.org/beliefs-and-teachings/what-we-believe/catholic-social-teaching/the-dignity-of-work-and-the-rights-of-workers). They urge us to do better, writing that: 
 
@@ -3202,7 +3537,80 @@ As consumers, our ethical role lies in recognizing the limitations of material p
 
 Consumers play a pivotal role in shaping the ethical landscape of the business world. By making informed and ethical purchasing decisions, advocating for social and environmental responsibility, and supporting companies that prioritize ethical practices, we can contribute to a more just, equitable, and sustainable future for all.
 
-## 06. The Bad
+##### ? 05.08 | Review questions | Our role as consumers
+
+Ethical consumption can directly influence business practices and foster positive change in the global economy.
+
+[[X]] True
+[[ ]] False
+
+Labor trafficking is only a concern in certain industries and does not affect global supply chains broadly.
+
+[[ ]] True
+[[X]] False
+
+Fast fashion has no significant impact on the environment and worker conditions.
+
+[[ ]] True
+[[X]] False
+
+Income inequality has no historical roots in laws, institutions, or social norms.
+
+[[ ]] True
+[[X]] False
+
+Money's role in happiness increases indefinitely as people's income levels rise.
+
+[[ ]] True
+[[X]] False
+
+What does fair trade aim to ensure for producers in developing countries?
+
+[[ ]] Higher export taxes.
+[[X]] Fair compensation for their labor and goods.
+[[ ]] Strict production quotas.
+[[ ]] Access to luxury markets.
+
+Why is supporting companies that pay fair wages important?
+
+[[ ]] It ensures higher dividends for investors.
+[[ ]] It increases the company's global competitiveness.
+[[X]] It helps workers meet their basic needs and supports economic equity.
+[[ ]] It simplifies payroll management for companies.
+
+What is a significant consequence of fast fashion?
+
+[[ ]] Increased global trade.
+[[ ]] Enhanced creativity in fashion design.
+[[X]] Exploitation of workers and environmental damage.
+[[ ]] Improved quality of clothing.
+
+How can consumers contribute to combatting labor trafficking?
+
+[[ ]] By demanding lower prices.
+[[ ]] By focusing on brand popularity.
+[[X]] By choosing products from companies with ethical sourcing and transparency.
+[[ ]] By prioritizing convenience in shopping.
+
+Fill in the Blank Questions:
+
+Fair trade initiatives contribute to the __________ empowerment of marginalized communities.
+
+[[economic]]
+
+Advocating for ________ is a way consumers can help ensure economic equity and support livelihoods.
+
+[[fair wages ]]
+
+Recognizing the value of essential workers' labor and expressing gratitude for their service fosters a culture of ________ and respect.
+
+[[dignity]]
+
+**End of Lesson 05**
+
+You have reached the end of Lesson 05. It is time to stop reading (for now) and to go on to work on Challenge 05. 
+
+## 06. The bad
 
 ![Course lesson graphic 06](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-06.jpg)
 
@@ -3274,10 +3682,6 @@ The illegal trades made by Rajaratnam and his associates at the Galleon Group ge
 
 These examples of insider trading illustrate not only the illegal nature of using nonpublic information for trading but also the broader ethical implications for trust and integrity in the financial markets. They serve as cautionary tales for individuals and institutions alike about the importance of adhering to ethical standards and the legal consequences of failing to do so.
 
-
-
-
-
 ### 06.03 | Environmental pollution
 
 Actions taken by businesses can have a profound impact on the natural world and the people who inhabit the communities in which companies are located. This section explores corporate negligence, illegal dumping, regulatory evasion, and the significant repercussions these actions can have on ecosystems and vulnerable populations. 
@@ -3286,7 +3690,7 @@ A pivotal case that brings to light the severity and human cost of environmental
 
 !?[A lame-ass offer - Erin Brockovich](https://youtu.be/BGX4nMrnxg0?si=Z-85iQuxVHF5i_Pa)
 
-Don't miss the best part of the clip, when the attorney for the other side begins to take a drink of the water they have provided in the conference room. Erin Brockovich says: 
+Don't miss the best part of the clip, when the attorney for the other side begins to take a drink of the water they have provided in the conference room. As they take that sip, Erin Brockovich says: 
 
 > By the way, we had that water brought in special for you folks. It came from a well in Hinkley. 
 >
@@ -3336,25 +3740,7 @@ These instances of dumping and waste mismanagement exemplify the dire consequenc
 >
 > Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
 
-
-
-#### Regulatory evasion and loophole exploitation 
-
-
-
-#### Impact on communities and environmental justice 
-
-
-
-
-
-Sweatshop labor
-
-
-
-Tax evasion
-
-### 06.04 | Tax Evasion
+### 06.04 | Tax evasion
 
 Tax evasion, the illegal non-payment or underpayment of taxes, poses a significant ethical and legal challenge within both corporate and individual contexts. This deliberate act not only undermines the integrity of tax systems but also shifts the financial burden to law-abiding taxpayers and deprives governments of funds necessary for public services. Unlike tax avoidance, which exploits legal loopholes to minimize tax liabilities, tax evasion involves deceitful practices such as underreporting income, inflating deductions, or hiding money in offshore accounts. 
 
@@ -3384,7 +3770,7 @@ Tax evasion raises profound ethical questions about fairness, social responsibil
 
 ### 06: 05 | Whistleblower retaliation 
 
-In many jurisdictions, it is illegal for companies to discriminate against or retaliate against whistleblowers who report unethical or illegal activities within their organizations. Whistleblowers play a crucial role in exposing wrongdoing and promoting transparency and accountability in the workplace. Laws such as the Sarbanes-Oxley Act in the United States and the Public Interest Disclosure Act in the United Kingdom provide legal protections for whistleblowers, prohibiting employers from taking adverse actions against them for speaking out. In the U.S., the Occupational Safety and Heath Administration urges workers to report unsafe or illegal workplace conditions and has a dedicated [Whistleblowers website](https://www.whistleblowers.gov) to inform citizens about their rights and provide resources. 
+In many jurisdictions, it is illegal for companies to discriminate against or retaliate against whistleblowers who report unethical or illegal activities within their organizations. Whistleblowers play a crucial role in exposing wrongdoing and promoting transparency and accountability in the workplace. Laws such as the **Sarbanes-Oxley Act** in the United States and the Public Interest Disclosure Act in the United Kingdom provide legal protections for whistleblowers, prohibiting employers from taking adverse actions against them for speaking out. In the U.S., the **Occupational Safety and Heath Administration** urges workers to report unsafe or illegal workplace conditions and has a dedicated [Whistleblowers website](https://www.whistleblowers.gov) to inform citizens about their rights and provide resources. 
 
 !?[5 things you should know about whistleblower retaliation](https://youtu.be/56E-WED1hLc?si=0n55BGrc5Y59lJd_)
 
@@ -3488,3 +3874,91 @@ These cases illustrate the potential legal repercussions and damage to reputatio
 Businesses must navigate the competitive landscape with a commitment to ethical principles. Establishing clear guidelines on competitive intelligence gathering, training employees on ethical conduct, and implementing robust security measures to protect one's own intellectual property are essential steps in promoting an ethical business environment. Furthermore, corporations have a responsibility to stakeholders to engage in practices that ensure long-term sustainability and trust, rather than seeking short-term gains through unethical means.
 
 Corporate espionage, with its illegal and immoral undertones, poses significant challenges to the ethical integrity of the business community. It is imperative for companies to distinguish between competitive intelligence and espionage, adhering to legal and ethical standards in their pursuit of market leadership. By fostering a culture of transparency, respect for competition, and ethical conduct, businesses can contribute to a fair and trustworthy corporate ecosystem. This commitment to ethics not only safeguards the company's reputation and legal standing but also upholds the broader values of fairness and integrity that are foundational to a functioning and competitive marketplace.
+
+##### ? 06 | The bad | review questions
+
+Insider trading enhances the integrity of financial markets and promotes a level playing field for all investors.
+
+[[ ]] True
+[[X]] False
+
+Environmental pollution by corporations is a minor issue that has little impact on public health or ecosystems.
+
+[[ ]] True
+[[X]] False
+
+Tax evasion is a legal strategy for minimizing a company's or individual's tax liabilities.
+
+[[ ]] True
+[[X]] False
+
+Retaliating against whistleblowers is an accepted practice for protecting a company's interests.
+
+[[ ]] True
+[[X]] False
+
+Corporate espionage is a legitimate form of competitive intelligence gathering.
+
+[[ ]] True
+[[X]] False
+
+What is the primary legal consequence of engaging in price fixing?
+
+[[ ]] Receiving a tax deduction
+[[ ]] Gaining a competitive advantage with no repercussions
+[[X]] Facing significant fines and penalties under antitrust laws
+[[ ]] Being awarded government contracts
+
+Why is insider trading considered unethical and illegal?
+
+[[ ]] It allows investors to pollute the environment
+[[ ]] It encourages transparency in financial markets
+[[X]] It undermines the integrity of financial markets and disadvantages uninformed investors
+[[ ]] It promotes short-term investment strategies
+
+What was the primary environmental issue in the Erin Brockovich case?
+
+[[ ]] Air pollution from vehicle emissions
+[[ ]] Noise pollution from construction
+[[X]] Water contamination with hexavalent chromium
+[[ ]] Soil erosion due to deforestation
+
+What is a common consequence of corporate tax evasion?
+
+[[ ]] Increased public trust in corporate practices
+[[ ]] Higher dividends for shareholders
+[[X]] Legal penalties and damage to reputation
+[[ ]] Expansion of corporate social responsibility programs
+
+What distinguishes corporate espionage from competitive intelligence?
+
+[[ ]] The use of publicly available information
+[[ ]] The focus on market research
+[[X]] The illegal acquisition of trade secrets
+[[ ]] The emphasis on customer feedback
+
+Fill in the Blank Questions:
+
+Price fixing is illegal under **__** laws in many countries.
+
+[[ antitrust ]]
+
+Insider trading erodes **__** in the financial system.
+
+[[ public confidence ]]
+
+Environmental pollution can lead to **__** and ecosystem damage.
+
+[[ health issues ]]
+
+Whistleblower retaliation is **__** in many jurisdictions.
+
+[[ illegal ]]
+
+Corporate espionage violates **__** and ethical standards.
+
+[[ legal ]]
+
+**End of Lesson 06**
+
+You have reached the end of Lesson 06. It is time to stop reading (for now) and to go on to work on Challenge 06. 
