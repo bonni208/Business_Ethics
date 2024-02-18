@@ -2575,6 +2575,29 @@ In "The Good, the Bad, and the Ugly," the characters navigate a morally ambiguou
 
 We will save "the ugly" for a future lesson, where we explore those actions that are not illegal, but that are immoral or harmful to the broader society, in some way. 
 
+#### ? 05.00 | Review questions | The good, the bad, and the ugly
+
+The phrase "the good, the bad, and the ugly" originally comes from a classic Western film directed by Sergio Leone in 1966.
+
+[[X]] True
+[[ ]] False
+
+In this business ethics textbook, the good refers to actions that are unethical but not illegal.
+
+[[ ]] True
+[[X]] False
+
+
+The concept of the bad in the context of business ethics includes actions that are deceitful, fraudulent, and illegal.
+
+[[X]] True
+[[ ]] False
+
+The exploration of the ugly in this business ethics text refers to actions that are illegal and morally wrong.
+
+[[ ]] True
+[[X]] False
+
 Before we can start talking about the various ways that companies may structure themselves to align with their core purpose and values, it is essential to review some key terms that you perhaps have already heard about in other classes. 
 
 ### 05. 01 | The benefits of structuring as a corporation
@@ -2739,7 +2762,7 @@ Effective stakeholder management is crucial for the long-term success and sustai
 
 Secondly, stakeholders often possess valuable knowledge, resources, and expertise that can benefit a company's operations, innovation, and decision-making processes. Employees, for example, may offer insights into workplace culture and productivity, while customers can provide feedback on products and services. By involving stakeholders in decision-making and co-creating solutions, companies can tap into diverse perspectives and harness collective intelligence to drive innovation and improve performance.
 
-Thirdly, effective stakeholder management is essential for ensuring alignment between a company's business objectives and societal expectations. In today's interconnected world, companies are increasingly expected to demonstrate social responsibility, environmental stewardship, and ethical conduct. By listening to stakeholders and incorporating their feedback into business strategies, companies can better address societal needs and expectations, enhance their social license to operate, and contribute to sustainable development.
+Thirdly, effective **stakeholder management** is essential for ensuring alignment between a company's business objectives and societal expectations. In today's interconnected world, companies are increasingly expected to demonstrate social responsibility, environmental stewardship, and ethical conduct. By listening to stakeholders and incorporating their feedback into business strategies, companies can better address societal needs and expectations, enhance their social license to operate, and contribute to sustainable development.
 
 Effective stakeholder management is a strategic imperative for companies seeking to build trust, mitigate risks, drive innovation, and create long-term value for all stakeholders. By recognizing the importance of stakeholder relationships and adopting inclusive and transparent approaches to engagement, companies can foster mutual understanding, collaboration, and shared value, ultimately contributing to their own success and the well-being of society as a whole.
 
