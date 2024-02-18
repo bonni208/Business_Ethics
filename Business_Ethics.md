@@ -514,7 +514,7 @@ Establishing and maintaining that type of accountability with each other will be
 
 ###### ? 01.01 | Review questions | Let's get personal
 
-Accountability is the responsibility and obligation of individuals and organizations to answer for their actions, decisions, and outcomes, especially in relation to [[ethical]] conduct.
+Fill in the blank: Accountability is the responsibility and obligation of individuals and organizations to answer for their actions, decisions, and outcomes, especially in relation to [[ethical]] conduct.
 
 According to the text, why is it important not to take things personally during discussions on polarizing topics?
 
@@ -2542,7 +2542,7 @@ This is back to being Dr. B, again. Here are a few resources that you might be i
 
 In the realm of business ethics, the phrase "the good, the bad, and the ugly" encapsulates the multifaceted nature of ethical dilemmas within organizational settings. Originating from the title of a classic Western film directed by Sergio Leone in 1966, this expression has transcended its cinematic origins to become a metaphorical framework for understanding the spectrum of ethical behaviors in various contexts, including in business.
 
-!? ["The Good, the Bad and the Ugly" - official trailer](https://youtu.be/WCN5JJY_wiA?si=yzPki2u8blNCznds)
+!?["The Good, the Bad and the Ugly" - official trailer](https://youtu.be/WCN5JJY_wiA?si=yzPki2u8blNCznds)
 
 In "The Good, the Bad, and the Ugly," the characters navigate a morally ambiguous landscape characterized by greed, betrayal, and survival. The movie epitomizes the moral complexity inherent in human interactions, where notions of good and evil blur amidst conflicting motivations and interests. The phrase "the good, the bad, and the ugly" has found resonance in scholarly discourse and everyday vernacular, serving as a metaphorical lens through which to examine ethical decisions and behaviors. In the context of business ethics, "the good" signifies virtuous conduct characterized by integrity, accountability, and social responsibility. Conversely, "the bad" encompasses actions that transgress ethical norms, ranging from deceitful practices to outright fraud. 
 
