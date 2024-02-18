@@ -2612,8 +2612,8 @@ An LLC is organized and managed more like a corporation than a partnership.
 
 Limited liability increases the attractiveness of investments to potential shareholders.
 
-[[ ]] True
-[[x]] False
+[[X]] True
+[[ ]] False
 
 Limited liability protects owners from losing more than:
 
@@ -2629,11 +2629,11 @@ Corporate status is conferred upon a business by:
 [[x]] State law (statute).
 [[ ]] A national business registry.
 
-Fill in the blank: Corporate status enables businesses to _______ their losses, spreading them out over society rather than being absorbed individually.
+Fill in the blank: Corporate status enables businesses to ___ their losses, spreading them out over society rather than being absorbed individually.
 
 [[socialize]]
 
-Fill in the blank: Corporations owe a debt to society in return for the right to make unlimited profits with _______.
+Fill in the blank: Corporations owe a debt to society in return for the right to make unlimited profits with ____.
 
 [[limited liability]]
 
@@ -2719,8 +2719,8 @@ Fill in the blank: The concept of "quid pro quo" in corporate social responsibil
 
 The Michigan Supreme Court's ruling in Dodge v. Ford Motor Company supported the idea that corporations owe a duty primarily to society over shareholders.
 
-[[x]] True
-[[ ]] False
+[[ ]] True
+[[X]] False
 
 The Wrigley case indicated a shift towards recognizing the rights of corporations to balance stakeholder interests against maximizing shareholder value.
 
@@ -3296,9 +3296,15 @@ Fill in the blank: Salesforce's commitment to employee well-being and social res
 
 People often remark when taking this class their surprise that the individuals who worked for the businesses that have become well known for their scandals did not do more to protect their own integrity, while doing right by the company and its stakeholders. This section explores ways that you might foster professional ethics in your career, starting with how to increase your likelihood of finding a company that aligns with your values, the role that professional associations can play in shaping the actions of their members, and how your purchases reflect your ethics and integrity. 
 
-*The following is a section of Business Ethics, by Stephen M. Byers and Kurt Stanberry, which may be accessed for free on the [Business Ethics website](https://openstax.org/books/business-ethics/pages/1-introduction).* 
+In the movie Jerry Maguire, Jerry decides that he has had enough of the mismatch between his values and the ones of the firm. He grabs the goldfish to take it with him and asks who else is joining him. 
+
+!? [Jerry Maguire - who's coming with me?](https://youtu.be/6ZZI6-zh0GM?si=lUmDVSeEuQOF6DuZ)
+
+How do we foster professional ethics in our careers? What does it take to find a good fit and work for a company that aligns with our values? What are the other aspects of being an ethical professional? 
 
 #### Be a Professional with integrity 
+
+*The following is a section of Business Ethics, by Stephen M. Byers and Kurt Stanberry, which may be accessed for free on the [Business Ethics website](https://openstax.org/books/business-ethics/pages/1-introduction).* 
 
 > Ethical professionals work for companies whose values align with their own. How do you evaluate a company to see whether it is a good occupational fit and one that will allow you to live your ethical values every day?
 
