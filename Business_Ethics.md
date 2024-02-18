@@ -2542,7 +2542,7 @@ This is back to being Dr. B, again. Here are a few resources that you might be i
 
 When talking about  business ethics, the saying "the good, the bad, and the ugly" really sums up the complex ethical challenges we face in the workplace. This idea comes from a famous Western movie made by Sergio Leone in 1966, but the phrase's use has extended well beyond the movie. 
 
-!? [The Good, the Bad, and the Ugly - official trailer](https://youtu.be/WCN5JJY_wiA?si=99KCrRbY5oh7d6qw)
+!? [The Good, the Bad, and the Ugly - official trailer](https://youtu.be/IFNUGzCOQoI?si=p3YZ6-VslVAp60g7)
 
 In *The Good, the Bad, and the Ugly*, we see characters dealing with a world that's full of greed, betrayal, and the struggle to survive. The movie an example of how messy and complicated our moral choices can get, with the lines between right and wrong often blurring because of different motivations and interests. 
 
