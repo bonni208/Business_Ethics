@@ -2540,13 +2540,13 @@ This is back to being Dr. B, again. Here are a few resources that you might be i
 
 ![Course lesson graphic 05](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-05.jpg)
 
-In the realm of business ethics, the phrase "the good, the bad, and the ugly" encapsulates the multifaceted nature of ethical dilemmas within organizational settings. Originating from the title of a classic Western film directed by Sergio Leone in 1966, this expression has transcended its cinematic origins to become a metaphorical framework for understanding the spectrum of ethical behaviors in various contexts, including in business.
+When talking about  business ethics, the saying "the good, the bad, and the ugly" really sums up the complex ethical challenges we face in the workplace. This idea comes from a famous Western movie made by Sergio Leone in 1966, but the phrase's use has extended well beyond the movie. 
 
-!?["The Good, the Bad and the Ugly" - official trailer](https://youtu.be/WCN5JJY_wiA?si=yzPki2u8blNCznds)
+!? [The Good, the Bad, and the Ugly - official trailer](https://youtu.be/WCN5JJY_wiA?si=99KCrRbY5oh7d6qw)
 
-In "The Good, the Bad, and the Ugly," the characters navigate a morally ambiguous landscape characterized by greed, betrayal, and survival. The movie epitomizes the moral complexity inherent in human interactions, where notions of good and evil blur amidst conflicting motivations and interests. The phrase "the good, the bad, and the ugly" has found resonance in scholarly discourse and everyday vernacular, serving as a metaphorical lens through which to examine ethical decisions and behaviors. In the context of business ethics, "the good" signifies virtuous conduct characterized by integrity, accountability, and social responsibility. Conversely, "the bad" encompasses actions that transgress ethical norms, ranging from deceitful practices to outright fraud. 
+In *The Good, the Bad, and the Ugly*, we see characters dealing with a world that's full of greed, betrayal, and the struggle to survive. The movie an example of how messy and complicated our moral choices can get, with the lines between right and wrong often blurring because of different motivations and interests. 
 
-We will save "the ugly" for a future lesson, where we explore those actions that are not illegal, but that are immoral or harmful to the broader society, in some way. 
+When we talk about business ethics using this framework, I will be using "the good" to refer to all the actions done with integrity, accountability, and a sense of responsibility towards society. On the flip side, when I share about "the bad," this covers all those illegal actions that also break ethical guidelines. And as for "the ugly"? That's where we will explore those actions that might not be illegal but are still morally questionable or harmful to society in some way.
 
 ##### ? 05.00 | Review questions | The good, the bad, and the ugly
 
