@@ -1075,71 +1075,44 @@ A cornerstone of Aristotle's virtue ethics is the idea of virtues and the golden
 
 Virtue ethics is all about living a morally upright life through character development. This approach suggests that practicing virtues like honesty, bravery, and generosity leads to a virtuous character. Aristotle believed that these virtuous habits help individuals make ethical choices when faced with dilemmas. In the clip, we learn how to clarify the differences between moral philosophies, by considering the film The Dark Knight. Utilitarians might support Batman killing the Joker to save others, while deontologists would reject it solely because killing is wrong. In contrast, virtue ethicists focus on Batman's character, asking if he wants to become someone who takes lives. The answer is usually no. Virtue ethics teaches us how to be virtuous individuals and provides guidance for ethical living without rigid rules for specific dilemmas we might face.
 
-###### ?  02.05 | Review questions | Aristotle meets Batman
+?  02.05 | Review questions | Aristotle meets Batman
 
-1. What is the central focus of virtue ethics?
-   
-   [[ ]] Resolving ethical dilemmas
-   
-   [[X]] Acquiring virtuous habits through practice
+What is the central focus of virtue ethics? 
 
-   [[ ]] Applying specific moral rules
-   
-   [[ ]] Maximizing utility
-   
-   
-   
-2. According to virtue ethics, how do individuals develop an honorable and moral character?
-   
-   [[ ]] By following a set of predefined rules
-   
-   [[ ]] By maximizing utility in every situation
+[[ ]] Resolving ethical dilemmas 
+[[X]] Acquiring virtuous habits through practice
+[[ ]] Applying specific moral rules 
+[[ ]] Maximizing utility
 
-   [[X]] Through the practice of virtues like honesty and bravery
-   
-   [[ ]] By adhering to deontological principles
-   
-   
-   
-3. How does a virtue ethicist differ from a utilitarian or deontologist in the context of moral decision-making?
-   
-   [[ ]] A virtue ethicist prioritizes maximizing utility.
-   
-   [[ ]] A virtue ethicist emphasizes following strict rules.
+According to virtue ethics, how do individuals develop an honorable and moral character?
 
-   [[X]] A virtue ethicist focuses on the character of the person making the choice.
-   
-   [[ ]] A virtue ethicist advocates for moral relativism.
-   
-   
-   
-4. In the example from "The Dark Knight" mentioned in the video, what would a utilitarian likely endorse regarding Batman's choice to kill the Joker?
-   
-   [[X]] Endorse killing the Joker to save more lives.
-   
-   [[ ]] Reject killing the Joker on moral grounds.
+[[ ]] By following a set of predefined rules
+[[ ]] By maximizing utility in every situation
+[[X]] Through the practice of virtues like honesty and bravery
+[[ ]] By adhering to deontological principles
 
-   [[ ]] Emphasize Batman's character rather than the act itself.
-   
-   [[ ]] Advocate for finding a middle ground between killing and not killing.
-   
-   
-   
-5. How does virtue ethics provide guidance for living life in ethical matters?
-   
-   [[ ]] By prescribing specific rules for resolving ethical dilemmas.
-   
-   [[ ]] By prioritizing the maximization of utility.
-   
-   [[X]] By emphasizing the character and virtues of individuals.
-   
-   [[ ]] By advocating for a rigid adherence to deontological principles.
+How does a virtue ethicist differ from a utilitarian or deontologist in the context of moral decision-making?
+
+[[ ]] A virtue ethicist prioritizes maximizing utility. 
+[[ ]] A virtue ethicist emphasizes following strict rules.
+[[X]] A virtue ethicist focuses on the character of the person making the choice. 
+[[ ]] A virtue ethicist advocates for moral relativism.
+
+In the example from "The Dark Knight" mentioned in the video, what would a utilitarian likely endorse regarding Batman's choice to kill the Joker?
+
+[[X]] Endorse killing the Joker to save more lives. 
+[[ ]] Reject killing the Joker on moral grounds. 
+[[ ]] Emphasize Batman's character rather than the act itself. 
+[[ ]] Advocate for finding a middle ground between killing and not killing.
+
+How does virtue ethics provide guidance for living life in ethical matters? 
+
+[[ ]] By prescribing specific rules for resolving ethical dilemmas. 
+[[ ]] By prioritizing the maximization of utility. 
+[[X]] By emphasizing the character and virtues of individuals. 
+[[ ]] By advocating for a rigid adherence to deontological principles.
 
 
-
-Terms
-
-Virtue ethics - philosophy created by Aristotle and other ancient philosophers. It focuses on how to live a life of moral character. 
 
 ## 03. Decide how we decide when we decide
 
