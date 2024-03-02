@@ -3854,7 +3854,7 @@ Businesses must navigate the competitive landscape with a commitment to ethical 
 
 Corporate espionage, with its illegal and immoral undertones, poses significant challenges to the ethical integrity of the business community. It is imperative for companies to distinguish between competitive intelligence and espionage, adhering to legal and ethical standards in their pursuit of market leadership. By fostering a culture of transparency, respect for competition, and ethical conduct, businesses can contribute to a fair and trustworthy corporate ecosystem. This commitment to ethics not only safeguards the company's reputation and legal standing but also upholds the broader values of fairness and integrity that are foundational to a functioning and competitive marketplace.
 
-##### ? 06 | The bad | review questions
+##### ? 06 | Review questions | The bad
 
 Insider trading enhances the integrity of financial markets and promotes a level playing field for all investors.
 
@@ -3941,3 +3941,296 @@ Corporate espionage violates **__** and ethical standards.
 **End of Lesson 06**
 
 You have reached the end of Lesson 06. It is time to stop reading (for now) and to go on to work on Challenge 06. 
+
+## 07. The ugly
+
+![Course lesson graphic 07](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-07.jpg)
+
+In the prior two lessons, we looked at individuals' and businesses' choices that are more clearly ethical ("the good"), and those actions that are illegal ("the bad"). In this lesson, we will explore behaviors that, while technically legal, possess ethical dimensions that are morally questionable or socially harmful ("the ugly").
+
+In the movie, Moneyball (2011), we see an illustration of the dangers of binary thinking. Billy (played by Brad Pitt) attempts to get the group thinking differently than they have about how to pick players. The scouts keep returning to the way they used to determine who to draft.
+
+![Moneyball - He gets on base scene](https://youtu.be/PlKDQqKh03Y?si=vI5nC5Wt46TSd_MY)
+
+In this lesson, we will recenter ourselves on avoiding this type of thinking, as well as considering various ethical choices that may not be illegal, but also may not be the most moral. 
+
+### 07.01 | Dichotomous Thinking
+
+Way back in the introduction for this class, we also explored how ethical choices are rarely binary. Dichotomous thinking, also known as binary thinking or all-or-nothing thinking, is a cognitive distortion where an individual perceives and interprets situations, people, and events in extreme, either/or categories, without acknowledging the nuances or grey areas that usually exist. This type of thinking simplifies complex issues into two opposite choices, overlooking the spectrum of possibilities that lie between the extremes. Richard Rohr, a Franciscan friar and theologian has stressed the limitations of this kind of thinking: 
+
+> The dualistic mind is essentially binary, either/or thinking. It knows by comparison, opposition, and differentiation. It uses descriptive words like good/evil, pretty/ugly, smart/stupid, not realizing there may be a hundred degrees between the two ends of each spectrum.
+>
+> -- Richard Rohr
+
+#### The dangers of dichotomous thinking
+
+There are many dangers to binary thinking that are important to be aware of, especially in a business context. 
+
+**1. Oversimplification:** Dichotomous thinking fails to capture the complexity of a given context. By reducing complex issues to two categories, it overlooks the nuances and subtleties that are crucial for a comprehensive understanding.
+
+**2. Poor Decision Making:** When individuals engage in binary thinking, they may make decisions based on incomplete or skewed information. This can lead to choices that do not fully address the issue at hand or that neglect important considerations.
+
+**3. Increased Conflict:** Dichotomous thinking can exacerbate conflicts, as it frames discussions in terms of win/lose rather than exploring compromises or alternative solutions that acknowledge and incorporate different perspectives.
+
+**4. Stress and Anxiety:** Individuals who habitually think in dichotomous terms may experience higher levels of stress and anxiety, as they perceive situations in terms of extreme success or failure, without recognizing the value of partial successes or the learning opportunities in setbacks.
+
+In the context of business ethics, dichotomous thinking can be particularly problematic because ethical dilemmas are rarely clear-cut matters of good vs. bad. Business decisions often involve weighing conflicting interests, assessing the impact on various stakeholders, and navigating complex regulatory and moral landscapes. By framing ethical issues in black-and-white terms, individuals may fail to consider important ethical principles, such as fairness, justice, and responsibility, that require a more nuanced understanding. This can lead to unethical decisions that harm the organization, its stakeholders, and society at large.
+
+#### Avoiding Dichotomous Thinking as Christians in Our Work
+
+For Christians, avoiding dichotomous thinking in work and ethical decision-making is important. Brett McCracken talks in this clip about how we can wind up getting too comfortable in our faith, when historically, when being a Christian was challenging, there was more crying out to God in a passionate way. 
+
+!?[Why you should embrace the uncomfortable aspects of Christianity](https://youtu.be/isvjfJW7k8s?si=rdCRc41KOinV8A0i)
+
+**1. Embracing Complexity:** The Christian ethical tradition recognizes the complexity of human life and the moral ambiguity that often accompanies decision-making. By avoiding dichotomous thinking, Christians can better navigate these complexities in a way that reflects their values and beliefs.
+
+**2. Reflecting Christian Love and Understanding:** Christianity teaches love, understanding, and compassion. Approaching work and ethical dilemmas with an openness to the full spectrum of possibilities allows Christians to embody these principles more fully, promoting understanding and reconciliation rather than division.
+
+**3. Pursuing Justice and Mercy:** Christian ethics often emphasize the balance between justice and mercy, recognizing that strict adherence to rules (legalism) does not always lead to morally right outcomes. By moving beyond binary thinking, Christians can better seek solutions that are just, compassionate, and reflective of God's grace.
+
+Both in business ethics and in a Christian approach to work, moving beyond dichotomous thinking allows for more ethical, compassionate, and effective decision-making. It encourages a deeper engagement with the complexities of the world and fosters responses that are more aligned with ethical principles and Christian teachings.
+
+### 07.02 | Conflicts of Interest
+
+A conflict of interest arises when an individual's personal interests or obligations interfere with their ability to make impartial decisions in the best interest of another party, such as their employer, client, or the public. These conflicts can occur in various contexts, including business, law, medicine, and public service, and they can be both actual and perceived. While some conflicts of interest can lead to illegal activities, such as bribery or corruption, many others fall into ethical grey areas that, although not illegal, can still undermine trust, integrity, and good governance.
+
+!?[Conflicts of interest](https://youtu.be/auePL3pYRb0?si=30W1D-tb6sUCtjfl)
+
+#### Dangers of Conflicts of Interest
+
+It is important for us to be aware of the potential for us to possess conflicts of interest, while also remaining cognoscente of the ways other people's conflicting interests may keep them from making good decisions. These dangers include: 
+
+**1. Erosion of Trust:** When conflicts of interest are present, they can erode trust between parties. For example, if a client believes their consultant's recommendations are influenced by personal gain, the client's trust in those recommendations diminishes.
+
+**2. Compromised Decision Making:** Conflicts of interest can lead to decisions that are not in the best interest of the affected party. This can result in suboptimal outcomes, financial loss, or harm to individuals or organizations.
+
+**3. Damage to Reputation:** Individuals or organizations found to be acting under a conflict of interest can suffer significant reputational damage, which can impact their professional relationships and future opportunities.
+
+**4. Legal and Financial Consequences:** While this discussion focuses on non-illegal conflicts, unresolved or improperly managed conflicts can escalate into legal issues, resulting in fines, penalties, or litigation.
+
+#### Conflict of Interest in Business Ethics
+
+In business ethics, conflicts of interest are particularly pertinent because ethical dilemmas often involve balancing diverse interests and obligations. Ethical business practices require transparency, integrity, and accountability, ensuring decisions are made in the best interest of the company and its stakeholders. This includes avoiding situations where personal interests could unduly influence professional decisions, thereby compromising ethical standards. For instance, a manager deciding on a supplier for their company should not choose a family member's business based solely on personal relationships if it does not offer the best value or service compared to competitors.
+
+#### Christians Avoiding Conflicts of Interest
+
+For Christians in the workplace, avoiding conflicts of interest aligns with biblical principles of integrity, honesty, and stewardship. Christians are called to live out their faith in all aspects of life, including work, by acting in ways that reflect God's character and commandments. This means making decisions that are not only legally and ethically sound but also in accordance with Christian values. For example, a Christian business owner might go beyond legal requirements to ensure their business practices do not exploit workers or harm the environment, reflecting a commitment to justice and care for creation.
+
+#### Managing Non-Illegal Conflicts of Interest
+
+To manage conflicts of interest that are not illegal but still pose ethical concerns, individuals and organizations can take several steps:
+
+- **Disclosure:** Transparently disclosing any potential conflicts of interest to all affected parties.
+- **Recusal:** Stepping back from decision-making processes where one's impartiality could be compromised.
+- **Policies and Procedures:** Implementing organizational policies that identify, manage, and mitigate conflicts of interest, including regular training on these issues.
+- **Ethical Leadership:** Cultivating a culture of ethical awareness and integrity where the values of transparency and accountability are prioritized.
+
+In both business and personal conduct, recognizing and addressing conflicts of interest is crucial for maintaining ethical standards and trust. For Christians, navigating these situations with integrity also represents an opportunity to witness to their faith through ethical decision-making and actions that reflect Christian values of honesty, fairness, and concern for others.
+
+### 07.03 | Planned obsolescence 
+
+Planned obsolescence represents a deliberate business strategy where products are designed with a limited useful life or are perceived as outdated, compelling consumers to purchase newer models or versions. This approach not only drives continuous demand but also raises significant ethical questions regarding sustainability, consumer rights, and environmental impact. By examining product lifespan, compatibility with new and existing products, the ease of repair and availability of spare parts, alongside the tactics used in advertising and consumer persuasion, we can uncover the multifaceted approaches companies might use to encourage frequent replacements by consumers. Understanding these indicators not only aids consumers in making informed decisions but also fosters a broader discussion on the ethical responsibilities of manufacturers towards sustainability and consumer rights. 
+
+!?[Planned obsolescence? It's gone too far](https://youtu.be/LFNxyDjrpNE?si=7XAqyRS6A4SpyO_N)
+
+How countries address the problem of planned obsolescence various greatly. For example, the United States and the European Union (EU) adopt markedly different approaches to addressing planned obsolescence, reflecting their unique regulatory philosophies and priorities around consumer protection and environmental sustainability. 
+
+**The United States' response**
+
+In the U.S., the response to planned obsolescence is predominantly market-driven, with minimal specific regulation targeting this issue. That means that combatting this form of waste relies on *whatever the market will bear*, or the extent to which people will *vote with their purchasing power* and invest in companies that avoid these practices. Consumer protection laws focus on false advertising and product defects rather than directly on planned obsolescence. The assumption is that market competition and consumer preferences for durable products will naturally discourage the practice. However, this approach has been critiqued for not effectively curbing the environmental and consumer impacts of short-lived products.
+
+**The European Union's (EU's) response**
+
+The EU has proactively legislated against planned obsolescence, integrating it into broader environmental and consumer protection efforts. Instead of relying on the market to drive more sustainable practices, the EU has created laws that protect against planned obsolescence. Initiatives like the [Ecodesign Directive](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32009L0125) and the [Circular Economy Action Plan](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1583933814386&uri=COM:2020:98:FIN) aim to increase product durability, ease of repair, and overall sustainability. This includes promoting the *right to repair*, intending to extend product lifespans and reduce waste. The EU's strategy represents a more regulatory approach, prioritizing sustainability and the right of consumers to have longer-lasting products.
+
+The contrast between the U.S. and EU outlines differing priorities: the U.S.'s market-led versus the EU's regulation-driven strategies. The EU's actions might inspire global shifts toward sustainable consumption and production, suggesting a potential pathway for others, including the U.S., to follow as global environmental concerns intensify.
+
+#### The Light Bulb Conspiracy 
+
+A documentary that looks at the aspects of planned obsolescence that arose from products as common as the light bulb and innovations like the Apple iPod is [The Light Bulb Conspiracy](https://youtu.be/wzJI8gfpu5Y?si=06AkA8GdfPe6ovqS). From the video's description, we learn that: 
+
+> Once upon a time..... products were made to last. 
+>
+> Then, at the beginning of the 1920s, a group of businessmen were struck by the following insight: 'A product that refuses to wear out is a tragedy of business' (1928). Thus Planned Obsolescence was born. Shortly after, the first worldwide cartel was set up expressly to reduce the life span of the incandescent light bulb, a symbol for innovation and bright new ideas, and the first official victim of Planned Obsolescence. 
+>
+> During the 1950s, with the birth of the consumer society, the concept took on a whole new meaning, as explained by flamboyant designer Brooks Stevens: 'Planned Obsolescence, the desire to own something a little newer, a little better, a little sooner than is necessary...'. The growth society flourished, everybody had everything, the waste was piling up (preferably far away in illegal dumps in the Third World) - until consumers started rebelling... Can the modern growth society survive without Planned Obsolescence?
+
+#### Product Lifespan
+
+You may have learned about the product lifecycle in a principles of marketing class. Products get introduced into the market, grow in popularity, mature, and eventually decline in demand, leading to withdrawal from the market. The emphasis is typically on understanding and anticipating the changing needs and dynamics at each phase of a product's journey and the role innovation plays in making and marketing a product. In [Death by Design](https://youtu.be/-rqNERG5O3U?si=sD-NCifo5UFyhMPd), filmmaker Sue Williams strays from emphasizing a products lifecycle and tells of: 
+
+> ...devices that are designed to die.
+
+!?[Death by design](https://youtu.be/-rqNERG5O3U?si=I72RuG5dHg22dodO)
+
+Too often, companies intentionally design products with a short lifespan, to encourage consumers to purchase replacements or upgrades more frequently. This strategy aims to increase sales volume and ensure a continuous market demand by shortening the time between purchases, thereby boosting profits and driving consumer engagement with the latest product versions or models. Products are designed to have a significantly shorter lifespan than what consumers reasonably expect or what could be technically achievable, suggesting an intentional limitation on durability.
+
+#### Compatibility and Updates
+
+Our family's treadmill broke down, which set my husband down a long trail of trying to have us avoid needing to buy a new one. First, he had a repairperson come out, who said that the part that he had been told to order from the company was incompatible with our model and that we would need to get a new base for the entire treadmill desk. He spent all this time trying to determine how to get the bottom part of the treadmill (the part you run on) to be compatible with the desk part on the top. 
+
+Companies can strategically engineer products with proprietary or incompatible components to limit the ability of consumers to use third-party replacements or to repair products themselves, effectively coercing them into purchasing newer versions. For instance, Apple has faced criticism for using proprietary screws on devices, making it difficult for users to perform simple repairs or battery replacements, and for introducing new charging cables with each subsequent iPhone model, rendering older accessories obsolete. Similarly, printer manufacturers like Epson and HP have been reported to employ chips in their cartridges to prevent the use of non-branded or refilled cartridges, compelling consumers to buy original, often pricier, replacements. These practices not only push consumers towards more frequent purchases but also raise concerns about environmental waste and consumer rights, sparking debates and legal scrutiny over the ethical implications of such designed incompatibility. 
+
+#### Repairability and Spare Parts Availability
+
+Many companies intentionally design products in a way that complicates or outright prevents consumers from performing their own repairs, a practice that, while not illegal, raises significant ethical questions. By employing proprietary screws, sealing devices with adhesive, and restricting access to spare parts and repair manuals, these manufacturers limit repair options to authorized service providers, often at a high cost. This approach not only diminishes consumer autonomy and the right to use products to their fullest extent but also contributes to a culture of disposability, exacerbating environmental issues linked to electronic waste. While these tactics may boost short-term profits by driving consumers to purchase new products more frequently, they challenge ethical standards around consumer rights, sustainability, and the broader societal impact of corporate practices.
+
+The *Right to Repair movement* has gained significant momentum in advocating for consumers' ability to repair their own products, challenging manufacturers' restrictive repair policies that often leave users dependent on official service providers or compel them to purchase new products. [The Repair Association](https://www.repair.org) is an organization that is working to bring businesses and consumers together to advocate for policies, laws, and standards that protect the rights to repair, especially for those products that contain digital components.  An unexpected focal point of this movement has been the notorious issue with McDonald's ice cream machines, which are frequently out of service due to complex machinery that only certified technicians are permitted to fix. 
+
+!?[The Right to Repair Movement - If You Don’t Know, Now You Know | The Daily Show](https://youtu.be/UA7hZDfQDws?si=LgONvPZwH6hdVaf1)
+
+Right to repair has highlighted a broader issue affecting various consumer products, from smartphones and laptops to home appliances and vehicles, where manufacturers limit access to repair manuals, spare parts, and tools. The movement seeks to dismantle these barriers, arguing for legislation that would grant consumers and third-party repair shops the right to repair their own goods. By spotlighting everything from fast-food equipment to everyday technology, the Right to Repair movement emphasizes the environmental, economic, and ethical implications of a culture that undervalues product longevity and consumer autonomy. Advocates suggest that consumers should be able to investigate the ease with which a product can be repaired and the availability of spare parts. Products designed to be non-repairable or for which spare parts are scarce or prohibitively expensive may be indicative of planned obsolescence.
+
+Planned obsolescence sits at a contentious crossroads between economic growth and ethical business practices. As awareness of its implications grows, consumers, businesses, and regulators are increasingly questioning its validity as a business model. By critically examining the durability, repairability, and necessity of product updates, stakeholders can better navigate the ethical considerations of this practice. Encouraging a shift towards sustainability, transparency, and respect for consumer rights not only challenges planned obsolescence but also paves the way for more sustainable consumption and production patterns.
+
+### 07.04 | Marketing Tactics
+
+You probably learned in your principles of marketing class about the 4Ps. Product, price, promotion, and place. We have explored in this lesson a lot about product, as it relates to "the ugly," and pricing, as it relates to "the bad." This section will examine some ethical issues related to the way companies promote their products. These morally questionable or unethical yet legal marketing tactics are worth learning about and considering the complex relationship between consumer protection, corporate profit motives, and ethical boundaries. 
+
+An example of deceptive marketing tactics can be found in the film "The Joneses" (2009), directed by Derrick Borte. The movie stars Demi Moore and David Duchovny as part of a seemingly perfect family that moves into a wealthy suburban neighborhood. However, it's revealed that they are not a real family but employees of a marketing company, living together to subtly market luxury products and lifestyles to their unsuspecting neighbors.
+
+!?[The Joneses' trailer](https://youtu.be/n2Y3GoN2PGw?si=pjj8YY-d2_dTl_Lx)
+
+#### Psychological Manipulation
+
+Some companies use marketing techniques which exploit psychological vulnerabilities, such as fear, anxiety, or social pressure, to encourage purchases. They are criticized as taking advantage of consumers, often without them always being conscious of it. 
+
+> By definition, advertising aims to persuade consumers to buy goods and services, many of which are nonessential. Although consumers have long been encouraged to heed the warning **caveat emptor** (let the buyer beware), it is a valid question whether advertisers have any ethical obligation to rein in the oft-exaggerated claims of their marketing pitches. Most consumers emphatically would agree that they do.
+>
+> The award-winning Harvard University economist John Kenneth Galbraith directly addressed this issue in *The Affluent Society*, first published in 1958. In what he depicted as the “the dependence effect,” Galbraith bemoaned the power of corporations to harness wide-ranging advertising strategies, marketing efforts, and sales pitches to influence consumer purchasing decisions.[15 ](https://openstax.org/books/business-ethics/pages/9-endnotes#rf-0050) He asked whether it is possible for a sophisticated advertising campaign to create a demand for a product whose benefits are frivolous at best. If so, is there anything inherently wrong with that? Or are informed consumers themselves responsible for resisting tempting—though misleading—advertising claims and exercising their own best judgment about whether to buy a product that might be successful, not because it deserves to be but simply because of the marketing hype behind it? These questions remain fundamental to the manager’s task of creating ethical advertising campaigns in which truthful content is prioritized over inducing wasteful consumption.
+>
+> Psychological appeals form the basis of the most successful ads. Going beyond the standard ad pitch about the product’s advantages, **psychological appeal** try to reach our self-esteem and persuade us that we will feel better about ourselves if we use certain products. If advertising frames the purchase of a popular toy as the act of a loving parent rather than an extravagance, for instance, consumers may buy it not because their child needs it but because it makes them feel good about what generous parents they are. This is how psychological appeals become successful, and when they do work, this often constitutes a victory for the power of psychological persuasion at the expense of ethical truthfulness.
+
+This is Dr. B breaking in here. Please don't tell my father-in-law (who worked for McDonald's corporate for more than 30 years) about what I'm sharing next. McDonald's has been one of the companies who gets criticized for their happy meals and ways they market toward children. Here's an example of one of their advertisements around the movie Sing and getting kids to want to get the latest happy meal. 
+
+!?[Sing commercial with happy meal](https://youtu.be/xW436C-7wNc?si=cDNhgIhVUnfSAVS-)
+
+> Purchases are also affected by our notion of what constitutes a necessity versus a luxury, and that perception often differs across generations. Older consumers today can probably remember when a cell phone was considered a luxury, for instance, rather than a necessity for every schoolchild. On the other hand, many younger consumers consider the purchase of a landline unnecessary, whereas some older people still use a conventional phone as their main or even preferred means of communication. The cars and suburban homes that were once considered essential purchases for every young family are slowly becoming luxuries, replaced, for many millennials, by travel. Generational differences like these are carefully studied by advertisers who are anxious to make use of psychological appeals in their campaigns.
+>
+> A consumer craze based on little more than novelty—or, at least, not on necessity or luxury in the conventional sense—is the Pet Rock, a recurring phenomenon that began in 1977. Pet Rocks have been purchased by the millions over the years, despite being nothing more than rocks. During the 2017 holiday shopping season, they retailed at $19.95.[16 ](https://openstax.org/books/business-ethics/pages/9-endnotes#rf-0060)Is this a harmless fad, or a rip-off of gullible consumers who are persuaded it can satisfy a real need? In the annals of marketing, the Pet Rock craze denotes one of the most successful campaigns—still unfolding today, though in subdued fashion—in support of so dubious a product.
+>
+> As long as marketers refrain from breaking the law or engaging in outright lies, are they still acting ethically in undertaking influential advertising campaigns that may drive gullible consumers to purchase products with minimal usefulness? Is this simply the free market in operation? In other words, are manufacturers just supplying a product, promoting it, and then seeing whether customers respond positively to it? Or are savvy marketing campaigns exerting too much influence on consumers ill prepared to resist them? Many people have long asked exactly these questions, and we still have arrived at no clear consensus as to how to answer them. Yet it remains an obligation of each new generation of marketers to reflect on these points and, at the very least, establish their convictions about them.
+>
+> ![McDonald's doubles advertisement on the side of a building](https://innovatelearning.s3.amazonaws.com/mcdonalds-doubles.jpeg)
+>
+> A second ethical question is how we should expect reasonable people to respond to an avalanche of marketing schemes deliberately intended to separate them from their hard-earned cash. Are consumers obligated to sift through all the messages and ultimately make purchasing decisions in their own best interest? For example, does a perceived “deal” on an unhealthy food option justify the purchase? These questions have no consensus answers, but they underlie any discussion of the point at which sophisticated advertising runs headlong into people’s obligation to take responsibility for the wisdom of their purchases.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Social media and mobile apps
+
+> Relevant to any discussion of the influence and ethics of advertising is the emergence and dominance of social media, which now serve as the format within which many people most often encounter ads. Kelly Jensen, a digital-marketing consultant, observed that we inhabit a “Digital Era” in which “the internet is arguably the single most influential factor of our culture—transforming the way we view communication, relationships, and even ourselves. Social media platforms have evolved to symbolize the status of both individuals and businesses alike. . . Today, using social media to create brand awareness, drive revenue, engage current customers, and attract new ones isn’t optional anymore. Now it is an absolute ‘must.’”[11](https://openstax.org/books/business-ethics/pages/9-endnotes#rf-0010)
+>
+> These are bold claims—as are the claims of some advertising—but Jensen argues convincingly that social media platforms reach many consumers, especially younger ones, who simply cannot be captured by conventional advertising schemes. For those who derive most of the significant information that shapes their lives solely through electronic sources, nothing other than social media–based appeals stands much chance of influencing their purchasing decisions.
+>
+> This upending of conventional modes of advertising has begun to change the content of ads dramatically. It certainly presents a new stage on which people as young as their teens increasingly rely for help in choosing what to buy. Many marketers have come to appreciate that if they are not spreading the word about their products and services via an electronic source, many millennials will ignore it.[12](https://openstax.org/books/business-ethics/pages/9-endnotes#rf-0020)
+>
+> Undeniably, a digital environment for advertising, selling, and delivering products and services functions as a two-edged sword for business. It provides lightning-quick access to potential customers, but it also opens pathways for sensitive corporate and consumer data to be hacked on an alarming scale. It offers astute companies nearly unlimited capacity to brand themselves positively in the minds of purchasers, but it simultaneously offers a platform for disgruntled stakeholders to assail companies for both legitimate and self-serving reasons.
+>
+> Paul A. Argenti, who has taught business communication for many years at the Tuck School of Business at Dartmouth University, has studied this dilemma. As he put it, “mobile apps have created a new playground for cyber-thieves.”[13 ](https://openstax.org/books/business-ethics/pages/9-endnotes#rf-0030)And consumer advocates and purchasers alike “now use technology to rally together and fuel or escalate a crisis—posing additional challenges for the corporation” in the crosshairs of criticism. Finally, “the proliferation of online blogs and social networking sites has greatly increased the visibility and reach of all current events, not excluding large corporate”[14 ](https://openstax.org/books/business-ethics/pages/9-endnotes#rf-0040)bungling.
+>
+> Regardless of the delivery platform, however, any threat that the advertising of unnecessary or harmful products may pose to our autonomy as consumers is complicated by the fact that sometimes we willingly choose to buy goods or services we may not necessarily require. Sometimes we even buy things that have been proven to be harmful to us, such as cigarettes and sugary drinks. Yet we may *desire* these products even if we do not *need* them. If we have the disposable income to make these discretionary purchases, why should we not do so, and why should advertisers not advise us of their availability?
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+#### Cause Marketing Deception
+
+Cause marketing deception occurs when businesses misleadingly promote their products or brand as being supportive of or affiliated with social, environmental, or charitable causes, without a genuine commitment or meaningful contribution to those causes. This section scrutinizes the ethical implications of such deceptive practices, revealing how they exploit consumer goodwill and trust for commercial gain. By examining real-world examples and the thin line between authentic cause marketing and its deceptive counterpart, we aim to highlight the importance of transparency, authenticity, and accountability in corporate cause-related initiatives. The discussion encourages readers to critically assess the integrity of corporate cause marketing campaigns, urging a deeper understanding of the consequences of deception on public trust and the genuine needs of the causes involved.
+
+**Greenwashing**
+
+Environmental consciousness is at the forefront of many consumers minds these days. Some corporations have adopted misleading marketing tactics to appear more eco-friendly than they truly are, a practice commonly known as **greenwashing**. This deceptive marketing strategy falsely present products, services, or an overall brand as environmentally friendly, sustainable, or beneficial to the planet. This practice exploits growing consumer concern for environmental issues, leveraging it to gain an unwarranted market advantage. Greenwashing tactics can range from misleading labels and advertising that suggest a product is "green" or "natural," without substantial evidence, to grandiose corporate sustainability declarations that don't reflect the company's actual practices. This misleading information leads consumers to believe they are making environmentally responsible choices when, in fact, their impact may be negligible or even harmful.
+
+!?[Climate Change: What is greenwashing? 🌍🌳 | Newsround](https://youtu.be/8sLs7aWkKRM?si=Ukd9ibOW7LE8l585)
+
+The ethical issues surrounding greenwashing are significant. By obscuring the true environmental impact of their operations and products, companies not only deceive consumers but also detract attention and resources from genuine sustainability efforts. This deception can slow the progress toward environmental sustainability, as it creates confusion about what constitutes a truly environmentally friendly practice or product.
+
+Consumers can guard against greenwashing by:
+
+- **Researching Claims**: Investigate the specifics behind environmental claims made by companies, looking for certifications from reputable third-party organizations.
+- **Evaluating Transparency**: Support companies that provide clear, transparent information about their environmental initiatives, including both successes and areas for improvement.
+- **Questioning Vagueness**: Be wary of vague or broad claims like "all-natural" or "eco-friendly" without specific, verifiable information to back them up.
+
+As environmental awareness and the demand for sustainable products grow, it's crucial for consumers to critically evaluate companies' environmental claims. Educating oneself on the nuances of greenwashing can empower consumers to make informed decisions that align with genuine sustainability goals. By demanding transparency and holding companies accountable for their environmental impact, consumers play a vital role in fostering a more sustainable and honest marketplace.
+
+**Pinkwashing**
+
+The practice by some companies of promoting products and brands as supportive of breast cancer awareness or research through the use of pink branding or ribbons, without making a significant contribution to the cause is known as pinkwashing. This marketing strategy often seeks to benefit from the positive association with breast cancer advocacy to enhance corporate image and increase sales, while the actual support for cancer research or patients remains minimal or purely symbolic. 
+
+!?[Pinkwashing an issue during Breast Cancer Awareness Month](https://youtu.be/s1JUzSINy9w?si=U6l3f2KszJJawhkh)
+
+The core ethical issue with pinkwashing lies in the potential deception of consumers and the exploitation of a sensitive health issue for commercial gain. When companies engage in pinkwashing, they capitalize on consumer goodwill towards supporting breast cancer research and survivor support. However, if a substantial portion of the proceeds does not actually go towards fighting breast cancer, or if the company's practices contradict health-promoting behaviors (such as producing carcinogenic products), it raises questions about the integrity of these marketing campaigns.
+
+Consumers can take several steps to distinguish genuine breast cancer support from pinkwashing:
+
+- **Transparency**: Look for clear information on product packaging or company websites about how much of the purchase price is donated to breast cancer causes and to which organizations the donations are made.
+- **Alignment with Corporate Practices**: Assess whether the company's overall business practices align with health promotion and breast cancer prevention, avoiding those whose products or actions undermine public health.
+- **Research and Advocacy**: Support companies that have a long-standing commitment to breast cancer research and advocacy, rather than those that only engage in pink-themed marketing during Breast Cancer Awareness Month without meaningful contributions.
+
+Consumer advocacy plays a vital role in combating pinkwashing. By demanding transparency and holding companies accountable for their claims, consumers and advocacy groups can push for more ethical marketing practices. Social media and consumer review platforms offer powerful tools for spreading awareness and sharing information about companies' real contributions to breast cancer causes. While the intention to support breast cancer research and awareness is commendable, pinkwashing undermines the genuine efforts of organizations and individuals committed to the cause. By fostering consumer awareness and advocating for transparency and accountability, it is possible to ensure that support for breast cancer goes beyond the surface level of pink branding. 
+
+**Healthwashing**
+
+As we saw in one of the SIFT exercises in an earlier lesson, tobacco companies have made attempts to rebrand themselves over the years, and to mitigate the negative public perception associated with cigarette smoking and its health impacts. These efforts have evolved from marketing low-tar and "light" cigarettes as healthier alternatives to more recent endeavors involving the promotion of vaping and e-cigarettes as safer or cessation aids. Tobacco companies introduced "light" and "low-tar" cigarettes, claiming these products were less harmful than regular cigarettes. This was part of a broader strategy to appeal to health-conscious smokers concerned about the dangers of smoking. However, studies have shown that these products did not significantly reduce the risk of smoking-related diseases, leading to accusations of misleading consumers about the actual health risks. In the satirical film "Thank You for Smoking," Rob Lowe's character, Jeff Megall, has a conversation about promoting cigarettes in movies. Megall casually dismisses concerns about the health impacts of smoking with the line, "I'm not a doctor." 
+
+!?[Thank You for Smoking (2/5) Movie CLIP - Hollywood Meeting (2005) HD](https://youtu.be/xT7F0eKfctg?si=JdAomYAoV1ScKkfR)
+
+This film's sharp critique of the tobacco industry's marketing practices, highlights the ethical disconnect between those who promote smoking and the real-world consequences of its use. More recently, the industry has shifted its focus towards vaping and e-cigarettes, marketing these products as modern, cleaner, and a healthier alternative to traditional smoking. Tobacco companies have invested heavily in the development and marketing of these devices, often promoting them as tools for smokers looking to quit traditional cigarettes, despite ongoing debates about their long-term health impacts and effectiveness as cessation aids. One in four high school students and one in ten middle schoolers are now engaged in vaping. This growing trend highlights a concerning disconnect between parental perceptions and the stark reality of adolescent e-cigarette use. The American Cancer society attempts to raise awareness of parents about this public health crisis. 
+
+!?[Not My Kid: Teen Vaping Epidemic](https://youtu.be/spMpqIlITZQ?si=F1sLYZKaUo5GaulI)
+
+Tobacco companies have also engaged in rebranding efforts that emphasize their commitment to corporate social responsibility (CSR). This includes investing in environmental initiatives, supporting community programs, and funding research into reduced-risk products. Such actions are aimed at improving their corporate image and distancing the company from the negative health associations of their traditional tobacco products. Tobacco companies have actively engaged in legal and regulatory battles to influence how their products are marketed and perceived. They have opposed strict regulation of vaping products, arguing that these offer a safer alternative to cigarettes and can help reduce public health burdens. Simultaneously, they've faced criticism for targeting younger demographics through flavored vaping products, leading to concerns about a new generation becoming addicted to nicotine.
+
+Tobacco companies' attempts to rebrand themselves and dismiss the negative health impacts of smoking reflect a complex interplay of marketing, regulatory influence, and public relations. While they present vaping and e-cigarettes as part of harm reduction strategies, public health authorities and researchers continue to scrutinize these claims, emphasizing the need for comprehensive studies to understand the long-term implications of these products. The ongoing evolution of tobacco industry tactics underscores the critical importance of vigilance and regulation to protect public health.
+
+These unethical behaviors exploit consumers' desire to make socially responsible and environmentally friendly choices, leveraging these values for competitive advantage without genuine commitment. They undermine trust in ethical marketing and highlight the need for consumers to critically assess companies' claims and for regulatory bodies to enforce transparency and accountability in marketing practices.
+
+? 07 | 
+
+
+
+#### ? 07 | Ethical scenarios | The ugly 
+
+These review questions will test your ability to identify and navigate ethical dilemmas in business scenarios. Each question presents a situation where business actions are legal but may be considered unethical by some standards. Reflect on the ethical principles and make your decision. Remember, the goal is to provoke thought and discussion on ethical reasoning.
+
+**Scenario 1: Environmental Impact**
+
+A company legally disposes of its manufacturing waste in a way that minimizes costs but leads to significant environmental damage over time. The company complies with current regulations but knows the disposal method harms local wildlife. What course of action would be most ethical to pursue? 
+
+[[ ]] A. Justify the company's actions based on legal compliance and cost minimization.
+[[ ]] B. Propose an alternative disposal method that's environmentally friendly but increases operational costs.
+[[ ]] C. Recommend the company lobby for stricter environmental regulations to level the playing field with competitors.
+
+*************
+
+**A:** This choice reflects a strictly legalistic and profit-driven approach, overlooking broader ethical responsibilities to the environment and community.
+
+**B:** Choosing an environmentally friendly option demonstrates a commitment to ethical principles that prioritize sustainability and corporate social responsibility, even at a financial cost.
+
+**C:** Advocating for stricter regulations shows a long-term ethical vision that seeks to improve industry standards and protect environmental interests.
+
+********
+
+**Scenario 2: Targeted Advertising**
+
+A social media company uses advanced algorithms to target vulnerable populations with ads for high-interest loans. The practice is legal and highly profitable but raises concerns about exploiting financially unstable users.
+
+[[ ]] A. Continue the practice as it is legal and lucrative.
+[[ ]] B. Modify the algorithm to exclude vulnerable populations from such targeted ads.
+[[ ]] C. Create a financial literacy program for users while maintaining the ad targeting strategy.
+
+*******
+
+**A:** This option prioritizes legality and profit over ethical considerations of consumer welfare and protection.
+
+**B:** This choice reflects an ethical commitment to protecting vulnerable users from potentially exploitative practices, aligning with principles of fairness and care.
+
+**C:** While offering financial education is positive, this option fails to address the underlying ethical issue of exploiting vulnerable users, highlighting the need for direct action in ethical decision-making.
+
+********
+
+These questions are designed to challenge your perceptions and encourage deep thinking about the ethical dimensions of business decisions. Reflect on the feedback and consider how ethical theories and principles can guide more ethically responsible business practices.
+
+**End of Lesson 07**
+
+You have reached the end of Lesson 07. It is time to stop reading (for now) and to go on to work on Challenge 07. 
