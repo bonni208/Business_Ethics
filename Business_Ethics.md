@@ -4199,9 +4199,9 @@ A company legally disposes of its manufacturing waste in a way that minimizes co
 
 [[ ]] A. Justify the company's actions based on legal compliance and cost minimization.
 [[ ]] B. Propose an alternative disposal method that's environmentally friendly but increases operational costs.
-[[ ]] C. Recommend the company lobby for stricter environmental regulations to level the playing field with competitors.
+[[X]] C. Recommend the company lobby for stricter environmental regulations to level the playing field with competitors.
 
-*************
+***********************************************************************
 
 **A:** This choice reflects a strictly legalistic and profit-driven approach, overlooking broader ethical responsibilities to the environment and community.
 
@@ -4216,7 +4216,7 @@ A company legally disposes of its manufacturing waste in a way that minimizes co
 A social media company uses advanced algorithms to target vulnerable populations with ads for high-interest loans. The practice is legal and highly profitable but raises concerns about exploiting financially unstable users.
 
 [[ ]] A. Continue the practice as it is legal and lucrative.
-[[ ]] B. Modify the algorithm to exclude vulnerable populations from such targeted ads.
+[[X]] B. Modify the algorithm to exclude vulnerable populations from such targeted ads.
 [[ ]] C. Create a financial literacy program for users while maintaining the ad targeting strategy.
 
 *******
