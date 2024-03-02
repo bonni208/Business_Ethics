@@ -3956,11 +3956,18 @@ In this lesson, we will recenter ourselves on avoiding this type of thinking, as
 
 ### 07.01 | Dichotomous Thinking
 
-Way back in the introduction for this class, we also explored how ethical choices are rarely binary. Dichotomous thinking, also known as binary thinking or all-or-nothing thinking, is a cognitive distortion where an individual perceives and interprets situations, people, and events in extreme, either/or categories, without acknowledging the nuances or grey areas that usually exist. This type of thinking simplifies complex issues into two opposite choices, overlooking the spectrum of possibilities that lie between the extremes. Richard Rohr, a Franciscan friar and theologian has stressed the limitations of this kind of thinking: 
+Way back in the introduction for this class, we also explored how ethical choices are rarely binary. Dichotomous thinking, also known as binary thinking or all-or-nothing thinking, is a cognitive distortion where an individual perceives and interprets situations, people, and events in extreme, either/or categories, without acknowledging the nuances that usually exist. This type of thinking simplifies complex issues into two opposite choices, overlooking the spectrum of possibilities that lie between the extremes. Richard Rohr, a Franciscan friar and theologian has stressed the limitations of this kind of thinking: 
 
-> The dualistic mind is essentially binary, either/or thinking. It knows by comparison, opposition, and differentiation. It uses descriptive words like good/evil, pretty/ugly, smart/stupid, not realizing there may be a hundred degrees between the two ends of each spectrum.
+> The **dualistic mind** is essentially binary, either/or thinking. It knows by comparison, opposition, and differentiation. It uses descriptive words like good/evil, pretty/ugly, smart/stupid, not realizing there may be a hundred degrees between the two ends of each spectrum.
 >
 > -- Richard Rohr
+
+According to Richard Rohr, the **dualistic mind** does NOT realize that:
+
+[[X]] There may be a hundred degrees between the two ends of each spectrum.
+[[ ]] Good and evil are often clear-cut and easily distinguishable.
+[[ ]] It uses descriptive words like good/evil, pretty/ugly, smart/stupid.
+[[ ]] Comparison, opposition, and differentiation are fundamental to its operation.
 
 #### The dangers of dichotomous thinking
 
@@ -3990,11 +3997,32 @@ For Christians, avoiding dichotomous thinking in work and ethical decision-makin
 
 Both in business ethics and in a Christian approach to work, moving beyond dichotomous thinking allows for more ethical, compassionate, and effective decision-making. It encourages a deeper engagement with the complexities of the world and fosters responses that are more aligned with ethical principles and Christian teachings.
 
+What is dichotomous thinking?
+
+[[ ]] Considering all possible outcomes before making a decision.
+[[X]] Viewing situations, people, and events in extreme, either/or categories.
+[[ ]] The ability to think critically under pressure.
+[[ ]] Making decisions based on ethical principles alone.
+
+Which of the following best describes the dangers of dichotomous thinking in a business context?
+
+[[ ]] It enhances creativity and innovation.
+[[ ]] It leads to more ethical decision-making.
+[[X]] It fails to capture the complexity of given contexts and may lead to poor decision-making.
+[[ ]]  It simplifies communication between different departments.
+
 ### 07.02 | Conflicts of Interest
 
 A conflict of interest arises when an individual's personal interests or obligations interfere with their ability to make impartial decisions in the best interest of another party, such as their employer, client, or the public. These conflicts can occur in various contexts, including business, law, medicine, and public service, and they can be both actual and perceived. While some conflicts of interest can lead to illegal activities, such as bribery or corruption, many others fall into ethical grey areas that, although not illegal, can still undermine trust, integrity, and good governance.
 
 !?[Conflicts of interest](https://youtu.be/auePL3pYRb0?si=30W1D-tb6sUCtjfl)
+
+What is a conflict of interest?
+
+[[ ]] A legal dispute between two companies.
+[[X]] A situation where personal interests interfere with making impartial decisions for another party.
+[[ ]] A disagreement among employees within an organization.
+[[ ]] An ethical dilemma that has a clear right and wrong answer.
 
 #### Dangers of Conflicts of Interest
 
@@ -4008,7 +4036,12 @@ It is important for us to be aware of the potential for us to possess conflicts 
 
 **4. Legal and Financial Consequences:** While this discussion focuses on non-illegal conflicts, unresolved or improperly managed conflicts can escalate into legal issues, resulting in fines, penalties, or litigation.
 
-#### Conflict of Interest in Business Ethics
+How can conflicts of interest damage an organization?
+
+[[ ]] By improving trust between parties.
+[[ ]] By demonstrating the vital nature of ethical decision-making processes. 
+[[X]] By eroding trust and compromising decision-making. 
+[[ ]] By increasing the efficiency of operations. 
 
 In business ethics, conflicts of interest are particularly pertinent because ethical dilemmas often involve balancing diverse interests and obligations. Ethical business practices require transparency, integrity, and accountability, ensuring decisions are made in the best interest of the company and its stakeholders. This includes avoiding situations where personal interests could unduly influence professional decisions, thereby compromising ethical standards. For instance, a manager deciding on a supplier for their company should not choose a family member's business based solely on personal relationships if it does not offer the best value or service compared to competitors.
 
@@ -4024,6 +4057,13 @@ To manage conflicts of interest that are not illegal but still pose ethical conc
 - **Recusal:** Stepping back from decision-making processes where one's impartiality could be compromised.
 - **Policies and Procedures:** Implementing organizational policies that identify, manage, and mitigate conflicts of interest, including regular training on these issues.
 - **Ethical Leadership:** Cultivating a culture of ethical awareness and integrity where the values of transparency and accountability are prioritized.
+
+Which of the following steps can help manage non-illegal conflicts of interest?
+
+[[ ]] Ignoring the conflict and hoping it resolves itself.
+[[X]] Disclosing any potential conflicts of interest transparently. 
+[[ ]] Prioritizing personal gain over the organization's best interest.
+[[ ]] Avoiding policies and procedures that could reveal conflicts.
 
 In both business and personal conduct, recognizing and addressing conflicts of interest is crucial for maintaining ethical standards and trust. For Christians, navigating these situations with integrity also represents an opportunity to witness to their faith through ethical decision-making and actions that reflect Christian values of honesty, fairness, and concern for others.
 
@@ -4044,6 +4084,13 @@ In the U.S., the response to planned obsolescence is predominantly market-driven
 The EU has proactively legislated against planned obsolescence, integrating it into broader environmental and consumer protection efforts. Instead of relying on the market to drive more sustainable practices, the EU has created laws that protect against planned obsolescence. Initiatives like the [Ecodesign Directive](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32009L0125) and the [Circular Economy Action Plan](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1583933814386&uri=COM:2020:98:FIN) aim to increase product durability, ease of repair, and overall sustainability. This includes promoting the *right to repair*, intending to extend product lifespans and reduce waste. The EU's strategy represents a more regulatory approach, prioritizing sustainability and the right of consumers to have longer-lasting products.
 
 The contrast between the U.S. and EU outlines differing priorities: the U.S.'s market-led versus the EU's regulation-driven strategies. The EU's actions might inspire global shifts toward sustainable consumption and production, suggesting a potential pathway for others, including the U.S., to follow as global environmental concerns intensify.
+
+How does the European Union address planned obsolescence differently than the United States?
+
+[[ ]] By relying solely on market forces to discourage the practice.
+[[X]] By proactively legislating against planned obsolescence and promoting sustainability.
+[[ ]] The EU has no specific legislation against planned obsolescence.
+[[ ]] There is no difference between the approach used by the EU.
 
 #### The Light Bulb Conspiracy 
 
@@ -4081,7 +4128,27 @@ The *Right to Repair movement* has gained significant momentum in advocating for
 
 Right to repair has highlighted a broader issue affecting various consumer products, from smartphones and laptops to home appliances and vehicles, where manufacturers limit access to repair manuals, spare parts, and tools. The movement seeks to dismantle these barriers, arguing for legislation that would grant consumers and third-party repair shops the right to repair their own goods. By spotlighting everything from fast-food equipment to everyday technology, the Right to Repair movement emphasizes the environmental, economic, and ethical implications of a culture that undervalues product longevity and consumer autonomy. Advocates suggest that consumers should be able to investigate the ease with which a product can be repaired and the availability of spare parts. Products designed to be non-repairable or for which spare parts are scarce or prohibitively expensive may be indicative of planned obsolescence.
 
+Which approach is advocated by the Right to Repair movement?
+
+[[ ]] Encouraging consumers to purchase new products instead of repairing old ones.
+[[X]] Lobbying for legislation that allows consumers and third-party shops to repair products themselves.
+[[ ]] Promoting the use of proprietary components to prevent third-party repairs.
+[[ ]] Supporting manufacturers' rights to repair the products that they manufacture.
+
 Planned obsolescence sits at a contentious crossroads between economic growth and ethical business practices. As awareness of its implications grows, consumers, businesses, and regulators are increasingly questioning its validity as a business model. By critically examining the durability, repairability, and necessity of product updates, stakeholders can better navigate the ethical considerations of this practice. Encouraging a shift towards sustainability, transparency, and respect for consumer rights not only challenges planned obsolescence but also paves the way for more sustainable consumption and production patterns.
+
+Identify the type of planned obsolescence described in each statement: 
+
+- [[planned obsolescence] (right to repair movement) [ecodesign directive] (proprietary components)]
+- [    [ ]           [ ]             [ ]             [X]     ]  Components unique to a manufacturer's products, complicating third-party repairs.
+- [    [X]           [ ]             [ ]             [ ]     ]  Involves designing products with a limited lifespan to encourage repurchases.
+- [    [ ]           [X]             [ ]             [ ]     ]  Advocates for legislation allowing products to be repaired by the owner or third-party services.
+- [    [ ]           [ ]             [X]             [ ]     ]  Legislation aimed at improving product sustainability from the design stage.
+- [    [X]           [ ]             [ ]             [ ]     ]  Criticized for contributing to environmental waste and consumer rights issues.
+- [    [ ]           [X]             [ ]             [ ]     ]  Supports transparent disclosure of repair information and availability of spare parts.
+- [    [X]           [ ]             [ ]             [ ]     ] Often utilizes marketing and advertising to persuade consumers of the need for new versions.
+
+
 
 ### 07.04 | Marketing Tactics
 
@@ -4101,9 +4168,16 @@ Some companies use marketing techniques which exploit psychological vulnerabilit
 >
 > Psychological appeals form the basis of the most successful ads. Going beyond the standard ad pitch about the product’s advantages, **psychological appeal** try to reach our self-esteem and persuade us that we will feel better about ourselves if we use certain products. If advertising frames the purchase of a popular toy as the act of a loving parent rather than an extravagance, for instance, consumers may buy it not because their child needs it but because it makes them feel good about what generous parents they are. This is how psychological appeals become successful, and when they do work, this often constitutes a victory for the power of psychological persuasion at the expense of ethical truthfulness.
 
-This is Dr. B breaking in here. Please don't tell my father-in-law (who worked for McDonald's corporate for more than 30 years) about what I'm sharing next. McDonald's has been one of the companies who gets criticized for their happy meals and ways they market toward children. Here's an example of one of their advertisements around the movie Sing and getting kids to want to get the latest happy meal. 
+This is Dr. B breaking in here. Please don't tell my father-in-law (who worked for McDonald's corporate for more than 30 years) about what I'm sharing next. McDonald's has been one of the companies who gets criticized for their happy meals and ways they market toward children. Here's an example of one of their advertisements featuring characters from the movie Sing. 
 
 !?[Sing commercial with happy meal](https://youtu.be/xW436C-7wNc?si=cDNhgIhVUnfSAVS-)
+
+How does this commercial potentially exploit **psychological vulnerabilities** and make use of a **psychological appeal**?
+
+[[ ]] By suggesting that the Happy Meal is an essential need for children.
+[[ ]] By using the fear of missing out on popular movie toys to encourage purchases.
+[[X]] By appealing to parents' desires to make their children happy and be seen as generous.
+[[ ]] By misleading consumers about the nutritional value of the meal.
 
 > Purchases are also affected by our notion of what constitutes a necessity versus a luxury, and that perception often differs across generations. Older consumers today can probably remember when a cell phone was considered a luxury, for instance, rather than a necessity for every schoolchild. On the other hand, many younger consumers consider the purchase of a landline unnecessary, whereas some older people still use a conventional phone as their main or even preferred means of communication. The cars and suburban homes that were once considered essential purchases for every young family are slowly becoming luxuries, replaced, for many millennials, by travel. Generational differences like these are carefully studied by advertisers who are anxious to make use of psychological appeals in their campaigns.
 >
@@ -4116,6 +4190,13 @@ This is Dr. B breaking in here. Please don't tell my father-in-law (who worked f
 > A second ethical question is how we should expect reasonable people to respond to an avalanche of marketing schemes deliberately intended to separate them from their hard-earned cash. Are consumers obligated to sift through all the messages and ultimately make purchasing decisions in their own best interest? For example, does a perceived “deal” on an unhealthy food option justify the purchase? These questions have no consensus answers, but they underlie any discussion of the point at which sophisticated advertising runs headlong into people’s obligation to take responsibility for the wisdom of their purchases.
 >
 > Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+What ethical considerations does the marketing of the Pet Rock raise?
+
+[[ ]] Whether exploiting a novelty item for profit constitutes unethical behavior.
+[[ ]] If marketing a product with no practical use is a form of consumer deception.
+[[ ]] Whether such products genuinely satisfy a customer's need or exploit their gullibility.
+[[X]] All of the above.
 
 #### Social media and mobile apps
 
@@ -4132,6 +4213,27 @@ This is Dr. B breaking in here. Please don't tell my father-in-law (who worked f
 > Regardless of the delivery platform, however, any threat that the advertising of unnecessary or harmful products may pose to our autonomy as consumers is complicated by the fact that sometimes we willingly choose to buy goods or services we may not necessarily require. Sometimes we even buy things that have been proven to be harmful to us, such as cigarettes and sugary drinks. Yet we may *desire* these products even if we do not *need* them. If we have the disposable income to make these discretionary purchases, why should we not do so, and why should advertisers not advise us of their availability?
 >
 > Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+How has the emergence of social media advertising changed the content of ads?
+
+[[ ]] It has made ads less frequent but more expensive.
+[[X]] Ads have become more interactive and tailored to the individual's preferences.
+[[ ]] There is no significant change in the content of ads with social media.
+[[ ]] Ads now focus solely on older generations.
+
+Which of the following is NOT a challenge faced by corporations due to the rise of digital and social media?
+
+[[ ]] Increased vulnerability to cyber-theft through mobile apps.
+[[ ]] Consumer advocates using technology to escalate crises.
+[[X]] The inability to advertise or sell products and services online.
+[[ ]] Greater visibility of corporate mistakes through blogs and social networking sites
+
+Why might consumers willingly choose to buy goods or services they do not necessarily need, according to the excerpt?
+
+[[ ]] Because these goods or services are always less expensive than essential items.
+[[X]] They may desire these products for personal satisfaction, despite knowing they are unnecessary or harmful.
+[[ ]] Consumers are always fully informed about the products they purchase.
+[[ ]] Advertisers use aggressive tactics to force consumers into making purchases.
 
 #### Cause Marketing Deception
 
@@ -4171,6 +4273,22 @@ Consumer advocacy plays a vital role in combating pinkwashing. By demanding tran
 
 **Healthwashing**
 
+In marketing consumer goods, particularly within the food and beverage industry, **healthwashing** has emerged as a pervasive and controversial practice. This strategy involves branding and promoting products as being healthier than they truly are, often by emphasizing certain nutritional benefits while conveniently omitting less favorable health-related information. The allure of appearing health-conscious to consumers drives companies to adopt healthwashing tactics, capitalizing on the growing public interest in wellness and nutrition. However, this practice raises significant ethical questions about consumer deception, informed choice, and the responsibility of manufacturers in contributing to public health. 
+
+Healthwashing is the practice of making a product appear healthier than it really is by highlighting certain health attributes while ignoring less healthy aspects.
+
+[[X]] True
+[[ ]] Falso
+
+Why is healthwashing considered problematic?
+
+[[ ]] It accurately informs consumers about product ingredients.
+[[ ]] It helps consumers make healthier food choices.
+[[X]] It can mislead consumers into thinking a product is healthier than it actually is, impacting their dietary choices.
+[[ ]] It reduces the overall cost of food production.
+
+These questions are designed to test understanding of healthwashing and its implications for consumer behavior and public health, encouraging critical evaluation of marketing practices and product labeling.
+
 As we saw in one of the SIFT exercises in an earlier lesson, tobacco companies have made attempts to rebrand themselves over the years, and to mitigate the negative public perception associated with cigarette smoking and its health impacts. These efforts have evolved from marketing low-tar and "light" cigarettes as healthier alternatives to more recent endeavors involving the promotion of vaping and e-cigarettes as safer or cessation aids. Tobacco companies introduced "light" and "low-tar" cigarettes, claiming these products were less harmful than regular cigarettes. This was part of a broader strategy to appeal to health-conscious smokers concerned about the dangers of smoking. However, studies have shown that these products did not significantly reduce the risk of smoking-related diseases, leading to accusations of misleading consumers about the actual health risks. In the satirical film "Thank You for Smoking," Rob Lowe's character, Jeff Megall, has a conversation about promoting cigarettes in movies. Megall casually dismisses concerns about the health impacts of smoking with the line, "I'm not a doctor." 
 
 !?[Thank You for Smoking (2/5) Movie CLIP - Hollywood Meeting (2005) HD](https://youtu.be/xT7F0eKfctg?si=JdAomYAoV1ScKkfR)
@@ -4189,28 +4307,124 @@ Healthwashing occurs in other industries beyond tobacco. FDA-approved health cla
 >
 > -- Dariush Mozaffarian, MD, DrPH, dean for policy at the Friedman School
 
+Looking at the ingredients in foods and beverages can help, as well as identifying the quantity of salt and added sugar. Dr. Mazaffarian also advises us to use common sense and to [take charge of our eating in the following ways](https://www.nutritionletter.tufts.edu/healthy-eating/beware-of-health-washing/): 
+
+>- **Read the ingredient list.** Look for whole grains, fruits, veggies, beans, and nuts as the first few ingredients. Be cautious about long ingredient lists with few terms you recognize.
+>- **Use Nutrition Facts.** Look for products with lower sodium and added sugars and higher fiber and healthy fats (total fat minus saturated fat).
+>- **Beware of health ‘halos.’** Remember that being organic, gluten-free, no cholesterol, low-fat or fat free, reduced, light, fortified, or natural does not make an unhealthy food a healthy choice.
+>- **Watch for hidden added sugars.** Added sugars come in different forms and have many names. Be aware that most sugars are metabolized similarly by your body.
+>- **Go for whole and minimally processed.** Foods without labels, like whole fruits and veggies, are the healthiest choices. Also, packaged products with no claims may still be healthy choices.
+
+What is a common tactic used in healthwashing?
+
+[[ ]] Accurately representing the health benefits of a product.
+[[X]] Highlighting a product's low-fat content while ignoring high sugar levels.
+[[ ]] Offering detailed nutritional information that is easy for consumers to understand.
+[[ ]]  Reducing the price of healthy food options.
+
 These unethical behaviors exploit consumers' desire to make socially responsible and environmentally friendly choices, leveraging these values for competitive advantage without genuine commitment. They undermine trust in ethical marketing and highlight the need for consumers to critically assess companies' claims and for regulatory bodies to enforce transparency and accountability in marketing practices.
 
-#### ? 07 | Review questions | Cause marketing deception
+#### ? 07 | Review questions | Marketing tactics
 
-Identify the type of marketing practice described in each scenario. Choose "Genuine" for authentic cause marketing efforts, "Greenwashing" for deceptive environmental claims, and "Pinkwashing" for misleading support of breast cancer causes.
+Which of the following is NOT a reason companies engage in planned obsolescence?
 
-Copy / paste version v2
+[[X]] To reduce environmental impact.
+[[ ]] To drive continuous demand for their products.
+[[ ]] To compel consumers to purchase newer models.
+[[ ]] To boost short-term profits.
+
+In a situation where a manager must choose a supplier for their company, what would be an unethical decision influenced by a conflict of interest?
+
+[[ ]] Choosing the supplier that offers the best value and service. 
+[[X]] Selecting a family member’s business based solely on personal relationships, despite better options.
+[[ ]] Conducting a fair and open bidding process.
+[[ ]] Consulting with a team to make an unbiased decision.
+
+What is planned obsolescence?
+[[ ]] A strategy where products are designed to last indefinitely.
+[[ ]] A legal framework aimed at reducing electronic waste.
+[[X]] A business strategy to design products with a limited useful life, compelling consumers to buy newer versions.
+[[ ]] A consumer movement advocating for the right to repair products.
+
+How can dichotomous thinking increase conflict within a business environment?
+
+[[ ]] By confusing people by exploring all the possible ways a decision could be made. 
+[[X]] By framing discussions in terms of win/lose, exacerbating conflicts.
+[[ ]] By encouraging compromise and alternative solutions.
+[[ ]] By reducing stress and anxiety among team members. 
+
+Which of the following is NOT a suggested approach for Christians to avoid dichotomous thinking in their work?
+
+[[ ]] Embracing the complexity of moral ambiguity in decision-making. 
+[[X]] Strict adherence to rules without considering outcomes.
+[[ ]] Reflecting Christian love and understanding in approaching ethical dilemmas.
+[[ ]] Pursuing a balance between justice and mercy in solutions.
+
+Identify the type of marketing practice described in each scenario. 
 
 - [[genuine] (greenwashing) [pinkwashing] (healthwashing)]
 - [    [ ]           [ ]             [X]             [ ]     ]  An automotive manufacturer sponsors a breast cancer charity run but spends more on the marketing campaign for the event than it donates to the charity.
 - [    [ ]           [ ]             [ ]             [X]     ]  A fast-food chain introduces a new salad as part of its effort to offer healthier options, but the salad's calorie count is higher than most of its burgers.
 - [    [X]           [ ]             [ ]             [ ]     ]  A company sells bottled water and promises to donate a portion of each sale to providing clean water in developing countries. It transparently reports the amount donated each year.
 - [    [X]           [ ]             [ ]             [ ]     ]  A technology company launches a new phone made with recycled materials and provides detailed information about its supply chain and environmental impact assessments.
-- [    ( )           (X)             ( )             [ ]     ]  A cosmetic brand releases a "green" product line, claiming it's made with all-natural ingredients, but the products contain chemicals harmful to aquatic life.
+- [    [ ]            [X]             [ ]             [ ]     ]  A cosmetic brand releases a "green" product line, claiming it's made with all-natural ingredients, but the products contain chemicals harmful to aquatic life.
 
+A conflict of interest occurs only when an individual's personal financial interests directly harm their employer's financial interests.
 
+[[ ]] True
+[[X]]  False
+
+Which of the following claims does NOT guarantee that a food product is an overall healthy choice?
+
+[[ ]] Organic
+[[ ]] Low-fat
+[[ ]] High in fiber
+[[X]] Gluten-free
+
+What is a red flag to look out for on food packaging according to health experts?
+
+[[X]] Claims of being "low-fat" on foods that would not contain fat in the first place (e.g. grapes)
+[[ ]] Presence of whole grains as the first ingredient
+[[ ]] Foods labeled as high in fiber
+[[ ]] All of the above
+
+You're at the grocery store deciding between two types of cereal. Both are labeled as "organic," but one is high in added sugars while the other is high in fiber and has no added sugars. Based on Dr. Mozaffarian's advice, which cereal aligns better with making a healthier choice?
+
+[[ ]] The organic cereal high in added sugars
+[[X]] The organic cereal high in fiber with no added sugars
+[[ ]] Both choices are equally healthy due to the organic label
+[[ ]] Neither, because cereal is not a healthy option
+
+While shopping for snacks, you find an "all natural" soda that boasts having "natural cane sugar" and "natural sea salt." Considering the advice on health-washing, how should you interpret these health claims?
+
+[[ ]] The soda is a healthy choice because it uses natural ingredients
+[[ ]] The soda is healthier than other sodas but should still be consumed in moderation
+[[X]] The health claims do not make the soda a healthy choice, as it is still high in added sugars and salt
+[[ ]] The soda is beneficial for preventing thyroid disease due to the natural sea salt
+
+What is a significant ethical question raised by planned obsolescence?
+
+[[ ]] Is it ethical to design products that last too long?
+[[ ]] Should manufacturers make products as inexpensive as possible?
+[[X]] Is it ethical for companies to design products that will need to be replaced frequently?
+[[ ]] Are consumers responsible for the environmental impact of discarded products?
 
 #### ? 07 | Ethical scenarios | The ugly 
 
 These review questions will test your ability to identify and navigate ethical dilemmas in business scenarios. Each question presents a situation where business actions are legal but may be considered unethical by some standards. Reflect on the ethical principles and make your decision. Remember, the goal is to provoke thought and discussion on ethical reasoning.
 
-**Scenario 1: Environmental Impact**
+**Scenario 1**
+
+Jane is considering buying a new smartphone. She notices that the latest model has a non-removable battery and requires proprietary tools for any repairs. Jane recalls reading about the Right to Repair movement and planned obsolescence.
+
+What should Jane consider to make an ethical and informed purchasing decision?
+
+[[X]] Whether the phone's brand actively supports the Right to Repair movement.
+[[ ]] If the smartphone is the latest model on the market.
+[[ ]] The color and design of the smartphone. 
+[[ ]] The brand's reputation for quickly releasing new models.
+
+**Scenario 2**
 
 A company legally disposes of its manufacturing waste in a way that minimizes costs but leads to significant environmental damage over time. The company complies with current regulations but knows the disposal method harms local wildlife. What course of action would be most ethical to pursue? 
 
@@ -4218,31 +4432,13 @@ A company legally disposes of its manufacturing waste in a way that minimizes co
 [[ ]] Propose an alternative disposal method that's environmentally friendly but increases operational costs.
 [[X]] Recommend the company lobby for stricter environmental regulations to level the playing field with competitors.
 
-***********************************************************************
-
-**A:** This choice reflects a strictly legalistic and profit-driven approach, overlooking broader ethical responsibilities to the environment and community.
-
-**B:** Choosing an environmentally friendly option demonstrates a commitment to ethical principles that prioritize sustainability and corporate social responsibility, even at a financial cost.
-
-**C:** Advocating for stricter regulations shows a long-term ethical vision that seeks to improve industry standards and protect environmental interests.
-
-********
-
-**Scenario 2: Targeted Advertising**
+**Scenario 3**
 
 A social media company uses advanced algorithms to target vulnerable populations with ads for high-interest loans. The practice is legal and highly profitable but raises concerns about exploiting financially unstable users.
 
 [[ ]] A. Continue the practice as it is legal and lucrative.
 [[X]] B. Modify the algorithm to exclude vulnerable populations from such targeted ads.
 [[ ]] C. Create a financial literacy program for users while maintaining the ad targeting strategy.
-
-*******
-
-**A:** This option prioritizes legality and profit over ethical considerations of consumer welfare and protection.
-
-**B:** This choice reflects an ethical commitment to protecting vulnerable users from potentially exploitative practices, aligning with principles of fairness and care.
-
-**C:** While offering financial education is positive, this option fails to address the underlying ethical issue of exploiting vulnerable users, highlighting the need for direct action in ethical decision-making.
 
 ********
 
