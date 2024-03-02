@@ -4189,9 +4189,11 @@ These unethical behaviors exploit consumers' desire to make socially responsible
 
 Identify the type of marketing practice described in each scenario. Choose "Genuine" for authentic cause marketing efforts, "Greenwashing" for deceptive environmental claims, and "Pinkwashing" for misleading support of breast cancer causes.
 
-- [genuine][greenwashing][pinkwashing]
-- [[X][ ] [ ]] A company sells bottled water and promises to donate a portion of each sale to providing clean water in developing countries. It transparently reports the amount donated each year.
-- [[ ][X] [ ]]  A cosmetic brand releases a "green" product line, claiming it's made with all-natural ingredients, but the products contain chemicals harmful to aquatic life.
+Copy / paste version 
+
+- [[genuine] (greenwashing) [pinkwashing]]
+- [    [X]           [ ]             [ ]     ]  A company sells bottled water and promises to donate a portion of each sale to providing clean water in developing countries. It transparently reports the amount donated each year.
+- [    ( )           (X)             ( )     ]  A cosmetic brand releases a "green" product line, claiming it's made with all-natural ingredients, but the products contain chemicals harmful to aquatic life.
 
 
 
