@@ -4185,9 +4185,42 @@ Tobacco companies' attempts to rebrand themselves and dismiss the negative healt
 
 These unethical behaviors exploit consumers' desire to make socially responsible and environmentally friendly choices, leveraging these values for competitive advantage without genuine commitment. They undermine trust in ethical marketing and highlight the need for consumers to critically assess companies' claims and for regulatory bodies to enforce transparency and accountability in marketing practices.
 
-? 07 | 
+#### ? 07 | Review questions | Cause marketing deception
+
+Identify the type of marketing practice described in each scenario. Choose "Genuine" for authentic cause marketing efforts, "Greenwashing" for deceptive environmental claims, and "Pinkwashing" for misleading support of breast cancer causes.
+
+- [genuine][greenwashing][pinkwashing]
+- [[X][ ] [ ]] A company sells bottled water and promises to donate a portion of each sale to providing clean water in developing countries. It transparently reports the amount donated each year.
+- [[ ][X] [ ]]  A cosmetic brand releases a "green" product line, claiming it's made with all-natural ingredients, but the products contain chemicals harmful to aquatic life.
 
 
+
+- **Practices:** `[Genuine (authentic)]` `[Greenwashing (environmental)]` `[Pinkwashing (breast cancer)]`
+
+1. A company sells bottled water and promises to donate a portion of each sale to providing clean water in developing countries. It transparently reports the amount donated each year.
+   - [X] Genuine
+   - [ ] Greenwashing
+   - [ ] Pinkwashing
+   
+2. A cosmetic brand releases a "green" product line, claiming it's made with all-natural ingredients, but the products contain chemicals harmful to aquatic life.
+   - [ ] Genuine
+   - [X] Greenwashing
+   - [ ] Pinkwashing
+
+3. An automotive manufacturer sponsors a breast cancer charity run but spends more on the marketing campaign for the event than it donates to the charity.
+   - [ ] Genuine
+   - [ ] Greenwashing
+   - [X] Pinkwashing
+
+4. A technology company launches a new phone made with recycled materials and provides detailed information about its supply chain and environmental impact assessments.
+   - [X] Genuine
+   - [ ] Greenwashing
+   - [ ] Pinkwashing
+
+5. A fast-food chain introduces a new salad as part of its effort to offer healthier options, but the salad's calorie count is higher than most of its burgers.
+   - [ ] Genuine
+   - [X] Greenwashing
+   - [ ] Pinkwashing
 
 #### ? 07 | Ethical scenarios | The ugly 
 
@@ -4197,9 +4230,9 @@ These review questions will test your ability to identify and navigate ethical d
 
 A company legally disposes of its manufacturing waste in a way that minimizes costs but leads to significant environmental damage over time. The company complies with current regulations but knows the disposal method harms local wildlife. What course of action would be most ethical to pursue? 
 
-[[ ]] A. Justify the company's actions based on legal compliance and cost minimization.
-[[ ]] B. Propose an alternative disposal method that's environmentally friendly but increases operational costs.
-[[X]] C. Recommend the company lobby for stricter environmental regulations to level the playing field with competitors.
+[[ ]] Justify the company's actions based on legal compliance and cost minimization.
+[[ ]] Propose an alternative disposal method that's environmentally friendly but increases operational costs.
+[[X]] Recommend the company lobby for stricter environmental regulations to level the playing field with competitors.
 
 ***********************************************************************
 
