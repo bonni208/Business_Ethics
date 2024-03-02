@@ -4183,6 +4183,12 @@ Tobacco companies have also engaged in rebranding efforts that emphasize their c
 
 Tobacco companies' attempts to rebrand themselves and dismiss the negative health impacts of smoking reflect a complex interplay of marketing, regulatory influence, and public relations. While they present vaping and e-cigarettes as part of harm reduction strategies, public health authorities and researchers continue to scrutinize these claims, emphasizing the need for comprehensive studies to understand the long-term implications of these products. The ongoing evolution of tobacco industry tactics underscores the critical importance of vigilance and regulation to protect public health.
 
+Healthwashing occurs in other industries beyond tobacco. FDA-approved health claims such as organic, light, natural, and naturally raised don't necessarily mean that the food or beverage is healthy. Dr. Dariush Mozaffarian, dean for policy at the Tufts Friedman School cautions us to not fall for these deceptive marketing tactics. He [writes in the Tufts University Health and Nutrition Letter](https://www.nutritionletter.tufts.edu/healthy-eating/beware-of-health-washing/): 
+
+> Overall, a reasonable approach is to use these terms to compare otherwise similar foods—for example, choosing between two pastries, or two breakfast cereals, or two types of pizza, but also look at the ingredients, amounts of salt and added sugar, healthy fats, and fiber. And don’t let these buzz words fool you—better to pick a non-organic piece of fruit than an organic processed fruit roll.”
+>
+> -- Dariush Mozaffarian, MD, DrPH, dean for policy at the Friedman School
+
 These unethical behaviors exploit consumers' desire to make socially responsible and environmentally friendly choices, leveraging these values for competitive advantage without genuine commitment. They undermine trust in ethical marketing and highlight the need for consumers to critically assess companies' claims and for regulatory bodies to enforce transparency and accountability in marketing practices.
 
 #### ? 07 | Review questions | Cause marketing deception
