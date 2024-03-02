@@ -3950,7 +3950,7 @@ In the prior two lessons, we looked at individuals' and businesses' choices that
 
 In the movie, Moneyball (2011), we see an illustration of the dangers of binary thinking. Billy (played by Brad Pitt) attempts to get the group thinking differently than they have about how to pick players. The scouts keep returning to the way they used to determine who to draft.
 
-![Moneyball - He gets on base scene](https://youtu.be/PlKDQqKh03Y?si=vI5nC5Wt46TSd_MY)
+!?[Moneyball - He gets on base scene](https://youtu.be/PlKDQqKh03Y?si=vI5nC5Wt46TSd_MY)
 
 In this lesson, we will recenter ourselves on avoiding this type of thinking, as well as considering various ethical choices that may not be illegal, but also may not be the most moral. 
 
