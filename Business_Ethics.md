@@ -4148,7 +4148,7 @@ Identify the type of planned obsolescence described in each statement:
 - [    [ ]           [X]             [ ]             [ ]     ]  Supports transparent disclosure of repair information and availability of spare parts.
 - [    [X]           [ ]             [ ]             [ ]     ] Often utilizes marketing and advertising to persuade consumers of the need for new versions.
 
-
+Now that we have explored planned obsolescence, which is related to how businesses market their products, we will look at other marketing tactics with ethical implications. 
 
 ### 07.04 | Marketing Tactics
 
@@ -4324,7 +4324,7 @@ What is a common tactic used in healthwashing?
 
 These unethical behaviors exploit consumers' desire to make socially responsible and environmentally friendly choices, leveraging these values for competitive advantage without genuine commitment. They undermine trust in ethical marketing and highlight the need for consumers to critically assess companies' claims and for regulatory bodies to enforce transparency and accountability in marketing practices.
 
-#### ? 07 | Review questions | Marketing tactics
+**? 07 | Review questions | Marketing tactics**
 
 Which of the following is NOT a reason companies engage in planned obsolescence?
 
