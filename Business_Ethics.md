@@ -4447,3 +4447,364 @@ These questions are designed to challenge your perceptions and encourage deep th
 **End of Lesson 07**
 
 You have reached the end of Lesson 07. It is time to stop reading (for now) and to go on to work on Challenge 07. 
+
+## 08. Change our mind about changing our minds
+
+![Course lesson graphic 08](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-08.jpg)
+
+In business and in our relationships, in general, we all too often privilege those with confidence and immovability in their positions over people with humility and a willingness to change their minds. Consider how much the public degrades their view of politicians who "flip flop" on issues, even when decades have gone by since their first expressed their view on a controversial position. Given how quickly the landscape changes in business, the ability to change our minds is not just a virtue; it's a necessity for ethical leadership. 
+
+Having a commitment to ethical principles that transcend mere compliance with laws or pursuit of profit reflects a posture toward continuous growth and care for the greater good. The ability to change our minds when new information becomes available to us sets us up for having the ability to see the long view and to lead with our values. The ability to continuously learn and grow through humility and vulnerability guides us toward more sustainable business practices and helps us prepare to navigate the ethical challenges of the business world with greater insight, empathy, and integrity.
+
+#### 08.01 | Hit refresh: Empathy and learning as catalysts for organizational change
+
+![Hit Refresh author with book cover](https://innovatelearning.s3.amazonaws.com/hit-refresh.jpg)
+
+Satya Nadella, in his time as the CEO of Microsoft, illustrates the profound impact of empathy and continuous learning in driving organizational change in *Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Future for Everyone*. Nadella's leadership makes central the needs of both employees and customers, recognizing the importance of a company's mission in achieving sustainable growth.
+
+!?[Hit Refresh, by Satya Nadella - book summary](https://youtu.be/p6uphdaFr2w?si=oYK8TRe6BYVTImM1)
+
+Under Nadella's leadership, Microsoft embarked on a cultural transformation, prioritizing empathy as a core value and fostering an environment where learning from failure and questioning the status quo are encouraged. Nadella questions how we typically think of empathy and asserts:
+
+> Empathy is not a soft skill. In fact, it's the hardest skill we learn — to relate to the world, to relate to people that matter the most to us.
+>
+> -- Satya Nadella
+
+Bloomberg shares an interview with Nadella, where he describes the advice that changed his life. He grew up in India and was told by his parents that he paid too much attention to cricket vs on his studies. He went to graduate school in the U.S. and shifted his educational focus at that time. 
+
+!?[The advice that changed Microsoft CEO Satya Nadella's life](https://youtu.be/NgxEFwXBT4U?si=3W6zv1OgYxa2iVbT)
+
+In 1992, Nadella decided to start work at Microsoft, after talking with people who knew of his love of technology and advised him against going into finance. *Hit Refresh* encapsulates three lessons that Nadella learned and applied in transforming Microsoft, each stressing the importance of empathy and learning in business.
+
+**Lesson One: The Role of Empathy in Innovation**
+*Fostering an empathetic culture to drive technological advancement and brand loyalty*
+
+The first lesson Nadella shares is the centrality of empathy in the innovation process. By genuinely understanding and sharing the feelings of others, leaders and organizations can better anticipate customer needs and create products that truly make a difference in people's lives. This shift towards empathy not only redefines the approach to product development but also strengthens the connection between a company and its consumers.
+
+Nadella describes the importance of collaboration and empowering people to learn from mistakes and experimentation. Microsoft runs an annual Hackathon, which helps to break down silos in the organization and enable radical collaboration. He stresses that the core of innovation is deep empathy. 
+
+!?[Microsoft CEO Satya Nadella on the Importance of Teamwork and Empathy | Fast Company](https://youtu.be/nq8rEeJ4Tak?si=RKIznVwg_pS6PPTa)
+
+**Lesson Two: Learning from Failure**
+*Creating a safe space for experimentation and growth*
+
+In *Hit Refresh*, Nadella emphasizes the significance of learning from setbacks and viewing failure as a foundation for growth. He advocates for a culture where mistakes are not stigmatized but are seen as opportunities for learning and improvement. This approach encourages employees to take calculated risks and explore new ideas without the fear of repercussions, leading to greater innovation and adaptability.
+
+> Believe me, my journey has not been a simple journey of progress. There have been many ups and downs, and it is the choices that I made at each of those times that have helped shape what I have achieved.
+>
+> -- Satya Nadella
+
+Embracing our failures as much as our successes is crucial to innovation. By creating an environment where experimentation is not just allowed but encouraged, Nadella opens the door to breakthroughs and learning opportunities that drive progress.
+
+**Lesson Three: The Continuous Quest for Knowledge**
+*Embracing lifelong learning as a key to personal and organizational success*
+
+The final lesson revolves around the continuous pursuit of knowledge. Nadella argues that in the ever-evolving tech industry, staying relevant requires an unwavering commitment to learning and self-improvement. He encourages leaders and organizations to cultivate curiosity, invest in personal development, and remain open to new ideas and perspectives. This commitment to learning ensures that both individuals and organizations can navigate change effectively and remain competitive. Nadella encourages us to embrace humility as part of an effort toward lifelong learning. He tells us:
+
+> “Don’t be a know-it-all. Be a learn-it-all.”
+>
+> -- Satya Nadella
+
+Nadella describes how he facilitated organizational change to transform Microsoft's culture from when Bill Gates and prior CEOs were leading it to where the work culture is today. Nadella's wife had reminded him about the idea of a growth mindset, drawn from the research of Carol Dweck. Those with a fixed mindset believe that their capabilities are innate and that efforts toward improvement will go unrewarded. People with a growth mindset, however, have the perspective that ongoing development is possible, with effort and commitment. Nadella describes the change toward a continuous quest for learning at Microsoft and the ways that "[the learn-it-all does better than the know-it-all](https://www.wsj.com/video/satya-nadella-the-learn-it-all-does-better-than-the-know-it-all/D8BC205C-D7F5-423E-8A41-0E921E86597C.html)."
+
+<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="512" height="288" src="https://video-api.wsj.com/api-video/player/v3/iframe.html?guid=D8BC205C-D7F5-423E-8A41-0E921E86597C"></iframe>
+
+We can draw lessons from Nadella about the importance of never being done, in terms of our own learning and personal change. Through *Hit Refresh*, Satya Nadella emphasizes the power of empathy and learning in enacting meaningful organizational change. Nadella's leadership philosophy serves as an inspiring model for how businesses can rejuvenate their core, foster innovation, and build a more inclusive and understanding corporate culture. 
+
+**? Review questions | Hit refresh**
+
+Satya Nadella believes that empathy is a soft skill that plays a minor role in business innovation.
+
+[[ ]] True
+[[X]] False
+
+Nadella's journey to becoming CEO of Microsoft was straightforward, without any personal or professional setbacks.
+
+[[ ]] True
+[[X]] False
+
+What does Satya Nadella identify as the hardest skill to learn, which is crucial for relating to people and the world?
+
+[[ ]] Technical expertise
+[[X]] Empathy
+[[ ]] Financial acumen
+[[ ]] Strategic planning
+
+Which annual event at Microsoft does Nadella highlight for promoting innovation through radical collaboration?
+
+[[ ]] Microsoft Ignite
+[[ ]] Microsoft Build
+[[X]] Microsoft Hackathon
+[[ ]] Microsoft Inspire
+
+By prioritizing empathy and embracing the journey of continuous learning, Nadella demonstrates how leaders can not only transform their organizations but also contribute to a better future for society.
+
+#### 08.02 | Think again: The power of knowing what you don't know
+
+![Think Again author and book cover](https://innovatelearning.s3.amazonaws.com/think-again.jpg)
+
+Adam Grant is an organizational psychologist and a leading expert on how we can find motivation and meaning in our lives. In his book *Think Again*, Grant explores the critical art of rethinking: challenging our own beliefs, questioning long-held assumptions, and embracing the flexibility of mind necessary for learning and growth. Too many of us surround ourselves with people who share our same viewpoints, limiting our ability to continuously learn and grow. Grant writes: 
+
+> We listen to views that make us feel good, instead of ideas that make us think hard.
+>
+> -- Adam Grant 
+
+!?[Think Again, by Adam Grant - book summary](https://youtu.be/ZEdRLP7cq_I?si=ap0YA3cC96Q-oVEu)
+
+The book contains three lessons, each of which help us to become lifelong learners and influence others to do the same. In the [Think Again book description](https://adamgrant.net/book/think-again/), we discover that: "We don’t have to believe everything we think or internalize everything we feel. [Think Again] is an invitation to let go of views that are no longer serving us well and prize mental flexibility, humility, and curiosity over foolish consistency. If knowledge is power, knowing what we don’t know is wisdom."
+
+**Lesson one: Updating our own views**
+*If you want to be smarter and more likable, admit you don't know things*
+
+In the first lesson of *Think Again*, Adam Grant emphasizes the power of embracing our own ignorance. He argues that admitting we don't know something is not only a stepping stone to acquiring new knowledge but also enhances how others perceive us. By acknowledging our gaps in understanding, we open ourselves up to learning and invite more authentic connections with others, fostering an environment where curiosity and growth are valued over the pretense of knowledge. This lesson challenges the notion that certainty equates to competence, suggesting instead that the willingness to admit what we don't know can make us both smarter and more likable.
+
+**Lesson two: Opening other people's minds**
+*Sometimes, even the most ignorant people change their minds*
+
+Adam Grant's second lesson in *Think Again* discusses the transformative potential that lies within all individuals, including those who might initially appear the most stubborn or uninformed. He underscores the idea that change is possible for everyone, emphasizing the importance of creating environments and using approaches that encourage open-mindedness and reflection. This lesson highlights the power of patience, empathy, and strategic communication in facilitating change, even among those who seem most resistant. By understanding the underlying reasons for someone's stance and engaging in thoughtful dialogue, we can pave the way for meaningful shifts in perspective, reinforcing the notion that it's never too late to embrace new ideas and change one's mind.
+
+**Lesson three: Creating communities of lifelong learners**
+*If you want to convince people of your perspective, ask them the right questions*
+
+In the third lesson of *Think Again*, Adam Grant describes how to use questions to shift perspectives and foster openness to new ideas. Rather than directly challenging someone's beliefs or presenting counterarguments, Grant asserts that asking questions can lead individuals to reconsider their positions on their own. This approach leverages the natural human inclination for self-reflection and problem-solving, making it more likely for people to arrive at new understandings independently. By engaging in this kind of Socratic questioning (which we saw on such marvelous display when watching the [Michael Sandel Justice videos](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6) earlier in the class), we not only respect the autonomy of others but also increase the chances of genuine persuasion, demonstrating that the key to changing minds often lies in the art of inquiry.
+
+**? Review questions | Think again**
+
+For each statement, indicate whether it aligns with Adam Grant's views as presented in *Think Again* (True) or not (False).
+
+- [[True] (False)]
+- [    [ ]         [X]     ]  Surrounding ourselves with like-minded individuals enhances our growth.
+- [    [X]         [ ]     ]  Embracing ignorance is a step toward acquiring new knowledge and enhancing likability.
+- [    [ ]         [X]     ]  Certainty should be valued over admitting what we don't know for personal growth.
+- [    [X]         [ ]     ]  Socratic questioning can lead to genuine persuasion and openness to new ideas.
+
+What does Adam Grant explore in his book *Think Again*?
+
+[[ ]] The benefits of having a fixed mindset
+[[X]] The art of rethinking and questioning assumptions
+[[ ]] Strategies for avoiding change
+[[ ]] Techniques for reducing empathy in communication
+
+What is a key strategy Grant suggests for opening other people's minds?
+
+[[ ]] Forcing your opinions on others
+[[ ]] Ignoring differing viewpoints
+[[X]] Asking the right questions
+[[ ]] Presenting overwhelming evidence
+
+Adam Grant's *Think Again* challenges us to embrace the transformative power of reevaluating our beliefs and cultivating continuous learning and growth. By fostering a culture of curiosity, humility, and empathy, business professionals can cultivate more ethical decision making in organizations.
+
+#### 08.03 | Dare to lead: How vulnerability transforms the way we lead
+
+![Dare to Lead author and book cover](https://innovatelearning.s3.amazonaws.com/dare-to-lead.jpg)
+
+Brené Brown, a researcher, professor, and thought leader on vulnerability, courage, empathy, and shame, invites us to explore how embracing our vulnerabilities is the key to deeper connections and a more fulfilling life in her book *Dare to Lead*. Through her research, Brown uncovers the paradox that vulnerability, often seen as a weakness, is actually our greatest strength. She stresses that:
+
+> Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+>
+> -- Brené Brown
+
+!?[You can teach courage](https://youtu.be/e257BL851Uw?si=wlKv6LCUakMhxpeE)
+
+Brown describes the dangers of creating a culture where vulnerability is seen as a weakness. Places where innovation is happening most prominently, risk and reward is stressed, which requires vulnerability in taking risks and embracing failures. *Daring Greatly* challenges us to confront our fears and perceptions about vulnerability. In the [Daring to Lead book description](https://brenebrown.com/book/dare-to-lead/), Brown describes how: 
+
+> When we dare to lead, we don’t pretend to have the right answers; we stay curious and ask the right questions. We don’t see power as finite and hoard it; we know that power becomes infinite when we share it with others. We don’t avoid difficult conversations and situations; we lean into vulnerability when it’s necessary to do good work. But daring leadership in a culture defined by scarcity, fear, and uncertainty requires skill-building around traits that are deeply and uniquely human. The irony is that we’re choosing not to invest in developing the hearts and minds of leaders at the exact same time as we’re scrambling to figure out what we have to offer that machines and AI can’t do better and faster. What can we do better? Empathy, connection, and courage, to start.
+>
+> -- Brené Brown
+
+**Lesson one: Embracing vulnerability**
+*Vulnerability is the birthplace of innovation, creativity, and change*
+
+In this foundational lesson of *Dare to Lead*, Brené Brown champions the embrace of vulnerability as essential to personal growth and connection. She argues that allowing ourselves to be vulnerable opens the door to new possibilities in love, work, and parenting. By shedding the armor that we think protects us, we actually find the strength and courage to create more authentic and meaningful experiences. This challenges the societal notion that to be vulnerable is to be weak, proposing instead that it is the most accurate measure of courage.
+
+In another of Brown's books, *Daring Greatly*, she writes about how much a section of a speech by Theodore Roosevelt resonated with her, as she researched vulnerability. The speech is often referred to as 'the man in the arena,' but is part of a longer talk titled 'Citizenship in a Republic.' Brown shares the section of the speech that is best known: 
+
+>“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. 
+>
+>The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, 
+>
+>because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; 
+>
+>who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly.…”
+>
+>-- Theodore Roosevelt
+
+**Lesson two: Transforming shame into empowerment**
+*Understanding and overcoming shame leads to greater self-worth and connection*
+
+Brown describes into the complex emotion of shame and its impact on our ability to be vulnerable. She highlights the importance of recognizing our shame triggers and practicing empathy with ourselves and others as a pathway to resilience. Her research explores the strong correlations between shame and addiction, bullying, aggression, violence, and other behaviors that don't lead to positive outcomes in business, or other aspects of our lives. In this clip, she describes the different ways her research has shown men vs women to experience shame. 
+
+!?[We need to talk about shame | Brené Brown](https://youtu.be/5C6UELitWkw?si=Y3njatX9wQ0vTEv7)
+
+Guilt, however, doesn't have those same correlations that shame is shown to possess. With guilt, we can be driven to make other choices, or make amends and restore relationships. This second lesson underscores the transformative power of vulnerability in turning feelings of unworthiness into a deep sense of belonging and love, showing that recognizing and confronting our shame can lead to profound changes in how we connect and lead.
+
+**Lesson three: Cultivating a culture of vulnerability**
+*Creating environments where vulnerability is encouraged can transform the way we live, love, parent, and lead*
+
+In the third lesson of *Dare to Lead*, Brené Brown explores how fostering environments that celebrate vulnerability can lead to greater innovation and deeper connections within families, workplaces, and communities. She suggests practical strategies for building such cultures, emphasizing the importance of clear communication, setting boundaries, and leading with empathy. By inviting vulnerability, we not only support personal growth but also contribute to building more compassionate and courageous communities.
+
+A key component of developing this type of culture involves establishing genuine empathy in our relationships. Brown describes the difference between empathy and sympathy and how to make the choice to be empathetic toward greater connections with others: 
+
+!?[Brené Brown on Empathy](https://youtu.be/1Evwgu369Jw?si=Mfeqa1GbrfTfvxHF)
+
+**? Review questions | Dare to lead**
+
+Brené Brown views vulnerability as a form of weakness that should be avoided in professional settings.
+
+[[X]] True
+[[ ]] False
+
+According to Brown, the willingness to show up and be seen when we have no control over the outcome is what defines vulnerability.
+
+[[X]] True
+[[ ]] False
+
+Shame has strong correlations with positive outcomes in business and personal development, according to Brown's research.
+
+[[ ]] True
+[[X]] False
+
+Select the most relevant word to go with each statement below. 
+
+- [[Empathy] (Sympathy) [Vulnerability] [Shame]]
+- [    ( )           ( )             ( )         (X)     ]  Has strong correlations with negative behaviors.
+- [    ( )           (X)             ( )         ( )     ]  Involves feeling sorry for someone from a distance.
+- [    ( )           ( )             (X)         ( )     ]  Seen as a strength and birthplace of innovation.
+- [    [X]           [ ]             [ ]         [ ]     ]  Is key to deeper connections according to Brené Brown.
+
+Which historical figure's speech does Brown reference in *Daring Greatly* to illustrate the importance of vulnerability?
+
+[[ ]] Winston Churchill
+[[X]] Theodore Roosevelt
+[[ ]] Abraham Lincoln
+[[ ]] Martin Luther King Jr.
+
+Through *Dare to Lead*, Brené Brown offers a surprising perspective on which to view our lives, advocating for a world where we dare to be vulnerable, embrace our imperfections, and courageously engage with each other in authentic and meaningful ways.
+
+#### 08.04 | Embrace authenticity: Navigate the good, bad, and ugly of professional identity
+
+![Our Separate Ways author and book cover](https://innovatelearning.s3.amazonaws.com/our-separate-ways.jpg)
+
+Dr. Ella Bell Smith, a distinguished professor and an expert in organizational behavior, researches professional identity for women in the corporate world, particularly for women of color. Her seminal work, *Our Separate Ways: Black and White Women and the Struggle for Professional Identity*, co-authored with Stella M. Nkomo, examines the challenges and triumphs of women navigating their careers in a business context. Dr. Bell Smith also addresses lessons about authenticity, the confrontation with one's *shadow self*, and the critical role of empathy in leadership and organizational development in her speaking engagements.
+
+**Lesson One: The power of authenticity and its challenges**
+*Embracing authenticity in professional environments*
+
+Dr. Bell Smith underscores the importance of authenticity in the workplace, advocating for individuals to bring their whole selves to their professional roles. However, she doesn't shy away from addressing the *bad* or the challenges that come with being authentic, especially for women and minorities who might face stereotypes or biases. Dr. Bell Smith [describes what has motivated her to advocate for greater gender and racial equality](https://www.tuck.dartmouth.edu/news/articles/the-concrete-wall), which would allow for more people to show up in authentic ways in the workplace. She shares: 
+
+> I think it’s in my DNA. I was adopted, and I get it from all four of my parents. My family is a family who know who they are. My mother and father were very political growing up; my biological father was a third-generation physician, and my biological mother was from a very mixed Irish, Native American, African American family. For an African American woman to be able to say her family knew who they were—that is a privilege, a high privilege. It shapes my voice, my commitment, my determination.
+>
+> -- Dr. Ella Bell Smith
+
+Rather than attempt to emulate those in power in organizations, [Dr. Bell Smith suggests](https://gender.stanford.edu/news/lessons-how-navigate-workplace-ella-bell-smith) that women and those from underrepresented groups "take the reins of their professional lives and career trajectories despite the professional barriers and biases that they may encounter along the way." By researching an organization's commitment to diversity before we take the job, we can increase our ability to find a place where we can thrive. This lesson encourages a reflection on how organizations can create environments that not only allow but celebrate, the diversity of experiences and perspectives that employees bring to their roles.
+
+**Lesson Two: Confronting the shadow Self**
+*Acknowledging and learning from our less visible traits*
+
+In her discussions on the *ugly* aspects of professional life, Dr. Bell Smith discusses the *shadow self* – the parts of our identity that we prefer to keep hidden, both from ourselves and others. This lesson involves the critical work of self-examination and growth, recognizing that acknowledging and understanding our shadow selves can lead to greater personal authenticity and effectiveness in leadership. It's a call to explore the depths of our identity to emerge as more empathetic and aware leaders. Listen to Dr. Ella Bell describe how our ugly helped us to learn our faith and to recognize our own power. 
+
+!?[The good, bad and ugly lessons](https://youtu.be/znrDbHNoi8w?si=xEkmVZd-lX1qvH_9)
+
+In [an engagement with the Stanford student community in 2017](https://gender.stanford.edu/news/lessons-how-navigate-workplace-ella-bell-smith), Dr. Ella Bell Smith emphasized the necessity of self-reflection before and during one's career. She advocates for a journey inward to acknowledge and understand the aspects of ourselves that we often overlook or choose to ignore (the shadow self). This process of self-reflection is akin to confronting our shadow selves—those parts of our identity that remain hidden from our conscious awareness yet significantly influence our behaviors and interactions in the workplace. The shift is to go from shame to an asset-based mindset. It's about recognizing and embracing the full spectrum of our identities, to show up in the fullness of ourselves and seek to allow others to do the same. 
+
+**Lesson Three: Cultivating empathy as a foundation for inclusion**
+*Building empathetic connections to foster inclusive workplaces*
+
+Empathy stands at the core of Dr. Bell Smith's teachings, highlighted as the essential trait for leaders striving to create inclusive and supportive organizational cultures. This lesson emphasizes the role of empathy in understanding the diverse experiences of employees, particularly the unique challenges faced by women of color in business. By advocating for a leadership approach grounded in empathy, Dr. Bell Smith inspires organizations to move beyond superficial diversity initiatives to foster genuine connections and equity within the workplace.
+
+**? Review questions | Embrace authenticity**
+
+For each statement, indicate whether it aligns with Dr. Ella Bell Smith's views (True) or not (False).
+
+- [[True] (False)]
+
+- [    [ ]         [X]     ]  Dr. Bell Smith's research advises against self-reflection in professional development.
+- [    [X]         [ ]     ]  Authenticity involves facing and integrating the shadow self for a fuller presence in the workplace.
+- [    [ ]         [X]     ]  Leaders should avoid vulnerability to maintain authority and control.
+
+According to Dr. Bell Smith, what is the 'shadow self'?**
+
+[[ ]] The professional identity we aspire to achieve
+[[X]] The aspects of our identity we keep hidden from ourselves and others
+[[ ]] The skills and competencies we display in the workplace
+[[ ]] The public persona we adopt in professional settings
+
+Which of the following best describes Dr. Bell Smith's view on empathy in leadership?
+
+[[ ]] It is unnecessary for successful leadership
+[[X]] It is central to creating inclusive and supportive organizational cultures
+[[ ]] It should be avoided to maintain professional boundaries
+[[ ]] It is less important than technical skills
+
+Through *Our Separate Ways* and her talks, Dr. Ella Bell Smith offers lessons on navigating the complexities of professional identity with authenticity, confronting our inner challenges, and the indispensable role of empathy in achieving inclusivity in the corporate world. Her insights provide guidance for individuals and businesses committed to fostering diversity, equity, and inclusion in their organizational culture.
+
+#### 08.05 | Be humble: The intersection of resolve and acknowledging excellence in others
+
+![Good to Great author and book cover](https://innovatelearning.s3.amazonaws.com/good-to-great.jpg)
+
+Jim Collins, an author and researcher, presents a paradigm-changing concept in his seminal work, *Good to Great: Why Some Companies Make the Leap... and Others Don't*. Collins introduces the idea of *Level 5 Leadership*, a leadership model that combines an unwavering professional will with a profound personal humility. This duality, according to Collins, is what distinguishes leaders who have successfully transformed good companies into great ones. Collins describes this fifth level of leadership and profiles truly exceptional leaders who possessed this type of humility and to "channel their vision into something bigger than themselves."
+
+!?[Good to Great, by Jim Collins](https://youtu.be/4GaT6yzMZfE?si=3qNN5kiLenT2bGIl)
+
+Collins' research suggests that Level 5 Leaders are characterized by their paradoxical blend of humility and fierce resolve. They are leaders who channel their ego needs away from themselves and into the larger goal of building a great company. It's not that these leaders have no ego or self-interest. Rather, their ego is invested in the goal of building a great company. In speaking with a group of business leaders, Collins asks (and answers) the question:
+
+> How do we build that legion of level five leaders? Find something for which you have so much passion that you are willing to endure the pain. If you really want to [become a level five leader], why don't you really think about how to be useful? 
+>
+> -- Jim Collins
+
+*Good to Great* offers us three core lessons derived from the concept of Level 5 Leadership, each designed to cultivate a culture of humility and excellence.
+
+**Lesson One: The Personal Humility of Level 5 Leaders**
+*Embracing the paradox of personal humility and professional will*
+
+The first lesson from *Good to Great* emphasizes the importance of personal humility in leadership. Level 5 Leaders do not seek fame, glory, or recognition for their achievements but instead focus on what is best for the organization. This lesson challenges the conventional image of the charismatic, attention-seeking leader, suggesting that humility can be a more powerful driver of organizational success.  Collins writes:
+
+> Level 5 Leaders look out the window to apportion credit to factors outside themselves when things go well (and if they cannot find a specific person or event to give credit to, they credit luck). At the same time, they look in the mirror to apportion responsibility, never blaming bad luck when things go poorly.
+>
+> -- Jim Collins
+
+**Lesson Two: The Professional Will to Achieve Greatness**
+*Fostering a relentless pursuit of organizational excellence*
+
+In the second lesson, Collins delves into the unwavering resolve of Level 5 Leaders to do whatever it takes to make their companies great, even if it requires difficult decisions that might be unpopular in the short term. This professional will, coupled with humility, enables leaders to confront the brutal facts of their reality, make disciplined decisions, and execute them with precision.
+
+**Lesson Three: Building Enduring Greatness through a Blend of Humility and Will**
+*Creating a legacy of excellence that transcends the individual leader*
+
+The final lesson explores how Level 5 Leaders contribute to building companies that achieve and sustain greatness long after they have gone. This enduring impact is attributed to the leader's focus on building strong teams, fostering a culture of discipline, and instilling an ethic of hard work and humility across the organization.
+
+Notice that this lesson isn't talking about leaders as charismatic, necessarily. Collins describes that their research doesn't support that in this short clip:
+
+!?[Jim Collins: Charisma, Schmarisma: Real Leaders are Zealots](https://youtu.be/EQ1FI-WTJUI?si=gQMZOeKqYFi-_SFc)
+
+Leadership is not personality, he stresses. It isn't about the external stuff, but instead is aligned with the question of why they are in it. Are you trying to do something great? Something that goes well beyond you as the leader. When our efforts to facilitate change go beyond the benefits of ourselves, real, lasting change is possible. 
+
+**? Review questions | Be humble**
+
+For each statement, indicate whether it aligns with Jim Collins' views as presented in *Good to Great* (True) or not (False).
+
+- [[True] (False)]
+- [    [ ]         [X]     ]  Level 5 Leaders attribute their success to their charismatic personality.
+- [    [ ]         [X]     ]  Level 5 Leaders prioritize personal recognition over the company's success.
+- [    [X]         [ ]     ]  Humility and a strong professional will are central to Level 5 Leadership.
+- [    [X]         [ ]     ]  A legacy of excellence is a hallmark of Level 5 Leadership according to Collins.
+
+According to Collins, Level 5 Leadership is characterized by a mix of personal humility and professional will.
+
+[[X]] True
+[[ ]] False
+
+According to Jim Collins, how do Level 5 Leaders typically react when things go well?
+
+[[ ]] They take all the credit for themselves.
+[[X]] They credit external factors or luck.
+[[ ]] They attribute success to financial investments.
+[[ ]] They highlight their personal skills as the sole reason for success.
+
+What does Collins imply is not crucial for leadership?**
+[[ ]] Humility
+[[ ]] Professional will
+[[X]] Charisma
+[[ ]] Disciplined decisions
+
+Through the lens of Level 5 Leadership, Jim Collins offers a compelling argument for the role of humility in achieving not just good, but great leadership. This framework challenges aspiring leaders to rethink their approach to leadership, underscoring the importance of humility, selflessness, and a strong professional will in creating organizations that stand the test of time.
