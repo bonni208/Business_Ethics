@@ -4737,6 +4737,8 @@ Which of the following best describes Dr. Bell Smith's view on empathy in leader
 
 Through *Our Separate Ways* and her talks, Dr. Ella Bell Smith offers lessons on navigating the complexities of professional identity with authenticity, confronting our inner challenges, and the indispensable role of empathy in achieving inclusivity in the corporate world. Her insights provide guidance for individuals and businesses committed to fostering diversity, equity, and inclusion in their organizational culture.
 
+
+
 #### 08.05 | Be humble: The intersection of resolve and acknowledging excellence in others
 
 ![Good to Great author and book cover](https://innovatelearning.s3.amazonaws.com/good-to-great.jpg)
