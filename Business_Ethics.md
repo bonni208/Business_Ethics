@@ -4651,8 +4651,8 @@ A key component of developing this type of culture involves establishing genuine
 
 Brené Brown views vulnerability as a form of weakness that should be avoided in professional settings.
 
-[[X]] True
-[[ ]] False
+[[ ]] True
+[[X]] False
 
 According to Brown, the willingness to show up and be seen when we have no control over the outcome is what defines vulnerability.
 
@@ -4670,7 +4670,7 @@ Select the most relevant word to go with each statement below.
 - [    ( )           ( )             ( )         (X)     ]  Has strong correlations with negative behaviors.
 - [    ( )           (X)             ( )         ( )     ]  Involves feeling sorry for someone from a distance.
 - [    ( )           ( )             (X)         ( )     ]  Seen as a strength and birthplace of innovation.
-- [    [X]           [ ]             [ ]         [ ]     ]  Is key to deeper connections according to Brené Brown.
+- [    (X)           ( )               ( )          ( )     ]  Is key to deeper connections according to Brené Brown.
 
 Which historical figure's speech does Brown reference in *Daring Greatly* to illustrate the importance of vulnerability?
 
@@ -4717,12 +4717,12 @@ Empathy stands at the core of Dr. Bell Smith's teachings, highlighted as the ess
 For each statement, indicate whether it aligns with Dr. Ella Bell Smith's views (True) or not (False).
 
 - [[True] (False)]
+- [      [ ]           [X]     ]  Dr. Bell Smith's research advises against self-reflection in professional development.
 
-- [    [ ]         [X]     ]  Dr. Bell Smith's research advises against self-reflection in professional development.
-- [    [X]         [ ]     ]  Authenticity involves facing and integrating the shadow self for a fuller presence in the workplace.
-- [    [ ]         [X]     ]  Leaders should avoid vulnerability to maintain authority and control.
+- [     [X]           [ ]     ]  Authenticity involves facing and integrating the shadow self for a fuller presence in the workplace.
+- [     [ ]           [X]     ]  Leaders should avoid vulnerability to maintain authority and control.
 
-According to Dr. Bell Smith, what is the 'shadow self'?**
+According to Dr. Bell Smith, what is the 'shadow self'?
 
 [[ ]] The professional identity we aspire to achieve
 [[X]] The aspects of our identity we keep hidden from ourselves and others
@@ -4801,7 +4801,8 @@ According to Jim Collins, how do Level 5 Leaders typically react when things go 
 [[ ]] They attribute success to financial investments.
 [[ ]] They highlight their personal skills as the sole reason for success.
 
-What does Collins imply is not crucial for leadership?**
+What does Collins imply is not crucial for leadership?
+
 [[ ]] Humility
 [[ ]] Professional will
 [[X]] Charisma
