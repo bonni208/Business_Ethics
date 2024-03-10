@@ -4718,7 +4718,6 @@ For each statement, indicate whether it aligns with Dr. Ella Bell Smith's views 
 
 - [[True] (False)]
 - [      [ ]           [X]     ]  Dr. Bell Smith's research advises against self-reflection in professional development.
-
 - [     [X]           [ ]     ]  Authenticity involves facing and integrating the shadow self for a fuller presence in the workplace.
 - [     [ ]           [X]     ]  Leaders should avoid vulnerability to maintain authority and control.
 
