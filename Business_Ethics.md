@@ -4810,3 +4810,360 @@ What does Collins imply is not crucial for leadership?
 [[ ]] Disciplined decisions
 
 Through the lens of Level 5 Leadership, Jim Collins offers a compelling argument for the role of humility in achieving not just good, but great leadership. This framework challenges aspiring leaders to rethink their approach to leadership, underscoring the importance of humility, selflessness, and a strong professional will in creating organizations that stand the test of time.
+
+## 09. The value of inclusion: Diversity at work
+
+![Course lesson graphic 09](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-09.jpg)
+
+Broadly speaking, the benefits of diversity in the workplace can be explored in terms of better alignment with the business owners' values and because it makes the organization more successful. Businesses can experience greater productivity when employees have higher morale ([Weakliem & Frenkel](https://journals.sagepub.com/doi/10.1177/0730888406290054)). A diverse workforce fosters creativity by bringing together individuals from various cultures and backgrounds, offering different perspectives and innovative solutions to problems ([Ability Options](https://abilityoptions.org.au/5-benefits-of-diversity-in-the-workplace/); [Harvard Business Review](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse)). Cultural diversity allows companies to navigate global nuances better, such as language skills that can enhance workplace relations and business opportunities in different markets. A diverse workforce helps companies connect with a broader client base by promoting a positive image and increasing market awareness. Businesses with diverse workplaces are perceived as better employers, attracting top talent who seek fair treatment and acceptance of all backgrounds. 
+
+#### 09.01 | Reframing Privilege: Promoting Equality and Equity
+
+I can still remember early in our dating, Dave (my husband) would frequently revisit the same source of humor and lightheartedness. After experiencing one of life's frustrations and grumbling a bit, he would sort of *reset* himself and say, "If that's the worst thing that happens to me today, I think I'm doing okay." 
+
+These reframing opportunities continue to this day, more than 20 years later, and are shared by our entire family. One of us might start to grumble about the traffic on the way to school, or the fact that we forgot to plug the car in the night before and it's not up to its full charge. We might complain about inconveniences that eventually get us chuckling, realizing that things are nowhere near as bad as we believe in that moment. And we'll say sarcastically, "Look at us here. Our lives are so hard, living in Ladera Ranch. Things are tough.  
+
+Our intent is to be people filled with gratitude. Sometimes our privilege gets in the way of that.
+
+Robert Madu Jr, a pastor, husband, and father breaks it down for us all in [a humorous video about what it means when we start complaining about traffic](https://vanguard.instructuremedia.com/embed/b1977877-269b-440f-82f9-f58629879ea2)... 
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/C2sCVPkOyJO/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/C2sCVPkOyJO/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C2sCVPkOyJO/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Social Dallas (@social_dallas)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+
+Whenever you start complaining, get yourself a little entitle-mint. "You know who doesn't complain about traffic? People who are walking." Privilege is something that likely all of us reading these words share, just in differing degrees. Proportionally speaking, a lot can be predicted about us based on something as seemingly arbitrary as the zip code in which we were born. 
+
+**How something as simple as a zip code predicts professional advancement**
+
+Recognizing and addressing privilege in a business context is a crucial component of fostering ethical leadership and creating equitable workplaces. The privilege derived from various factors, including the zip code where we were born, significantly influences our professional trajectories and what opportunities are available to us. This phenomenon, deeply embedded in societal structures, extends its impact into the realms of hiring practices, salary negotiations, project assignments, and promotion paths within organizations.
+
+Research has shown that the zip code where one is born and raised can predict significant aspects of their future, even before considering other variables such as education, skills, or personal ambition. This reality points to a deeper systemic issue where geographical and socio-economic backgrounds play a substantial role in determining access to job opportunities. Studies reveal that individuals from affluent zip codes are more likely to be hired for high-paying jobs, receive more substantial starting salaries, and have greater access to career advancement opportunities compared to their counterparts from less privileged areas.
+
+[The Opportunity Atlas](https://www.lisc.org/our-resources/resource/opportunity-atlas-shows-effect-childhood-zip-codes-adult-success/), developed by the U.S. Census Bureau and Harvard University's Opportunity Insights, analyzes data from 20 million Americans to illustrate how childhood zip codes impact adult success. 
+
+![The Opportunity Altas screenshot](https://innovatelearning.s3.amazonaws.com/2024-03-06_13-44-51.jpg)
+
+ This tool reveals that where individuals grow up influences their social mobility and economic opportunities. It highlights disparities in outcomes based on factors like race, gender, and parents' income levels, emphasizing the impact of neighborhood conditions on life outcomes.
+
+The data from the Opportunity Atlas demonstrates that children from low-income families tend to have poorer-than-average outcomes as adults in nearly every part of the country. It also reveals how societal factors such as education quality, violence, incarceration rates, housing conditions, job access, and healthcare quality play a crucial role in shaping these outcomes. 
+
+**Navigating Privilege in the Workplace**
+
+The acknowledgment of privilege within the workplace is the first step towards mitigating its unintended consequences. Businesses and leaders must critically examine their hiring, promotion, and compensation practices to ensure they are not inadvertently perpetuating inequality. This includes adopting transparent criteria for advancement, implementing bias training programs, and actively seeking to diversify talent pools.
+
+This clip from The Office episode on sensitivity training is a good reminder of how challenging it can be to address these issues in the workplace (not to mention just how bad at it some people can be): 
+
+!?[Sensitivity training - your office](https://youtu.be/zkIuRa-6b4U?si=qqbEt694JpRfciSc)
+
+> The following is another excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction 
+>
+> Diversity is not simply a box to be checked; rather, it is an approach to business that unites ethical management and high performance. Business leaders in the global economy recognize the benefits of a diverse workforce and see it as an organizational strength, not as a mere slogan or a form of regulatory compliance with the law. They recognize that diversity can enhance performance and drive innovation; conversely, adhering to the traditional business practices of the past can cost them talented employees and loyal customers.
+>
+> A study by global management consulting firm McKinsey & Company indicates that businesses with gender and ethnic diversity outperform others. [According to Mike Dillon](https://www.shrm.org/topics-tools/news/hr-magazine/workplace-diversity-inclusion-gets-innovative), chief diversity and inclusion officer for PwC in San Francisco, “attracting, retaining and developing a diverse group of professionals stirs innovation and drives growth.” Living this goal means not only recruiting, hiring, and training talent from a wide demographic spectrum but also including all employees in every aspect of the organization.
+
+**? 09.01 | Review questions | Reframing privilege: Promoting equality and equity**
+
+Consider the statements below. Mark each statement as True or False based on whether it aligns with the content's assertions about navigating privilege, promoting equality, and understanding the importance of diversity in a business context.
+
+- [[True] (False)]
+- [ [X] [ ] ] A diverse workforce enhances creativity by incorporating varied perspectives and solutions.
+- [ [ ] [X] ] Privilege has no impact on one's professional trajectory or opportunities.
+- [ [X] [ ] ] The zip code where one is born can significantly predict future professional advancement.
+- [ [X] [ ] ] Ethical leadership involves acknowledging and addressing privilege within the workplace.
+- [ [ ] [X] ] Recognizing privilege is irrelevant to creating equitable workplaces.
+- [ [X] [ ] ] Businesses that actively promote diversity are more successful and innovative.
+- [ [ ] [X] ] Transparent criteria for advancement and diversity in talent pools are not important in combating workplace inequality.
+- [ [X] [ ] ] Gender and ethnic diversity in businesses correlates with better performance and innovation.
+
+
+
+
+
+#### 09.02 | Workplace Diversity
+
+> The twenty-first century workplace features much greater diversity than was common even a couple of generations ago. Individuals who might once have faced employment challenges because of religious beliefs, ability differences, or sexual orientation now regularly join their peers in interview pools and on the job. Each may bring a new outlook and different information to the table; employees can no longer take for granted that their coworkers think the same way they do. This pushes them to question their own assumptions, expand their understanding, and appreciate alternate viewpoints. The result is more creative ideas, approaches, and solutions. Thus, diversity may also enhance corporate decision-making.
+>
+> Communicating with those who differ from us may require us to make an extra effort and even change our viewpoint, but it leads to better collaboration and more favorable outcomes overall, [according to David Rock](https://www.shrm.org/hr-today/news/hr-magazine/0217/pages/disrupting-diversity-in-the-workplace.aspx.), director of the Neuro-Leadership Institute in New York City, who says diverse coworkers “challenge their own and others’ thinking.” According to the Society for Human Resource Management (SHRM), organizational diversity now includes more than just racial, gender, and religious differences. It also encompasses different thinking styles and personality types, as well as other factors such as physical and cognitive abilities and sexual orientation, all of which influence the way people perceive the world. “Finding the right mix of individuals to work on teams, and creating the conditions in which they can excel, are key business goals for today’s leaders, given that collaboration has become a paradigm of the twenty-first century workplace,” according to [an SHRM article](https://www.shrm.org/hr-today/news/hr-magazine/0217/pages/disrupting-diversity-in-the-workplace.aspx.).
+>
+> Attracting workers who are not all alike is an important first step in the process of achieving greater diversity. However, managers cannot stop there. Their goals must also encompass **inclusion**, or the engagement of all employees in the corporate culture. “The far bigger challenge is how people interact with each other once they’re on the job,” [says Howard J. Ross](https://www.shrm.org/hr-today/news/hr-magazine/0217/pages/disrupting-diversity-in-the-workplace.aspx.), founder and chief learning officer at Cook Ross, a consulting firm specializing in diversity. “Diversity is being invited to the party; inclusion is being asked to dance. Diversity is about the ingredients, the mix of people and perspectives. Inclusion is about the container—the place that allows employees to feel they belong, to feel both accepted and different.”
+>
+> Workplace diversity is not a new policy idea; its origins date back to at least the passage of the Civil Rights Act of 1964 (CRA) or before. Census figures show that women made up less than 29 percent of the civilian workforce when Congress passed Title VII of the CRA prohibiting workplace discrimination. After passage of the law, gender diversity in the workplace expanded significantly. According to the [U.S. Bureau of Labor Statistics (BLS)](https://www.bls.gov/cps/cpsaat02.htm), the percentage of women in the labor force increased from 48 percent in 1977 to a peak of 60 percent in 1999. Over the last five years, the percentage has held relatively steady at 57 percent. Over the past forty years, the total number of women in the labor force has risen from 41 million in 1977 to 71 million in 2017. The BLS projects that the number of women in the U.S. labor force will reach 92 million in 2050 (an increase that far outstrips population growth).
+>
+> The statistical data show a similar trend for African American, Asian American, and Hispanic workers. Just before passage of the CRA in 1964, the percentages of minorities in the official on-the-books workforce were relatively small compared with their representation in the total population. In 1966, Asians accounted for just 0.5 percent of private-sector employment, with Hispanics at 2.5 percent and African Americans at 8.2 percent.[6 ](https://openstax.org/books/business-ethics/pages/8-endnotes#rf-006)However, Hispanic employment numbers have significantly increased since the CRA became law; they are expected to more than double from 15 percent in 2010 to 30 percent of the labor force in 2050. Similarly, Asian Americans are projected to increase their share from 5 to 8 percent between 2010 and 2050.
+
+![This graphic shows four pie charts. Two are titled “Workforce Makeup by Race, 2010 to 2050” and two are titled “Workforce Makeup by Ethnicity, 2010 to 2050.” For workforce makeup by race, the left chart is for 2010 and is broken down into 81 percent White, 12 percent Black, 5 percent Asian, and 2 percent all other. The right chart is for projected 2050 and is broken down into 75 percent White, 12 percent Black, 8 percent Asian, and 5 percent all other. For workforce makeup by ethnicity, the left chart is for 2010 and is broken down into 85 percent non-Hispanic and 15 percent Hispanic. The right chart is for projected 2050 and is broken down into 70 percent non-Hispanic and 30 percent Hispanic.](https://innovatelearning.s3.amazonaws.com/workforce-makeup-by-race.jpeg)
+
+*There is a distinct contrast in workforce demographics between 2010 and projected numbers for 2050. (credit: attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)*
+
+> Much more progress remains to be made, however. For example, many people think of the technology sector as the workplace of open-minded millennials. Yet Google, as one example of a large and successful company, revealed in its latest diversity statistics that its progress toward a more inclusive workforce may be steady but it is very slow. Men still account for the great majority of employees at the corporation; only about 30 percent are women, and women fill fewer than 20 percent of Google’s technical roles. The company has shown a similar lack of gender diversity in leadership roles, where women hold fewer than 25 percent of positions. Despite modest progress, an ocean-sized gap remains to be narrowed. When it comes to ethnicity, approximately 56 percent of Google employees are White. About 35 percent are Asian, 3.5 percent are Latino, and 2.4 percent are Black, and of the company’s management and leadership roles, 68 percent are held by White people.
+
+![This graphic shows three pie charts and is titled “Google Workforce by Gender.” The chart on the left is “Overall” and is broken down into 69 percent men and 31 percent women. The chart in the middle is “Technology” and is broken down into 80 percent men and 20 percent women. The chart on the right is “Leadership” and is broken down into 75 percent men and 25 percent women.](https://innovatelearning.s3.amazonaws.com/google-workforce-by-gender.jpeg)
+
+*Google is emblematic of the technology sector, and this graphic shows just how far from equality and diversity the industry remains. (credit: attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)*
+
+> Google is not alone in coming up short on diversity. Recruiting and hiring a diverse workforce has been a challenge for most major technology companies, including Facebook, Apple, and Yahoo (now owned by Verizon); all have reported gender and ethnic shortfalls in their workforces.
+>
+> The Equal Employment Opportunity Commission (EEOC) has made available 2014 data comparing the participation of women and minorities in the high-technology sector with their participation in U.S. private-sector employment overall, and [the results show](https://www.eeoc.gov/eeoc/statistics/reports/hightech/) the technology sector still lags. Compared with all private-sector industries, the high-technology industry employs a larger share of Whites (68.5%), Asian Americans (14%), and men (64%), and a smaller share of African Americans (7.4%), Latinos (8%), and women (36%). Whites also represent a much higher share of those in the executive category (83.3%), whereas other groups hold a significantly lower share, including African Americans (2%), Latinos (3.1%), and Asian Americans (10.6%). In addition, and perhaps not surprisingly, 80 percent of executives are men and only 20 percent are women. This compares negatively with all other private-sector industries, in which 70 percent of executives are men and 30 percent women.
+>
+> Technology companies are generally not trying to hide the problem. Many have been publicly releasing diversity statistics since 2014, and they have been vocal about their intentions to close diversity gaps. More than thirty technology companies, including Intel, Spotify, Lyft, Airbnb, and Pinterest, [each signed a written pledge to increase workforce diversity and inclusion](http://time.com/4391031/google-diversity-statistics-2016), and Google pledged to spend more than $100 million to address diversity issues.
+>
+> Diversity and inclusion are positive steps for business organizations, and despite their sometimes slow pace, the majority are moving in the right direction. Diversity strengthens the company’s internal relationships with employees and improves employee morale, as well as its external relationships with customer groups. Communication, a core value of most successful businesses, becomes more effective with a diverse workforce. Performance improves for multiple reasons, not the least of which is that acknowledging diversity and respecting differences is the ethical thing to do.
+
+**? 09 | Review questions | Workplace diversity**
+
+Diversity in the workplace enhances creativity and innovation.
+
+[[X]] True
+[[ ]] False
+
+Gender diversity in the workplace did not expand significantly after the passage of the Civil Rights Act of 1964.
+
+[[ ]] True
+[[X]] False
+
+What does inclusion in the workplace refer to?
+
+[[ ]] Only hiring people from diverse backgrounds
+[[X]] The engagement of all employees in the corporate culture
+[[ ]] Ensuring that all employees are of the same age group
+[[ ]] Focusing exclusively on gender diversity
+
+What has been a challenge for major technology companies like Google, Facebook, and Apple?
+
+[[X]] Recruiting and hiring a diverse workforce
+[[ ]] Decreasing their annual overseas tax revenue
+[[ ]] Moving their headquarters overseas
+[[ ]] Focusing too much on product innovation
+
+
+
+#### 09.03 | Adding Value through Diversity
+
+> Diversity need not be a financial drag on a company, measured as a cost of compliance with no return on the investment. A recent [McKinsey & Company study](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) concluded that companies that adopt diversity policies do well financially, realizing what is sometimes called a **diversity dividend**. The study results demonstrated a statistically significant relationship of better financial performance from companies with a more diverse leadership team, as indicated in the chart below. Companies in the top 25 percent in terms of gender diversity were 15 percent more likely to post financial returns above their industry median in the United States. Likewise, companies in the top 25 percent of racial and/or ethnic diversity were 35 percent more likely to show returns exceeding their respective industry median.
+
+![This graphic shows two sets of bar graphs titled “Likelihood of Financial Performance above Industry Median by Company Diversity Quartile.” The first set of charts on the left shows “Gender-diverse companies.” The bar on the right shows the first quartile and says 54 on it. The bar on the left shows the fourth quartile and says 47 on it. This section is shorter than the right bar, but above the bar is a section that says plus 15 percent that goes up to the height of the bar on the right. The second set of charts on the right shows “Ethically diverse companies.” The bar on the right shows the first quartile and says 58 on it. The bar on the left shows the fourth quartile and says 43 on it. This section is shorter than the right bar, but above the bar is a section that says plus 35 percent that goes up to the height of the bar on the right.](https://innovatelearning.s3.amazonaws.com/likelihood-of-financial-performance.jpeg)
+
+ *Companies with gender and ethnic diversity generally outperform those without it. (credit: attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)*
+
+> These results demonstrate a positive correlation between diversity and performance, rebutting any claim that affirmative action and other such programs are social engineering that constitutes a financial drag on earnings. In fact, the results reveal a negative correlation between performance and lack of diversity, with companies in the bottom 25 percent for gender and ethnicity or race proving to be statistically less likely to achieve above-average financial returns than the average companies. Non-diverse companies were not leaders in performance indicators. Positive correlations do not equal causation, of course, and greater gender and ethnic diversity do not automatically translate into profit. Rather, as this chapter shows, they enhance creativity and decision-making, employee satisfaction, an ethical work environment, and customer goodwill, all of which, in turn, improve operations and boost performance.
+>
+> Diversity is not a concept that matters only for the rank-and-file workforce; it makes a difference at all levels of an organization. The [McKinsey & Company study](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters), which examined twenty thousand firms in ninety countries, also found that companies in the top 25 percent for executive and/or board diversity had returns on equity more than 50 percent higher than those companies that ranked in the lowest 25 percent. Companies with a higher percentage of female executives tended to be more profitable.
+>
+> Achieving equal representation in employment based on demographic data is the ethical thing to do because it represents the essential American ideal of equal opportunity for all. It is a basic assumption of an egalitarian society that all have the same chance without being hindered by immutable characteristics. However, there are also directly relevant business reasons to do it. More diverse companies perform better, as we saw earlier in this chapter, but why? The reasons are intriguing and complex. Among them are that diversity improves a company’s chances of attracting top talent and that considering all points of view may lead to better decision-making. Diversity also improves customer experience and employee satisfaction.
+>
+> To achieve improved results, companies need to expand their definition of diversity beyond race and gender. For example, differences in age, experience, and country of residence may result in a more refined global mind-set and cultural fluency, which can help companies succeed in international business. A salesperson may know the language of customers or potential customers from a specific region or country, for example, or a customer service representative may understand the norms of another culture. Diverse product-development teams can grasp what a group of customers may want that is not currently being offered.
+>
+> Resorting to the same approaches repeatedly is not likely to result in breakthrough solutions. Diversity, however, provides usefully divergent perspectives on the business challenges companies face. New ideas help solve old problems—another way diversity makes a positive contribution to the bottom line.
+
+
+
+- [[True] (False)]
+- [    ( )         (X)     ] A McKinsey & Company study showed a positive correlation between diversity and financial performance.
+- [    (X)         ( )     ] Companies with a higher percentage of female executives tend to be more profitable.
+
+According to a McKinsey & Company study, companies in the top 25 percent for what type of diversity were 15 percent more likely to post financial returns above their industry median in the United States?
+
+[[ ]] Age diversity
+[[X]] Gender diversity
+[[ ]] Geographic diversity
+[[ ]] Professional background diversity
+
+What was the increased likelihood of financial returns for companies in the top 25 percent of racial and/or ethnic diversity?
+
+[[ ]] 15 percent more likely
+[[ ]] 25 percent more likely
+[[X]] 35 percent more likely
+[[ ]] 45 percent more likely
+
+How much higher were the returns on equity for companies in the top quartile for executive and/or board diversity?
+
+[[ ]] 20 percent higher
+[[ ]] 30 percent higher
+[[ ]] 40 percent higher
+[[X]] More than 50 percent higher
+
+Which of the following is NOT listed as a reason why more diverse companies perform better?
+
+[[ ]] They are more likely to attract top talent.
+[[X]] They have higher chances of monopolizing the market.
+[[ ]] They consider all points of view, leading to better decision-making.
+[[ ]] They improve customer experience and employee satisfaction.
+
+
+
+#### 09.04 | The Challenges of a Diverse Workforce
+
+> Diversity is not always an instant success; it can sometimes introduce workplace tensions and lead to significant challenges for a business to address. Some employees simply are slow to come around to a greater appreciation of the value of diversity because they may never have considered this perspective before. Others may be prejudiced and consequently attempt to undermine the success of diversity initiatives in general. In 2017, for example, [a senior software engineer’s memo criticizing Google’s diversity initiatives was leaked](https://www.nytimes.com/2017/08/08/technology/google-engineer-fired-gender-memo.html), creating significant protests on social media and adverse publicity in national news outlets. The memo asserted “biological causes” and “men’s higher drive for status” to account for women’s unequal representation in Google’s technology departments and leadership.
+
+![shadowy figure walking in front of a building with the Google logo on it - Jeff Chiu/Associated Press](https://innovatelearning.s3.amazonaws.com/google-gender.jpg)
+
+> Google’s response was quick. The engineer was fired, and [statements were released emphasizing the company’s commitment to diversity](https://www.npr.org/sections/thetwo-way/2017/08/07/542020041/google-grapples-with-fallout-after-employee-slams-diversity-efforts). Although Google was applauded for its quick response, however, some argued that an employee should be free to express personal opinions without punishment (despite the fact that there is no right of free speech while at work in the private sector). ...The fired engineer and a coworker [then] [filed a class-action lawsuit](http://money.cnn.com/2018/01/08/technology/james-damore-google-lawsuit/index.html) against Google on behalf of three specific groups of employees who claim they have been discriminated against by Google: Whites, conservatives, and men.
+>
+> This is not just the standard “reverse discrimination” lawsuit; it goes to the heart of the culture of diversity and one of its greatest challenges for management—the backlash against change.
+>
+> In February 2018, the National Labor Relations Board ruled that Google’s termination of the engineer did not violate federal labor law and that [Google had discharged the employee only for inappropriate but unprotected conduct or speech](https://www.nytimes.com/2018/02/16/business/google-memo-firing.html) that demeaned women and had no relationship to any terms of employment. 
+>
+> Yet other employees are resistant to change in whatever form it takes. As inclusion initiatives and considerations of diversity become more prominent in employment practices, wise leaders should be prepared to fully explain the advantages to the company of greater diversity in the workforce as well as making the appropriate accommodations to support it. 
+>
+> Accommodations can take various forms. For example, if you hire more women, should you change the way you run meetings so everyone has a chance to be heard? Have you recognized that women returning to work after childrearing may bring improved skills such as time management or the ability to work well under pressure? If you are hiring more people of different faiths, should you set aside a prayer room? Should you give out tickets to football games as incentives? Or build team spirit with trips to a local bar? Your managers may need to accept that these initiatives may not suit everyone. Adherents of some faiths may abstain from alcohol, and some people prefer cultural events to sports. Many might welcome a menu of perquisites (“perks”) from which to choose, and these will not necessarily be the ones that were valued in the past. Mentoring new and diverse peers can help erase bias and overcome preconceptions about others. However, all levels of a company must be engaged in achieving diversity, and all must work together to overcome resistance.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+**? 09.04 | Review questions | The challenges of a diverse workforce**
+
+What was the outcome of Google's action against the engineer who criticized its diversity initiatives?
+
+[[ ]] The engineer was promoted for sparking debate.
+[[ ]] Google issued an apology to the engineer.
+[[X]] The engineer was fired and a lawsuit was filed against Google.
+[[ ]] The engineer received a company award for innovation.
+
+How did the National Labor Relations Board rule regarding the engineer's termination?
+
+[[ ]] It violated federal labor law.
+[[X]] It did not violate federal labor law.
+[[ ]] It was inconclusive.
+[[ ]] It recommended rehiring the engineer.
+
+This is the end of Lesson 09. It's time to work on Challenge 09, before returning for the final lesson.
+
+## 10. Wrap it up with a bow
+
+![Course lesson graphic 10](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-10.jpg)
+
+I once had the opportunity to interview one of Harvard's most well revered educators: Dan Levy. He shared about an approach he uses in his teaching called airport ideas. These are the most important concepts that if he saw a student in an airport five years after taking his class, they would still want to talk with him about. In this lesson, we consider the airport ideas from business ethics (BUSN 435) and what other business ethics thinkers have to say are among the most important ideas that university students should be taking away from a class such as this one. We will explore BUSN airport ideas, the nature of business ethics, and and nature of the ethical business leader. 
+
+#### 10.01 | BUSN 435 airport ideas
+
+This idea of breaking a class down to the most essential elements is challenging, given that you are each so different and are likely to benefit from a variety of the learning we have done together in this class. However, this is my best attempt at framing the sorts of things we might talk about years after you completed this course. Following each statement is the learning outcome from the class that it is most closely associated with. 
+
+1. **Reflective practice is a key component to greater self awareness, which is vital in continually becoming a more ethical person.** If I saw you in an airport in five or more years, it would be edifying to know that you regularly reflect on, write about, and talk about your own integrity and ethical choices you're making in a business context. One thing I hope this class has done for you is given you the opportunity to reflect on the most essential questions, ones that have been asked for thousands and thousands of years. Part of any effective self-awareness effort involves reflection and an openness to change our minds about even those things with which we believe most deeply. And to consider some of the ways we can heighten our ability to live out God's presence and love in this world.  Even in and especially in a work context (considering the amount of time most of us spend working in our lives and the impact, positive or negative, that we can have in and through our work). 
+
+   Sometimes during college it can seem that with the assignments piling up, they are meaningless. I've certainly experienced that before in my various educational endeavors. My hope is that this class has given you at least some capacity and competence at being able to reflect on how you feel about different ethical issues and why you have those believes, and a resilience to be curious about the business world in a deeper way than before.
+
+   *Learning outcome: Reflect on, articulate, and change your minds about some aspects of what it means to be ethical*
+
+2. **Knowing about philosophers and the ways in which they frame how we might make ethical decisions is essential in continually becoming a more ethical person.** As I mentioned, people have been asking ethical questions for time immemorial. My hope is that you will remember some of these thinkers' names, such as Aristotle, Jeremy Bentham, John Rawls, and others, considering the ways in which they have continued to influence our thinking today of what it requires to be an ethical person. My hope is that you are now able to examine how different ethical frameworks might attempt to address various business dilemmas, too. To see utilitarianism being used to make business decisions, or deontology, or on the other end of things, egoism, is an important way to reflect on the choices that we make in our workplaces and businesses that we own.
+
+   *Describe ethical frameworks and thinkers; Explore those frameworks and thinkers in the context of business*
+
+3. **Recognizing that most choices in business are not dichotomous and avoiding dualistic thinking is an ongoing practice to help us become more ethical people. Regular expansions of our individual and collective imagination helps us become more ethical employees, business owners, investors, and consumers.** One indicator of someone not having studied or thought much about ethics is the idea that any of this is easy. My hope would be that as you think about being an employee, you would have a sense of what it means to be ethical in that context. You wouldn't allow yourself to let cognitive dissonance be remedied by you deciding that you don't owe your employer your own integrity. 
+
+   Those of you who become business owners wouldn't overly simplify your role as providing jobs to individuals and within the community, but would see a broader sense of the ways in which business owners can act with integrity and benefit positively people's lives beyond an income. As an investor, my hope would be that you would consider where you invest your money and whether those investments align with your values. And as consumers, my hope is that we all think about the power of our purchasing dollars and the peril of us making mindless purchases, not thinking about the idea of having fewer possessions being a key to a lighter weight in this world, and also thinking about the power of us purchasing from companies that are more ethical.
+
+   *Identify ways to be a more ethical employee, business owner, investor, and consumer*
+
+4. **It's an ethical imperative that we each take the steps to verify information before we share it with others online and offline. Part of being ethical in business is remaining informed about what is happening in the context in which we work, with the help of credible sources.** Not a day goes by when I am consuming news via podcasts, social media, or through various news entities  that I don't think about the SIFT model by Mike Caulfield. It seems that there are constantly new ways that we might be duped by people attempting to influence our votes or attempting to harm democracy or simply attempting to get us to buy into a lie. I'm thankful that I have a practice in SIFT that is so easy to employ and so fast. And the fact that it is able to adapt as the continued threats to finding out what is true in this world proliferate.  
+
+   My hope for you is that you believe there are journalists out there today that are doing incredible investigative work and in whom we can place our trust in getting information about the parts of the world we cannot ourselves observe. My hope is also that you recognize not all of the media is such, employs such individuals and that you have confidence that you can and should continue to refine your skills in SIFT and your own capacity for assessing what is credible in your online world.
+
+   *Use an established framework (SIFT, by Mike Caulfield) to determine the accuracy of news pieces about business ethics*
+
+5.  **Learning has only happened if and when it shapes our lives in some way. Seeking to become a more ethical person means putting what we learn about ethics into practice in some tangible ways.** One of the hard parts about college is that it's nearly impossible to know what you'll actually wind up using in your life, besides the idea of, quote, using, close quote, your knowledge is a fairly utilitarian way of thinking about an education. I get it, though, as I can recall wondering why I was required to take certain classes in college or do certain things. Looking back now, there are things I wish I had learned more about, and there are things that I could have done without. The more decades that pass, the more glad I am for a well-rounded education that addressed both skills I would need, but also just a collection of information and knowledge that would combine together to make me into an educated person.
+
+   Some of that involves practical things, a lot of it doesn't. And it's so very hard to know, well, you're going through it, let alone a few years later.
+
+   I make ethical decisions every day in my job as dean and professor.  I also have a podcast that brings up ethical questions related to my work and my beliefs about teaching and learning. My hope is you will be able to put this learning from the class into practice in tangible ways. Some of that may come soon for you, though my suspicion is neither of us will know for a long while to come the ways in which certain aspects of this class may have shaped your thinking such that it translates into action in seemingly small and big ways in your life and career.
+
+   *Put the collective learning from this course into practice in a tangible way*
+
+**? 10.01 | Review questions | BUSN 435 airport ideas**
+
+Consider the statements below and indicate whether they are True or False based on the BUSN 435 Airport Ideas section:
+
+- [[True] (False)]
+- [ [X] [ ] ] Reflective practice enhances self-awareness and ethical decision-making in business.
+- [ [ ] [X] ] Ethical frameworks have no place in the business world.
+- [ [ ] [X] ] It's ethical to share unverified information in professional settings.
+- [ [X] [ ] ] Avoiding dualistic thinking helps in becoming more ethical in the workplace.
+- [ [X] [ ] ] Applying what is learned about ethics in tangible ways is crucial for real learning. 
+- [ [ ] [X] ] The SIFT framework is most relevant in avoiding dichotomous thinking in a business context.
+
+
+
+#### 10.02 | The nature of business ethics
+
+> Business ethics should be grounded in *deontology* more than in *utilitarianism*. That is, the ends should not typically be considered sufficient justification for the means when it comes to framing a business strategy. Rather, it is the means that ennoble the ends. Utilitarianism, as a consequentialist theory and when applied to business, emphasizes the greatest good (or profit) for the greatest number of shareholders. However, this may be inappropriate criterion for determining what is truly ethical in the conduct of business because business morality should not to be centered only on calculations of profit or loss. Deontology, on the other hand, focuses on the motives and reasons why entrepreneurs engage in business and the methods that they implement in doing so. Ultimately, both theories have a place in business practice, but a preference should be shown to deontology.
+>
+> The honor or shame that accrues to business as a profession is directly attributable to the ethical practices of its leaders. So, if business as a whole has an unsavory reputation, it is a likely consequence of the practices in which management engages. And while this reputation is not easily changed, it can be improved through a diligent commitment by management to do so.
+>
+> To pit *ethics* against *profits* and insist that a business leader must choose between the two is a false dichotomy. In truth, successful business can be practiced in ethical fashion. Further, ethical conduct by a business will naturally draw the loyalty of many consumers and clients. Not only that, but employees and other stakeholders of that business will also approve, and their relationship to the company might become even closer as a result.
+>
+> Similarly, it diminishes ethics to insist that it is useful only for keeping business leaders out of jail and avoiding opprobrium, such as through social media. Ethical behavior *can* keep executives safe from indictment, but it also accomplishes much more. Ethical business practices honor the profession and endow it with integrity and credibility.
+>
+> When it comes to hiring for and promoting within the workplace, merit and commitment should be assigned the highest value. At the same time, *merit* should not to be seen as a code word for discrimination; nor should it be disparaged. Business ethics applies to all people equitably in the sense that race, ethnicity, creed, sex, sexual orientation, age, and disability all are irrelevant to the abilities that they bring to the workplace.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+**? 10.02 | Review questions | The nature of business ethics**
+
+Consider the statements below based on the content provided about business ethics, deontology, utilitarianism, and ethical practices in business. Indicate whether each statement aligns more closely with Deontology or Utilitarianism, or if it represents a general ethical practice that is not specific to either theory.
+
+- [[Deontology] (Utilitarianism) [General Ethical Practice]]
+- [ [X] [ ] [ ] ] Business ethics should focus on the motives and reasons behind business actions rather than solely on outcomes.
+- [ [ ] [X] [ ] ] The primary criterion for business ethics is achieving the greatest good for the greatest number of shareholders.
+- [ [ ] [ ] [X] ] Ethical business practices can enhance a company's reputation and integrity.
+- [ [X] [ ] [ ] ] The means by which business goals are achieved are more important than the ends themselves.
+- [ [ ] [ ] [X] ] Ethical conduct in business attracts loyalty from consumers and strengthens relationships with stakeholders.
+- [ [ ] [ ] [X] ] Merit and commitment are crucial for hiring and promotions, emphasizing fairness and equity over discrimination.
+- [ [ ] [X] [ ] ] Ethics in business is only relevant for avoiding legal troubles and public criticism.
+- [ [ ] [ ] [X] ] Insisting on a choice between ethics and profits presents a false dichotomy; businesses can operate successfully and ethically.
+
+
+
+#### 10.03 | The nature of the ethical business leader
+
+> An ethical business leader appreciates the existence of multiple stakeholders and accepts responsibility for all of them. These include employees, shareholders, customers/clients, vendors, suppliers, wholesalers, retailers, and the community as a whole within which a corporation resides. While not all stakeholders are *equal* in significance, they nonetheless *all are significant*.
+>
+> Ethical entrepreneurs are good stewards of the social and physical environments where they do business. They safeguard the earth at the same time that they protect human capital.
+>
+> In addition, the ethical executive engages in both private and corporate philanthropy. Thus, he or she is willing to commit a portion of the funds of his or her organization, as well as that of his or her personal wealth, to worthy charitable community organizations.
+>
+> Corporate professionals earn respect through the manner in which they lead and conduct business. There is no positive correlation between the trappings of their success—the homes they own, the cars they drive, the clothes they wear—and their character as human beings. The limousines and jets that they commandeer and the vacation resorts that they frequent are externalities completely unconnected with what Martin Luther King, Jr., called “the content of their character.” If anything, excessive material possessions blind business leaders to their most important managerial tasks.
+>
+> In truth, leaders who are in business only for the salary and attending perquisites have found the wrong profession, for they will constantly endure frustration in bearing the responsibilities that come with the privileges.
+>
+> And while successful executives are compensated more than their subordinates, it should not to be many multiples more. The less disparity that exists between the highest- and least-paid members of a company, the greater the level of teamwork and commitment that will prevail among all. In short, people will work harder and make a deeper commitment to a company that has a leadership team with which they can identify.
+>
+> Additionally, an MBA is not a license for arrogance on the part of its holder. Ethical leaders are justifiably proud of their business acumen, but to lord it over others risks sacrificing their effectiveness as managers. Sometimes the least educated member of a firm may know the most about sustaining the dignity and self-worth of everyone on the team and, therefore, may be the most essential employee for the company to have for that purpose.
+>
+> An accomplished executive is not insulated from his or her employees and should not [use command and control approaches to get what they want from] subordinates, but rather [treat them like] a partner or colleague or coworker, and so, a concerned boss.
+>
+> In this same way, ethical leaders are welcomed and admired instead of feared and resented. Respect from colleagues, employees, and competitors ultimately cannot be compelled. Instead, it flows naturally from the just and fair ways in which leaders manage and compete.
+>
+> Worthy managers sustain the dignity and self-respect of all who surround them. This at once acknowledges the basic humanity of those with whom they work and simultaneously inspires them to contribute their best effort.
+>
+> Similarly, the best business leaders take pride in the accomplishments of the business and its employees. This success may never be accorded directly to managers themselves, but employees assuredly recognize those bosses who help them accomplish their best. Further, it is precisely this kind of leader for whom most employees will be motivated to go above and beyond merely what is required of them on the job.
+>
+> In short, ethical business executives become the enablers of professional success among their colleagues. This is [about] placing the interests of the firm and one’s coworkers above those of oneself. When this occurs, the enterprise succeeds in a way in which all associated with it may take pride. This is actually the essence of the best business leadership.
+>
+> A goal of a more egalitarian workplace—one in which managers and employees respect one another—is a renewed sense of loyalty among all who are there. Too often today we witness distrust along the management/labor divide. Each side accuses the other of harboring no commitment except to itself. Unfortunately, the accusation frequently is true. One way to dispel it is for business leaders to take the first steps in restoring the broken sense of obligation that owners and employees owe each other. This may be the most important task of business leadership now and going forward.
+>
+> Excerpt from: Business Ethics | Access for free at https://openstax.org/books/business-ethics/pages/1-introduction
+
+
+
+**?  10.02 | Review questions | The nature of the ethical business leader**
+
+Consider the statements below based on the content provided about ethical business leadership and stakeholder responsibility. Indicate whether each statement is True about Ethical Leadership Practices, False about Ethical Leadership Practices, or Describes Stakeholder Considerations.
+
+- [[True about Ethical Leadership Practices] (False about Ethical Leadership Practices) [Describes Stakeholder Considerations]]
+- [    [X]           [ ]             [ ]     ]  Ethical business leaders accept responsibility for multiple stakeholders, including the community and environment.
+- [    [ ]           [ ]             [X]     ]  Not all stakeholders are equal in significance, but all are significant.
+- [    [X]           [ ]             [ ]     ]  Leaders focused solely on salary and perks are in the wrong profession, due to the frustrations that come with leadership responsibilities.
+- [    [X]           [ ]             [ ]     ]  The most essential employees may sometimes be the least educated due to their understanding of dignity and self-worth.
+- [    [ ]           [X]             [ ]     ]  Respect from colleagues and competitors does not flow naturally from just and fair management practices.
+- [    [X]           [ ]             [ ]     ]  The goal of a more egalitarian workplace can renew loyalty and respect among all company members.
+- [    [X]           [ ]             [ ]     ]  Dispelling distrust in the management/labor divide is a critical task for ethical business leadership today.
+- [    [ ]           [X]             [ ]     ]  Engaging in private and corporate philanthropy is not important in ethical entrepreneurship.
+
+#### 10.04 | More than anything else
+
+As we wrap up this course with a bow, it's essential to reflect on the intersection of a Christian faith and our professional lives. The exploration of ethical frameworks, the acknowledgment of privilege, and the commitment to equity and inclusion all serve as foundational elements that have guided our discussions and learning. But beyond these academic considerations lies a more profound, personal call to action—a call to live out our faith with unwavering integrity in the business world. The damaging effects of cognitive dissonance, especially when our actions in the workplace diverge from our deeply held beliefs, are profound. This discord between belief and behavior not only impacts our mental and emotional well-being but also our spiritual health. 
+
+My hope for each of you is that this course has not only equipped you with the knowledge and tools to navigate the ethical complexities of the business world but also inspired you to reflect deeply on your own faith tradition. May you see every decision, interaction, and challenge as an opportunity to demonstrate the love, justice, and mercy at the heart of God's word. Let your work be a testament to your faith, a means through which you can extend God’s love to colleagues, clients, and the broader community.
+
+That living with integrity is not a destination. Rather, it is a continual process of growth and discernment. It involves making choices that align with your beliefs, even when it's difficult, and seeking reconciliation when you fall short. The integration of faith and work is an ongoing endeavor, one that demands humility, courage, and a commitment to lifelong learning. May you act justly, love mercy, and walk humbly with your God (Micah 6:8). In your work, may you be a person of integrity, a witness to the transformative power of living out one’s Christian faith.
+
+
+
+
+
