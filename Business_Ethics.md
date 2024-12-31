@@ -275,7 +275,9 @@ You are expected to let Dr. B know if you are going to miss class.
 [[ ]] True
 [[X]] False
 
-See Canvas and the syllabus for more information about how the class is structured. I'm here, if you have any questions or are confused about how this all works. I know it is not the norm for most classes and may take some getting used to. I have heard overwhelmingly positive feedback about Flex-VU classes in the past and will commit to doing what I can to ensure that we have a good experience together this semester. 
+See Canvas and the syllabus for more information about how the class is structured. I'm here, if you have any questions or are confused about how this all works. 
+
+**Return back to Lesson 00 on Google slides and complete it.** 
 
 
 
