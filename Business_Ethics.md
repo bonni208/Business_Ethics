@@ -22,7 +22,7 @@ icon: https://innovatelearning.s3.amazonaws.com/busn435-icon.png
 
 # Business Ethics
 
-I am so glad you're here. While I have taught this class well over ten times, this time feels different. In the Spring of 2024, I have decided to 'burn the class down to the ground' and rebuild it in a format inspired by some of the greatest teachers I have ever met. Also, each class is unique and I am so looking forward to us becoming an us in the coming weeks. 
+I am so glad you're here. While I have taught this class well over ten times, each time feels a little different. In the Spring of 2024, I burned the class down to the ground and rebuilt it in a format inspired by some of the greatest teachers I have ever met[^1]. I am so looking forward to our class becoming an us in the coming weeks. 
 
 > Watch the following video to get to know a few things about me, as well as discover a bit about our class. 
 
@@ -30,7 +30,7 @@ I am so glad you're here. While I have taught this class well over ten times, th
 
 **Design**
 
-This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The is made up of ten lessons [^1] and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
+This course is designed to be engaging, challenging, and practical, encouraging you to think deeply about your roles in shaping the ethical landscape of business. My hope is that you will 'show up' for it in the fullness of who you are and that together we will cultivate the kind of environment that is necessary for that kind of vulnerability to be possible. The class is made up of ten lessons and ten challenges[^2]. Each lesson is designed to generate curiosity and help reinforce the relevance of the content. Each challenge provides opportunities to apply the learning in your unique context and to take time out for personal reflection. 
 
 At certain parts of my life, I have felt stuck deciding on what seemed like two, binary choices. Like those old fashioned tv game shows where you had to pick door A or door B. 
 
@@ -48,9 +48,9 @@ Thank you for taking the time out of your week to get started with Business Ethi
 
 *While not an actual LEGO set you can buy (nor am I quite that huge in real life), I'm looking forward to us being able to use our creativity together this semester to create something memorable. Not sold in stores. Not available in real life. Not Vanguard's actual campus. Not absent of bias.[^3] You get the idea...* 
 
-[^1]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
-[^2]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him. 
-[^3]: You probably figured this out, already, but I created that LEGO box image using artificial intelligence. Perhaps some of may have also noticed that none of the students depicted in the picture appear as if they are women. The first time I asked the bot to create an image of a female professor with blonde hair and glasses, the minifig of the professor was of a man (with a scruffy mustache and beard) with long, blonde hair.  We will be talking a lot about this in class, but bias exists all around us, and within us. And the more we can 'name' when it happens, the more we can seek to create a more just and equitable world. In the meantime, enjoy the LEGO box (with more to come throughout our class). 
+[^1]: As I think back to my college classes, the ones that I still draw from today, all these decades later, are the ones in which I was challenged in some way outside the normal class time. One professor who is particularly memorable at having done so was [Bernard McGrane](https://en.wikipedia.org/wiki/Bernard_McGrane). In his sociology classes, we would be asked to break a social norm in some way, like entering an elevator in a busy business complex and not immediately turn around and look at the direction that the door would open, when we reached our floor. Pretty much all my assignments were me writing about how I just couldn't allow myself to break out of the norm in the ways his assignments described. I rarely get into an elevator to this day (decades later) without thinking of him.
+[^2]: My inspiration for the synchronicity involved in having ten lessons and ten challenges comes from the incredible Mike Wesch. His [Anth101](https://anth101.com) cultural anthropology course site continues to stretch and expand my imagination, each time I visit it.
+[^3]: You probably figured this out, already, but I created that LEGO box image using artificial intelligence. Perhaps some of may have also noticed that none of the students depicted in the picture appear as if they are women. The first time I asked the bot to create an image of a female professor with blonde hair and glasses, the minifig of the professor was of a man (with a scruffy mustache and beard) with long, blonde hair.  We will be talking a lot about this in class, but bias exists all around us, and within us. And the more we can 'name' when it happens, the more we can seek to create a more just and equitable world. In the meantime, enjoy the LEGO box (with more to come throughout our class). For more about ethics in AI, see Leon Furze's [9 posts about Teaching AI Ethics](https://leonfurze.com/ai-ethics/). 
 
 ## 00. Let's get it started 
 
@@ -74,7 +74,7 @@ Speaking of decisions, there are likely many reasons a person may decide to take
 
 **Requirement.** I often hear people say that they needed it to meet some requirement (whether that be for accounting majors to hit the number of units they need to eventually earn a CPA license someday, or for a business major who needs upper division business elective units). 
 
-**Flexibility.** Sometimes students tell me that the flexibility of the course gave them the option to design their schedule to meet their needs (whether that be because they're an athlete and they can better navigate practice times and games, or because they have work during many of the weeks when most of us will be meeting on Zoom). 
+**Flexibility.** Sometimes students tell me that the flexibility of the course gave them the option to design their schedule to meet their needs (whether that be because they're an athlete and they can better navigate practice times and games, or because their work schedule requires a class structure like this one. 
 
 **The professor.** Finally, some people say that they have had me for classes, previously, and that they're excited for another adventure together. I don't take that lightly, as it is truly a joy to get to learn with others and I'm glad you have decided to take another class with me. 
 
@@ -84,11 +84,11 @@ Taking a business ethics class is crucial for people looking to better understan
 
 As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews. 
 
-> I sent an email out to those who were registered for the class a few weeks back, asking for you to reply to let me know why you're taking a class about business ethics. If you haven't done so, already, please email me and share your reasoning and what you hope to get out of the course. 
+> I sent an email out to those who were registered for the class a while back, asking for you to reply to let me know why you're taking a class about business ethics. If you haven't done so, already, please email me and share your reasoning and what you hope to get out of the course. 
 
 #### It's more important than sword fighting
 
-When I first started working at Vanguard, I had my first teaching assistant (TA). His name was Brandon and he was about to graduate. To finish up his coursework, he needed units, but they could be in anything he wanted to take. I thought it was so cool that he got to take sword fighting[^1], even though he wasn't a theatre major and never set foot on the stage. The class would practice on the Heath lawn and sometimes I would catch glimpses of them out there, looking like they were having a blast. 
+When I first started working at Vanguard, I had my first teaching assistant (TA). His name was Brandon and he was about to graduate. To finish up his coursework, he needed units, but they could be in anything he wanted to take. I thought it was so cool that he got to take sword fighting[^4], even though he wasn't a theatre major and never set foot on the stage. The class would practice on the Heath lawn and sometimes I would catch glimpses of them out there, looking like they were having a blast. 
 
 This may be controversial, but for most people (besides theatre majors), I'm going to go out on a limb and say that business ethics is more important than sword fighting. If you find this offensive, reach out to me. Let's talk. I'm open to being wrong on this one. Speaking of sword fighting, I don't think I can reference it without putting [a clip from of one of my favorite movies of all time: The Princess Bride](https://youtu.be/I73sP93-0xA?si=dRfer2WimjEO2f53). 
 
@@ -96,7 +96,7 @@ This may be controversial, but for most people (besides theatre majors), I'm goi
 
 I'm pretty sure that Brandon never got as good as those actors in The Princess Bride at stage combat while at Vanguard, but he sure did brighten my days and I'm glad to have known him. I should probably get back to why someone may want to take a class about business ethics. 
 
-[^1]: I'm realizing now that the class was (maybe still is?) called stage combat. But sword fighting seems so much better that I'm going to leave the error in and just go with it. If you need some help with accepting mistakes, you've got to listen to David Wilcox signing [Leave It Like It Is](https://youtu.be/S7mkdHQX-NE?si=xpb8WTS0ZSUKR7NL). I love listening to it and being reminded not to take myself and my human foibles so seriously. 
+[^4]: I'm realizing now that the class was (maybe still is?) called stage combat. But sword fighting seems so much better that I'm going to leave the error in and just go with it. If you need some help with accepting mistakes, you've got to listen to David Wilcox signing [Leave It Like It Is](https://youtu.be/S7mkdHQX-NE?si=xpb8WTS0ZSUKR7NL). I love listening to it and being reminded not to take myself and my human foibles so seriously. 
 
 #### You will have a guide for life
 
@@ -154,9 +154,9 @@ What did the individuals in Wagner's experiment receive $5 for?
 
 Ethical responsibilities extend to society by promoting sustainable practices and corporate social responsibility (CSR), which are increasingly expected by customers, employees, and investors. To customers, ethical responsibilities include avoiding misleading practices like greenwashing and false advertising. With innovations such as artificial intelligence and facial recognition technology, the number of ethical dilemmas in business is increasing. 
 
-As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^1]. Ethical treatment of employees is also crucial, as fair practices contribute to a successful organizational culture, which can benefit the company economically and legally.
+As new technologies emerge, their long-term impacts, both positive and negative, may not be apparent until they have been in use for some time, as seen with the effects of social media on children and teenagers[^5]. Ethical treatment of employees is also crucial, as fair practices contribute to a successful organizational culture, which can benefit the company economically and legally.
 
-[^1]: There's a lot more nuance regarding social media's impact on youth. The [Pew Research Center has some key findings from 2023](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/) to explore for more. 
+[^5]: There's a lot more nuance regarding social media's impact on youth. The [Pew Research Center has some key findings from 2023](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/) to explore for more. 
 
 #### You're joining someone who finds utter joy in teaching and learning
 
@@ -201,23 +201,11 @@ My hope is that we'll take our character seriously and the call to love our neig
 
 ![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/jose-aragones-81QkOoPGahY-unsplash.jpg)
 
-Go back to your Google slides now and continue there, until such point as it invites you back over for the next part. 
+**Go back to your Google slides now and continue there, until such point as it invites you back over for the next part.** 
 
 ### 00.02 | How this class works
 
-Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how and when you can show up. 
-
-#### The space-time continuum: Synchronous and asynchronous attendance
-
-Ok. Not really. I'm not actually going to be teaching anything about the space-time continuum in this course. If you're interested in that topic, you're going to want to take a different class. Or, [watch a video with Neil deGrasse Tyson explaining it a gazillion times better than I'll ever do](https://youtu.be/SJhovNXqH6A?si=cvVoZmYg39ja3BR7). 
-
-However, I do want to share how this class works, in terms of the 'time' that class is held each week. In a normal class, you walk into a classroom and the professor 'marks' you as present. Sometimes there are points associated with you entering the room (and staying there). Sometimes, you have more autonomy for determining when it makes sense for you to attend. 
-
-In our class, we have Zoom sessions, which are somewhat like a normal class, in that they have a start time and an end time. However, there's also an option for you to not participate in those, but to otherwise demonstrate your having 'shown up' for class that week. 
-
-On Canvas, you will see calendar entries most weeks called #connect, which reflect the times most of us will gather at the set time. During that time, we will often spend the time focused on  a portion of the lesson for that week (or occasionally part of a challenge). 
-
-Higher education policies require that we have something that approximates attendance in a normal class, so if you come to the Zoom session, I'll mark you as "S" which stands for synchronous (meaning you attended using the scheduled time option). If you aren't at the Zoom, but you share your lesson for the week by the deadline, I'll mark you as "A" ~ which stands for asynchronous (meaning you opted to do the asynchronous option that week). I'm getting ahead of myself, though. More on this later on. 
+Speaking of showing up for the work, that's something that's important for you to do in this class. Yet, the act of showing up might look quite different, depending on your unique context and preferences. This isn't an easy class (at least that's what I've been told), but it is one that provides radical flexibility, in terms of how and when you can show up. See the class syllabus for more about how the class is structured. 
 
 #### Your story and our stories matter
 
@@ -269,13 +257,6 @@ My commitment is the same right back to you. As you challenge yourself, I will b
 > Here are some review questions on how this class works. Test your understanding by answering them. 
 
 
-
-What is the definition of synchronous attendance in this class?
-
-[[ ]] Attending class via the alternative attendance options
-[[ ]] An option for those who can't meet or prefer not to meet at the scheduled times
-[[X]] Attending class during the scheduled time via Zoom
-[[ ]] Informing Dr. B about your absence in advance
 
 How is the class structured?
 
