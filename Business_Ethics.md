@@ -82,7 +82,7 @@ Speaking of decisions, there are likely many reasons a person may decide to take
 
 Taking a business ethics class is crucial for people looking to better understand the ways in which decision making and our beliefs get challenged, tested, and refined in the workplace, as a consumer, or as a business owner. Especially for those who claim a Christian worldview, a class like this can help prepare future leaders to navigate the complex ethical challenges that arise in the business world. 
 
-As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews. 
+As Christians, we are called to love our neighbors, tell the truth, and seek to live our God’s love in the world. While you will see references to biblical principles such as the golden rule in this class, it is not intended to be a theology class. Instead, you will be invited to reflect on your values, which often will intersect with ones embedded throughout Christianity, broadly speaking. Recognizing that most of us will go on to work in professional contexts that require us to work with people who are different than us and who follow other faith traditions or belief systems, you're going to be asked to express your perspectives in such a way as to be understood by people who have diverse worldviews, including those who do not share a Christian faith. 
 
 > I sent an email out to those who were registered for the class a while back, asking for you to reply to let me know why you're taking a class about business ethics. If you haven't done so, already, please email me and share your reasoning and what you hope to get out of the course. 
 
@@ -401,15 +401,7 @@ What is the significance of recognizing ethical grey areas in business?
 
 
 
-Fill in the Blank Questions:
-
-
-
-Business ethics goes beyond a simplistic binary understanding of right and wrong by considering [[cultural]] and contextual nuances.
-
-
-
-Ethical judgments often involve subjective elements, such as personal beliefs, values, and [[experiences]].
+Fill in the Blank Question:
 
 
 
@@ -417,21 +409,7 @@ While something may be legal, it can still be considered [[unethical]], highligh
 
 
 
-Business leaders often face moral dilemmas where they must choose between conflicting values, requiring them to make difficult decisions with [[integrity]] and transparency.
-
-
-
-In the movie Zootopia, Judy Hopps makes an unintentionally insensitive comment about predators during a press conference, demonstrating how misunderstandings can easily arise, even with good [[intentions]].
-
-
-
-
-
 ### 01.01 | Let's get personal
-This is probably where I'm about to show my age. But in my day, we had Olivia Newton John (who you may know from Grease, but in this case, we're going to her other lesser known role singing Let's Get Physical). You do not have to watch the following video. In fact, the music video on YouTube made me cringe on more than one occasion, so I'm only even posting the audio here. But when we say/ead: "Let's get personal," I'm hoping at least some of us will be hearing the tune of Let's Get Physical in our minds, and singing along with Olivia Newton-John.
-
-!?[Olivia Newton-John - Physical](https://youtu.be/VM7TpVWvJqM?si=ydhVkyb3LJqyfXsK)
-
 I'm going to be asking you to get personal in this class. Applying what you're learning in the uniqueness that only you can bring. I want us to have fun together, yes, yet take our responsibility to love our neighbors quite seriously. Talking about some of the issues we will explore can bump up against our identities and unique cultural contexts. 
 
 #### Imago Dei at the foundation 
@@ -455,6 +433,12 @@ Here's why Imago Dei is essential to consider when studying business ethics in s
 6. **Ethical Accountability:** The belief in Imago Dei reminds Christians of their ultimate accountability to God for their actions, including their business decisions. This accountability encourages transparency, integrity, and the pursuit of ethical excellence in business practices.
 
 Imago Dei is a foundational concept in Christian theology that has a profound impact on how business ethics is approached as Christians. It highlights the inherent dignity of all people, guides ethical decision-making, promotes compassion and social responsibility, and emphasizes accountability to a higher moral standard. Ultimately, it encourages a holistic and ethical approach to conducting business that aligns with Christian values and principles.
+
+What is the meaning of Imago Dei?
+
+[[X]] All are created in the image of God
+[[ ]] Turn the other cheek
+[[ ]] The golden rule - Do unto others, as you would have them to unto you
 
 ---
 
@@ -586,6 +570,17 @@ Emotional intelligence is crucial in the business world. As I consider people I 
 
 4. **Conflict Resolution:** EQ helps in resolving conflicts diplomatically, reducing workplace tension, and maintaining a harmonious work environment.
 
+
+
+Which element of emotional intelligence involves effective interpersonal skills?
+
+[[ ]] Self-Regulation
+[[ ]] Self-Awareness
+[[X]] Social Skills
+[[ ]] Motivation
+
+
+
 By applying emotional intelligence in our workplaces, organizations can navigate cultural nuances successfully, foster trust, and achieve business success in increasingly diverse cultural environments. Developing emotional intelligence involves acknowledging and resolving these inner conflicts to make more informed and balanced choices. By implementing these strategies, individuals can minimize the tendency to take things personally, promote healthy communication, and build trust within a business context (as well as in our class' learning community).
 
 ### 01.03 | Clarify and Seek Understanding
@@ -628,6 +623,17 @@ Separating feedback from our identity is vital for several reasons:
 
 3. **Reducing Emotional Impact**: Feedback that is closely tied to our identity can be emotionally taxing. It can lead to anxiety, stress, and a fear of failure. By separating feedback from our identity, we can reduce the emotional impact and maintain our mental well-being.
 
+
+
+What is the main reason to separate feedback or criticism from one's self-worth?
+
+[[ ]] To prove that criticism is always wrong
+[[ ]] To avoid receiving any feedback
+[[X]] To view feedback as an opportunity for growth and improvement
+[[ ]] To retaliate against those giving feedback
+
+
+
 Yes, we recognize how important it is, but how do we do it? Here are some examples of how to separate feedback from our identity:
 
 1. **Focus on Actions, Not Person**: When providing feedback, frame it in terms of actions, behaviors, or specific tasks rather than making it about the person. For example, say, "Your report lacks clarity," instead of "You're not a good writer."
@@ -642,13 +648,13 @@ Yes, we recognize how important it is, but how do we do it? Here are some exampl
 
 6. **Reflect on Feedback**: After receiving feedback, take some time to reflect on it. Consider whether it aligns with your goals and values. This can help you decide whether to incorporate the feedback into your actions or not.
 
-7. **Separate Constructive from Destructive Feedback**: Learn to differentiate between constructive feedback (aimed at improvement) and destructive criticism (intended to harm or belittle). Focus on constructive feedback and disregard the latter. [^1] 
+7. **Separate Constructive from Destructive Feedback**: Learn to differentiate between constructive feedback (aimed at improvement) and destructive criticism (intended to harm or belittle). Focus on constructive feedback and disregard the latter. [^6] 
 
 8. **Maintain Self-Esteem**: Remember that feedback does not define your self-worth. You can be a valuable person regardless of any specific feedback you receive. I find it especially helpful to consider the person providing me with the feedback and whether or not they are a worthwhile source from which I can grow and develop. 
 
 Separating feedback from our identity is crucial for personal growth, effective communication, and emotional well-being. It allows us to learn from feedback without letting it define us.
 
-[^1]: Those from historically marginalized populations may experience what is known as weathering, which refers to a phenomenon where individuals from marginalized racial and ethnic groups experience the cumulative effects of stress, discrimination, and microaggressions over time. This term was coined by Dr. Arline T. Geronimus in the early 1990s. 
+[^6]: Those from historically marginalized populations may experience what is known as weathering, which refers to a phenomenon where individuals from marginalized racial and ethnic groups experience the cumulative effects of stress, discrimination, and microaggressions over time. This term was coined by Dr. Arline T. Geronimus in the early 1990s. 
 
 ### 01.05 | Be aware of cognitive dissonance
 
@@ -680,7 +686,7 @@ Our brains want things to make sense and will make every attempt to have that be
 
 Recognizing cognitive dissonance and its impact in a business context is essential for effective decision-making, employee satisfaction, and maintaining a positive corporate culture. Acknowledging diverse perspectives on how cognitive dissonance is experienced and resolved can lead to more comprehensive strategies for managing it in the workplace.
 
-This lesson has delved into the definition and importance of ethics, emphasizing not taking things personally and placing the Imago Dei at the center of our interactions. We have learned that true growth lies in holding each other accountable for developing emotional intelligence, fostering an environment of empathy and understanding. Moreover, we have recognized the significance of separating feedback from identity, allowing us to grow without fear of judgment. Finally, our exploration has highlighted the critical need to be aware of cognitive dissonance, a powerful tool in aligning our actions with our ethical principles. As we reflect on these lessons, let us strive to embody these principles in our daily lives, creating a more compassionate and ethical world for ourselves and those around us.
+This lesson has defined ethics and discussed its importance, emphasizing not taking things personally and placing the Imago Dei at the center of our engagement with other human beings. We explored how to develop emotional intelligence, foster an environment of empathy and understanding. Moreover, we have recognized the significance of separating feedback from identity, allowing us to grow without fear of judgment. Finally, we highlighted the critical need to be aware of cognitive dissonance, a powerful tool in aligning our actions with our ethical principles. As we reflect on these lessons, let us strive to embody these principles in our daily lives, creating a more compassionate and ethical world for ourselves and those around us.
 
 ###### ? 01.02 - 01.05 | Review questions | EQ, seeking understanding, feedback, and cognitive dissonance
 
@@ -723,13 +729,6 @@ How can individuals practice empathy in developing emotional intelligence?
 [[ ]] By avoiding all emotional situations
 [[ ]] By focusing solely on their own emotions
 
-Which element of emotional intelligence involves effective interpersonal skills?
-
-[[ ]] Self-Regulation
-[[ ]] Self-Awareness
-[[X]] Social Skills
-[[ ]] Motivation
-
 How can open and honest dialogue contribute to productive communication?
 
 [[ ]] By suppressing different perspectives
@@ -743,13 +742,6 @@ In the movie clip from "The Princess Bride," what does Inigo Montoya point out t
 [[ ]] Vizzini's impeccable timing
 [[X]] Vizzini's misuse of the word "inconceivable"
 [[ ]] Vizzini's logical reasoning
-
-What is the main reason to separate feedback or criticism from one's self-worth?
-
-[[ ]] To prove that criticism is always wrong
-[[ ]] To avoid receiving any feedback
-[[X]] To view feedback as an opportunity for growth and improvement
-[[ ]] To retaliate against those giving feedback
 
 Cognitive dissonance is a psychological phenomenon that arises when an individual holds two contradictory [[beliefs]], attitudes, or values, or when their actions are inconsistent with their beliefs.
 
