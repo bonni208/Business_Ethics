@@ -791,7 +791,7 @@ By getting to know these philosophers (and some associated ethical frameworks), 
 
 ![LEGO depiction of a road trip to Harvard University - a group of students about to hop in a VW bus](https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-01-roadtrip.png)
 
-Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! Now, don't get too excited, we won't be donning crimson robes and walking the hallowed grounds, but we will getting to make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^1].
+Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! Now, don't get too excited, we won't be donning crimson robes and walking the hallowed grounds, but we will getting to make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^7].
 
 During our virtual visit, we'll also be meeting some of the biggest names in philosophy, like [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), and [John Rawls](https://en.wikipedia.org/wiki/John_Rawls). These philosophers have left their intellectual mark all over the study of ethics, and we'll be exploring how they guide our moral compasses in the complex world of business.
 
@@ -805,7 +805,7 @@ As we travel (at least in our imaginations) to Harvard's campus and experience S
 
  Our trip to Harvard will guide us on a voyage (dare I say road trip? 😂) of self-discovery, where we'll uncover the right path to ethical decision-making in the business world. 
 
-[^1]: According to [an oped (opinion piece) by Thomas L. Friedman](https://www.nytimes.com/2011/06/15/opinion/15friedman.html) in the New York Times. 
+[^7]: According to [an oped (opinion piece) by Thomas L. Friedman](https://www.nytimes.com/2011/06/15/opinion/15friedman.html) in the New York Times. 
 
 ### 02.02 | The moral side of murder and the case for cannibalism
 
@@ -821,13 +821,15 @@ In the second half of this thought-provoking video, Michael Sandel delves into t
 
 This captivating case serves as a catalyst for an engaging classroom debate in this most-popular class at Harvard, challenging the moral validity of utilitarianism and its doctrine that deems "the greatest good for the greatest number" as the ultimate ethical guideline. Join us as we explore this profound moral inquiry and grapple with the complexities of ethical decision-making. 
 
+**Take notes on the videos as you watch.** They don't need to be super detailed, but be sure to capture the main terms and names that he mentions, as well as a few things you #notice and #wonder as you watch. 1-2 pages should do it. Keep your notes in the same place that you established for this class in previous lessons. 
+
 Watch: [Justice: What's The Right Thing To Do? Episode 01 and 02"](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) (54 minutes)
 
 !?[Justice: What's The Right Thing To Do? Episode 01 and 02](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) 
 
 ###### ? 02.02 | Review questions | Justice lectures episodes 01 and 02 
 
-Test your understanding of the basics of the concepts Sandel brought up in this first and second lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
+Test your understanding of the basics of the concepts Sandel brought up in this first and second lecture in his Justice series. It's better if you don't look up the answers on the internet, as this is supposed to challenge your brain (not your internet searching skills). If you get any question wrong, you can try, again, so do yourself (and your memory) a favor and allow the retrieval practice a chance to work. 
 
 Michael Sandel played video clips from Shakespeare's Hamlet, Fear Factor, and The Simpsons to test John Stuart Mill's utilitarian theory.
 
@@ -962,7 +964,30 @@ Another philosopher we are definitely going to want to know is John Rawls, in ou
    - **First Principle (Equal Basic Liberties):** This principle states that each person should have an equal right to the most extensive basic liberties that are compatible with similar liberties for all.
    - **Second Principle (Difference Principle):** This principle allows for social and economic inequalities as long as they benefit the least advantaged members of society. In other words, inequalities should be structured to improve the situation of the most vulnerable.
 
-4. **Maximin Principle:** Rawls argues for a maximin approach, which means that decisions should be made to maximize the well-being of the least advantaged in society. This reflects his emphasis on social justice and reducing inequality.
+4. **Maximin Principle:** Rawls advocates for a decision-making approach under conditions of uncertainty where one should prioritize maximizing the minimum level of well-being. In his theory of justice, this principle underlies the *Difference Principle*, which holds that social and economic inequalities are permissible only if they improve the position of the least advantaged in society.
+
+
+
+True or False: Rawls' first principle of justice emphasizes equal basic liberties for all.
+
+[[X]] True
+[[ ]] False
+
+What is John Rawls most renowned for in the field of political philosophy?
+
+[[ ]] Theory of Equality
+[[X]] Theory of Justice as Fairness
+[[ ]] Theory of Wealth
+[[ ]] Theory of Liberty
+
+According to Rawls, what are the two principles of justice that individuals in the original position would agree upon?
+
+[[ ]] Equal Basic Liberties and Maximum Wealth
+[[ ]] Equal Opportunities and Wealth Redistribution
+[[X]] Equal Basic Liberties and Difference Principle
+[[ ]] Equal Opportunities and Social Hierarchy
+
+
 
 It is time to further explore what John Rawls called the veil of ignorance. The Veil of Ignorance is a device for helping people more fairly envision a fair society (or business) by pretending that they are ignorant of their personal circumstances. Watch [this short video from Ethics Defined about the veil of ignorance](https://youtu.be/qWSYpiE54cg?si=RV2wS22aUeZWQd55). 
 
@@ -975,13 +1000,6 @@ It is time to further explore what John Rawls called the veil of ignorance. The 
 In a business context, we can apply Rawls' ideas to ethical dilemmas. Rawls' emphasis on fairness, equal opportunities, and addressing the needs of the least advantaged can inform decisions business leaders make regarding corporate social responsibility, fair wages, and ethical business practices. There are critiques and debates surrounding Rawls' theory, including criticisms of the feasibility of implementing his principles in the real world and concerns about the balance between individual liberty and social equality. This takes us back to the grey areas of studying ethics. John Rawls' theory of justice provides a foundational framework for thinking about fairness and ethical decision-making in society, including its relevance to business practices and corporate ethics. Understanding Rawls' ideas can help us engage in discussions about ethical dilemmas in the business world from a broader philosophical perspective.
 
 ###### ? 02.04 | Review questions | Get real with John Rawls, y'all
-
-What is John Rawls most renowned for in the field of political philosophy?
-
-[[ ]] Theory of Equality
-[[X]] Theory of Justice as Fairness
-[[ ]] Theory of Wealth
-[[ ]] Theory of Liberty
 
 Rawls' theory allows for social and economic inequalities as long as they benefit the [[least]] advantaged members of society.
 
@@ -1001,13 +1019,6 @@ The original position is a hypothetical state in which individuals have complete
 
 Rawls introduced the concept of the "Veil of [[Ignorance]]" to ensure impartial decision-making.
 
-According to Rawls, what are the two principles of justice that individuals in the original position would agree upon?
-
-[[ ]] Equal Basic Liberties and Maximum Wealth
-[[ ]] Equal Opportunities and Wealth Redistribution
-[[X]] Equal Basic Liberties and Difference Principle
-[[ ]] Equal Opportunities and Social Hierarchy
-
 What does Rawls' maximin principle emphasize?
 
 [[ ]] Maximizing individual liberty
@@ -1021,11 +1032,6 @@ John Rawls presented his theory of justice in the book "A Theory of Justice" pub
 [[ ]] False
 
 In a business context, Rawls' ideas can inform decisions regarding corporate social [[responsibility]].
-
-True or False: Rawls' first principle of justice emphasizes equal basic liberties for all.
-
-[[X]] True
-[[ ]] False
 
 The maximin principle argues for maximizing the well-being of the most advantaged members of society.
 
@@ -1050,7 +1056,7 @@ A cornerstone of Aristotle's virtue ethics is the idea of virtues and the golden
 
 Virtue ethics is all about living a morally upright life through character development. This approach suggests that practicing virtues like honesty, bravery, and generosity leads to a virtuous character. Aristotle believed that these virtuous habits help individuals make ethical choices when faced with dilemmas. In the clip, we learn how to clarify the differences between moral philosophies, by considering the film The Dark Knight. Utilitarians might support Batman killing the Joker to save others, while deontologists would reject it solely because killing is wrong. In contrast, virtue ethicists focus on Batman's character, asking if he wants to become someone who takes lives. The answer is usually no. Virtue ethics teaches us how to be virtuous individuals and provides guidance for ethical living without rigid rules for specific dilemmas we might face.
 
-?  02.05 | Review questions | Aristotle meets Batman
+###### ?  02.05 | Review questions | Aristotle meets Batman
 
 What is the central focus of virtue ethics? 
 
