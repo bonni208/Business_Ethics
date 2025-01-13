@@ -1010,8 +1010,6 @@ In the original position, individuals are behind a "veil of ignorance." What doe
 [[ ]] They are free from making decisions.
 [[ ]] They have full knowledge of their personal attributes.
 
-Rawls' theory of justice emphasizes fairness and equal [[opportunities]].
-
 The original position is a hypothetical state in which individuals have complete knowledge of their personal attributes.
 
 [[ ]] True
