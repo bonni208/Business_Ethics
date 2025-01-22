@@ -1295,14 +1295,6 @@ Which ethical theory is centered on the idea that individuals have inherent libe
 
 
 
-Deontology places a strong emphasis on moral [[principles]] and duties.
-
-
-
-Virtue ethics encourages individuals to develop virtuous [[character]] traits.
-
-
-
 ### 03.02 | Why bother learning about ethical frameworks
 
 Before the COVID pandemic hit the world in early 2020, I used to think that all the exercises used to consider ethical frameworks were too theoretical and not realistic enough. I remember while earning my graduate degrees being presented with fictitious cases involving being on a life boat with just two matches, a hot dog, and 22 cotton swabs and trying to determine who was going to get to live. 
@@ -1399,7 +1391,7 @@ How do ethical frameworks contribute to critical thinking?
 
 ### 03.03 | An ethical decision making case study
 
-Check Canvas for information about the next part of the ethical decision making case study we are exploring on our own and then with others in the class. That will contained within Challenge 03. 
+Check Canvas for information about the next part of the ethical decision making case study we are exploring on our own and then with others in the class. That will contained within Challenge 03 on Canvas. See you back here for Lesson 04 soon.  
 
 
 
@@ -1419,7 +1411,7 @@ Consider the following (and notice if you can hear a voice associated with these
 
 > He likes it. Hey, Mikey. 
 
-If you say these words to someone around my age, they'll likely know exactly what you're talking about. However, since most of you (ok. All of you) are likely younger than me, here's what Mikey was famous for, back when I was a kid.
+If you say these words to someone around my age, they'll likely know exactly what you're talking about. However, since most of you (ok ~ all of you) are likely younger than me, here's what Mikey was famous for, back when I was a kid.
 
 !?[Commercial for Life Cereal](https://youtu.be/CLQ0LZSnJFE?si=0r5RYZbAG_rtYFPD)
 
@@ -1431,7 +1423,7 @@ People said it was some bad combination of pop rocks and Diet Coke. Or maybe jus
 
 How would we have figured out if this was true back at that time? There wasn't an internet to go check. There were newspapers, limited by page and word counts and professional journalists and researcher assistants.
 
-In order to help us be taken seriously and to navigate today's business news and media landscape, it's time to serve up the Starter Course from Mike Caulfield.
+In order to help us be taken seriously and to navigate today's business news and media landscape, it's time to serve up the Starter Course from Mike Caulfield. 
 
 ### 04.01 | Introduction to SIFT
 
@@ -1478,13 +1470,42 @@ Throughout this lesson of the course, I will block off the sections written by a
 - For the purpose of this course, a **claim** is a statement that purports to express something about reality. "The U.S. landed a space craft on the moon in 1969" is a relatively simple claim that is true. "The moon landing of 1969 was fake." is a simple claim that is false. "The mission to land on the moon was driven by Cold War fear more than scientific curiosity" is a complex claim one can have a range of opinions on, but is still, for a given context, either a well-supported claim, a controversial claim, or a claim lacking any real support.
 - A **source** is the place where a claim or other information can be found. This course is a source of information about disinformation. Most claims can be found in multiple sources. You might find information about the moon landing in the Wall Street Journal, a website like Gizmodo, a textbook, a research paper, or a video recording of astronauts talking about the mission.
 
-#### **Play Fakeout!** 
+#### **Play Bad News!** 
 
-> Let's start this module with an activity designed by some folks at Civix Canada. Fakeout is an interactive lesson that tests your ability to detect "fake news" (we actually don't like that term, but more on that later).
+The game that Mike Caulfield included in his SIFT course is unfortunately gone now. So, we're going to play a different game. It's called: Bad News. Your goal in the game is going to be to be unethical, while trying to grow your follower count and influence. 
 
-![fakeout screenshot](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F248f9047-9d8d-41b8-b85f-b920f4b4aab6%2Ffakeout.png?table=block&id=f3cca8dd-265a-41a3-b41f-fb717f8c8c5b&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1370&userId=&cache=v2)
+**What is Bad News?** 
 
-> Play Fakeout by [following this link](http://newsliteracy.ca/fakeOut). Play all the way through, and make sure to watch the videos in the middle. Come back here, once you're done. 
+> In Bad News, you take on the role of fake news-monger. Drop all pretense of ethics and choose a path that builds your persona as an unscrupulous media magnate. But keep an eye on your ‘followers’ and ‘credibility’ meters. Your task is to get as many followers as you can while slowly building up fake credibility as a news site. But watch out: you lose if you tell obvious lies or disappoint your supporters!
+
+**How does the game work?**
+
+> The goal of the game is to expose the tactics and manipulation techniques that are used to mislead people and build up a following. Bad News works as a psychological “vaccine” against disinformation: playing it builds cognitive resistance against common forms of manipulation that you may encounter online.
+
+While you are playing, remember that the goal is to be unethical in your approaches. The better you are at using the tactics that unethical people use to manipulate people online, the faster the game will go for you and the more followers you will acquire. 
+
+When I (Dr. B) first started playing it, the game was taking forever, because I would tell it that I wasn't feeling super good about manipulating people this way... Until I went all in and just got ruthless and stopped caring about being ethical. 
+
+![Bad News Website: From fake news to chaos! How bad are you? Get as many followers as you can. Words in brightly-colored squares: Lie, manipulate, destroy, obscure, ignore, attack](https://innovatelearning.s3.amazonaws.com/2025-01-20_12-22-20.jpg)
+
+**Are you ready to play a game?**
+
+Play Bad News by [following this link](https://www.getbadnews.com/en). 
+
+Be sure to play all the way through the game, learning about the various ways that manipulation techniques can be used to mislead people. Techniques you'll be asked to get good at for the purposes of the game include: 
+
+- Impersonation
+- Emotion
+- Polarization
+- Conspiracy
+- Discredit
+- Trolling
+
+**Make sure to take a screenshot of your final results for your notes.** If your score winds up being higher than 15.584, that means you did better than I did on my first play in January of 2025. Come back here to the reading, once you're done. 
+
+**Lesson 04 notes**
+
+Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. Include a reflection on what it was like to play the Bad News game and begin taking notes on the problems with approaches to telling truth from lies online, many of which you may have been advised to use, previously in your lives. Let's get back to Mike Caulfield's sharing... 
 
 
 ####  The problem with checklist approaches
@@ -1645,7 +1666,7 @@ At the very end of the course, you'll be asked to pick your favorite example fro
 
 **Reflection prompts and vocabulary**
 
-Reflection prompts are used to suggest questions for deeper exploration. Each time you see questions for reflection in the course, copy and paste them over to your notebook and prepare to discuss them either during a synchronous class, or asynchronously, through a video or written response. 
+Reflection prompts are used to suggest questions for deeper exploration. Each time you see questions for reflection in the course, copy and paste them over to your notebook and include your reflections through a video or written response. 
 
 **Questions for reflection**
 
@@ -1666,6 +1687,63 @@ Reflection prompts are used to suggest questions for deeper exploration. Each ti
 
 !?[Video: The miseducation of Dylann Roof](https://youtu.be/qB6A45tA6mE?si=Ids7nDj22uJwIMt1) 
 
+
+
+ **? 04.01 | Review questions | The miseducation of Dylann Roof** 
+
+
+
+Dylann Roof was raised in a home that promoted white supremacist ideologies.
+
+[[ ]] True
+[[X]] False
+
+
+
+Roof’s radicalization began with a search for “black on White crime” on Google.
+
+[[X]] True
+[[ ]] False
+
+
+
+Google’s algorithm prioritizes content that is always trustworthy, reputable, and authoritative.
+
+[[ ]] True
+[[X]] False
+
+
+
+What organization’s materials did Roof encounter during his search?
+
+[[ ]] Ku Klux Klan
+
+[[X]] Council of Conservative Citizens
+
+[[ ]] Southern Poverty Law Center
+
+[[ ]] Aryan Brotherhood
+
+
+
+What event is associated with Dylann Roof’s radicalization?
+
+[[ ]] The Charlottesville rally
+
+[[ ]] The Tulsa race massacre
+
+[[X]] The Emanuel A.M.E. Church massacre
+
+[[ ]] The Freedom Rides
+
+
+
+Roof’s exposure to extremist content began when he typed a phrase into [[Google]] search.
+
+
+
+**How do people tend to get radicalized?** 
+
 > One of the patterns we see in online radicalization — from Nazism to ISIS — is that people often begin their journey by discovering information on the web from extremists that shocks them. Usually they are unaware — initially — of the source of the information, and if they were aware of the source they might be more skeptical of the information presented. By the time they understand who is supplying the information and what their motives are, they are already aligned with those organizations' viewpoints.
 >
 > Once a person starts down the conspiracy spiral, it's very hard to get back out. There is such a gap between what they see in "respected" sources and what they see from extremist sites that they come to believe the respected sites must be in on the conspiracy. And while in the past many people might hold one or two conspiracy theories, the hyper-connected, algorithmic nature of the internet creates a situation where believing in one conspiracy theory may lead to your exposure to more and more radical conspiracy theories.
@@ -1679,7 +1757,7 @@ Reflection prompts are used to suggest questions for deeper exploration. Each ti
 
 #### Conclusion
 
-> In this 30 minute lesson you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
+> In this 45 minute lesson you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
 >
 > Now that we have the basics down we will start practicing some of the web techniques that you can use to get quick answers as you "sift".
 
@@ -1695,6 +1773,10 @@ Reflection prompts are used to suggest questions for deeper exploration. Each ti
 > The second video (2:45) introduces you to our second move: investigate the source. (In case you forgot the first move already, the first move is "Stop")
 
 !?[Online Verification Skills - Video 2: Investigate the Source](https://youtu.be/hB6qjIxKltA?si=eaHlQfCG357nlbj9)
+
+As Mike Caulfield emphasizes in the Investigate the Source video: 
+
+> "Do not look at what the organization says about itself. Look at what the web says about the organization. That's where you're going to find the truth of the matter."
 
 
 #### Just add Wikipedia
@@ -1716,9 +1798,48 @@ Reflection prompts are used to suggest questions for deeper exploration. Each ti
 >
 > If you thought something was from a straight news site and it turns out to be from a conspiracy site, that should surprise you. And given your new knowledge, your initial impression of the trustworthiness should plummet. If you thought you were looking at a minor, unknown newspaper and it turns out to be a multi-award winning national newspaper of record, maybe your assessment of its trustworthiness increases. The effects on trust are of course contextual as well: a small local paper may be a great source for local news, but a lousy source for health advice or international politics.
 
-**Vocabulary: paper of record**
+**Vocabulary: paper of record, Op-Ed**
 
-A national paper of record is a reputable paper that attempts to cover all important national news with staff reporters. They are distinguished from regional and local papers which use staff primarily for local or regional news.
+- A national **paper of record** is a reputable newspaper that attempts to cover all important national news with staff reporters. They are distinguished from regional and local papers which use staff primarily for local or regional news. 
+- An **Op-Ed** (short for “opposite the editorial page”) is a written piece typically published in a newspaper or online news outlet that expresses the opinions or viewpoints of an individual not affiliated with the publication’s editorial board. Op-Eds are distinct from editorial articles, which reflect the collective opinion of the publication itself.
+- **Editorials** are opinion articles that are representative of the perspectives of an entire editorial board. They are most often still thoroughly researches and are meant to reflect the organization's values as a whole. 
+
+**Papers of Record**
+
+The major papers of record in the United States and a few from outside the U.S. are included in the following table: 
+
+| Paper of Record         | Country        | Best known for:                                              |
+| ----------------------- | -------------- | ------------------------------------------------------------ |
+| The New York Times      | United States  | Known globally for its comprehensive reporting and influence, especially on U.S. and international politics. |
+| The Wall Street Journal | United States  | Focused on business, finance, and economic reporting, with a strong reputation internationally. |
+| Financial Times         | United Kingdom | Recognized globally for its authoritative business and financial reporting. |
+| The Washington Post     | United States  | Distinguished for its investigative journalism, particularly on U.S. governance and political issues. |
+| The Guardian            | United Kingdom | Renowned for its investigative journalism, and wide-ranging international coverage. |
+| La Monde                | France         | A leading French newspaper known for its thorough analysis of national and international affairs. |
+|                         |                |                                                              |
+
+When people get upset with large news organizations, like the listed papers of record, it is often not because of the journalistic/investigative practices, as a whole. Instead, we often can get upset by what is written in the opinion section of the newspaper. 
+
+It is vital to be able to distinguish between news and opinion. Op-Eds are often written by experts, academics, public figures, or concerned citizens and aim to provide commentary on current events, social issues, or policy debates. Unlike news articles, Op-Eds are subjective and focus on persuasion or provoking thought.
+
+Examples of Op-Eds:
+
+1. A political analyst critiquing government policies on immigration reform.
+2. An economist discussing the implications of rising inflation rates on global markets.
+3. A climate scientist advocating for stronger environmental policies in response to climate change.
+4. A community leader highlighting the importance of local education initiatives. 
+
+Op-Eds are a vital part of public discourse, allowing for diverse viewpoints to be shared and debated. But they are not the same as traditional news articles or editorials. 
+
+News articles from most major news organizations prioritize objectivity, accuracy, and balance, aiming to provide readers with fact-based reporting and multiple perspectives on a given topic. Journalists adhere to ethical standards like verifying sources, avoiding bias, and maintaining neutrality to ensure the information is credible and reliable.
+
+Editorials, on the other hand, represent the collective opinion of the publication’s editorial board, often addressing key issues in a more unified voice. While editorials aim to influence public opinion, they still reflect the broader values of the organization and are grounded in thorough research.
+
+In contrast, Op-Eds are individual viewpoints and do not reflect the stance of the publication itself. They allow for creative expression and persuasive rhetoric, often prioritizing a single perspective or argument. While Op-Ed writers are encouraged to base their arguments on evidence and logic, the tone and approach are typically more personal and subjective, distinguishing them from the impartiality expected in news reporting.
+
+Let's get back to Mike Caulfield's SIFT framework and how important it is for us to know what we are looking at when we read a story, see a meme online, or get riled up by a social media post. 
+
+
 
 #### What's important depends on context
 
@@ -1739,7 +1860,9 @@ A national paper of record is a reputable paper that attempts to cover all impor
 
 **SIFTing: Alexa-enabled toilet? (prompt)**
 
-> Each of our "Sifting" exercises will give you a scenario, show you a prompt associated with it, and ask you a question associated with it. You should "use your moves" on the prompt (the components of SIFT), then write your results in your notebook. If you are a student in a class, when you write your results in your notebook, make sure to use the specified heading, so that your teacher knows what prompt you are responding to.
+As Mike Caulfield instructs in the following, add the heading **SIFTing: Alexa-enabled Toilet** to your Lesson 04 notes for the class and prepare to take notes and begin your first SIFTing exercise. From Mike Caulfield:
+
+> Each of our "Sifting" exercises will give you a scenario, show you a prompt associated with it, and ask you a question associated with it. You should "use your moves" on the prompt (the components of SIFT), then write your results in your notebook. If you are a student in a class, when you write your results in your notebook, make sure to use the specified heading, so that your professor knows what prompt you are responding to.
 >
 > We start the course with some pretty light exercises. So here's your first exercise. A friend sends you a text about a new "Alexa Toilet":
 
