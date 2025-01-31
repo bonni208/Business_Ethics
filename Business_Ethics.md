@@ -1403,7 +1403,7 @@ It's not fun to look foolish. Yet it's easy to be tricked, given the state of wh
 
 I don't mean to sound offensive in saying the part about sounding ignorant. We're all ignorant about lots of stuff. You should try talking to me sometime about sports, for example, if you want to find someone ignorant on that broad set of subjects. 
 
-The goal is to become more educated about the stuff that is important to us and to know when we don't know enough about something to be a credible source (or know how to spot a credible source). I also want you to be taken seriously in life. A big part of that comes down to being able to identify and communicate effectively about evidence that supports your assertions. 
+The goal is to become more educated about the stuff that is important to us and to know when we don't know enough about something to be a credible source (or even know how to spot a credible source). I also want you to be taken seriously in life. A big part of that comes down to being able to identify and communicate effectively about evidence that supports your assertions. 
 
 **Meet a Mikey or maybe two?**
 
@@ -1447,7 +1447,7 @@ Mike Caulfield's Check, Please! Starter Course likely incorporates these princip
 
 Mike Caulfield has developed a great course to get us up and running with SIFT. I'm going to be making use of a lot what he has shared in his [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed), which he has made available under a Creative Commons license[^1]. As long as I attribute what I share to Mike's work and point people back to his Check, Please! Starter Course, we're good (ethically and legally speaking). 
 
-Throughout this lesson of the course, I will block off the sections written by and provided by Mike Caulfield, so you can tell it apart from what I'm sharing. Normally, this is how I quote other people, or make something stand out. 
+Throughout this lesson of the course, I will quote block the sections written by and provided by Mike Caulfield, so you can tell it apart from what I'm sharing. Normally, this is how I quote other people, or make something stand out. 
 
 > CC BY  [Mike Caulfield's Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed)
 >
@@ -1472,7 +1472,7 @@ Throughout this lesson of the course, I will block off the sections written by a
 
 #### **Play Bad News!** 
 
-The game that Mike Caulfield included in his SIFT course is unfortunately gone now. So, we're going to play a different game. It's called: Bad News. Your goal in the game is going to be to be unethical, while trying to grow your follower count and influence. 
+This is back to being Dr. B, again, for the moment. The game that Mike Caulfield included in his SIFT course is unfortunately gone now. So, we're going to play a different game. It's called: Bad News. Your goal in the game is going to be to be unethical, while trying to grow your follower count and influence. The game creators explain the game and how it works:
 
 **What is Bad News?** 
 
@@ -1484,7 +1484,7 @@ The game that Mike Caulfield included in his SIFT course is unfortunately gone n
 
 While you are playing, remember that the goal is to be unethical in your approaches. The better you are at using the tactics that unethical people use to manipulate people online, the faster the game will go for you and the more followers you will acquire. 
 
-When I (Dr. B) first started playing it, the game was taking forever, because I would tell it that I wasn't feeling super good about manipulating people this way... Until I went all in and just got ruthless and stopped caring about being ethical. 
+When I (Dr. B) first started playing it, the game was taking forever, because I would tell it that I wasn't feeling super good about manipulating people this way... Until I went all in and just got ruthless and stopped caring about being ethical. Feel free to go fast through the game and just try to be as unscrupulous as you can, while growing your following and building credibility (though not in the most ethical of ways, of course, hence the premise of the game...).
 
 ![Bad News Website: From fake news to chaos! How bad are you? Get as many followers as you can. Words in brightly-colored squares: Lie, manipulate, destroy, obscure, ignore, attack](https://innovatelearning.s3.amazonaws.com/2025-01-20_12-22-20.jpg)
 
@@ -1503,9 +1503,11 @@ Be sure to play all the way through the game, learning about the various ways th
 
 **Make sure to take a screenshot of your final results for your notes.** If your score winds up being higher than 15.584, that means you did better than I did on my first play in January of 2025. Come back here to the reading, once you're done. 
 
-**Lesson 04 notes**
+**Start Lesson 04 notes**
 
-Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. Include a reflection on what it was like to play the Bad News game and begin taking notes on the problems with approaches to telling truth from lies online, many of which you may have been advised to use, previously in your lives. Let's get back to Mike Caulfield's sharing... 
+Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. Include a reflection on what it was like to play the Bad News game and include the screenshot you took, previously. Begin taking notes on the problems with approaches to telling truth from lies online, many of which you probably have been advised to use, previously in your lives. 
+
+Let's get back to Mike Caulfield's sharing... 
 
 
 ####  The problem with checklist approaches
@@ -1559,6 +1561,44 @@ Using whatever note-taking system you devised in the earlier lessons, start taki
 >
 > To put it simply — the things that might mean something are easy to fake, and many things students are taught to look for don't mean anything at all.
 
+
+
+**Review Questions**
+
+
+
+A website that looks professional and well-designed is always more trustworthy than one that looks amateurish.
+
+[[ ]] True
+[[X]] False
+
+
+
+According to Caulfield, *students often believe* that websites with fewer ads are more reliable (even though this is not necessarily true).
+
+[[T]] True
+[[ ]] False
+
+
+
+Which of the following is NOT a reason Caulfield criticizes checklist-based website evaluation?
+
+[[ ]] Students tend to believe signals that have no basis in reality.
+[[ ]] Disinformation agents can easily fake professional-looking sites. 
+[[X]] Checklist approaches prevent students from using any sources at all.
+[[ ]] The presence of scientific language or footnotes does not always mean reliability.
+
+
+
+Why is looking for a **.org** domain not a reliable way to determine credibility?
+
+[[ ]] Only government websites use .org domains.
+[[X]] Any organization can register a .org domain, including those spreading misinformation.
+[[ ]] .org websites must be run by universities or research institutions.
+[[ ]] .org domains guarantee that the information is fact-checked.
+
+
+
 **Problem 2: The checklist processes take too long**
 
 >Checklist processes were developed for students trying to decide which of a number of library resources to use for a paper. Given that time frame, such an approach might make sense. You can spend 20 minutes looking at each of three journal articles you found to see which would be the best fit for an end of term research project.
@@ -1567,9 +1607,11 @@ Using whatever note-taking system you devised in the earlier lessons, start taki
 >
 >Take this TikTok video, for example. In it, one user has made a video that complains about the discontinuation of plastic straws out of what she sees as too high a level of concern about turtles. It's a bit meanly expressed, but that's her point. Another user posts a reaction — by 2050 there will be more plastic in the ocean than fish.
 
+Note: Watch the video below. It is no longer stored on TikTok and instead is a copy of the video that was originally housed there. 
+
 <iframe width="560px" height="800px" allowfullscreen="true" allow="autoplay *" title="duet with at beastmoder247 it is about more than just turtles savetheoceans" src="https://vanguard.instructuremedia.com/embed/a59c0eb3-77da-4741-90db-8b274b102b2b" frameborder="0"></iframe>
 
->It has literally taken me longer to explain this video than it takes you to watch it. But is the claim true? And what would happen if you had to engage in 20 minutes of investigation for every 10 second piece of content you viewed that made a claim?
+>It has literally taken me (Mike Caulfield) longer to explain this video than it takes you to watch it. But is the claim true? And what would happen if you had to engage in 20 minutes of investigation for every 10 second piece of content you viewed that made a claim?
 >
 >Actually, we know what happens when students are given in-depth techniques to deal with the flood of content that reaches them — they don't use them. Without quick methods people decide to share content like this based on whether it seems believable, or worse, they just decide they can't trust anything at all.
 >
@@ -1579,11 +1621,35 @@ Using whatever note-taking system you devised in the earlier lessons, start taki
 >
 >While short methods may seem less rigorous, they are in fact better than long methods for many tasks. When I switch lanes while driving on the highway, I don't do a ten minute analysis of whether a car *might* be in the lane next to me. I check the mirror, do a head check, and change lanes. If my father had given me a ten minute lane-changing process when teaching me to drive, I wouldn't use it, and frequent accidents would just be a part of my life. This is the sort of thing you need for reading the web as well.
 
+
+
+**Review Questions**
+
+
+
+According to Mike Caulfield, why do most people **not** use in-depth checklist approaches when evaluating online information?
+
+[[X]] They are too time-consuming for the fast pace of digital content / social media.
+[[ ]] They are not taught in schools.
+[[ ]] They only work for academic journal articles.
+[[ ]] They are difficult to understand.
+
+
+
+What is the most **likely** outcome when people do not have quick methods for checking online claims?
+
+[[ ]] They carefully analyze each source they come across.
+[[X]] They unconsciously accept or reject claims without verification.
+[[ ]]  They develop a structured research process before sharing information.
+[[ ]] They avoid using search engines and social media altogether.
+
+
+
 **Problem 3: Using too many criteria results in stupid decisions**
 
 >One popular idea is that checklists are important because they force students to evaluate dozens of criteria instead of just a few. But does evaluating more criteria result in better decisions? Many teachers say yes. The research says no.
 >
->The problem with having dozens of criteria is that many of them conflict. Readers then get overwhelmed, unsure to which ones they should pay the most attention.[^2] And that produces what I call the "sleazy car salesperson" effect.
+>The problem with having dozens of criteria is that many of them conflict. Readers then get overwhelmed, unsure to which ones they should pay the most attention.[^8] And that produces what I call the "sleazy car salesperson" effect.
 >
 >Maybe you've had the good fortune to never have to deal with a car dealership. But the way it usually goes is this. You go in to get a car and you just want automatic braking, a rear camera, and satellite radio. What happens? Well, they've got a car that has all three, but it's also the luxury sedan and it's $8,000 more. You do get seat warmers and remote start, which are worth x hundred dollars, and the new side collision detection that's at least $1,000 as an after-market addition. Or you can get this other car that has two features but not the third, and if you add on the aftermarket cost it's less expensive than the luxury car, but you don't get that side collision detection, etc., etc. And... well, it's exhausting even to read that, right?
 >
@@ -1591,7 +1657,35 @@ Using whatever note-taking system you devised in the earlier lessons, start taki
 >
 >On a pre-assessment we give to students, for example, we have students evaluate a statistical claim about firearm background checks. The sort of response we see repeatedly is, "Well, it's a .org so it's likely to be trustworthy, but it has an ad on the page so maybe not." It's this is "car lot" cognition. There's a tidal wave of conflicting signals so in the end we throw up our hands and say, "Who can know?"
 
-[^2]: Choices seem like such a good thing, in theory. However, as Mike Caulfield says in the in-depth section of this part of his SIFT course, "Many choices seems promising until you actually have to choose: UB research explains motivation fact..." He then links to [an article in Science Daily](https://www.sciencedaily.com/releases/2019/06/190613153712.htm), which explains how: "People faced with more options than they can effectively consider want to make a good decision, but feel they're unable to do so, according to the results of a novel study. Despite the apparent opportunities presented by a lot of options, the need to choose creates a 'paralyzing paradox,' according to the authors. 'You want to make a good choice, but feel like you can't.'"
+
+
+**Review Questions** 
+
+
+
+According to Caulfield, adding more evaluation criteria always improves decision-making.
+[[ ]] True
+[[X]] False
+
+
+
+The “sleazy car salesperson” effect refers to how students struggle with conflicting credibility signals, leading to confusion.
+
+[[X]] True
+[[ ]] False
+
+
+
+What is a major consequence of **overloading students** with checklist-based evaluation methods?
+
+[[ ]] They become more confident in their ability to verify online information.
+[[ ]] They develop a deep understanding of source credibility.
+[[ ]] They trust only government websites for reliable information.
+[[X]] They often give up and decide that verifying information is impossible.
+
+
+
+[^8]: Choices seem like such a good thing, in theory. However, as Mike Caulfield says in the in-depth section of this part of his SIFT course, "Many choices seems promising until you actually have to choose: UB research explains motivation fact..." He then links to [an article in Science Daily](https://www.sciencedaily.com/releases/2019/06/190613153712.htm), which explains how: "People faced with more options than they can effectively consider want to make a good decision, but feel they're unable to do so, according to the results of a novel study. Despite the apparent opportunities presented by a lot of options, the need to choose creates a 'paralyzing paradox,' according to the authors. 'You want to make a good choice, but feel like you can't.'"
 
 **Thank you, sir, may I have another**
 
@@ -1648,11 +1742,56 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 > In some cases these techniques will show you claims are outright wrong, or that sources are legitimately "bad actors" who are trying to deceive you. But even when material is not intentionally deceptive, the moves do something just as important: they reestablish the context that the web so often strips away, allowing for more fruitful engagement with all digital information.
 
 
-Vocabulary: bad actor, Pulitzer Prize
+
+**Vocabulary: bad actor, Pulitzer Prize**
+
+- A person or organization that intentionally spreads misinformation, disinformation, or engages in deceptive practices online is a **bad actor**. 
+- A **Pulitzer Prize** is a prestigious award given annually in the U.S. for excellence in journalism, literature, and musical composition
+
+
+
+**Review Questions**
+
+
+
+The goal of SIFT is to **quickly** determine the credibility of online content, not to spend excessive time fact-checking everything.
+
+[[X]] True
+[[ ]] False
+
+
+
+What is the **main purpose** of the **STOP** move in SIFT?
+
+[[ ]] To encourage fact-checking only after reading an article.
+[[X]] To pause and evaluate whether you know and trust the source before engaging.
+[[ ]] To prevent people from reading anything on the internet.
+[[ ]] To make sure you verify information with at least three sources before continuing.
+
+
+
+Why is **tracing claims, quotes, and media back to their original context** important?
+
+[[X]] To make sure the content hasn’t been edited or misrepresented.
+[[ ]] To prove that social media is unreliable.
+[[ ]] To always find the first article that published the claim.
+[[ ]] To determine if a source is government-approved.
+
+
+
+What **theme** runs through all four SIFT moves?
+[[ ]] Trusting only fact-checking websites for verification.
+[[X]] Recontextualizing information to better understand its accuracy and meaning.
+[[ ]] Fact-checking every single sentence of an article.
+[[ ]] Avoiding online sources whenever possible.
+
+
+
+
 
 **It's time to get those feelings out**
 
-You are being introduced to some skills that will be new for most of you. It may start to seem like a lot, so it is time to start capturing the learning in such a way as to be more memorable for you in the coming weeks and months. I've kept notes on SIFT and have even vlogged about my learning in a public way on my YouTube channel. 
+You are being introduced to some skills that will be new for most of you. It may start to seem like a lot, so it is time to keep capturing the learning in such a way as to be more memorable for you in the coming weeks and months. I've kept notes on SIFT and even continue sharing videos about my learning in a public way on the [Teaching in Higher Ed YouTube channel](https://www.youtube.com/@TeachinginHigherEd/). 
 
 #### Your notebook
 
@@ -1668,7 +1807,9 @@ At the very end of the course, you'll be asked to pick your favorite example fro
 
 Reflection prompts are used to suggest questions for deeper exploration. Each time you see questions for reflection in the course, copy and paste them over to your notebook and include your reflections through a video or written response. 
 
-**Questions for reflection**
+**04.01: Reflection Questions**
+
+Copy the following question over to your notes and reflect in writing or video with your answers. 
 
 - Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
 
@@ -1738,7 +1879,7 @@ What event is associated with Dylann Roof’s radicalization?
 
 
 
-Roof’s exposure to extremist content began when he typed a phrase into [[Google]] search.
+Roof’s exposure to extremist content began when he typed a phrase into a [[Google]] search.
 
 
 
@@ -1750,6 +1891,8 @@ Roof’s exposure to extremist content began when he typed a phrase into [[Googl
 
 **Questions for reflection**
 
+Answer the following questions in writing or linked video in your notes. 
+
 - Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
 - Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
 - Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
@@ -1757,10 +1900,9 @@ Roof’s exposure to extremist content began when he typed a phrase into [[Googl
 
 #### Conclusion
 
-> In this 45 minute lesson you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
+> In this section you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
 >
 > Now that we have the basics down we will start practicing some of the web techniques that you can use to get quick answers as you "sift".
-
 
 ### 04.02 | Investigate the source
 
@@ -1836,6 +1978,58 @@ News articles from most major news organizations prioritize objectivity, accurac
 Editorials, on the other hand, represent the collective opinion of the publication’s editorial board, often addressing key issues in a more unified voice. While editorials aim to influence public opinion, they still reflect the broader values of the organization and are grounded in thorough research.
 
 In contrast, Op-Eds are individual viewpoints and do not reflect the stance of the publication itself. They allow for creative expression and persuasive rhetoric, often prioritizing a single perspective or argument. While Op-Ed writers are encouraged to base their arguments on evidence and logic, the tone and approach are typically more personal and subjective, distinguishing them from the impartiality expected in news reporting.
+
+
+
+**Review Questions** 
+
+
+
+When investigating a source, it is best to rely on what the organization says about itself.
+
+[[ ]] True
+[[X]] False
+
+
+
+The **“Just Add Wikipedia”** method helps quickly determine the background and reputation of a source.
+
+[[X]] True
+[[ ]] False
+
+
+
+ All Op-Eds are automatically unreliable because they contain opinions.
+
+[[ ]] True
+[[X]] False
+
+
+
+If a newspaper has an Op-Ed section with strong political opinions, it means that all of its news reporting is biased and is unlikely to follow standard journalistic practices. 
+
+[[ ]] True
+[[X]] False
+
+
+
+How is an **Op-Ed** different from an **editorial**?
+
+[[X]] An Op-Ed represents an individual’s viewpoint, while an editorial reflects the opinion of the newspaper’s editorial board.
+[[ ]] Op-Eds only appear in online publications, while editorials are in print.
+[[ ]]  Editorials are personal opinion pieces, while Op-Eds focus only on neutral reporting.
+[[ ]] There is no real difference; they are interchangeable terms.
+
+
+
+What is a **paper of record**?
+
+[[ ]] A newspaper that primarily reports celebrity gossip.
+[[ ]] A government-run newspaper that only publishes official statements.
+[[X]]  A well-respected news outlet known for thorough and fact-based national reporting.
+[[ ]]  A news blog that publishes opinions and personal perspectives.
+
+
 
 Let's get back to Mike Caulfield's SIFT framework and how important it is for us to know what we are looking at when we read a story, see a meme online, or get riled up by a social media post. 
 
@@ -1921,7 +2115,7 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 
 If you want to know more about how credible we should consider Wikipedia, see: [Can We Trust Wikipedia? 1.4 Billion People Can't Be Wrong](https://www.independent.co.uk/news/long_reads/wikipedia-explained-what-is-it-trustworthy-how-work-wikimedia-2030-a8213446.html). 
 
-**Aligator (prompt)**
+**SIFTing: Aligator (prompt)**
 
 Check out both of these news reports and answer the questions below.
 
@@ -1959,12 +2153,14 @@ Check out both of these news reports and answer the questions below.
 >
 > Local and national newspapers employ reporters that have very similar skills, much more similar than fitness instructors and doctors. But even here authority differs depending on the type of story. For your first reflection, think of a sort of story where a local paper would have a high degree of authority. Then think of another sort of story where they might have far less authority.
 
-**Questions for reflection**
+**04.02a: Reflection Questions**
+
+As usual, add these to your notes and answer them in writing, or video form. 
 
 - For what sort of other stories might a local source be a particularly good authority?
 - For what sort of other stories might a local source not be a good authority?
 
-**Volcano plane (prompt)**
+**SIFTing: Volcano plane (prompt)**
 
 > Take a look at this story and answer the questions.
 
@@ -1999,7 +2195,21 @@ Check out both of these news reports and answer the questions below.
 >
 > This presents an interesting problem — if you run a site that is supposedly a humor site, but in practice it is convincing people of awful things, are you responsible for that? What if you intentionally tweak satirical headlines so they are more likely to deceive people (and hence make you more money from ads)?
 
-**Questions for Reflection**
+
+
+**Vocabulary: satire, "fauxtire", local news**
+
+- A form of humor or criticism that uses exaggeration, irony, or parody to comment on current events, politics, or society is known as **satire**. 
+- Content that mimics satire but lacks clear comedic intent or exaggeration, often misleading audiences into believing false or deceptive information is sometimes called "**fauxtire**".
+- **Local news** is journalism that focuses on events, issues, and stories relevant to a specific community, city, or region, often produced by smaller newspapers, TV stations, or online outlets. 
+
+
+
+
+
+**04.02b: Reflection Questions**
+
+Respond to the following in your notes.
 
 - What are your feelings on fauxtire? Is it an ethical practice?
 - Should companies like Facebook and Twitter downrank articles if they are being spread based on the impression they are "real" when they are not? What are the dangers of that?
@@ -2007,7 +2217,7 @@ Check out both of these news reports and answer the questions below.
 
 #### Conclusion
 
-> You finished lesson two! In the past thirty minutes, you've learned about one "move" (investigate the source) and one web technique associated with it ("just add wikipedia").
+> You finished lesson two! You've learned about one "move" (investigate the source) and one web technique associated with it ("just add wikipedia").
 >
 > Next up we'll apply what you learned about investigating the source to a couple specific issues.
 
@@ -2017,7 +2227,7 @@ Check out both of these news reports and answer the questions below.
 >
 > Ready to get started?
 
-**MH17 (prompt)**
+**SIFTing: MH17 (prompt)**
 
 > For this exercise, you'll need a bit of background. MH17 was a passenger plane shot down by Ukrainian separatists. Take one minute to watch this short video on the history of the crash.
 
@@ -2035,7 +2245,7 @@ Pronunciation guide:
 
 ?[How to say Reuters]((https://upload.wikimedia.org/wikipedia/commons/transcoded/1/18/Reuters_%28spoken_word%29.ogg/Reuters_%28spoken_word%29.ogg.mp3))
 
-If we really wanted to see the video, we could make use of the Internet Wayback Machine, but for now, I think it's ok to skip that extra step. Since you couldn't view the video, in all likelihood, just head over to Wikipedia and see what it has to share with us about RT.com. 
+If we really wanted to see the video, we could make use of the [Internet Wayback Machine](https://archive.org), but for now, I think it's ok to skip that extra step. Since you couldn't view the video, in all likelihood, just head over to Wikipedia and see what it has to share with us about RT.com. 
 
 [RT (TV Network)](https://en.wikipedia.org/wiki/RT_(TV_network))
 
@@ -2075,14 +2285,33 @@ You will learn more about the specifics related to the MH17 flight in the next s
 
 > Russia is not alone in using influence to spread disinformation — many countries pursue such actions internally, and a number, like Russia and Iran, attempt to sow discord in other nations. Read the following (very short) article on state sponsored influence operations:
 
-The original link that Mike had in his course is no longer available. Again, if crucial to our research, we could use the Internet Wayback Machine to locate it. However, in searching the present-day internet to find it, I did locate this related article that may help us discover more about why YouTube (which is owned by Google) would have blocked that last YouTube video from Mike's mini course.
+The original link that Mike had in his course is no longer available. Again, if crucial to our research, we could use the [Internet Wayback Machine](https://archive.org) to locate it. However, in searching the present-day internet to find it, I did locate this related article that may help us discover more about why YouTube (which is owned by Google) would have blocked that last YouTube video from Mike's mini course.
 
 [Facebook, Google and Twitter limit ads over Russia's invasion of Ukraine, by Shannon Bond](https://www.npr.org/2022/02/26/1083291122/russia-ukraine-facebook-google-youtube-twitter)
 
-**Questions for reflection**
+
+
+**Vocabulary: Internet Wayback Machine, propoganda, Reuters, RT, conspiracy theories**
+
+- The **Internet Wayback Machine** is an online archive that allows users to view past versions of websites, helping to track changes over time and recover deleted content.
+- **Propaganda** is information, often biased or misleading, used to influence public opinion or promote a particular political, ideological, or organizational agenda.
+- A global news agency, **Reuters** provides fact-based reporting on politics, business, and world events, with a reputation for accuracy and neutrality.
+- A media organization that operates with government funding is considered **state-funded media**, but its journalistic integrity depends on factors like editorial independence and transparency.
+- **RT** (formerly Russia Today) is a Russian state-funded media outlet that presents news and commentary from a Russian perspective, often criticized for spreading misinformation and propaganda.
+- Often lacking credible evidence, **conspiracy theories** are alternative explanations for events that claim hidden or powerful forces are manipulating the truth.
+
+
+
+
+
+**04.03: Reflection Questions**
+
+Add the following to your notes and reflect on the questions. 
 
 - What obligations do American companies have to prevent this sort of use of their platforms? 
 - What responsibilities belong with the reader instead?
+
+
 
 #### Expertise and reputation
 
@@ -2097,7 +2326,7 @@ The original link that Mike had in his course is no longer available. Again, if 
 > - Google News Search https://www.google.com/search?tbm=nws&source=hp&q=news+query+here&oq=
 > - Google Scholar: https://scholar.google.com/
 
-**Warming claims (prompt)**
+**SIFTing: Warming claims (prompt)**
 
 > Here's an article by a guest author, Myles Allen, arguing that climate change is incredibly serious but that the way some activists are talking about the recent IPCC report (considered to be the scientific consensus on global warming) is at times alarmist. We are going down a very dangerous road if we don't act on climate change now, Allen agrees, but he also says the idea that most people will feel world-ending impacts in twelve years is not supported.
 
@@ -2119,10 +2348,15 @@ The original link that Mike had in his course is no longer available. Again, if 
 
 > Look at the Wikipedia article and then look (skim, really) his opinion piece. Does he have relevant expertise? Double check the answer in your fact-checking notebook and write down your assessment of the writer's expertise.
 
-Questions for reflection
+
+
+**04.03b: Reflection Questions**
+
 - One of the understandings key to media literacy is "authority is constructed and contextual".  Different communities (scientists, reporters, politicians, psychologists, car mechanics) have different criteria for authority (constructed) and the type and level of authority you need may depend on your context (contextual).  What other types of expertise could this issue benefit from?
 
-**Smoke-free (prompt)**
+
+
+**SIFTing: Smoke-free (prompt)**
 
 > Here's a summary of a report from an organization called Foundation for a Smoke-Free World. They want to eliminate smoking worldwide.
 
@@ -2158,9 +2392,65 @@ Questions for reflection
 >
 > Again, you need to come to your own conclusion on whether that assessment is damning. But whether you agree with the researchers or not, adopt their approach. Ask first and foremost when approaching an organization or source "What is this group set up to do?"
 
+
+
+**Vocabulary: bias, agenda**
+
+- A **bias** in media or communication reflects a preference or inclination that affects how information is presented, sometimes subtly and unintentionally.
+- **Agenda** refers to an underlying goal or motive that shapes the selection and framing of information, whether in media, politics, or advocacy.
+
+
+
+While **bias** influences how someone interprets or presents information, an **agenda** actively drives what information is chosen or emphasized to achieve a specific outcome. A **bias** may be subconscious and result in unintentional slant, whereas an **agenda** is a deliberate effort to push a particular message or goal.
+
+
+
+**Review Questions**
+
+
+
+A **bias** is always intentional and meant to deceive audiences.
+
+[[ ]] True
+[[X]] False
+
+
+
+Bias and agenda are the same thing and can be used interchangeably.
+
+[[ ]] True
+[[X]] False
+
+
+
+A person or organization can have an **agenda** without having a **bias**.
+
+[[ ]] True
+[[X]] False
+
+
+
+What is an **agenda** in media or communication?
+
+[[ ]] A subconscious preference for certain viewpoints.
+[[X]] A deliberate effort to push a particular message or goal.
+[[ ]] An objective approach to presenting all sides of an issue.
+[[ ]] A random selection of news stories based on audience preference.
+
+
+
+What is the **main difference** between bias and agenda?
+
+[[ ]] Bias is always intentional, while an agenda is subconscious.
+[[ ]] Agenda and bias are the same and can be used interchangeably.
+[[ ]] Bias only applies to political reporting, while an agenda applies to all media.
+[[X]]  Bias influences how information is interpreted, while an agenda determines what information is selected and emphasized.
+
+
+
 #### Conclusion
 
-> You finished lesson three! In the past thirty minutes, you've expanded your knowledge of how to investigate sources. Three new techniques were introduced:
+> You finished lesson three! You've expanded your knowledge of how to investigate sources. Three new techniques were introduced:
 >
 > - "Just add wikipedia", but for names and organizations
 > - Google Scholar searches for verifying expertise
@@ -2214,14 +2504,21 @@ Questions for reflection
 
 > We click through to the USA Today story here, but we really didn't need to. Just seeing this many results on the news page is good enough for us to believe a claim of this sort. Go ahead and share this story, comment on it, and feel what emotions you have to.
 
-**Questions for reflection**
+
+
+What Mike Caulfield just described in how he checked to see if Keanu Reeves had actually died is known as lateral reading. **Lateral reading** is a strategy used in information literacy where readers verify the credibility of a source by leaving the page and searching for information about the source from other reputable websites. Instead of analyzing a webpage solely based on its own content (as in traditional vertical reading), lateral reading involves opening new tabs, checking external sources, and cross-referencing claims with trusted outlets. This method is commonly used by fact-checkers and researchers to quickly assess a source’s reliability and agenda.
+
+
+
+**04.04a: Reflection questions**
 
 - Why did we search for Keanu Reeves instead of Keanu Reeves snowboard?
 - Why do you think so many otherwise smart people make errors when it comes to death hoaxes? What are the emotional drivers? What are the social incentives that push people not to check?
+- What is one specific way that you could practice lateral reading about a topic that sometimes gets you going on social media? I'll give you a hint. In early 2025, Apple was criticized because its AI summary tool indicated that the wrong sports team had won. While of course consumers and news outlets want to see Apple do a better job, each of us also owes it to ourselves and to the communities in which we engage to do our part to demonstrate information literacy. So, for you, it might be an inaccurate sports result that requires lateral reading, while maybe for someone else, it involves politics. Be specific in your reflections. 
 
 **Using fact-checks from news search: Chik-Fil-A**
 
-Once I get a song in my head, I often have it floating around in there for quite some time. As soon as I saw Chik-Fil-A in this headline, I just had to share this one. It's such a good song, and maybe you've been sitting a while and need to take a quick mental break.  
+Back to Dr. B for this brief interlude... Once I get a song in my head, I often have it floating around in there for quite some time. As soon as I saw Chik-Fil-A in this headline, I just had to share this one. It's such a good song, and maybe you've been sitting a while and need to take a quick mental break.  
 
 !?[Louis Jordan Ain't Nobody Here But Us Chickens 1956](https://youtu.be/HnyB0a8G71Y?si=wdkH4kmxxp62vq6M)
 
@@ -2251,13 +2548,48 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 
 
 
-**Questions for Reflection**
+**Vocabulary: Fact-check, Snopes, Politifact, Babylon Bee**
 
-- The *Babylon Bee* has been criticized by many for repeatedly writing satire that is not notably satirical enough for people to recognize it as a joke. Critics say that this is reckless, as most people will develop false impressions from reading the headlines that float past on Facebook. What are your thoughts on this? Some links on this issue are included at the bottom of the page.
+- To **fact-check** means to verify the accuracy of a claim, statement, or article by consulting credible sources and evidence before accepting it as true.
+- **Snopes** is a well-known fact-checking website that investigates rumors, misinformation, and urban legends, providing researched explanations and verdicts on their accuracy.
+- **Babylon Bee** is a satirical website that publishes humor and parody articles, often with a conservative Christian perspective, sometimes mistaken for real news.
+- **PolitiFact** is a fact-checking organization that evaluates political claims using a **Truth-O-Meter** rating system, assessing statements from public figures and organizations for accuracy.
+
+
+
+**05.04b: Reflection Questions**
+
+- The *Babylon Bee* has been criticized by many for repeatedly writing satire that is not notably satirical enough for people to recognize it as a joke. Critics say that this is reckless, as most people will develop false impressions from reading the headlines that float past on Facebook. What are your thoughts on this? Some links on this issue are included at the bottom of this section.
 
 - If people are sharing a story as if it is true, it makes sense for Snopes to fact-check it. But is "False" the correct rating for satire or fauxtire? Look at the [ratings Snopes uses](https://www.snopes.com/fact-check-ratings/) and develop two arguments: one argument that Snopes should introduce a new category of "satire", and one argument that it should not.
 
 - Even if you disagree with the rating of false, does the Snopes article give you enough information to make up your own mind?
+
+
+
+**Fact-Checking Organizations**
+
+The following table contains some of the most reputable fact-checking organizations. 
+
+| Fact-Checking Organization                                   | Description                                                  | Website                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Snopes](https://www.snopes.com/)                            | Investigates rumors, urban legends, and viral misinformation, providing researched explanations and verdicts. | [snopes.com](https://www.snopes.com/)                        |
+| [PolitiFact](https://www.politifact.com/)                    | Evaluates political claims using a Truth-O-Meter rating system to assess accuracy. | [politifact.com](https://www.politifact.com/)                |
+| [FactCheck.org](https://www.factcheck.org/)                  | A nonpartisan, nonprofit fact-checking site run by the Annenberg Public Policy Center, focusing on U.S. political claims. | [factcheck.org](https://www.factcheck.org/)                  |
+| [The Washington Post Fact Checker](https://www.washingtonpost.com/news/fact-checker/) | Uses a Pinocchio scale to rate the accuracy of statements by politicians and public figures. | [washingtonpost.com](https://www.washingtonpost.com/news/fact-checker/) |
+| [AP Fact Check](https://apnews.com/hub/ap-fact-check)        | The Associated Press’ fact-checking initiative, analyzing misinformation and political claims. | [apnews.com](https://apnews.com/hub/ap-fact-check)           |
+| [Reuters Fact Check](https://www.reuters.com/fact-check/)    | Investigates misinformation and misleading claims, particularly those spreading on social media. | [reuters.com](https://www.reuters.com/fact-check/)           |
+| [BBC Verify](https://www.bbc.com/news/bbcverify)             | A BBC team dedicated to verifying news, political claims, and misinformation. | [bbc.com](https://www.bbc.com/news/bbcverify)                |
+| [International Fact-Checking Network (IFCN)](https://www.poynter.org/ifcn/) | A worldwide coalition of fact-checkers that sets transparency and accuracy standards. | [poynter.org/ifcn](https://www.poynter.org/ifcn/)            |
+| [Google Fact Check Explorer](https://toolbox.google.com/factcheck/explorer) | A tool that aggregates fact-checks from verified organizations, helping users quickly verify claims. | [Google Fact Check Explorer](https://toolbox.google.com/factcheck/explorer) |
+
+**05.04c: Reflection Activity**
+
+Browse 2-3 of the listed fact-checking websites and add to your notes reflections of what you discovered. Include links to what you explored, as well as your written or video commentary. 
+
+While we are learning to do quick fact-checking via Mike Caulfield's SIFT framework, it is great to have websites dedicated to more extensive research that goes into checking these claims. 
+
+
 
 #### Scanning results using "click restraint"
 
@@ -2303,7 +2635,9 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > Fact check this, then answer the following questions in your fact-checking notebook under the heading UN DANCE:
 
-**Questions**
+**04.04d: Questions**
+
+Add the following questions to your reflection notes and answer them. 
 
 - Is the video unaltered (i.e., a "real" video)?
 
@@ -2469,7 +2803,7 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 
 > That's an extreme example, with a very weird looking picture, but stare at any image long enough and you'll find something wrong with it. Unless you're an expert in digital manipulation (you're not), it's better to find trusted commentary than pull out the magnifying glass.
 
-**Questions** 
+**04.04e: Questions** 
 
 - When would a reverse-image search be more helpful? 
 - When would it be more of a waste of time to do a reverse-image search as part of your fact checking? 
@@ -2548,82 +2882,11 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 >
 > This is not to doubt Land's honesty. But the perceived authority of the study for many readers comes from the idea it was conducted by NASA and was substantial research at the time. When you attempt to trace the claim to the original context you find that the trail ends in 1992, it was not published at the time, and was not conducted by NASA. That changes how you might view the claim.
 
-**Beer tax (prompt)**
+#### SIFTing with Artificial Intelligence
 
-> Take a look at [the tweet](https://x.com/JuddLegum/status/935512580155731968?s=20) below, which links to [a story from think progress.org](https://thinkprogress.org/alcohol-tax-cuts-c62a5bb7e90f/).
+I removed a few of Mike Caulfield's examples from his original course, but wanted to share something more current (2025) that he's been experimenting with... He created a custom GPT called Well-Grounded which isn't focused on fact-checking. Instead, you can upload a screenshot and the GPT is programmed to use the [Toulmin model of argument](https://en.wikipedia.org/wiki/Stephen_Toulmin#The_Toulmin_Model_of_Argument) to analyze it.
 
-![Judd Legum tweet: Provision quietly tucked in GOP tax bill could lead to 1k people dying every year](/Users/bonni/Library/Application Support/typora-user-images/image-20240104110852747.png)
-
-> You see multiple sources here, but what's the *original* research source? Click through until you find the original report.
-
-Once you find the original report answer two questions in your fact-checking notebook:
-
-- What is the reputation of the organization or person producing the report? How credible are they on this claim?
-- What's the 1,000 people dying about? How does an alcohol tax affect that?
-
-**Beer tax (discussion)**
-
-> To solve this, we click to the page linked in the tweet, and scan it for links to the original report (or the original summary of the report). We find one such link:
-
-![a segment of the page with the phrase "report estimates that" highlighted. "Estimates" is linked.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F32cc436d-3717-420f-add6-7b795fe2c1f8%2Fbeertax.png?table=block&id=17b7b2de-0068-4bd6-8d9a-c0939adbeccd&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1470&userId=&cache=v2)
-
-> That report seems to be the source of the claim, so we click through and find a summary of the finding from Adam Looney at the Brookings institution. And he has a link that shows his math.
-
-![Headline: Measuring the loss of life from the senate's tax cuts for alcohol producers; with 'read more here on how I arrived at this estimate' highlighted and linked ](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4ffb6854-7cc0-4776-bddf-ddad1c9a9d6d%2FUntitled.png?table=block&id=049093c9-3ddc-41c5-8de2-78cc16fdca45&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=2000&userId=&cache=v2)
-
-> The truth is we're not (most of us) risk researchers or even working economists. We're not going to be able to judge whether he is being fair about the math, whether he's citing consensus risk models or fringe stuff. We only have his reputation to go by.
->
-> It's a contentious issue, with a lot of complexity, so our goal here is not figuring out whether he is right. Our goal is to figure out how seriously to take that estimate. Is it junk, or is it worth considering? Do we keep reading, or do we go somewhere else?
->
-> So our second move, now that we *know* the original source, is to *investigate* the source.
-
-![GIF showing search for Brookings institution on wikipedia](https://innovatelearning.s3.amazonaws.com/brookings.gif)
-
-> In this case, a search for Brookings on Wikipedia shows that Brookings is a well respected think-tank that conducts this sort of policy analysis regularly, has a high marks for credibility, and seems to be centrist in political leanings, and not explicitly partisan.
-
-#### Your research shopping cart
-
-> The search above gave you a good result on Brookings — good enough for you to take the analysis seriously, in any case. Good enough for you to share this with others if that's what you want to do.
->
-> But I cannot stress enough that it doesn't mean you have to agree with the analysis. In fact, if you want to form an informed opinion on this question, you probably want to move to that (F) in SIFT, and find other trusted coverage on this issue of alcohol taxes and death rates. See what others say.
->
-> Students (and even teachers, sometimes) often want these things to resolve one way or another. Is this person right, or are they wrong? True or false? With some questions there's that sort of clarity, and we shouldn't hesitate to make simple judgments when simple judgments are merited.
->
-> For something like this, however, I like to think of it like food shopping. Maybe you're interested in this question of alcohol taxes. You go around the information supermarket, and you look at the (metaphorical) nutrition labels, and the question is not "Is this the only thing I will eat?" The question "Is this healthy enough to go in the shopping cart?"
->
-> The above analysis is healthy enough to go in the cart, and healthy enough to share with others. But if you have questions or concerns you should keep shopping! Just make sure that for the additional sources you consume you check those nutrition labels too.
-
-**Guns in schools (prompt)** 
-
-> The NRA — a political advocacy organization — currently argues that the correct response to school shootings is arming teachers and school personnel. In light of that position, a pro-gun control organization called Everytown circulated the following graphic:
-
-!["We believe in absolutely gun-free, zero tolerance, totally safe schools. That means no guns in America's schools period." - Wayne LaPierre](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0c8900e7-1240-4530-b321-e18e9e2194f2%2Fdwppqasw4ausrnp.jpg?table=block&id=7e3c3a4c-adcb-4173-9bb4-29d72776ae36&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1630&userId=&cache=v2)
-
-> If NRA CEO Wayne LaPierre said that in 1999, it looks like a dramatic change in approach.
->
-> Find the source of the quote, and read it in it's original context. For this one, do not stop at a fact-checker, but track the quote all the way to the transcript of the C-Span video where he said it.
-
-**Questions**
-
-- Do you feel this portrayal of a major shift in policy is fair? Why or why not?
-
-**Guns in schools (discussion)**
-
-> There are numerous fact-checks of this out there, but we asked you to look at the source of the quote itself in this instance. To do that you can either find it directly through search, or be lazy like me: go to a fact-checking page and click through to the video linked in it. Most fact-checkers link to the C-SPAN video:
-
-[NRA convention video on CSPAN](https://www.c-span.org/video/?122961-1/national-rifle-association-convention&start=2290)
-
-> If you go there you'll find there's a little box that allows you to search the text of the speech.
-
-![Closed captioning record: "but this is important. We called today on the president. And the congress to provide funding. To put the Eddie Child Safety Program in every..."](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffeafd191-c474-4a54-8063-fdd11f867ae7%2Fsearchcspan.png?table=block&id=5e4230c4-a6dd-41a2-8e19-05747397f53e&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1320&userId=&cache=v2)
-
-> We search for safe school, and find the text.
-
-[Performing search for safe school](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4375bcc3-927b-4e62-bfdd-fe31ee05e584%2Fnoguns.png?table=block&id=23f279bb-0a2e-4a02-8759-65989fa4aa9c&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1270&userId=&cache=v2)
-
-> People may have different opinions on whether the Everytown graphic is accurate. It's certainly the case that he seems to be primarily talking about *students* not having guns. On the other hand, the "rare exception" language seems to indicate that the 1999 version of Wayne LaPierre would not have dreamed of saying *teachers* should carry weapons. 
->
-> As with so many of our examples, the truth is a bit more nuanced than it appears at first. And while knowing the nuance may not change your opinion on the issue, understanding what is genuinely new here will help better focus your efforts on the things you care about, no matter which side of the issue you find yourself on.
+If you would like to learn more about Mike Caulfield's custom GPT, check out his [How to Use the Well-Grounded AI Argument Analyzer post on Substack](https://mikecaulfield.substack.com/p/how-to-use-the-well-grounded-ai-argument).  
 
 #### Conclusion
 
@@ -2636,7 +2899,7 @@ This is back to being Dr. B, again. Here are a few resources that you might be i
 - [**BOOK:** Verified: How to Think Straight, Get Duped Less, and Make Better Decisions About What to Believe Online, by Mike Caulfield and Sam Wineburg](https://press.uchicago.edu/ucp/books/book/chicago/V/bo207015182.html)
 - [**PODCAST:** Verified with Mike Caulfield on the Teaching in Higher Ed Podcast, hosted by Bonni Stachowiak](https://teachinginhighered.com/492)
 
-- [**VIDEOS:** My YouTube channel where I vlog my own learning about SIFT (the four moves)](https://www.youtube.com/playlist?list=PLA4TNb6P_shZ6Oe0lEq0BuGhLYkikjxYl)
+- [**VIDEOS:** My YouTube channel where I vlog my own learning about SIFT (the four moves)](https://www.youtube.com/playlist?list=PLWCgCpmSVmZnx-VEr9GLDGavWJ0G5_tuT)
 
 ## 05. The good
 
