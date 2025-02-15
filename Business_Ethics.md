@@ -3442,9 +3442,9 @@ Nooyi's leadership style was characterized by her focus on [*Performance with Pu
 
 Another key aspect of *Performance with Purpose* was fostering a corporate culture that encouraged employee loyalty and retention. For instance, Nooyi personally reached out to the families of her executive team, writing letters to their parents and even visiting their homes. This unique approach was aimed at forging a deeper, more personal connection between the company and its employees, underscoring the human aspect of corporate leadership. Nooyi's journey reflects the challenges and triumphs of leading ethically as a woman of color in a highly competitive industry.
 
-#### Rosalind Brewer - Diversity and inclusion
+#### Rosalind Brewer - Inclusion
 
-Rosalind Brewer, the former CEO of Walgreens Boots Alliance and former COO of Starbucks, is renowned for her commitment to diversity, equity, and inclusion (DEI). As one of the few African American women who has held leadership positions in Fortune 500 companies, Brewer has consistently advocated for racial equality and diversity in the corporate sector. Her leadership was particularly evident during her time at Starbucks, where she played a crucial role in initiating racial bias training for employees, showcasing her commitment to creating an inclusive and ethical corporate culture. 
+Rosalind Brewer, the former CEO of Walgreens Boots Alliance and former COO of Starbucks, is renowned for her commitment to inclusion in business. As one of the few African American women who has held leadership positions in Fortune 500 companies, Brewer has consistently advocated for racial equality and diversity in the corporate sector. Her leadership was particularly evident during her time at Starbucks, where she played a crucial role in initiating racial bias training for employees, showcasing her commitment to creating an inclusive and ethical corporate culture. 
 
 ![Rosalind Brewer looks off camera and smiles](https://innovatelearning.s3.amazonaws.com/brewer.jpeg)
 
@@ -3479,7 +3479,7 @@ Satya Nadella believes that the success of Microsoft is solely based on technolo
 [[ ]] True
 [[X]] False
 
-Rosalind Brewer has been a vocal advocate for racial equality and diversity in the corporate sector, significantly contributing to initiatives aimed at creating an inclusive corporate culture.
+Rosalind Brewer has been a vocal advocate for racial equality and inclusion in the corporate sector, significantly contributing to initiatives aimed at creating an inclusive corporate culture.
 
 [[X]] True
 [[ ]] False
@@ -3503,7 +3503,7 @@ Indra Nooyi's leadership at PepsiCo was characterized by which of the following 
 [[x]] Integrating sustainability and health-conscious product offerings
 [[ ]] Reducing the company's global presence
 
-Rosalind Brewer's commitment to diversity and inclusion was notably demonstrated during her tenure at:
+Rosalind Brewer's commitment to inclusion was notably demonstrated during her tenure at:
 
 [[ ]] Microsoft
 [[x]] Starbucks
@@ -3570,7 +3570,7 @@ Initiatives like [the Paris Agreement](https://unfccc.int/process-and-meetings/t
 
 These businesses exemplify how sustainable transportation initiatives contribute to achieving multiple SDGs simultaneously. By providing affordable and clean energy transportation options, promoting sustainable urban mobility, and advancing climate action, these companies play a crucial role in building more resilient, inclusive, and sustainable communities for future generations. Through sustainable transport initiatives, businesses, governments, and non-profit organizations are not only advancing the goals of sustainability but also fostering inclusive, resilient, and thriving communities for generations to come.
 
-#### Equity and inclusion business examples
+#### Equity business examples
 
 In pursuit of a more equitable and inclusive society, it is imperative to address interconnected challenges related to gender equality, decent work, and reduced inequalities. Sustainable Development Goals (SDGs) 5, 8, and 10 collectively underscore the importance of creating empowering and inclusive workplaces where all individuals have equal opportunities to thrive. Through concerted efforts to promote gender equality, foster decent work conditions, and reduce disparities, businesses play a pivotal role in advancing social progress and economic prosperity for all. Let's explore an example from Dr. Iman Abuzeid, a Black female entrepreneur and co-founder of a $1 billion startup aimed at addressing the critical national nursing shortage. 
 
@@ -3644,18 +3644,6 @@ SDG 13, which calls for urgent action to combat climate change, is directly supp
 [[ ]] Fossil fuel extraction.
 [[X]] Low-emission vehicles and public transportation infrastructure.
 [[ ]] Single-use plastic production.
-
-Fill in the blank: Proterra Inc. supports SDG 13 by manufacturing zero-emission electric _______ for public transit.
-
-[[ buses ]]
-
-Fill in the blank: The Coca-Cola Company's 5by20 program aims to economically empower 5 million women entrepreneurs, directly contributing to SDG _______.
-
-[[ 5 ]]
-
-Fill in the blank: Salesforce's commitment to employee well-being and social responsibility supports SDG _______ by promoting decent work and economic growth.
-
-[[ 8 ]]
 
 ### 05.07 Foster professional ethics in your career
 
@@ -3952,7 +3940,7 @@ Recognizing the value of essential workers' labor and expressing gratitude for t
 
 **End of Lesson 05**
 
-You have reached the end of Lesson 05. It is time to stop reading (for now) and to go on to work on Challenge 05. 
+You have reached the end of Lesson 05. It is time to stop reading (for now) and come back when it's time for Lesson 06. 
 
 ## 06. The bad
 
@@ -5176,7 +5164,7 @@ What does Collins imply is not crucial for leadership?
 
 Through the lens of Level 5 Leadership, Jim Collins offers a compelling argument for the role of humility in achieving not just good, but great leadership. This framework challenges aspiring leaders to rethink their approach to leadership, underscoring the importance of humility, selflessness, and a strong professional will in creating organizations that stand the test of time.
 
-## 09. The value of inclusion: Diversity at work
+## 09. The value of inclusion
 
 ![Course lesson graphic 09](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-09.jpg)
 
