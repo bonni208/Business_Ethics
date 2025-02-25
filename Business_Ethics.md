@@ -3956,6 +3956,16 @@ When two or more competitors agree to set prices at a certain level, typically h
 
 !?[profiteering, price fixing and price gouging defined](https://youtu.be/r1FyO8G28U4?si=zUShP6OCpS4Yc0Et)
 
+
+
+*Fill in the blank:* 
+
+Price fixing is illegal under **__** laws in many countries.
+
+ [[ antitrust ]] 
+
+
+
 #### DRAM chips
 
 One example of price fixing occurred in the early 2000s, among major manufacturers of dynamic random-access memory (DRAM) chips. DRAM chips are essential components in computers and electronic devices. During this period, leading companies such as Samsung, Hynix, and Micron were found to have engaged in an illicit price-fixing scheme. An [investigation by the United States Department of Justice (DOJ)](https://web.archive.org/web/20051211072509/http://www.usdoj.gov/atr/public/press_releases/2004/206631.htm) uncovered evidence of collusion among these companies to artificially inflate prices and stifle competition in the DRAM market. This manipulation involved the exchange of pricing information and coordination of production levels to maintain higher prices for DRAM chips. As a result, consumers faced artificially inflated prices for essential components, and competitors were unfairly disadvantaged in the marketplace.
@@ -3978,9 +3988,30 @@ I try to avoid sharing clips from movies that I have not seen, but I am about to
 
 The examination of price fixing through the lens of real-world scandals involving DRAM chips, the global auto parts industry, and the cinematic portrayal in The Informant! illustrates the pervasive and damaging nature of this illegal practice. These examples underscore the significant impact that collusion and market manipulation can have on economies, businesses, and consumers, highlighting the necessity for stringent regulatory oversight and ethical business conduct.
 
+
+
+What is the primary legal consequence of engaging in price fixing?
+
+[[ ]] Receiving a tax deduction
+[[ ]] Gaining a competitive advantage with no repercussions
+[[X]] Facing significant fines and penalties under antitrust laws
+[[ ]] Being awarded government contracts
+
+
+
 ### 06.02 | Insider trading
 
 Insider trading stands as a prominent example of unethical and illegal conduct within the world of business, striking at the very heart of fair market practices and investor trust. This malpractice involves trading a public company's stock or other securities (such as bonds or stock options) by individuals with access to nonpublic, material information about the company. Such actions not only undermine the integrity of financial markets but also compromise the level playing field that regulations seek to maintain, allowing a select few to profit at the expense of the uninformed majority. Insider trading erodes public confidence in the financial system, making it a focal point of regulatory bodies worldwide. This section delves into the intricacies of insider trading, exploring its implications for business ethics, the regulatory landscape designed to combat it, and the broader impact on corporate governance and public trust.
+
+*Fill in the blank:*
+
+ 
+
+Insider trading erodes **__** in the financial system.
+
+[[ public confidence ]]
+
+
 
 #### The difficulty of proving insider trading
 
@@ -4100,6 +4131,17 @@ Tax evasion, the illegal non-payment or underpayment of taxes, poses a significa
 
 Tax evasion raises profound ethical questions about fairness, social responsibility, and the social contract between individuals, corporations, and the state. It erodes trust in the tax system, exacerbates inequality, and places an undue burden on those who pay their fair share. The funds lost to tax evasion could support essential public services such as healthcare, education, and infrastructure, directly impacting societal welfare and development. The fight against tax evasion requires a multifaceted approach, including tighter regulations, international cooperation to close offshore tax havens, and greater transparency in financial reporting. Highlighting these cases of tax evasion serves not only to inform but also to remind individuals and corporations of the legal and ethical imperatives of tax compliance. By fostering a culture of integrity and accountability, societies can work towards more equitable and just tax systems.
 
+
+
+What is a common consequence of corporate tax evasion?
+
+[[ ]] Increased public trust in corporate practices
+[[ ]] Higher dividends for shareholders
+[[X]] Legal penalties and damage to reputation
+[[ ]] Expansion of corporate social responsibility programs
+
+
+
 ### 06: 05 | Whistleblower retaliation 
 
 In many jurisdictions, it is illegal for companies to discriminate against or retaliate against whistleblowers who report unethical or illegal activities within their organizations. Whistleblowers play a crucial role in exposing wrongdoing and promoting transparency and accountability in the workplace. Laws such as the **Sarbanes-Oxley Act** in the United States and the Public Interest Disclosure Act in the United Kingdom provide legal protections for whistleblowers, prohibiting employers from taking adverse actions against them for speaking out. In the U.S., the **Occupational Safety and Heath Administration** urges workers to report unsafe or illegal workplace conditions and has a dedicated [Whistleblowers website](https://www.whistleblowers.gov) to inform citizens about their rights and provide resources. 
@@ -4188,6 +4230,13 @@ The practice of illegally acquiring trade secrets or confidential information fr
 
 The FBI works with American businesses and universities to protect trade secrets and intellectual property against the threats of theft from foreign governments going against U.S. laws and international trade norms. Our country is [estimated to lose $300 billion dollars annually from intellectual property theft](https://youtu.be/_r75ewD9oII?si=kebqk3Vtl1pdIcZ9). Inside and outside the U.S., the threats posed by corporate espionage are high. 
 
+*True or false?*
+
+Corporate espionage is a legitimate form of competitive intelligence gathering.
+
+[[ ]] True
+[[X]] False
+
 #### High-Profile Cases of Corporate Espionage
 
 Well known cases of corporate espionage serve as reminders of the intense competitive pressures in the global business landscape and the lengths to which companies will go to gain an edge over their rivals. These incidents highlight the ethical and legal challenges inherent in protecting intellectual property and maintaining fair competition. They not only illustrate the strategic importance of corporate secrets but also the critical need for businesses to navigate the fine line between competitive intelligence and unlawful espionage. 
@@ -4229,17 +4278,7 @@ Retaliating against whistleblowers is an accepted practice for protecting a comp
 [[ ]] True
 [[X]] False
 
-Corporate espionage is a legitimate form of competitive intelligence gathering.
 
-[[ ]] True
-[[X]] False
-
-What is the primary legal consequence of engaging in price fixing?
-
-[[ ]] Receiving a tax deduction
-[[ ]] Gaining a competitive advantage with no repercussions
-[[X]] Facing significant fines and penalties under antitrust laws
-[[ ]] Being awarded government contracts
 
 Why is insider trading considered unethical and illegal?
 
@@ -4255,13 +4294,6 @@ What was the primary environmental issue in the Erin Brockovich case?
 [[X]] Water contamination with hexavalent chromium
 [[ ]] Soil erosion due to deforestation
 
-What is a common consequence of corporate tax evasion?
-
-[[ ]] Increased public trust in corporate practices
-[[ ]] Higher dividends for shareholders
-[[X]] Legal penalties and damage to reputation
-[[ ]] Expansion of corporate social responsibility programs
-
 What distinguishes corporate espionage from competitive intelligence?
 
 [[ ]] The use of publicly available information
@@ -4271,18 +4303,6 @@ What distinguishes corporate espionage from competitive intelligence?
 
 Fill in the Blank Questions:
 
-Price fixing is illegal under **__** laws in many countries.
-
-[[ antitrust ]]
-
-Insider trading erodes **__** in the financial system.
-
-[[ public confidence ]]
-
-Environmental pollution can lead to **__** and ecosystem damage.
-
-[[ health issues ]]
-
 Whistleblower retaliation is **__** in many jurisdictions.
 
 [[ illegal ]]
@@ -4290,6 +4310,8 @@ Whistleblower retaliation is **__** in many jurisdictions.
 Corporate espionage violates **__** and ethical standards.
 
 [[ legal ]]
+
+
 
 **End of Lesson 06**
 
