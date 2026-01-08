@@ -232,7 +232,6 @@ I continue to find technology fascinating and marvel at both its positive and ne
 | **Google docs/slides** | Throughout our class, you will be provided with a link to a document, which gets copied as a template inside of your Google account. Despite there being advances in what Microsoft 365 offers us, there's still nothing as fast and easy, as accessing a Google document and engaging with it on your own, or with others. |    Easy    |
 | **Quizlet**            | One of the best study methods supported by research is known as retrieval practice, or the testing effect. And one of the best tools I know of to create and share digital flashcards to support that practice is Quizlet. From your computer or phone, you can login to Quizlet, join our class, and strengthen your learning via the shared flashcards. |    Easy    |
 | **Instagram**          | Did you know that Instagram allows you to create a separate account from your main one? In this class, we will each keep an account where we can share the learning from our class, engage with each other and build community. |   Medium   |
-| **Raindrop.io**        | A big part of our class is going to be sharing with each other what we are learning and how we see business ethics through our unique contexts and current events. We will therefore need a place to store our stuff that connects us with each other and back into Canvas. We are going to use a digital bookmark tool called Raindrop.io, which lets us save stuff in a shared bookmark list, but will also push what we're finding onto our Canvas course shell. |   Medium   |
 | **Canvas Studio**      | Inside Canvas is a video creation and collection tool called Canvas Studio. When you're logged into Canvas from a computer, you can access the tool way over on the right hand side of your browser, in the same place you can view the calendar, dashboard, etc. This semester, we will be creating and sharing many videos and having everything in one place is going to be incredibly helpful for us all. |    Hard    |
 |                        |                                                              |            |
 
@@ -265,19 +264,11 @@ How is the class structured?
 [[ ]] Around ten lessons, five challenges, and three exams
 [[ ]] Around a varied number of lessons and challenges
 
-You must attend the Zoom sessions each week.
-
-[[ ]] True
-[[X]] False
-
-You are expected to let Dr. B know if you are going to miss class.
-
-[[ ]] True
-[[X]] False
-
 See Canvas and the syllabus for more information about how the class is structured. I'm here, if you have any questions or are confused about how this all works. 
 
-**Return back to Lesson 00 on Google slides and complete it.** 
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/jose-aragones-81QkOoPGahY-unsplash.jpg)
+
+**Go back to your Google slides now and wrap up Lesson 00.** 
 
 
 
@@ -5190,7 +5181,7 @@ Through the lens of Level 5 Leadership, Jim Collins offers a compelling argument
 
 ![Course lesson graphic 09](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-09.jpg)
 
-Broadly speaking, the benefits of diversity in the workplace can be explored in terms of better alignment with the business owners' values and because it makes the organization more successful. Businesses can experience greater productivity when employees have higher morale ([Weakliem & Frenkel](https://journals.sagepub.com/doi/10.1177/0730888406290054)). A diverse workforce fosters creativity by bringing together individuals from various cultures and backgrounds, offering different perspectives and innovative solutions to problems ([Ability Options](https://abilityoptions.org.au/5-benefits-of-diversity-in-the-workplace/); [Harvard Business Review](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse)). Cultural diversity allows companies to navigate global nuances better, such as language skills that can enhance workplace relations and business opportunities in different markets. A diverse workforce helps companies connect with a broader client base by promoting a positive image and increasing market awareness. Businesses with diverse workplaces are perceived as better employers, attracting top talent who seek fair treatment and acceptance of all backgrounds. 
+Broadly speaking, the benefits of diversity in the workplace can be explored in terms of better alignment with the business owners' values and because it makes the organization more successful. Businesses can experience greater productivity when employees have higher morale ([Weakliem & Frenkel](https://journals.sagepub.com/doi/10.1177/0730888406290054)). A diverse workforce fosters creativity by bringing together individuals from various cultures and backgrounds, offering different perspectives and innovative solutions to problems ([Ability Options](https://abilityoptions.org.au/5-benefits-of-diversity-in-the-workplace/); [Harvard Business Review](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse)). Cultural diversity allows companies to navigate global nuances better, such as language skills that can enhance workplace relations and business opportunities in different markets. Having people who are different from each other work together helps companies connect with a broader client base by promoting a positive image and increasing market awareness. Businesses with diverse workplaces are perceived as better employers, attracting top talent who seek fair treatment and acceptance of all backgrounds. 
 
 #### 09.01 | Reframing Privilege: Promoting Equality and Equity
 
@@ -5251,8 +5242,6 @@ Consider the statements below. Mark each statement as True or False based on whe
 - [ [X] [ ] ] Businesses that actively promote diversity are more successful and innovative.
 - [ [ ] [X] ] Transparent criteria for advancement and diversity in talent pools are not important in combating workplace inequality.
 - [ [X] [ ] ] Gender and ethnic diversity in businesses correlates with better performance and innovation.
-
-
 
 
 
