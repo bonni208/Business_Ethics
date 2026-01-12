@@ -276,7 +276,9 @@ See Canvas and the syllabus for more information about how the class is structur
 
 ![Lesson 01 graphic](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-01.jpg)
 
-I'll admit to often feeling more nervous than normal when teaching this class. The topics we explore together tend to sometimes bump up against aspects of our identity such that it feels far beyond the normal way we might approach learning in some other classes. I want for us to take our commitment to being ethical people quite seriously, while not taking ourselves so seriously that we hinder the potential for growth. 
+I'll admit to often feeling more nervous than normal when teaching this class. The topics we explore together tend to sometimes bump up against aspects of our identity such that it feels far beyond the normal way we might approach learning in some other classes. 
+
+> I want for us to take our commitment to being ethical people quite seriously, while not taking ourselves so seriously that we hinder the potential for growth. 
 
 In terms of the importance of taking this class seriously, the following come to mind as crucial reasons to do so:
 
@@ -284,65 +286,86 @@ In terms of the importance of taking this class seriously, the following come to
 
 2. **Accountability:** Ethical principles provide a framework for holding individuals and institutions accountable for their actions. It ensures that those who engage in unethical behavior can be held responsible for their actions, leading to justice and fairness.
 
-4. **Long-Term Success:** Ethical decision-making often leads to long-term success and sustainability. Businesses and organizations that prioritize ethics tend to build stronger reputations, attract loyal customers, and retain talented employees.
+4. Personal Growth:** Embracing ethics can lead to personal growth and development. It encourages self-reflection and self-improvement, helping individuals become more empathetic, compassionate, and considerate of others.
 
-5. **Personal Growth:** Embracing ethics can lead to personal growth and development. It encourages self-reflection and self-improvement, helping individuals become more empathetic, compassionate, and considerate of others.
 
 On the other hand, not taking ourselves too seriously is also important for several reasons:
 
 1. **Humility:** Recognizing our own limitations and imperfections fosters humility. It allows us to learn from our mistakes and be open to different perspectives and ideas.
 
-2. **Reduced Stress:** Taking ourselves too seriously can lead to excessive stress and anxiety. It's important to be able to laugh at ourselves and not let small setbacks or failures define our self-worth.
+2. **Improved Relationships:** People are often drawn to those who have a sense of humor and can take things lightly. It can enhance our social connections and make us more approachable.
 
-3. **Improved Relationships:** People are often drawn to those who have a sense of humor and can take things lightly. It can enhance our social connections and make us more approachable.
+4. **Creativity:** A more relaxed attitude can promote creativity and innovation. When we're not overly focused on perfection, we may be more willing to take risks and explore new ideas. 
 
-4. **Adaptability:** Being flexible and adaptable is easier when we don't take ourselves too seriously. We can better cope with change and unexpected challenges.
 
-5. **Creativity:** A more relaxed attitude can promote creativity and innovation. When we're not overly focused on perfection, we may be more willing to take risks and explore new ideas.
+Taking ethics seriously helps us maintain our moral compass, while not taking ourselves too seriously can lead to us being able to see how other may see things differently than we do. Balancing these two aspects is essential for leading a meaningful and fulfilling life. It is also a way we can experience greater growth throughout our time together in this course.  
 
-Taking ethics seriously helps us maintain our moral compass, while not taking ourselves too seriously can lead to personal growth, reduced stress, and improved relationships. Balancing these two aspects is essential for leading a meaningful and fulfilling life. It is also a way we can experience greater growth throughout our time together.  
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/jose-aragones-81QkOoPGahY-unsplash.jpg)
+
+**Go back to your Google slides now and return, when instructed to do so.** 
 
 ---
 ### 01.00 | What does it mean to be ethical?
 
-What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. I will be making many references to the show The Good Place in this class. While not set in a business context, The Good Place still offers us many lessons to draw from in business ethics. I won't ruin the ending for you, but will introduce some characters and plot points along the way. 
+What does it mean to be ethical, especially in business? It's more than just knowing right from wrong; it's about understanding how our decisions impact others. I will be making some references to the show The Good Place in this class. While not set in a business context, The Good Place still offers us many lessons to draw from in business ethics. I won't ruin the ending for you, but will introduce some characters and plot points along the way. 
 
-> "The Good Place" is a television show that originally aired from 2016 to 2020. It was created by Michael Schur and features a unique blend of comedy, philosophy, and ethics. The show revolves around Eleanor Shellstrop, played by Kristen Bell, who wakes up in the afterlife and is told she has entered "The Good Place" due to her good deeds on Earth. However, Eleanor soon realizes that there has been a mistake, as she was not a virtuous person during her life. She teams up with other residents of The Good Place, including Chidi Anagonye (William Jackson Harper), Tahani Al-Jamil (Jameela Jamil), and Jason Mendoza (Manny Jacinto), to try and become a better person and earn her place in this supposed paradise.
+> "The Good Place" is a television show that features a unique blend of comedy, philosophy, and ethics. The show revolves around Eleanor Shellstrop, played by Kristen Bell, who wakes up in the afterlife and is told she has entered "The Good Place" due to her good deeds on Earth. However, Eleanor soon realizes that there has been a mistake, as she was not a virtuous person during her life. She teams up with other residents of The Good Place, including Chidi Anagonye (William Jackson Harper), Tahani Al-Jamil (Jameela Jamil), and Jason Mendoza (Manny Jacinto), to try and become a better person and earn her place in this supposed paradise.
 
-In this first clip, we are going to hear about how points get assigned in the good place. Throughout each person's life, they earn and lose points with each good and bad choice. There is a brief mention of suicide in this clip. 
+In this first clip, we are going to hear about how points get assigned in the good place. Throughout each person's life, they earn and lose points with each good and bad choice. CW: There is a brief mention of suicide in this clip. 
 
 ---
 
 !?[How Afterlife Points are Assigned - The Good Place](https://youtu.be/hY-Rzou38k4?si=xNeswSATebbNDH2U)
 
-You will continue to see clips show up from The Good Place in this course. It is a thought-provoking show that raises important ethical and philosophical questions. Its relevance to us in a business ethics course lies in its ability to spark discussions, illustrate ethical concepts, and provide valuable insights into moral decision-making, accountability, and personal growth, all of which are crucial aspects of ethical behavior in the business world. Besides, it is really funny and most students I meet appreciate humor being incorporated into classes versus more dry material. 
+
+
+How do points get assigned in the good place?
+
+[[X]] By people doing good things and not doing bad things
+[[ ]] By ensuring that there are fair outcomes for the powerful
+[[ ]] The points get assigned in the neutral place, not the good place
+[[ ]] By humans following the legal regulations where they live
+
+
+
+You will continue to see clips show up from The Good Place in this course. It is a thought-provoking show that raises important ethical and philosophical questions. 
 
 ---
 #### It's more than just knowing right from wrong 
 
-In answering the question of what it means to be ethical, it's more than just distinguishing right from wrong. It involves navigating a complex landscape filled with shades of grey and moral ambiguity. It's also about understanding how our decisions impact others. Here are several reasons why business ethics goes beyond a simplistic binary understanding of right and wrong: 
+Being ethical is more than deciding what is right or wrong. It requires navigating ambiguity, understanding context, and considering how decisions affect others. In business, ethical questions rarely have clear-cut answers.
 
-1. **Cultural and Contextual Differences**: What may be considered ethically acceptable in one culture or context may not be viewed the same way in another. Business ethics must take into account cultural relativism and contextual nuances. What's morally right in one situation could be morally questionable in another.
+Business ethics goes beyond a simple binary because:
 
-2. **Ethical Dilemmas**: Many business decisions involve ethical dilemmas where there are competing moral principles or values. For example, a company may need to decide between maximizing profits and ensuring the well-being of its employees. These situations require careful consideration of trade-offs and balancing conflicting interests.
+- **Context and culture matter**: What is ethical can vary across cultures and situations.
+- **Trade-offs are common**: Many decisions involve competing values, such as profit versus employee well-being.
+- **Judgments are subjective**: People bring different values, experiences, and perspectives to ethical questions.
+- **Legal isn’t always ethical**: Laws set minimum standards, but ethical responsibility often goes further.
+- **Stakeholder interests conflict**: Ethical decisions must balance the needs of employees, customers, shareholders, and communities.
+- **Standards evolve**: Societal expectations change, requiring ongoing reflection and adaptation.
+- **Leadership requires moral courage**: Ethical leaders must make difficult choices with integrity and transparency.
 
-3. **Subjectivity**: Ethical judgments often involve subjective elements. People may have differing opinions on what is morally right or wrong based on their personal beliefs, values, and experiences. This subjectivity can make it challenging to arrive at a universally accepted ethical framework.
+Together, these factors show why ethics in business is about thoughtful judgment, not simple rule-following.
 
-4. **Legal vs. Ethical**: Something may be legal but still unethical, or it may be ethical but illegal. Legal frameworks provide a minimum standard of behavior, but they do not encompass all ethical considerations. Business ethics extends beyond compliance with laws and regulations.
+**Shall We Play a Game?**
 
-5. **Ethical Grey Areas**: In some cases, there may be ethical grey areas where it's difficult to determine what the right course of action is. These situations require critical thinking, ethical reasoning, and a consideration of potential consequences.
+I’ve created a short game to help you practice distinguishing between **legal vs. illegal** and **ethical vs. unethical** actions, since that tends to be a topic that has been confusing for students in this class in the past. 
 
-6. **Conflicting Stakeholder Interests**: Businesses have multiple stakeholders with competing interests, including shareholders, employees, customers, suppliers, and the community. Balancing these interests ethically can be challenging, as decisions may impact some stakeholders positively and others negatively.
+[Play the game](https://bonni208.github.io/game-good-place-ethics/), and take a screenshot at the end, showing your total points. 
 
-7. **Ethical Risk Management**: Business ethics also involves managing ethical risks and potential conflicts of interest. Companies must implement policies and procedures to identify, mitigate, and prevent unethical behavior within their organization.
+![GoodPlace Characters](https://innovatelearning.s3.amazonaws.com/good-place-characters.png)
 
-8. **Evolving Ethical Standards**: Ethical standards can change over time as societal values evolve. What was considered ethically acceptable in the past may be viewed as unethical today. Businesses must stay attuned to these changing ethical norms and adapt their practices accordingly.
+Feel free to work to get the highest or the lowest score possible. It will be fun either way.
 
-9. **Gray Areas in Business Practices**: Some business practices, such as marketing tactics, pricing strategies, and competitive behavior, can operate in ethical grey areas. Decisions about how to engage in these practices ethically can be complex and nuanced.
+Play: [The Ethics Architect](https://bonni208.github.io/game-good-place-ethics/)
 
-10. **Moral Dilemmas in Leadership**: Leaders often face moral dilemmas where they must choose between conflicting values, such as honesty and loyalty. Ethical leadership involves making difficult decisions with integrity and transparency.
+**Paste Your Screenshot**
 
-Let's look at an example in a fictional story, but one that is relatable in a real world context. In the movie Zootopia, Judy Hopps (a rabbit police officer) is trying to solve a missing mammals case. During a press conference, she makes an unintentionally insensitive comment about predators. Nick Wilde, a fox and her unlikely partner, takes offense and confronts her about it.
+Pause for a moment and paste your screenshot on your Lesson 01 slides... 
+
+**Moving Beyond Right and Wrong**
+
+Let's look at an example in a fictional story, but one that is relatable in a real worldF context. In the first Zootopia movie, Judy Hopps (a rabbit police officer) is trying to solve a missing mammals case. During a press conference, she makes an unintentionally insensitive comment about predators. Nick Wilde, a fox and her unlikely partner, takes offense and confronts her about it.
 
 !?[Zootopia clip: Judy Hopps at a press conference](https://youtu.be/_abhnQkHOPU?si=e_0d7b1qjTYr6CKL)
 
@@ -356,12 +379,11 @@ Business ethics is a multidimensional field that requires individuals and organi
 
 
 
-What is the main focus of business ethics?
+While something may be legal, it can still be considered unethical, highlighting the distinction between legality and ethics.
 
-[[ ]] Distinguishing right from wrong
-[[ ]] Maximizing profits
-[[X]] Understanding the impact of decisions on others
-[[ ]] Following legal regulations
+[[X]] True
+
+[[ ]] False
 
 
 
@@ -374,56 +396,34 @@ Why is business ethics more than just a binary understanding of right and wrong?
 
 
 
-Which of the following statements about ethical dilemmas is true?
-
-[[ ]] Ethical dilemmas rarely occur in business decisions
-[[ ]] Ethical dilemmas involve clear-cut choices with no competing values
-[[X]] Ethical dilemmas involve situations where there are competing moral principles or values
-[[ ]] Ethical dilemmas are always easy to resolve
-
-
-
 What is the significance of recognizing ethical grey areas in business?
 
 [[ ]] It simplifies decision-making
 [[ ]] It eliminates the need for critical thinking
-[[X]] It highlights the need for ethical reasoning and reflection on principles
+[[X]] It highlights the need for ethical reasoning and reflection on values and principles
 [[ ]] It ensures compliance with laws and regulations
 
 
 
-Fill in the Blank Question:
-
-
-
-While something may be legal, it can still be considered [[unethical]], highlighting the distinction between legality and ethics.
-
-
-
 ### 01.01 | Let's get personal
-I'm going to be asking you to get personal in this class. Applying what you're learning in the uniqueness that only you can bring. I want us to have fun together, yes, yet take our responsibility to love our neighbors quite seriously. Talking about some of the issues we will explore can bump up against our identities and unique cultural contexts. 
+I’m going to ask you to bring your whole self into this class, applying what you’re learning through your own experiences, values, and context. We’ll have fun together, but we will also take seriously our responsibility to love our neighbors. Some of the topics we explore may challenge our identities and cultural perspectives, and that’s part of the work.
 
-#### Imago Dei at the foundation 
+#### **Imago Dei as our foundation**
 
-One concept I ask that we keep at the center throughout our time together is Imago Dei. It is central to Christian beliefs and has significant implications for various aspects of life, including bringing our ethics and values into a business context. Imago Dei is Latin for "Image of God." It is a fundamental concept in Christian theology that asserts that every human being is created in the image and likeness of God. This concept is derived from the Bible, specifically from the book of Genesis, where it is stated: 
+A central concept guiding our time together is *Imago Dei*—Latin for “image of God.” Rooted in Genesis 1:27, it affirms that every person is created with inherent dignity and worth. This belief shapes how we approach ethics and values in a business context.
 
-> "So God created humanity in God's own image; male and female, God created them" (Genesis 1:27).
+Keeping *Imago Dei* at the center means:
 
-Here's why Imago Dei is essential to consider when studying business ethics in such contexts:
+- **Honoring human dignity** by rejecting exploitation, discrimination, and unjust treatment.
+- **Guiding ethical decisions** with integrity, honesty, and care for others.
+- **Practicing compassion and empathy** toward employees, customers, and communities.
+- **Embracing social responsibility** through stewardship, sustainability, and community engagement.
+- **Approaching conflict thoughtfully**, seeking justice, reconciliation, and respect.
+- **Living with accountability**, recognizing responsibility beyond legal compliance.
 
-1. **Inherent Human Dignity:** Imago Dei underscores the inherent worth and dignity of every human being. It reminds Christians that all individuals, regardless of their roles in business or society, possess an intrinsic value that should be respected and upheld. This perspective challenges unethical practices such as exploitation, discrimination, or unjust treatment of employees, customers, or stakeholders.
+Together, *Imago Dei* calls us to see business ethics not as rule-following, but as a commitment to honoring the full humanity of everyone affected by our decisions.
 
-2. **Ethical Decision-Making:** Recognizing the image of God in every person serves as a moral compass in business ethics. Christian business students and professionals are encouraged to make ethical decisions that reflect God's values, such as honesty, integrity, and compassion. This means considering the welfare of others, being fair in business dealings, and avoiding actions that harm individuals or the community.
 
-3. **Compassion and Empathy:** Imago Dei encourages empathy and compassion in business interactions. Understanding that all individuals are created in God's image promotes a sense of responsibility to care for others, including employees, suppliers, and customers. This perspective fosters a business environment that prioritizes the well-being of all stakeholders.
-
-4. **Social Responsibility:** Christians often emphasize the concept of stewardship, which means responsibly managing resources and relationships. Imago Dei reinforces the idea that Christians have a duty to be socially responsible in their business practices. This includes ethical considerations related to environmental sustainability, philanthropy, and community engagement.
-
-5. **Conflict Resolution:** When ethical conflicts arise in business, considering Imago Dei can guide conflict resolution processes. Viewing others as bearers of God's image encourages Christians to seek peaceful and just resolutions, promoting reconciliation and forgiveness rather than hostility or retaliation.
-
-6. **Ethical Accountability:** The belief in Imago Dei reminds Christians of their ultimate accountability to God for their actions, including their business decisions. This accountability encourages transparency, integrity, and the pursuit of ethical excellence in business practices.
-
-Imago Dei is a foundational concept in Christian theology that has a profound impact on how business ethics is approached as Christians. It highlights the inherent dignity of all people, guides ethical decision-making, promotes compassion and social responsibility, and emphasizes accountability to a higher moral standard. Ultimately, it encourages a holistic and ethical approach to conducting business that aligns with Christian values and principles.
 
 What is the meaning of Imago Dei?
 
@@ -433,31 +433,46 @@ What is the meaning of Imago Dei?
 
 ---
 
-#### It's (often) not personal
+#### **It’s (often) not personal**
 
-I'm also going to be asking you to work to avoid taking things personally in both a business or class context, or at least for us to each agree to give each other the benefit of the doubt. This agreement to not take things personally is essential for maintaining healthy relationships and to have effective communication. 
+In this class—and in business—I’ll ask you to practice not taking things personally, or at least to give one another the benefit of the doubt. This shared commitment helps us communicate more effectively and maintain healthy relationships, especially when discussing ethics and other potentially polarizing topics.
 
-Studying ethics or other potentially polarizing topics can be challenging, and it is important to not take things personally during such discussions. One valuable source of wisdom on this subject is the book [The Four Agreements by Don Miguel Ruiz](https://search.worldcat.org/en/title/182962640). It is one of the best books I read while earning my MA degree. The Four Agreements provides valuable insights into personal growth and interpersonal relationships. The second agreement in the book is [*Don't Take Anything Personally*](https://www.thefouragreements.com/the-second-agreement-dont-take-anything-personally/), and it offers several key principles that explain why this is important. In that section, Ruiz writes: 
+One helpful frame comes from *The Four Agreements* by Don Miguel Ruiz, particularly the idea *Don’t take anything personally*. Ruiz reminds us that people’s words and reactions usually reflect their own experiences, values, and perspectives—not a judgment of you. Each of us is the “main character” in our own story, interpreting the world through our own lens. He writes: 
 
-> Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won't be the victim of needless suffering.
->
-> --Don Miguel Ruiz
+>  Nothing others do is because of you. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others, you won't be the victim of needless suffering. --Don Miguel Ruiz
 
-While Don Miguel Ruiz describes this idea, in terms of our 'dreams,' I've often heard people describe it as the movie of our lives, and we are the central character in that movie. Our subjective experiences, self-awareness, and emotional investment in our own lives naturally lead us to perceive ourselves as the stars of the movie of our own stories. While we interact with a diverse cast of characters and share the world with billions of people, our personal narrative remains at the forefront of our consciousness.
+When conversations get charged, it helps to remember that strong reactions often say more about someone’s lived experience than about your intent or character. Holding this perspective creates a space that is both **safe and brave**—one where we can learn, disagree, make mistakes, and grow.
 
-As we reflect on the words from Ruiz, we can have our awareness heightened and realize that people's reactions and responses are often a reflection of their own beliefs, experiences, and perspectives. They are the stars in the movies of their own lives. When studying ethics or engaging in discussions on polarizing topics, people may have strong opinions and emotions tied to their personal experiences. It's important to remember that their reactions are not necessarily a judgment of you, or your ideas and identity, but rather a reflection of their own reality. Another quote from Ruiz stresses this idea even further: 
+Not taking things personally supports two essential ethical capacities:
 
-> "Even when a situation seems so personal, even if others insult you directly, it has nothing to do with you. What they say, what they do, and the opinions they give are according to the agreements they have in their own minds."
->
-> --Don Miguel Ruiz
+- **Empathy:** It helps us listen, learn from missteps, and avoid defensiveness.
+- **Cultural humility:** It allows us to receive feedback, recognize the limits of our perspective, and continue learning across differences.
 
-This quote further reinforces the concept that people's actions and words are shaped by their own beliefs and agreements. In the context of studying ethics or engaging in discussions on sensitive topics, individuals may hold differing viewpoints. Disagreements and criticisms are often rooted in personal values and perspectives rather than a direct attack on your character.
+This mindset supports meaningful dialogue, ethical growth, and respectful engagement—inside and outside the classroom.
 
-When we are developing empathy and cultural humility, it's essential to recognize that we are bound to make mistakes. We come from diverse backgrounds and have different life experiences, which can lead to misunderstandings and misinterpretations. By agreeing not to take things personally, we create a simultaneously safe and brave space for open dialogue and learning. Here's how not taking anything personally relates to empathy and cultural humility, two key elements of being ethical in a business context:
+------
 
-1. **Empathy:** When we practice empathy, we strive to understand and share the feelings of others. However, in the process, we might unintentionally say or do something that offends or hurts someone from a different cultural background or with different beliefs. By not taking their reactions personally, we can acknowledge our mistakes, apologize if necessary, and continue to learn from one another without becoming defensive.
 
-2. **Cultural Humility:** Cultural humility involves recognizing the limitations of our own cultural perspective and being open to learning from others. In our journey to become more culturally humble, we might ask questions or engage in discussions that unintentionally come across as insensitive or ignorant. By not taking such reactions personally, we can accept feedback gracefully, educate ourselves, and grow more effectively in our understanding of different cultures and viewpoints.
+
+Not taking things personally means ignoring feedback or avoiding difficult conversations.
+
+[[ ]] True
+
+[[X]] False
+
+
+
+According to this agreement, strong reactions during ethical discussions are most often:
+
+[[ ]] A personal attack on your character
+
+[[ ]] A sign the discussion should stop
+
+[[X]] A reflection of the other person’s experiences and values
+
+[[ ]] Proof that there is one correct ethical answer
+
+
 
 [The Four Agreements](https://search.worldcat.org/en/title/182962640) teaches us that not taking things personally is crucial for our emotional well-being and growth, especially when studying ethics or engaging in discussions on polarizing topics. Agreeing to not take anything personally allows us to recognize that others' reactions are often a reflection of their own reality and that by maintaining this perspective, we can develop empathy, cultural humility, and engage in meaningful dialogues for personal and collective growth.
 
@@ -472,8 +487,6 @@ Establishing and maintaining that type of accountability with each other will be
 
 ###### ? 01.01 | Review questions | Let's get personal
 
-Fill in the blank: Accountability is the responsibility and obligation of individuals and organizations to answer for their actions, decisions, and outcomes, especially in relation to [[ethical]] conduct.
-
 According to the text, why is it important not to take things personally during discussions on polarizing topics?
 
 [[ ]] To avoid all kinds of discussions
@@ -481,23 +494,12 @@ According to the text, why is it important not to take things personally during 
 [[ ]] To prove others wrong
 [[ ]] To assert your personal beliefs
 
-The Four Agreements teaches us that not taking things personally is crucial for our emotional well-being and growth, especially when studying ethics or engaging in discussions on polarizing topics. This perspective helps us develop empathy and [[cultural]] humility.
-
 What does "Imago Dei" mean?
 
 [[ ]] Image of Man
 [[X]] Image of God
 [[ ]] Image of Nature
 [[ ]] Image of Money
-
-In our class and in business, it is important for individuals to agree to give each other the [[benefit]] of the doubt when avoiding taking things personally.
-
-Which book by Don Miguel Ruiz is mentioned in the text as a source of wisdom on not taking things personally?
-
-[[X]] The Four Agreements
-[[ ]] The Power of Now
-[[ ]] The Art of War
-[[ ]] The Secret
 
 According to Don Miguel Ruiz, what does he say about others' actions and words?
 
@@ -514,20 +516,12 @@ Inherent Human Dignity, as related to Imago Dei, emphasizes:
 [[ ]] Discrimination in business
 [[ ]] Exploitation of employees
 
-The concept of stewardship means responsibly managing [[resources]] and relationships.
-
-When ethical conflicts arise in business, considering Imago Dei can guide [[conflict]] resolution processes.
-
-Imago Dei encourages ethical accountability and [[social]] responsibility in business practices.
-
 What does the term cultural humility refer to?
 
 [[X]] Recognizing the limitations of one's cultural perspective
 [[ ]] Being proud of one's own culture
 [[ ]] Ignoring other cultures
 [[ ]] Promoting cultural superiority
-
-According to Don Miguel Ruiz, "Nothing others do is because of you. What others say and do is a projection of their own [[reality]], their own dream."
 
 ---
 
@@ -592,7 +586,16 @@ In the following movie clip from the movie The Princess Bride, Vizzini, a charac
 
 !?[The Princess Bride - Inconceivable clip](https://youtu.be/D9MS2y2YU_o?si=ck4i3B00Gr7f_M9C)
 
-Watching this exchange serves to reminder us all that effective communication requires not only speaking clearly but also seeking understanding and ensuring that the words used convey the intended meaning. It illustrates how misunderstandings can arise when individuals do not clarify or seek to understand the language and expressions used in communication. Promoting understanding and inclusivity between business people and students taking a business ethics class is vital for fostering ethical business practices, cultural sensitivity, and productive dialogues. It benefits both parties and contributes to a more ethical and responsible business environment.
+Watching this exchange serves to reminder us all that effective communication requires not only speaking clearly but also seeking understanding and ensuring that the words used convey the intended meaning. It illustrates how misunderstandings can arise when individuals do not clarify or seek to understand the language and expressions used in communication. 
+
+In the movie clip from "The Princess Bride," what does Inigo Montoya point out to Vizzini?
+
+[[ ]] Vizzini's excellent use of vocabulary
+[[ ]] Vizzini's impeccable timing
+[[X]] Vizzini's misuse of the word "inconceivable"
+[[ ]] Vizzini's logical reasoning
+
+Promoting understanding and inclusivity between business people and students taking a business ethics class is vital for fostering ethical business practices, cultural sensitivity, and productive dialogues. It benefits both parties and contributes to a more ethical and responsible business environment.
 
 ### 01.04 | Separate feedback from identity
 
@@ -655,6 +658,11 @@ In order to develop emotional intelligence, it's crucial to be aware of cognitiv
 
 As shared in the video, cognitive dissonance is a psychological concept that refers to the discomfort or tension that arises when an individual holds two contradictory beliefs, attitudes, or values, or when their actions are inconsistent with their beliefs. This state of mental conflict can lead to feelings of discomfort and the desire to reduce or eliminate this dissonance. 
 
+Cognitive dissonance is a psychological phenomenon that arises when an individual holds two contradictory beliefs, attitudes, or values, or when their actions are inconsistent with their beliefs.
+
+[[X]] True
+[[ ]] False
+
 Recognizing cognitive dissonance in a business context is crucial for several reasons:
 
 1. **Decision-Making**: In business, leaders and employees make numerous decisions daily, and many of these decisions involve trade-offs and conflicting information. When individuals experience cognitive dissonance, it can cloud their judgment and lead to suboptimal decision-making.
@@ -677,6 +685,13 @@ Our brains want things to make sense and will make every attempt to have that be
 
 Recognizing cognitive dissonance and its impact in a business context is essential for effective decision-making, employee satisfaction, and maintaining a positive corporate culture. Acknowledging diverse perspectives on how cognitive dissonance is experienced and resolved can lead to more comprehensive strategies for managing it in the workplace.
 
+How can cognitive dissonance impact decision-making in business?
+
+[[ ]] It always leads to optimal decision-making
+[[X]] It can cloud judgment and lead to suboptimal decisions
+[[ ]] It has no impact on decision-making
+[[ ]] It leads to immediate resolution of conflicts
+
 This lesson has defined ethics and discussed its importance, emphasizing not taking things personally and placing the Imago Dei at the center of our engagement with other human beings. We explored how to develop emotional intelligence, foster an environment of empathy and understanding. Moreover, we have recognized the significance of separating feedback from identity, allowing us to grow without fear of judgment. Finally, we highlighted the critical need to be aware of cognitive dissonance, a powerful tool in aligning our actions with our ethical principles. As we reflect on these lessons, let us strive to embody these principles in our daily lives, creating a more compassionate and ethical world for ourselves and those around us.
 
 ###### ? 01.02 - 01.05 | Review questions | EQ, seeking understanding, feedback, and cognitive dissonance
@@ -687,8 +702,6 @@ What is emotional intelligence (EQ)?
 [[X]] The ability to recognize, understand, manage, and effectively use one's own emotions and those of others
 [[ ]] The ability to solve complex math problems
 [[ ]] The ability to communicate effectively in a foreign language
-
-One of the ways people may attempt to reduce cognitive dissonance is by changing their beliefs or attitudes to align with their [[actions]].
 
 Which of the following is NOT one of the key elements of emotional intelligence?
 
@@ -704,14 +717,12 @@ Why is emotional intelligence considered crucial in the business world?
 [[ ]] It improves physical fitness.
 [[ ]] It helps in predicting stock market trends.
 
-How can cognitive dissonance impact decision-making in business?
+Separating feedback from one's___ is essential for personal growth, effective communication, and emotional well-being.
 
-[[ ]] It always leads to optimal decision-making
-[[X]] It can cloud judgment and lead to suboptimal decisions
-[[ ]] It has no impact on decision-making
-[[ ]] It leads to immediate resolution of conflicts
-
-Separating feedback from one's [[identity]] is essential for personal growth, effective communication, and emotional well-being.
+[[ ]] Cognition
+[[X]] Identity
+[[ ]] Understanding
+[[ ]] Morals
 
 How can individuals practice empathy in developing emotional intelligence?
 
@@ -727,15 +738,6 @@ How can open and honest dialogue contribute to productive communication?
 [[X]] By fostering mutual learning
 [[ ]] By promoting misunderstandings
 
-In the movie clip from "The Princess Bride," what does Inigo Montoya point out to Vizzini?
-
-[[ ]] Vizzini's excellent use of vocabulary
-[[ ]] Vizzini's impeccable timing
-[[X]] Vizzini's misuse of the word "inconceivable"
-[[ ]] Vizzini's logical reasoning
-
-Cognitive dissonance is a psychological phenomenon that arises when an individual holds two contradictory [[beliefs]], attitudes, or values, or when their actions are inconsistent with their beliefs.
-
 How can feedback that is closely tied to identity hinder professional growth?
 
 [[ ]] It can lead to more opportunities for promotion
@@ -743,23 +745,12 @@ How can feedback that is closely tied to identity hinder professional growth?
 [[X]] It can create discomfort in the workplace
 [[ ]] It can enhance communication skills
 
-Emotional intelligence (EI) refers to the ability to recognize, understand, manage, and effectively use one's own emotions and those of [[others]].
-
-What gets emphasized in the following Steve Jobs quote, "The only way to do great work is to love what you do and to detach your ego from the outcome"?
-
-[[ ]] The importance of ego in professional success
-[[ ]] The need to take all feedback personally
-[[X]] The value of separating one's ego from the results of their work
-[[ ]] The idea that ego is more important than passion
-
 What is cognitive dissonance?
 
 [[X]] A state of mental conflict arising from holding contradictory beliefs or values
 [[ ]] A state of complete harmony in one's thoughts
 [[ ]] A type of meditation technique
 [[ ]] A neurological disorder
-
-Steve Jobs emphasized the need to detach your [[ego]] from the outcome in order to do great work.
 
 What is selective exposure in the context of cognitive dissonance?
 
