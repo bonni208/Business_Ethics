@@ -347,7 +347,9 @@ Business ethics goes beyond a simple binary because:
 
 Together, these factors show why ethics in business is about thoughtful judgment, not simple rule-following.
 
-**Shall We Play a Game?**
+---
+
+#### Shall We Play a Game?
 
 I’ve created a short game to help you practice distinguishing between **legal vs. illegal** and **ethical vs. unethical** actions, since that tends to be a topic that has been confusing for students in this class in the past. 
 
