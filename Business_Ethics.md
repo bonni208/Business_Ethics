@@ -371,6 +371,17 @@ Let's look at an example in a fictional story, but one that is relatable in a re
 
 This scene demonstrates how business ethics can move beyond simply right or wrong. Misunderstandings can so easily arise, even with good intentions. While this story is fictional, these kinds of misunderstandings and opportunities for our biases to negatively impact us our relationships happen all the time in a business context. 
 
+
+
+Why is business ethics more than just a binary understanding of right and wrong?
+
+[[ ]] Because it only applies to cultural contexts
+[[ ]] Because it solely relies on legal regulations
+[[X]] Because it involves navigating moral ambiguity and considering how decisions affect others
+[[ ]] Because it is entirely objective
+
+
+
 Business ethics is a multidimensional field that requires individuals and organizations to navigate complex ethical terrain. It involves considering diverse perspectives, weighing competing values, and making principled decisions that align with one's values and the expectations of society. Recognizing the presence of grey areas in business ethics underscores the need for critical thinking, ethical reasoning, and continuous reflection on ethical principles in the corporate world.
 
 
@@ -382,17 +393,7 @@ Business ethics is a multidimensional field that requires individuals and organi
 While something may be legal, it can still be considered unethical, highlighting the distinction between legality and ethics.
 
 [[X]] True
-
 [[ ]] False
-
-
-
-Why is business ethics more than just a binary understanding of right and wrong?
-
-[[ ]] Because it only applies to cultural contexts
-[[ ]] Because it solely relies on legal regulations
-[[X]] Because it involves navigating moral ambiguity and considering how decisions affect others
-[[ ]] Because it is entirely objective
 
 
 
@@ -457,7 +458,6 @@ This mindset supports meaningful dialogue, ethical growth, and respectful engage
 Not taking things personally means ignoring feedback or avoiding difficult conversations.
 
 [[ ]] True
-
 [[X]] False
 
 
@@ -465,11 +465,8 @@ Not taking things personally means ignoring feedback or avoiding difficult conve
 According to this agreement, strong reactions during ethical discussions are most often:
 
 [[ ]] A personal attack on your character
-
 [[ ]] A sign the discussion should stop
-
 [[X]] A reflection of the other person’s experiences and values
-
 [[ ]] Proof that there is one correct ethical answer
 
 
@@ -630,13 +627,11 @@ What is the main reason to separate feedback or criticism from one's self-worth?
 
 Yes, we recognize how important it is, but how do we do it? Here are some examples of how to separate feedback from our identity:
 
-1. **Focus on Actions, Not Person**: When providing feedback, frame it in terms of actions, behaviors, or specific tasks rather than making it about the person. For example, say, "Your report lacks clarity," instead of "You're not a good writer."
+1. **Focus on Actions, Not Person**: When providing feedback, frame it in terms of actions, behaviors, or specific tasks rather than making it about the person. For example, say, "Your report lacks clarity in that section," instead of "You're not a good writer."
 
-2. **Use the "I" Statement**: When receiving feedback, encourage the giver to use "I" statements. For instance, "I found the presentation confusing" instead of "Your presentation was confusing." This shifts the focus to the individual's perspective rather than making it a general judgment.
+2. **Use the "I" Statement**: When receiving feedback, encourage the giver to use "I" statements. For instance, "When I was watching the presentation, I found myself getting confused in that part" instead of "Your presentation was confusing." This shifts the focus to the individual's perspective rather than making it a general judgment.
 
-3. **Embrace a Growth Mindset**: Cultivate a mindset that sees feedback as an opportunity for growth and learning. Understand that everyone makes mistakes and that feedback is a means to improve, not a reflection of your worth.
-
-4. **Seek Clarification**: If feedback is vague or unclear, don't hesitate to ask for clarification. This allows you to better understand the specific areas that need improvement and prevents assumptions about your abilities.
+3. Seek Clarification**: If feedback is vague or unclear, don't hesitate to ask for clarification. This allows you to better understand the specific areas that need improvement and prevents assumptions about your abilities.
 
 5. **Practice Active Listening**: When receiving feedback, actively listen to the giver's perspective without immediately reacting emotionally. Take a moment to process the information before responding.
 
@@ -758,6 +753,14 @@ What is selective exposure in the context of cognitive dissonance?
 [[X]] Seeking additional information to justify one's actions
 [[ ]] Avoiding information that contradicts one's beliefs or actions
 [[ ]] Finding a middle ground to reconcile beliefs and actions
+
+
+
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/jose-aragones-81QkOoPGahY-unsplash.jpg)
+
+**Go back to your Google slides now and wrap up Lesson 01.** 
+
+
 
 ## 02. That seems really inappropriate (Get to know your favorite philosophers) 
 
