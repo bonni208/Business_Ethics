@@ -286,7 +286,7 @@ In terms of the importance of taking this class seriously, the following come to
 
 2. **Accountability:** Ethical principles provide a framework for holding individuals and institutions accountable for their actions. It ensures that those who engage in unethical behavior can be held responsible for their actions, leading to justice and fairness.
 
-4. Personal Growth:** Embracing ethics can lead to personal growth and development. It encourages self-reflection and self-improvement, helping individuals become more empathetic, compassionate, and considerate of others.
+4. **Personal Growth:** Embracing ethics can lead to personal growth and development. It encourages self-reflection and self-improvement, helping individuals become more empathetic, compassionate, and considerate of others.
 
 
 On the other hand, not taking ourselves too seriously is also important for several reasons:
@@ -526,9 +526,9 @@ What does the term cultural humility refer to?
 
 Throughout this class we are going to be working on developing and cultivating emotional intelligence. Emotional intelligence (EI) refers to the ability to recognize, understand, manage, and effectively use one's own emotions and those of others. It is a crucial skill in both personal and professional contexts, including business. Strengthen your emotional intelligence by understanding and managing your own emotions. Recognize that not everything is a personal attack or criticism. Practice empathy and try to understand the motivations and emotions of others in the situation. This allows you to respond thoughtfully rather than react emotionally.
 
-In this short Inside Out movie clip, the character of Joy realizes the value of sadness. It is vital for us to be able to recognize our emotions and to attempt to understand and empathize with others' feelings. 
+In this short Inside Out movie clip, the character of Joy realizes the value of core memories. It is vital for us to be able to recognize our emotions and to attempt to understand and empathize with others' feelings. 
 
-!?[Inside out clip: Joy realizes the value of sadness](https://youtu.be/V9OWEEuviHE?si=gPCW1ha4JD_bIkPg)
+!?[Inside out clip: Joy reflects on the value of core memories](https://youtu.be/dBf31FjPHQg?si=X5tb8uxjxTYtg313)
 
 In order to explore the topics in this class, recognizing the varying perspectives we will inevitably have, emotional intelligence is going to be crucial. The key elements of emotional intelligence are: 
 
@@ -631,7 +631,7 @@ Yes, we recognize how important it is, but how do we do it? Here are some exampl
 
 2. **Use the "I" Statement**: When receiving feedback, encourage the giver to use "I" statements. For instance, "When I was watching the presentation, I found myself getting confused in that part" instead of "Your presentation was confusing." This shifts the focus to the individual's perspective rather than making it a general judgment.
 
-3. Seek Clarification**: If feedback is vague or unclear, don't hesitate to ask for clarification. This allows you to better understand the specific areas that need improvement and prevents assumptions about your abilities.
+3. **Seek Clarification**: If feedback is vague or unclear, don't hesitate to ask for clarification. This allows you to better understand the specific areas that need improvement and prevents assumptions about your abilities.
 
 5. **Practice Active Listening**: When receiving feedback, actively listen to the giver's perspective without immediately reacting emotionally. Take a moment to process the information before responding.
 
@@ -732,13 +732,6 @@ How can open and honest dialogue contribute to productive communication?
 [[ ]] By discouraging discussion
 [[X]] By fostering mutual learning
 [[ ]] By promoting misunderstandings
-
-How can feedback that is closely tied to identity hinder professional growth?
-
-[[ ]] It can lead to more opportunities for promotion
-[[ ]] It can result in improved performance
-[[X]] It can create discomfort in the workplace
-[[ ]] It can enhance communication skills
 
 What is cognitive dissonance?
 
