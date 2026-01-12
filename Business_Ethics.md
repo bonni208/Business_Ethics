@@ -351,13 +351,13 @@ Together, these factors show why ethics in business is about thoughtful judgment
 
 #### Shall We Play a Game?
 
-I’ve created a short game to help you practice distinguishing between **legal vs. illegal** and **ethical vs. unethical** actions, since that tends to be a topic that has been confusing for students in this class in the past. 
+I’ve created a game to help you practice distinguishing between **legal vs. illegal** and **ethical vs. unethical** actions, since that tends to be a topic that has been confusing for students in this class in the past. 
 
-[Play the game](https://bonni208.github.io/game-good-place-ethics/), and take a screenshot at the end, showing your total points. 
+[Play the game](https://bonni208.github.io/game-good-place-ethics/), and take a screenshot at the end, showing your total points. The game will begin by letting you choose who you want to play as... and the goal doesn't necessarily have to be to get the highest score. 
 
 ![GoodPlace Characters](https://innovatelearning.s3.amazonaws.com/good-place-characters.png)
 
-Feel free to work to get the highest or the lowest score possible. It will be fun either way.
+
 
 Play: [The Ethics Architect](https://bonni208.github.io/game-good-place-ethics/)
 
