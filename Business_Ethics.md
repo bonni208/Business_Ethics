@@ -363,7 +363,9 @@ Play: [The Ethics Architect](https://bonni208.github.io/game-good-place-ethics/)
 
 Pause for a moment and paste your screenshot on your Lesson 01 slides... 
 
-**Moving Beyond Right and Wrong**
+---
+
+#### Moving Beyond Right and Wrong
 
 Let's look at an example in a fictional story, but one that is relatable in a real worldF context. In the first Zootopia movie, Judy Hopps (a rabbit police officer) is trying to solve a missing mammals case. During a press conference, she makes an unintentionally insensitive comment about predators. Nick Wilde, a fox and her unlikely partner, takes offense and confronts her about it.
 
