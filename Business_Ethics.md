@@ -763,7 +763,7 @@ What is selective exposure in the context of cognitive dissonance?
 
 ![Course header graphic - lesson 02](https://innovatelearning.s3.amazonaws.com/busn435-course-header-lesson-02.jpg)
 
-Before we get to study applied business ethics (in the context of an organization or industry), it is important to establish a firm foundation. Let's first delve into the ideas and philosophies of influential thinkers who have shaped ethical thought over centuries. 
+Before we get to study applied business ethics (in the context of an organization or industry), it is important to establish a firm foundation. Let's first examine the ideas and philosophies of influential thinkers who have shaped ethical thought over centuries. 
 
 > What are the fundamental principles that guide ethical decision-making in business? How do different philosophical perspectives offer unique insights into corporate responsibility, sustainability, and social justice? 
 
@@ -773,11 +773,13 @@ By getting to know these philosophers (and some associated ethical frameworks), 
 
 ![LEGO depiction of a road trip to Harvard University - a group of students about to hop in a VW bus](https://innovatelearning.s3.amazonaws.com/busn435-lego-bricks-01-roadtrip.png)
 
-Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! Now, don't get too excited, we won't be donning crimson robes and walking the hallowed grounds, but we will getting to make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^7].
+*This image was created using artificial intelligence.*
+
+Buckle up, as we are about to embark on a virtual road trip to the intellectual haven that is Harvard University! We will make a visit to see the brilliant [Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel) and his thought-provoking Justice course, which has been taken by more than 15,000 students[^7].
 
 During our virtual visit, we'll also be meeting some of the biggest names in philosophy, like [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant), [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill), and [John Rawls](https://en.wikipedia.org/wiki/John_Rawls). These philosophers have left their intellectual mark all over the study of ethics, and we'll be exploring how they guide our moral compasses in the complex world of business.
 
-We are going to be looking at the intriguing "Moral Side of Murder" lecture from Sandel's course. This isn't a murder mystery, but a journey into the ethical intricacies that make us question our deepest beliefs. It's a wild ride that will challenge our moral intuitions and spark lively debates.
+We are going to be looking at the intriguing "Moral Side of Murder" lecture from Sandel's course. This isn't a murder mystery, but a journey into the ethical intricacies that make us question our deepest beliefs. 
 
 As we travel (at least in our imaginations) to Harvard's campus and experience Sandel's excellent teaching style, which is modeled off of Socrates (another philosopher we'll be meeting), let's remember the following timeless wisdom from that very same philosopher: 
 
@@ -785,7 +787,7 @@ As we travel (at least in our imaginations) to Harvard's campus and experience S
 >
 > -- Socrates
 
- Our trip to Harvard will guide us on a voyage (dare I say road trip? 😂) of self-discovery, where we'll uncover the right path to ethical decision-making in the business world. 
+ Our trip to Harvard will guide us on a voyage of self-discovery, where we'll uncover the right path to ethical decision-making in the business world. 
 
 [^7]: According to [an oped (opinion piece) by Thomas L. Friedman](https://www.nytimes.com/2011/06/15/opinion/15friedman.html) in the New York Times. 
 
@@ -801,9 +803,7 @@ In the second half of this thought-provoking video, Michael Sandel delves into t
 
 > Suppose you find yourself in a situation in which killing an innocent person is the only way to prevent many innocent people from dying. What’s the right thing to do? This question arose in The Queen v. Dudley and Stephens (1884), a famous English law case involving four men stranded in a lifeboat without food or water. How should we judge the action of Dudley and Stephens? Was it morally justified or morally wrong?
 
-This captivating case serves as a catalyst for an engaging classroom debate in this most-popular class at Harvard, challenging the moral validity of utilitarianism and its doctrine that deems "the greatest good for the greatest number" as the ultimate ethical guideline. Join us as we explore this profound moral inquiry and grapple with the complexities of ethical decision-making. 
-
-**Take notes on the videos as you watch.** They don't need to be super detailed, but be sure to capture the main terms and names that he mentions, as well as a few things you #notice and #wonder as you watch. 1-2 pages should do it. Keep your notes in the same place that you established for this class in previous lessons. 
+**Take notes on the videos as you watch under your Lesson 02 notes.** They don't need to be super detailed, but be sure to capture the main terms and names that he mentions, as well as a few things you #notice and #wonder as you watch. 1-2 pages should do it. Keep your notes in the same place that you established for this class in previous lessons. 
 
 Watch: [Justice: What's The Right Thing To Do? Episode 01 and 02"](https://youtu.be/kBdfcR-8hEY?si=5FknB5kumG2kiipJ) (54 minutes)
 
@@ -853,8 +853,6 @@ In Michael Sandel's lecture, what did John Stuart Mill argue about the compatibi
 [[X]] Seeking the greatest good can coexist with protecting individual rights.
 [[ ]] Individual rights should always take precedence over the greater good.
 
-According to Mill, [[higher]] pleasures are of a higher quality and should be prioritized over lower pleasures in the pursuit of happiness.
-
 John Stuart Mill believed that seeking "the greatest good for the greatest number" is not compatible with protecting individual rights.
 
 [[ ]] True
@@ -864,8 +862,6 @@ Utilitarianism as presented by John Stuart Mill allows for a distinction between
 
 [[X]] True
 [[ ]] False
-
-John Stuart Mill argued that utilitarianism seeks to maximize [[pleasure]] for the greatest number.
 
 How does the trolley problem challenge utilitarian principles?
 
@@ -880,6 +876,14 @@ In the trolley problem, if you choose to divert the trolley to save five people 
 [[ ]] Virtue ethics.
 [[x]] Utilitarian ethics.
 [[ ]] Existential ethics.
+
+#### Recap: Justice and Philosophical Thinkers
+
+Be sure to update your notes and save them with the others you have been taking at this point. The following [AI-generated video](https://vanguard.instructuremedia.com/embed/a6c3b201-4139-4977-a571-75f27c29bc21) gives you a good recap of the key concepts that Michael Sandel addressed. 
+
+!?[Justice Concepts Overview]((https://vanguard.instructuremedia.com/embed/a6c3b201-4139-4977-a571-75f27c29bc21))
+
+I don't think it does Michael Sandel's work justice at all (see what I did there with the word justice back there? 😂). But if you're feeling like you need a quick review, it will recap for you in a way more boring, but much more concise way. 
 
 ### 02.03 | What if everybody did that? 
 
@@ -1074,6 +1078,10 @@ How does virtue ethics provide guidance for living life in ethical matters?
 [[ ]] By advocating for a rigid adherence to deontological principles.
 
 
+
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/jose-aragones-81QkOoPGahY-unsplash.jpg)
+
+**Go back to your Google slides now and wrap up Lesson 2.
 
 ## 03. Decide how we decide when we decide
 
