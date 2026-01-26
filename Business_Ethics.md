@@ -1089,13 +1089,11 @@ How does virtue ethics provide guidance for living life in ethical matters?
 
 When I was earning my doctorate, one of our professors would regularly emphasize the importance of deciding how we were going to decide something as a group, before we actually made any specific decision. As easy as that may sound, we weren't always very disciplined about doing it and conflict or group confusion would arise, because of us not having determined our process, in advance. 
 
-> We are going to be going through a case study that will help you think about how you might make a decision, in the case where it wasn't obvious what the right thing to do was. Again, it is easier than it seems. Use the links on Canvas to access the case and follow the directions for working in groups for the second half. 
+> We just finished going through a case study that will help you think about how you might make a decision, in the case where it wasn't obvious what the right thing to do was. You should have already gone through that part of Lesson 03 before returning to this part of our open textbook. 
 
-You are going to want to stop reading at this point and head over to Canvas, as otherwise the "ending" may be spoiled for the case and it won't be as meaningful or fun. Be sure you have finished part 1 of the case, before returning here to our open textbook. 
+Be sure you have finished the ethical decision making case, before returning here to our open textbook. 
 
-![Stop sign](https://innovatelearning.s3.amazonaws.com/iman-Vaugz0s98pI-unsplash.jpg)
-
-### 03.01 | Ethical frameworks
+#### 03.01 Ethical Frameworks 
 
 Let's start with why everyone hates moral philosophy professors, or otherwise getting us to laugh a bit to warm up our brains to discover more about ethical frameworks. In this clip, The Good Place Channel does a mashup of two tv shows, both of which focus on philosophy: 
 
@@ -1137,25 +1135,15 @@ Let's explore more from [Introduction to Philosophy: Ethics chapter on Kantian D
 
 > One of the distinctive features of Kant’s ethics is that it focuses on duties, defined by right and wrong. Right and wrong (which are the primary deontic categories, along with obligatory, optional, supererogatory, and others) are distinct from good and bad (which are value categories) in that they directly prescribe actions: right actions are ones we ought to do (are morally required to do) and wrong actions we ought not to do (are morally forbidden from doing). This style of ethics is referred to as deontology. The name comes from the Greek word *deon*, meaning duty or obligation. In deontology, the deontic categories are primary, while value determinations are derived from them. 
 >
-> Kant believes all our duties can be derived from the categorical imperative. We’ll first need to explain what Kant means by the phrase “categorical imperative” and then we’ll look at the content of this rule.
+> Kant believes all our duties can be derived from the categorical imperative. 
 >
-> First, Kant believes that morality must be rational. He models his morality on science, which seeks to discover universal laws that govern the natural world. Similarly, morality will be a system of universal rules that govern action. In Kant’s view, as we will see, right action is ultimately a rational action. As an ethics of duty, Kant believes that ethics consists of commands about what we ought to do. The word “imperative” in his categorical imperative means a command or order. However, unlike most other commands, which usually come from some authority, these commands come from within, from our own reason. Still, they function the same way: they are commands to do certain actions.
+> First, Kant believes that morality must be rational. He models his morality on science, which seeks to discover universal laws that govern the natural world. Similarly, morality will be a system of universal rules that govern action. In Kant’s view, as we will see, right action is ultimately a rational action. 
 >
-> Kant distinguishes two types of imperatives: hypothetical and categorical imperatives. 
->
-> A hypothetical imperative is a contingent command. It’s conditional on a person’s wants, needs, or desires and normally comes in the following form: “If you want/need A, then you ought to do B.” For example, the advice, “If you want to do well on a test, then you should study a lot” would be a hypothetical imperative. The command that you study is contingent on your desire to do well on the test. Other examples are, “If you are thirsty, drink water,” or “If you want to be in better shape, you should exercise.” Such commands are more like advice on how to accomplish our goals than moral rules. If you don’t have a particular want, desire, or goal, then a hypothetical imperative doesn’t apply. For example, if you don’t want to be in better shape, then the hypothetical imperative that you should exercise, doesn’t apply to you.
+> As an ethics of duty, Kant believes that ethics consists of commands about what we ought to do. The word “imperative” in his categorical imperative means a command or order. However, unlike most other commands, which usually come from some authority, these commands come from within, from our own reason. Still, they function the same way: they are commands to do certain actions.
 >
 > A genuinely moral imperative would not be contingent on wants, desires, or needs, and this is what is meant by a categorical imperative. A categorical imperative, instead of taking an if-then form, is an absolute command, such as, “Do A,” or “You ought to do A.” Examples of categorical imperatives would be “You shouldn’t kill,” “You ought to help those in need,” or “Don’t steal.” It doesn’t matter what your wants or goals are; you should follow a categorical imperative no matter what.
 >
-> But these aren’t *the* categorical imperative. Kant believes that there is one categorical imperative that is the most important and that should guide all of our actions. This is the ultimate categorical imperative from which all other moral rules are derived. This categorical imperative can be expressed in several different ways, and Kant presents three formulations of it in *The Groundwork*.
->
-> #### THE FIRST FORMULATION OF THE CATEGORICAL IMPERATIVE
->
-> The underlying idea behind the first formulation of the categorical imperative is that moral rules are supposed to be universal laws. If we think of comparable laws, such as scientific laws like the law of gravitational attraction or Newton’s three laws of motion, they are universal and apply to all people equally, no matter who they are or what their needs are. If our moral rules are to be rational, then they should have the same form.
->
-> From this idea, Kant derives his first formulation of the categorical imperative, “act only in accordance with that maxim through which you can at the same time will that it become a universal law."
->
-> First, we must explain this word “maxim.” 
+> We must first explain this word “maxim.” 
 >
 > What Kant means by a maxim is a personal rule or a general principle that underlies a particular action. As rational beings, we don’t just act randomly; we devise certain rules that tell us what to do in different circumstances. A complete maxim will include three pieces: the action, the circumstances under which we do that action, and the purpose behind that action. For example, the maxim explaining why you’re reading this book, if it’s an assigned text, might be, “I will read all books assigned for class because I want to succeed in class.” Different principles could underlie the same action. For example, you might be reading this book simply to help you understand the topic, in which case your principle might be, “When I am confused about a topic, I will read an accessible text to improve my understanding.” The important point is that we are guided by general principles that we give to ourselves, that tell us what we’ll do in certain circumstances.
 >
@@ -1179,9 +1167,7 @@ While Johnson & Johnson can celebrate the choices they made to support a trustwo
 
 > VW's actions in the emissions scandal directly contradict Kant's Categorical Imperative. They treated regulators and consumers merely as means to achieve financial gain, disregarding their moral duty to act honestly and ethically. Kant's principle of universalizability suggests that VW's actions would lead to a world where companies routinely deceive regulators and customers, undermining trust in the industry. The scandal resulted in substantial fines, lawsuits, and damage to VW's reputation. The company's deontological violation of ethical principles not only harmed its brand but also raised questions about corporate responsibility and trust in the automotive industry.
 
-These contrasting examples serve as vivid illustrations of the profound impact ethical frameworks can have on business decisions. While Johnson & Johnson's deontological commitment to consumer safety, as exemplified in their response to the Tylenol crisis, showcased the enduring importance of moral duty and the Kantian Categorical Imperative, Volkswagen's transgressions revealed the devastating consequences of forsaking ethical principles for short-term gains. 
-
-These cases underscore that in the complex landscape of business ethics, adherence to deontological principles, such as treating individuals as ends in themselves, not as means to an end, is not only a matter of moral duty but also a path towards enduring trust, credibility, and long-term success in the corporate world. In the ever-evolving business landscape, the lessons drawn from these cases remain both instructive and cautionary, inviting us to continually examine the ethical foundations that guide our decisions and actions.
+These contrasting examples serve as vivid illustrations of the profound impact ethical frameworks can have on business decisions.
 
 #### Virtue Ethics: Cultivating excellence in character
 
@@ -1189,7 +1175,7 @@ Virtue ethics places importance on the development of virtuous character traits.
 
 > The Body Shop, a cosmetics and skincare company, has long been committed to ethical and environmentally responsible practices. They prioritize sourcing natural ingredients sustainably and supporting fair trade. This aligns with the virtue ethics approach, emphasizing virtues like environmental stewardship and social responsibility.
 
-!?[At 40, The Body Shop becomes most ethical, sustainable global business](https://youtu.be/nbe-8Y6NfMg?si=mWzTzCV2wTiE3BB9)
+!?[The Body Shop Heritage](https://youtu.be/tm7T9zEBCRg?si=d0svJF7RNs1g5QFK)
 
 > The Body Shop's dedication to virtue ethics has led to a positive brand image, increased customer loyalty, and a reputation for promoting ethical and sustainable business practices. Their commitment to virtues such as integrity, compassion, and environmental consciousness has not only been good for their bottom line but has also made a positive impact on the world.
 
@@ -1199,7 +1185,7 @@ On an entirely different side of the equation, Wells Fargo faced a scandal when 
 
 > The unethical behavior at Wells Fargo had severe consequences, including significant financial penalties, damage to the bank's reputation, and the loss of customer trust. This incident serves as a stark reminder that even established organizations can falter when they lose sight of virtue ethics and prioritize profits over integrity and customer well-being.
 
-In the realm of business ethics, virtue ethics stands as a beacon of principled conduct, emphasizing the cultivation of virtuous character traits and ethical values. The Body Shop's unwavering commitment to sustainability and fair trade practices exemplifies how virtue ethics can lead to a positive and enduring impact, fostering trust and loyalty among consumers. Conversely, the Wells Fargo scandal serves as a cautionary tale, illustrating the perils of abandoning virtue ethics for short-term gains. Just as superheroes in the movies often uphold moral virtues to protect the greater good, businesses that prioritize ethical virtues create lasting legacies, while those that falter risk facing their own moral reckoning.
+In the realm of business ethics, virtue ethics stands as a beacon of principled conduct, emphasizing the cultivation of virtuous character traits and ethical values. 
 
 #### Rights-Based Ethics: Upholding fundamental human rights
 
@@ -1211,7 +1197,7 @@ Rights-based ethics, often associated with the work of philosophers like **John 
 
 > Ben & Jerry's commitment to rights-based ethics has not only cultivated a loyal customer base but has also created a positive impact on society. They actively support fair labor practices, ethical sourcing of ingredients, and community engagement, reflecting their dedication to respecting the rights of workers, farmers, and consumers. Their success demonstrates how adhering to rights-based ethics can lead to both profitability and social progress.
 
-Let's contrast Ben & Jerry's commitment to rights-based ethics to the contrasting case of Nike. While Ben & Jerry's has exemplified how upholding the rights and well-being of workers and communities can foster a positive brand image and drive social progress, the story of Nike underscores the repercussions a company can face when neglecting these fundamental rights. 
+Let's contrast Ben & Jerry's commitment to rights-based ethics to the contrasting case of Nike. While Ben & Jerry's has exemplified how upholding the rights and well-being of workers and communities can foster a positive brand image and drive social progress, the story of Nike's controversy from the 1990s represents the repercussions a company can face when neglecting these fundamental rights. 
 
 > Nike faced significant controversy in the 1990s when reports revealed poor working conditions and low wages in overseas factories where their products were manufactured. The company's prioritization of cost reduction and profit maximization over the rights and well-being of factory workers conflicted with rights-based ethics. 
 >
@@ -1221,9 +1207,7 @@ The clothes we wear pose an opportunity for human rights violations to occur, as
 
 !?[Undercover: The refugees who make our clothes - BBC](https://youtu.be/3tf6qc51Kbw?si=xP_iEDBYCBjo4TV7) 
 
-When it comes to business ethics, the lens of rights-based ethics remains a powerful guide, emphasizing the importance of respecting and upholding the fundamental rights of individuals and communities. Ben & Jerry's commitment to social justice and sustainability showcases how adhering to rights-based ethics can not only foster customer loyalty but also drive positive change in society. 
-
-Conversely, Nike's past missteps and the fast fashion industry as a whole underscore the enduring impact of disregarding workers' rights, serving as a cautionary tale for businesses that prioritize profit over ethical responsibility. Just as iconic heroes in literature and cinema champion justice and individual rights, businesses that embrace rights-based ethics have the potential to make a lasting, positive impact on the world while safeguarding their own moral integrity.
+When it comes to business ethics, the lens of rights-based ethics remains a powerful guide, emphasizing the importance of respecting and upholding the fundamental rights of individuals and communities. 
 
 
 
@@ -1247,7 +1231,7 @@ A company that has had their share of controversy regarding their business pract
 
 > Facebook's disregard for the social contract through the Cambridge Analytics scandal and other data breaches have led to public outrage, government investigations, and a loss of user trust. The negative consequences, including legal repercussions and damage to the company's reputation, underscored the importance of respecting the trust and expectations inherent in the social contract between technology companies and their users.
 
-Social contract theory serves as a guiding principle, highlighting the importance of honoring the unspoken agreements between businesses and society. Starbucks' espoused commitment to ethical practices and community engagement exemplifies how adhering to the principles of the social contract can lead to both business success and positive societal impact. Conversely, Facebook's lapses in data privacy and trust demonstrate the profound consequences of neglecting the social contract, serving as a cautionary tale for companies that overlook their responsibilities to their users and the broader community. Businesses that uphold the social contract have the potential to thrive while contributing to the greater good of the communities they serve.
+Social contract theory serves as a guiding principle, highlighting the importance of honoring the unspoken agreements between businesses and society. Businesses that uphold the social contract have the potential to thrive while contributing to the greater good of the communities they serve.
 
 ###### ? 03.01 | Review questions | Ethical frameworks
 
@@ -1317,7 +1301,9 @@ It's easy for us to think that if we were faced with the same situation, we woul
 
 Consider the lessons from the [Asch conformity experiment](https://en.wikipedia.org/wiki/Asch_conformity_experiments), which was actually a series of experiments in which the psychologist Soloman Asch would put a single person in a group of people who believed that the others in the group were also participating in the research, when only one person's response was being examined. Asch would test to see that if the others in the group were to all report what was clearly the wrong answer, if the subject would go along with the others. 
 
-!?[Asch Experiment - Conformity](https://youtu.be/6AUqTwGV3GQ?si=fQYsH69TYoDE5rLB)As we learn more about ethical frameworks and how to put them into practice in our own lives, they can serve as valuable tools for navigating the complexities of moral decision making. They help individuals and organizations make ethical choices that align with their values, principles, and societal expectations. Understanding these frameworks enhances moral reasoning and promotes ethical behavior in various personal, professional, and societal contexts.
+!?[Asch Experiment - Conformity](https://youtu.be/6AUqTwGV3GQ?si=fQYsH69TYoDE5rLB)
+
+As we learn more about ethical frameworks and how to put them into practice in our own lives, they can serve as valuable tools for navigating the complexities of moral decision making. They help individuals and organizations make ethical choices that align with their values, principles, and societal expectations. Understanding these frameworks enhances moral reasoning and promotes ethical behavior in various personal, professional, and societal contexts.
 
 ###### ? 03.02 | Review questions | Ethical frameworks and importance
 
@@ -1379,9 +1365,13 @@ How do ethical frameworks contribute to critical thinking?
 
 
 
-### 03.03 | An ethical decision making case study
+That's it for Lesson 03 in our open textbook.
 
-Check Canvas for information about the next part of the ethical decision making case study we are exploring on our own and then with others in the class. That will contained within Challenge 03 on Canvas. See you back here for Lesson 04 soon.  
+ ![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/stop-sign-with-lizard-on-top.png)
+
+
+
+**Go back to your Google slides now and wrap up Lesson 03 there. 
 
 
 
