@@ -1395,7 +1395,11 @@ If you say these words to someone around my age, they'll likely know exactly wha
 
 !?[Commercial for Life Cereal](https://youtu.be/CLQ0LZSnJFE?si=0r5RYZbAG_rtYFPD)
 
-What ever happened to the guy who played Mikey in that commercial? They're sometimes known as urban legends. There was one about Mikey, back in the day. People would talk about how you never see him anymore. Where did Mikey go? Well, it turned out (or so people said) that he had died in the most tragic of ways. 
+People my age have wondered what ever happened to the guy who played Mikey in that commercial? 
+
+> These sorts of stories are sometimes known as urban legends. 
+
+There was one about Mikey, back in the day. People would talk about how you never see him anymore. Where did Mikey go? Well, it turned out (or so people said) that he had died in the most tragic of ways. 
 
 **It must have been the pop rocks.** 
 
@@ -1407,7 +1411,9 @@ In order to help us be taken seriously and to navigate today's business news and
 
 ### 04.01 | Introduction to SIFT
 
-Mike Caulfield is a prominent educator and digital literacy expert known for his work on a framework to help all of us be taken seriously and to be more literate in evaluating information we find online. He's best known for the SIFT model, which is featured in his "Check, Please! Starter Course," which we are about to embark on together. Mike Caulfield has a rich background in education, having worked at various institutions as an educator and researcher. He's known for his expertise in digital literacy and information literacy. Over the years, Caulfield has developed and refined the SIFT model, which is a practical framework for verifying and assessing online information. His work has been influential in equipping individuals with the skills to navigate the vast sea of information on the internet.
+Mike Caulfield is a prominent educator and digital literacy expert known for his work on a framework to help all of us be taken seriously and to be more literate in evaluating information we find online. He's best known for the SIFT model, which is featured in his "Check, Please! Starter Course," which we are about to embark on together. 
+
+Mike Caulfield has a rich background in education, having worked at various institutions as an educator and researcher. He's known for his expertise in digital literacy and information literacy. Over the years, Caulfield has developed and refined the SIFT model, which is a practical framework for verifying and assessing online information. His work has been influential in equipping individuals with the skills to navigate the vast sea of information on the internet.
 
 **The SIFT Model:**
 
@@ -1462,15 +1468,13 @@ This is back to being Dr. B, again, for the moment. The game that Mike Caulfield
 
 > The goal of the game is to expose the tactics and manipulation techniques that are used to mislead people and build up a following. Bad News works as a psychological “vaccine” against disinformation: playing it builds cognitive resistance against common forms of manipulation that you may encounter online.
 
-While you are playing, remember that the goal is to be unethical in your approaches. The better you are at using the tactics that unethical people use to manipulate people online, the faster the game will go for you and the more followers you will acquire. 
+While you are playing, **remember that the goal is to be unethical in your approaches.** The better you are at using the tactics that unethical people use to manipulate people online, the faster the game will go for you and the more followers you will acquire. 
 
 When I (Dr. B) first started playing it, the game was taking forever, because I would tell it that I wasn't feeling super good about manipulating people this way... Until I went all in and just got ruthless and stopped caring about being ethical. Feel free to go fast through the game and just try to be as unscrupulous as you can, while growing your following and building credibility (though not in the most ethical of ways, of course, hence the premise of the game...).
 
 ![Bad News Website: From fake news to chaos! How bad are you? Get as many followers as you can. Words in brightly-colored squares: Lie, manipulate, destroy, obscure, ignore, attack](https://innovatelearning.s3.amazonaws.com/2025-01-20_12-22-20.jpg)
 
 **Are you ready to play a game?**
-
-Play Bad News by [following this link](https://www.getbadnews.com/en). 
 
 Be sure to play all the way through the game, learning about the various ways that manipulation techniques can be used to mislead people. Techniques you'll be asked to get good at for the purposes of the game include: 
 
@@ -1481,11 +1485,21 @@ Be sure to play all the way through the game, learning about the various ways th
 - Discredit
 - Trolling
 
-**Make sure to take a screenshot of your final results for your notes.** If your score winds up being higher than 15.584, that means you did better than I did on my first play in January of 2025. Come back here to the reading, once you're done. 
+Play Bad News by [following this link](https://www.getbadnews.com/en). 
+
+**Make sure to take a screenshot of your final results for your notes.** If your score winds up being higher than 15.584, that means you did better than I did on my first play in January of 2025. 
+
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/stop-sign-with-lizard-on-top.png)
+
+**Go back to your Google slides now and wrap up Lesson 
+
+Come back here to the reading, once you're done. 
 
 **Start Lesson 04 notes**
 
-Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. Include a reflection on what it was like to play the Bad News game and include the screenshot you took, previously. Begin taking notes on the problems with approaches to telling truth from lies online, many of which you probably have been advised to use, previously in your lives. 
+Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. Include a reflection on what it was like to play the Bad News game and include the screenshot with your final score that you took, previously. 
+
+**Begin taking notes on the problems with approaches to telling truth from lies online**, many of which you probably have been advised to use, previously in your lives. 
 
 Let's get back to Mike Caulfield's sharing... 
 
@@ -1507,7 +1521,7 @@ Let's get back to Mike Caulfield's sharing...
 
 **How CRAAP goes astray**
 
-![A picture of the CRAAP method with 20+ questions.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0270152f-f0c3-421d-9e54-ae005ffa0f59%2Fcraap.jpg?table=block&id=70c03c84-53e4-48c9-8259-d7094c6876eb&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
+![A picture of the CRAAP method with 20+ questions.](https://innovatelearning.s3.amazonaws.com/CRAAP-test-Google-CRAAP-test-2019.png)
 
 > Most instruction students get about reading the web is derived from a set of approaches called "checklist approaches".
 >
@@ -1527,7 +1541,7 @@ Let's get back to Mike Caulfield's sharing...
 
 **Problem 1: The signals are meaningless**
 
-![Picture of Word document with autocorrect](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6c2a4e96-7d12-4448-aeac-5297d6998faf%2Fspellcheck.jpg?table=block&id=36429352-6ca8-48b6-bf09-2f0e48305af8&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=710&userId=&cache=v2))
+![Collage of various news websites and social media sites](https://innovatelearning.s3.amazonaws.com/signals-are-meaningless.jpg)
 
 
 
@@ -1627,7 +1641,9 @@ What is the most **likely** outcome when people do not have quick methods for ch
 
 **Problem 3: Using too many criteria results in stupid decisions**
 
->One popular idea is that checklists are important because they force students to evaluate dozens of criteria instead of just a few. But does evaluating more criteria result in better decisions? Many teachers say yes. The research says no.
+>One popular idea is that checklists are important because they force students to evaluate dozens of criteria instead of just a few. But does evaluating more criteria result in better decisions? Many teachers say yes. 
+>
+>**The research says no.**
 >
 >The problem with having dozens of criteria is that many of them conflict. Readers then get overwhelmed, unsure to which ones they should pay the most attention.[^8] And that produces what I call the "sleazy car salesperson" effect.
 >
@@ -1635,7 +1651,9 @@ What is the most **likely** outcome when people do not have quick methods for ch
 >
 >Car dealers set up cars this way intentionally, so that you can never weigh a couple factors in isolation, which leads to us being cognitively overwhelmed and making bad decisions. The effects of this sort of criteria overload are well-documented, going back decades. Yet methodologies like CRAAP set up processes in the same way.
 >
->On a pre-assessment we give to students, for example, we have students evaluate a statistical claim about firearm background checks. The sort of response we see repeatedly is, "Well, it's a .org so it's likely to be trustworthy, but it has an ad on the page so maybe not." It's this is "car lot" cognition. There's a tidal wave of conflicting signals so in the end we throw up our hands and say, "Who can know?"
+>On a pre-assessment we give to people, for example, we have them evaluate a statistical claim about firearm background checks. The sort of response we see repeatedly is, "Well, it's a .org so it's likely to be trustworthy, but it has an ad on the page so maybe not." It's this is "car lot" cognition. 
+>
+>There's a tidal wave of conflicting signals so in the end we throw up our hands and say, "Who can know?"
 
 
 
@@ -1677,7 +1695,7 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > Our solution is to give students and others a short list of things to do when looking at a source, and hook each of those things to one or two highly effective web techniques. We call the "things to do" moves and there are four of them:
 
-![Infographic showing the steps of SIFT: Stop, investigate the source, find trusted coverage, trace claims, quotes and media to the original context.](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe3662e32-fba3-4ede-a0a1-3158cac5438b%2Fsift.png?table=block&id=a7a1f341-c590-4253-8f75-48453f8be726&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
+![Infographic showing the steps of SIFT: Stop, investigate the source, find trusted coverage, trace claims, quotes and media to the original context.](https://innovatelearning.s3.amazonaws.com/sift_infographic.png)
 
 **Stop**
 
@@ -1699,7 +1717,9 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 
 > Sometimes you don't care about the particular article that reaches you. You care about the claim the article is making. You want to know if it is true or false. You want to know if it represents a consensus viewpoint, or if it is the subject of much disagreement.
 >
-> In this case your best strategy is to ignore the source that reached you and look for other trusted reporting or analysis on the claim. In other words, if you receive an article that says koalas have just been declared extinct from the Save the Koalas Foundation, the winning strategy may be to open up a new tab and find the *best* source you can that covers this, or, just as importantly, scan multiple sources to see what the consensus seems to be. In these cases we encourage you to "find trusted coverage" that better suits your needs — more trusted, more in-depth, or maybe just more varied. We'll show you some techniques to do this sort of thing quickly.
+> In this case your best strategy is to ignore the source that reached you and look for other trusted reporting or analysis on the claim. 
+>
+> In other words, if you receive an article that says koalas have just been declared extinct from the Save the Koalas Foundation, the winning strategy may be to open up a new tab and find the *best* source you can that covers this, or, just as importantly, scan multiple sources to see what the consensus seems to be. In these cases we encourage you to "find trusted coverage" that better suits your needs — more trusted, more in-depth, or maybe just more varied. We'll show you some techniques to do this sort of thing quickly.
 >
 > Do you have to agree with the consensus? Absolutely not! But understanding the context and history of a claim will help you better evaluate it.
 
@@ -1773,30 +1793,18 @@ What **theme** runs through all four SIFT moves?
 
 You are being introduced to some skills that will be new for most of you. It may start to seem like a lot, so it is time to keep capturing the learning in such a way as to be more memorable for you in the coming weeks and months. I've kept notes on SIFT and even continue sharing videos about my learning in a public way on the [Teaching in Higher Ed YouTube channel](https://www.youtube.com/@TeachinginHigherEd/). 
 
-#### Your notebook
+#### Your notebook (aka Lesson 04 notes)
 
-> Throughout this course you'll be asked both to do basic fact-checking activities and to think more deeply about the material presented. Here we introduce three things to help you with that.
+> Throughout this (Mike Caulfield's) SIFT course you'll be asked both to do basic fact-checking activities and to think more deeply about the material presented. 
 >
-> We ask that you keep a notebook of your fact-checking exercises in a text editor or a word processor like Notepad, Google Docs, or Microsoft Word. If you are taking this as part of a class, you will periodically be asked to submit the contents of your fact-checking notebook for feedback from [your professor and others in the class]. 
->
-> The format of the notebook is simple. For each fact-checking assignment you will be given a heading. Write the heading in your document in all capital letters. Then hit enter and answer the questions you are asked to answer. Avoid any fancy formatting as you may have to post this in a format where the formatting will not carry over. 
 
-At the very end of the course, you'll be asked to pick your favorite example from the notebook and to create a video, which will be shared with others in the class. Keeping links in your notebook will help save you time, later on, when you go to share your learning in a more public way.  
-
-**Reflection prompts and vocabulary**
-
-Reflection prompts are used to suggest questions for deeper exploration. Each time you see questions for reflection in the course, copy and paste them over to your notebook and include your reflections through a video or written response. 
-
-**04.01: Reflection Questions**
-
-Copy the following question over to your notes and reflect in writing or video with your answers. 
-
-- Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
-
-- Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
-- Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
+Keeping links in your notes will help save you time, later on, when you are asked to go back and share your learning in a more public way (with others in the class).  
 
 [^1]: Mike Caulfield has asked that people using the [Check, Please! Starter Course](https://checkpleasecc.notion.site/checkpleasecc/Check-Please-Starter-Course-ae34d043575e42828dc2964437ea4eed) include the following note, so people know how to get back to the original: *The text and media of this site, where possible, is released into the CC BY, and free for reuse and revision. We ask people copying this course to leave this note intact, so that students and teachers can find their way back to the original (periodically updated) version if necessary. We also ask librarians and reporters to consider linking to the canonical version.*
+
+As we explore how to be taken seriously in our work and lives and how to keep from running into situations where we inadvertently pass on and believe things that are not true, we will be mixing between both serious and totally unserious examples. This first one is hard, yet I want to share Mike Caulfield's example here with you, since it underpins for me why we want to take this stuff seriously, well beyond just being credible as business professionals. 
+
+Back to Mike Caulfield's SIFT course: 
 
 **The Miseducation of Dylan Roof**
 
@@ -1869,20 +1877,20 @@ Roof’s exposure to extremist content began when he typed a phrase into a [[Goo
 >
 > Once a person starts down the conspiracy spiral, it's very hard to get back out. There is such a gap between what they see in "respected" sources and what they see from extremist sites that they come to believe the respected sites must be in on the conspiracy. And while in the past many people might hold one or two conspiracy theories, the hyper-connected, algorithmic nature of the internet creates a situation where believing in one conspiracy theory may lead to your exposure to more and more radical conspiracy theories.
 
-**Questions for reflection**
-
-Answer the following questions in writing or linked video in your notes. 
-
-- Do you think media literacy could help some people avoid processes of radicalization? Or are the social drivers too strong?
-- Are all conspiracy theories bad? Are all wrong? What do you think makes a conspiracy theory harmful? Do you hold beliefs that others would dismiss as conspiracy theory?
-- Do you know anyone that has gone down the conspiracy rabbit hole on an issue? What have you learned from that experience about what drives conspiracy thinking?
-
 
 #### Conclusion
 
 > In this section you learned why some traditional approaches to online media literacy don't work, and were introduced to a new approach, encapsulated by the acronym SIFT. This approach favors "moves" rather than analysis, and encourages you to make quick checks before you read material.
 >
 > Now that we have the basics down we will start practicing some of the web techniques that you can use to get quick answers as you "sift".
+
+
+
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/stop-sign-with-lizard-on-top.png)
+
+**Go back to your Google slides now and wrap up Lesson 04a. 
+
+
 
 ### 04.02 | Investigate the source
 
