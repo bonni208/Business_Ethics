@@ -1808,13 +1808,15 @@ As we explore how to be taken seriously in our work and lives and how to keep fr
 
 Back to Mike Caulfield's SIFT course: 
 
-**The Miseducation of Dylan Roof**
+**The Miseducation of Dylann Roof**
 
 >Throughout this course, we'll be using a mixture of both weighty and trivial examples. Sometimes it may seem there's not much downside to being misinformed: who really cares if the "Alexa Voice-Activated Toilet" is real or Monster Brand Caffeinated Ham is fake?
 >
 >But there are serious social implications to people not paying attention to where their information is coming from.
 >
->The video below primarily makes a point about Google. But given the facts presented here, is there a way that a lack of web literacy also played a role?
+>The video below ([The Miseducation of Dylann Roof](https://youtu.be/qB6A45tA6mE?si=Ids7nDj22uJwIMt1)) primarily makes a point about Google. But given the facts presented here, is there a way that a lack of web literacy also played a role?
+
+
 
 !?[Video: The miseducation of Dylann Roof](https://youtu.be/qB6A45tA6mE?si=Ids7nDj22uJwIMt1) 
 
