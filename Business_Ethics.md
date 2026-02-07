@@ -1495,7 +1495,7 @@ Play Bad News by [following this link](https://www.getbadnews.com/en).
 
 Come back here to the reading, once you're done. 
 
-**Start Lesson 04 notes**
+#### Start Lesson 04 notes
 
 Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. Include a reflection on what it was like to play the Bad News game and include the screenshot with your final score that you took, previously. 
 
