@@ -1497,7 +1497,9 @@ Come back here to the reading, once you're done.
 
 #### Start Lesson 04 notes
 
-Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. Include a reflection on what it was like to play the Bad News game and include the screenshot with your final score that you took, previously. 
+Using whatever note-taking system you devised in the earlier lessons, start taking notes for Lesson 04. 
+
+Include a reflection on what it was like to play the Bad News game and include the screenshot with your final score that you took, previously. 
 
 **Begin taking notes on the problems with approaches to telling truth from lies online**, many of which you probably have been advised to use, previously in your lives. 
 
