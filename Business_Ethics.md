@@ -1935,16 +1935,11 @@ When investigating a source, it is best to rely on what the organization says ab
 
 
 
-
-
 You land on a website called *GlobalHealthResearchNow.org* that claims to publish groundbreaking medical research. What is the most effective way to investigate the source?
 
 [[ ]] Read the “About Us” page thoroughly
-
 [[X]] Look them up on Wikipedia
-
 [[ ]] Look at how polished the website design is
-
 [[ ]] Check whether the article includes statistics
 
 
@@ -1952,11 +1947,8 @@ You land on a website called *GlobalHealthResearchNow.org* that claims to publis
 A website claims it is “the nation’s leading authority on election integrity.” According to Caulfield’s advice, what should you do next?
 
 [[ ]] Accept the claim if it sounds confident
-
 [[X]] Look for what independent sources say about the organization
-
 [[ ]] Analyze the tone of the writing
-
 [[ ]] Scroll to the bottom to see if it cites sources
 
 
@@ -1964,11 +1956,8 @@ A website claims it is “the nation’s leading authority on election integrity
 You find an article shared by a friend that makes a surprising claim. You strongly agree with the argument. What makes this situation especially important for using the “Stop” move?
 
 [[ ]] The article might be too long
-
 [[X]] Strong agreement can make you less critical
-
 [[ ]] Your friend may not be reliable
-
 [[ ]] The topic is controversial
 
 
@@ -1976,11 +1965,8 @@ You find an article shared by a friend that makes a surprising claim. You strong
 A nonprofit organization’s website states that it is “nonpartisan and evidence-based.” What would be the best next step?
 
 [[ ]] Take the statement at face value
-
 [[ ]] Read more articles from the same site
-
 [[X]] Search for third-party descriptions of the organization
-
 [[ ]] Examine the logo and branding
 
 
@@ -1988,11 +1974,8 @@ A nonprofit organization’s website states that it is “nonpartisan and eviden
 You are comparing two organizations with similar names. One supports climate science research; the other questions it. What is the most efficient strategy?
 
 [[ ]] Carefully read multiple articles from both sites
-
 [[X]] Quickly search each organization’s name along with the word “criticism”
-
 [[ ]] Look at which site loads faster
-
 [[ ]] Check which one has more images
 
 
@@ -2000,11 +1983,8 @@ You are comparing two organizations with similar names. One supports climate sci
 A website includes many citations and footnotes. Does this automatically mean it is trustworthy?
 
 [[ ]] Yes, citations always indicate credibility
-
 [[X]] No, you should still investigate the organization itself
-
 [[ ]] Yes, as long as the citations look academic
-
 [[ ]] Only if the site has a .org domain
 
 
@@ -2012,11 +1992,8 @@ A website includes many citations and footnotes. Does this automatically mean it
 A professional-looking website has testimonials from experts praising its work. What is the most reliable way to evaluate those claims?
 
 [[ ]] Read each testimonial carefully
-
 [[X]] Check how outside sources describe the organization
-
 [[ ]] Look for high-quality photos
-
 [[ ]] Count how many testimonials are listed
 
 
