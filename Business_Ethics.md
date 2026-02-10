@@ -1731,6 +1731,20 @@ We're back to Mike Caulfield's Check, Please! Starter Course and he's about to g
 >
 > In these cases we'll have you trace the claim, quote, or media back to the source, so you can see it in its original context and get a sense if the version you saw was accurately presented.
 
+
+
+You see a viral post on social media claiming that a new study proves coffee cures Alzheimer’s. The article looks professional and includes charts. Before reading further or sharing, what is your **best first move**?
+
+[[X]] Stop and pause before reacting or sharing
+
+[[ ]] Read the entire article carefully
+
+[[ ]] Share it with friends and ask what they think
+
+[[ ]] Check the comments section
+
+
+
 **It's about REcontextualizing**
 
 > There's a theme that runs through all of these moves: it's about getting the necessary context to read, view, or listen effectively. And doing that *first*.
@@ -1816,7 +1830,7 @@ Back to Mike Caulfield's SIFT course:
 >
 >The video below ([The Miseducation of Dylann Roof](https://youtu.be/qB6A45tA6mE?si=Ids7nDj22uJwIMt1)) primarily makes a point about Google. But given the facts presented here, is there a way that a lack of web literacy also played a role?
 
-
+Watch: [The Miseducation of Dylann Roof](https://youtu.be/qB6A45tA6mE?si=Ids7nDj22uJwIMt1)
 
 !?[Video: The miseducation of Dylann Roof](https://youtu.be/qB6A45tA6mE?si=Ids7nDj22uJwIMt1) 
 
@@ -1911,6 +1925,91 @@ Roof’s exposure to extremist content began when he typed a phrase into a [[Goo
 As Mike Caulfield emphasizes in the Investigate the Source video: 
 
 > "Do not look at what the organization says about itself. Look at what the web says about the organization. That's where you're going to find the truth of the matter."
+
+
+
+You land on a website called *GlobalHealthResearchNow.org* that claims to publish groundbreaking medical research. What is the most effective way to investigate the source?
+
+[[ ]] Read the “About Us” page thoroughly
+
+[[X]] Look them up on Wikipedia
+
+[[ ]] Look at how polished the website design is
+
+[[ ]] Check whether the article includes statistics
+
+
+
+A website claims it is “the nation’s leading authority on election integrity.” According to Caulfield’s advice, what should you do next?
+
+[[ ]] Accept the claim if it sounds confident
+
+[[X]] Look for what independent sources say about the organization
+
+[[ ]] Analyze the tone of the writing
+
+[[ ]] Scroll to the bottom to see if it cites sources
+
+
+
+You find an article shared by a friend that makes a surprising claim. You strongly agree with the argument. What makes this situation especially important for using the “Stop” move?
+
+[[ ]] The article might be too long
+
+[[X]] Strong agreement can make you less critical
+
+[[ ]] Your friend may not be reliable
+
+[[ ]] The topic is controversial
+
+
+
+A nonprofit organization’s website states that it is “nonpartisan and evidence-based.” What would be the best next step?
+
+[[ ]] Take the statement at face value
+
+[[ ]] Read more articles from the same site
+
+[[X]] Search for third-party descriptions of the organization
+
+[[ ]] Examine the logo and branding
+
+
+
+You are comparing two organizations with similar names. One supports climate science research; the other questions it. What is the most efficient strategy?
+
+[[ ]] Carefully read multiple articles from both sites
+
+[[X]] Quickly search each organization’s name along with the word “criticism”
+
+[[ ]] Look at which site loads faster
+
+[[ ]] Check which one has more images
+
+
+
+A website includes many citations and footnotes. Does this automatically mean it is trustworthy?
+
+[[ ]] Yes, citations always indicate credibility
+
+[[X]] No, you should still investigate the organization itself
+
+[[ ]] Yes, as long as the citations look academic
+
+[[ ]] Only if the site has a .org domain
+
+
+
+A professional-looking website has testimonials from experts praising its work. What is the most reliable way to evaluate those claims?
+
+[[ ]] Read each testimonial carefully
+
+[[X]] Check how outside sources describe the organization
+
+[[ ]] Look for high-quality photos
+
+[[ ]] Count how many testimonials are listed
+
 
 
 #### Just add Wikipedia
@@ -2046,13 +2145,13 @@ Let's get back to Mike Caulfield's SIFT framework and how important it is for us
 
 **SIFTing: Alexa-enabled toilet? (prompt)**
 
-As Mike Caulfield instructs in the following, add the heading **SIFTing: Alexa-enabled Toilet** to your Lesson 04 notes for the class and prepare to take notes and begin your first SIFTing exercise. From Mike Caulfield:
+Let's go through the first prompt from Mike Caulfield, using the SIFT "moves" we learned about earlier. A friend sends you a text message saying that Amazon's Alexa is showing up everywhere now, even in the bathroom. 
 
-> Each of our "Sifting" exercises will give you a scenario, show you a prompt associated with it, and ask you a question associated with it. You should "use your moves" on the prompt (the components of SIFT), then write your results in your notebook. If you are a student in a class, when you write your results in your notebook, make sure to use the specified heading, so that your professor knows what prompt you are responding to.
->
-> We start the course with some pretty light exercises. So here's your first exercise. A friend sends you a text about a new "Alexa Toilet":
+![sms message with text: "They're putting Amazon Alexa everywhere these days. Even in the can."](https://innovatelearning.s3.amazonaws.com/text-message-re-alexa-toilet.png) 
 
-![SMS message with text "Great, now there's an Alexa microphone in the bathroom too"](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdb279215-906a-498a-93fd-66c73d6687f7%2Ftoilet1.png?table=block&id=c5108c12-f468-4dc4-92d6-4557aed780ee&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=690&userId=&cache=v2)
+
+
+Your friend even tells you that there's a microphone built in. What on earth? 
 
 Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsguide.com/us/kohler-numi-alexa-toilet,news-28957.html) and perform the activity described below: 
 
@@ -2063,6 +2162,12 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 > Use the **Investigate the Source** move, find out what you can. In your notebook, write the heading ALEXA TOILET, hit enter and tell us what you found out.
 >
 > When you are done, go to the next part to see how a fact-checker might approach this problem.
+
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/stop-sign-with-lizard-on-top.png)
+
+**Go back to your Google slides now and complete the "S" and "I" slides.
+
+
 
 **SIFTing: Alexa toilet (discussion)**
 
@@ -2152,35 +2257,6 @@ As usual, add these to your notes and answer them in writing, or video form.
 - For what sort of other stories might a local source be a particularly good authority?
 - For what sort of other stories might a local source not be a good authority?
 
-**SIFTing: Volcano plane (prompt)**
-
-> Take a look at this story and answer the questions.
-
-[Malaysia Airline flight forced into emergency landing](https://worldnewsdailyreport.com/malaysia-airline-flight-forced-into-emergency-landing-after-flying-over-icelandic-volcano/)
-
-**Questions**
-
-- What sort of source is this?
-- How do you know?
-
-**Volcano plane (discussion)**
-
-> Here's one possible response:
->
-> **World News Daily report is a satire site that by its own admission does not publish true stories. It's is also the source or a lot of hateful content. I found this out from Wikipedia — the Wikipedia article cited a large range of sources, from Buzzfeed to the Washington Post.**
->
-> How do we get there? We start by doing our "just add wikipedia" trick. Let's show the ABC one first:
-
-![Search the URL and add Wikipedia](https://innovatelearning.s3.amazonaws.com/volcano1.gif)
-
-> We search the URL or domain and add our bare keyword `wikipedia`. Selecting the most relevant search result we find it is a known satire site.
-
-**A note about Buzzfeed**
-
-> One thing you'll notice in the Wikipedia article is that Buzzfeed News is cited as source. Students are often confused by this, since they are most used to Buzzfeed being primarily a source of videos such as "I tried to eat five popular candies from Romania and this is what happened."
->
-> That Buzzfeed site isn't good news source for very much. It's not "fake", but it's not very serious. Years ago, however, Buzzfeed spun off a reliable, award winning news publication under the name "Buzzfeed News" (domain: www.buzzfeednews.com). And harkening back to our "contextual authority" discussion earlier, it turns out that Buzzfeed News has two of the top experts in the world on the "fake news" phenomenon. So when you see a link to Buzzfeed News on question about the trustworthiness of a site, it's well worth following.
-
 #### The problem of fauxtire
 
 > One problem — larger in the past, but still extant — is the problem of "fauxtire". Experts on disinformation use the term fauxtire to describe sites such as World News Daily Report which claimed to be satire sites (like the Onion) but in practice were not linked to because people thought they were funny but because people were fooled into thinking the stories were real.
@@ -2194,8 +2270,6 @@ As usual, add these to your notes and answer them in writing, or video form.
 - A form of humor or criticism that uses exaggeration, irony, or parody to comment on current events, politics, or society is known as **satire**. 
 - Content that mimics satire but lacks clear comedic intent or exaggeration, often misleading audiences into believing false or deceptive information is sometimes called "**fauxtire**".
 - **Local news** is journalism that focuses on events, issues, and stories relevant to a specific community, city, or region, often produced by smaller newspapers, TV stations, or online outlets. 
-
-
 
 
 
@@ -2294,8 +2368,6 @@ The original link that Mike had in his course is no longer available. Again, if 
 
 
 
-
-
 **04.03: Reflection Questions**
 
 Add the following to your notes and reflect on the questions. 
@@ -2305,7 +2377,79 @@ Add the following to your notes and reflect on the questions.
 
 
 
-#### Expertise and reputation
+#### Investigating expertise in business news
+
+In business reporting, expert commentary is everywhere:
+
+- CEOs commenting on regulation
+- Venture capitalists predicting AI disruption
+- Consultants warning about “the future of work”
+- Influencers analyzing stock markets
+- Academics weighing in on CSR (Corporate Social Responsibility)
+
+But not all expertise is equal.
+
+
+
+As Mike Caulfield reminds us:
+
+> We’re not trying to do fine-grained evaluation. We’re sanity-checking expertise.
+>
+> Are they known for work in this area — or are they more salesperson than professional?
+
+In business contexts, this distinction matters. Financial decisions, hiring policies, investment strategies, and corporate ethics debates often rely on expert authority.
+
+**Business Example 1: ESG Claims**
+
+An article argues that ESG investing harms shareholder value. The author is described as a “global strategy advisor.”
+
+Before evaluating the argument:
+
+- Search their name + “Wikipedia”
+- Search their name in Google News
+- Check Google Scholar (if research claims are made)
+
+Questions to ask:
+
+- Do they have relevant credentials?
+- Are they cited by reputable outlets?
+- Are they selling services tied to the issue?
+
+The goal isn’t to decide if ESG is good or bad.
+
+The goal is to determine whether the author has recognized expertise in finance or corporate governance.
+
+**Business Example 2: AI and Jobs**
+
+A viral post claims AI will eliminate 70% of management jobs in five years. The author is a “serial entrepreneur and AI futurist.”
+
+Sanity-check:
+
+- Are they cited in major business publications?
+- Do they publish research or industry reports?
+- Do they have expertise in labor economics or AI systems?
+- Are they promoting a product?
+
+Strong claims require relevant expertise.
+
+**Authority Is Constructed and Contextual (Business Lens)**
+
+Different issues require different expertise:
+
+- Accounting scandal → CPA, forensic accountant
+- Workplace culture → Organizational psychologist
+- Corporate governance → Legal scholar, board expert
+- AI workforce impact → Labor economist
+
+Expertise depends on context.
+
+**Reflection Questions**
+
+- When evaluating business ethics claims, whose expertise should carry the most weight — CEO, academic, regulator, consultant?
+- How do financial incentives complicate perceived authority?
+- When might lived experience (e.g., whistleblower) matter more than credentials?
+
+
 
 > Evaluating expertise is hard. And we're not going to show you how to do that in any fine grained way.
 >
@@ -2318,59 +2462,9 @@ Add the following to your notes and reflect on the questions.
 > - Google News Search https://www.google.com/search?tbm=nws&source=hp&q=news+query+here&oq=
 > - Google Scholar: https://scholar.google.com/
 
-**SIFTing: Warming claims (prompt)**
-
-> Here's an article by a guest author, Myles Allen, arguing that climate change is incredibly serious but that the way some activists are talking about the recent IPCC report (considered to be the scientific consensus on global warming) is at times alarmist. We are going down a very dangerous road if we don't act on climate change now, Allen agrees, but he also says the idea that most people will feel world-ending impacts in twelve years is not supported.
-
-[The problem with claiming we have '12 years to climate breakdown, by Myles Allen in RealClear Science'](https://www.realclearscience.com/articles/2019/04/24/the_problem_with_claiming_we_have_12_years_to_climate_breakdown.html)
-
-> In this case, since Allen is not a reporter but instead presented as an expert. Check out his expertise by doing a Wikipedia search on his name. You'll have to use a bit of creativity here — but replace the domain name you've been searching on with his name.
->
-> Is he well qualified to write this article? Why or why not?
->
-> (Again, remember it's not about whether you think he is right or wrong here. We just want to know if his opinion here is worth considering and why.)
-
-**Warming claims (discussion)**
-
-> We check for Myles Allen in Wikipedia with the search `myles allen wikipedia`. There's a substantial chance he won't be in Wikipedia even if he *is* an expert, but it's a good first step to check there.
->
-> In this case, we luck out! He's in there:
-
-![Animated GIF showing wikipedia search results for Myles Allen](https://innovatelearning.s3.amazonaws.com/myles.gif)
-
-> Look at the Wikipedia article and then look (skim, really) his opinion piece. Does he have relevant expertise? Double check the answer in your fact-checking notebook and write down your assessment of the writer's expertise.
-
-
-
-**04.03b: Reflection Questions**
-
-- One of the understandings key to media literacy is "authority is constructed and contextual".  Different communities (scientists, reporters, politicians, psychologists, car mechanics) have different criteria for authority (constructed) and the type and level of authority you need may depend on your context (contextual).  What other types of expertise could this issue benefit from?
-
-
-
-**SIFTing: Smoke-free (prompt)**
-
-> Here's a summary of a report from an organization called Foundation for a Smoke-Free World. They want to eliminate smoking worldwide.
-
-[Global Trends in Nicotine]((https://www.smokefreeworld.org/advancing-industry-transformation/global-trends-nicotine/))
-
-> For this example, do a Google News search on the foundation name. Is there anything in particular we should know about this organization before reading their materials? Describe what you found out and what sources you used in your fact-checking notebook. Use the heading SMOKE-FREE.
-
-**Smoke-free (discussion)**
-
-> In this case we use a Google News Search. There's multiple results, but we scan the little "keyword in context" blurbs to find relevant coverage.
-
-![GIF showing the search for Foundation for a Smoke-Free World](https://innovatelearning.s3.amazonaws.com/smokefreeworld.gif)
-
-> We choose the source PRWatch. PRWatch isn't a perfect source — they've been accused at times of having an anti-corporate bias — but in general their reporting is well-sourced.
->
-> When we go to that article (or many of the other articles on that page) we find that there is some debate about whether the tobacco-industry funded Foundation for a Smoke-Free World should be seen as a research and advocacy organization. Part of that debate centers around its initial funding (it was founded with a large grant from the tobacco industry). But the critique of it from researchers is more subtle than that — they point out that the proportion of money spent on marketing to that spent on research is not indicative of a research organization. And you can see that some of those researchers [wrote that in a letter](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)31347-9/fulltext#%20) to one of the more prestigious English-language health journals, the *Lancet*.
->
-> Even given all this, you might come to a conclusion that this organization is trustworthy, at least in some limited contexts. Or maybe not. But either way, it's crucial to know about the debate about this organization before you engage with (or share) its materials.
-
 **Bias vs. Agenda**
 
-> The above issue gets at an important distinction when looking at sources. Students often come to media literacy thinking that the primary thing they should be concerned about is bias. And since everyone has some form of bias, that ultimately leads to students thinking no one can really be trusted.
+> There's one other important distinction I want to get to when looking at sources. Students often come to media literacy thinking that the primary thing they should be concerned about is bias. And since everyone has some form of bias, that ultimately leads to students thinking no one can really be trusted.
 >
 > Personal bias has real impacts. But bias isn’t agenda, and it's agenda that should be your primary concern for quick checks.
 >
@@ -2378,11 +2472,7 @@ Add the following to your notes and reflect on the questions.
 >
 > You saw this in the introductory videos on the American College of Pediatricians. The main issue was not that the organization was biased, or even that was small (though this mattered somewhat). The main issue was that it didn't seem to be set up as a research or professional organization. It seemed, in fact, to be set up as a political advocacy organization.
 >
-> Similarly, in this instance even though the tobacco industry has a long history of deception the researchers are not ruling out that it might be funding some good work. It's possible, even if suspicious.
->
-> What they are alleging is that the structure of the organization resembles a marketing organization more than a research organization, and that as such its research should be looked upon with some suspicion.
->
-> Again, you need to come to your own conclusion on whether that assessment is damning. But whether you agree with the researchers or not, adopt their approach. Ask first and foremost when approaching an organization or source "What is this group set up to do?"
+> Ask first and foremost when approaching an organization or source "What is this group set up to do?"
 
 
 
@@ -2478,7 +2568,7 @@ What is the **main difference** between bias and agenda?
 >
 > How do you do this? Well, consider this report that "Keanu Reeves is dead."
 
-![Image of a headline saying that Keanu Reeves has died in a snowboard accident](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F32c8aa2a-6fed-44c7-8dba-d0dcf91d3bfe%2Fkeanu-reeves-died-in-snowboard-accident.jpg?table=block&id=1ab6281c-abd9-4d27-8331-d43bff53bd64&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1080&userId=&cache=v2)
+![Image of a headline saying that Keanu Reeves has died in a snowboard accident](https://innovatelearning.s3.amazonaws.com/Image%20of%20a%20headline%20saying%20that%20Keanu%20Reeves%20has%20died%20in%20a%20snowboard%20accident.png)
 
 > Is it true? If it was, we'd expect there to be lots of news stories about it. So we check.
 
@@ -2496,7 +2586,7 @@ What is the **main difference** between bias and agenda?
 
 > We click through to the USA Today story here, but we really didn't need to. Just seeing this many results on the news page is good enough for us to believe a claim of this sort. Go ahead and share this story, comment on it, and feel what emotions you have to.
 
-
+**Lateral Reading**
 
 What Mike Caulfield just described in how he checked to see if Keanu Reeves had actually died is known as lateral reading. **Lateral reading** is a strategy used in information literacy where readers verify the credibility of a source by leaving the page and searching for information about the source from other reputable websites. Instead of analyzing a webpage solely based on its own content (as in traditional vertical reading), lateral reading involves opening new tabs, checking external sources, and cross-referencing claims with trusted outlets. This method is commonly used by fact-checkers and researchers to quickly assess a source’s reliability and agenda.
 
@@ -2520,7 +2610,7 @@ Ok. We had better get back, right? Back to Mike Caulfield, gettin' us SIFTing al
 >
 > Let's take a story circulating as I write this, one claiming a Georgia lawmaker believed she was told by a Chik-Fil-A employee to "go back to her country" but later clarified that she was mistaken.
 
-![Headline: Georgia lawmaker claims Chick-Fil-A employee told her to go back to her country, later clarifies he actually said 'my pleasure'](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3cd210fb-17c1-4d9b-b6de-52d849b51b41%2Fbabylon-bee.webp?table=block&id=7276d21f-889c-4bab-8c88-30bfd52c6dcc&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
+![Headline: Georgia lawmaker claims Chick-Fil-A employee told her to go back to her country, later clarifies he actually said 'my pleasure'](https://innovatelearning.s3.amazonaws.com/2026-02-09_15-46-17.png)
 
 > In this case we do the news search, and we do find something: a fact-check by Snopes:
 
@@ -2581,147 +2671,8 @@ Browse 2-3 of the listed fact-checking websites and add to your notes reflection
 
 While we are learning to do quick fact-checking via Mike Caulfield's SIFT framework, it is great to have websites dedicated to more extensive research that goes into checking these claims. 
 
-
-
-#### Scanning results using "click restraint"
-
-> Some times a search on a claim will turn up multiple stories, many of which are not relevant. Consider this bit of viral news that circulated on Facebook:
->
-> **You know when you go to Walmart and they have the wipes to clean your cart handle? How many of you don’t use them? Well I do, and I always thought of the germs only. Was told today that the police chief also suggests you do it also because of all the problems with drugs now days, and if they have fentanyl or something like that still on their hands and they touch that cart handle and then you do, it can get into your system. Scary but worth taking the time to clean the handle. All you’d have to do is rub your nose or touch your child’s mouth.**
->
-> Searching initially on just fentanyl shopping cart gives a mixed bag of results.
-
-![search results for fentanyl shopping carts](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faeccbad2-60c6-4555-83d9-237dcbc3a8c9%2Ffentanyl-click-restraint.png?table=block&id=f6d4005f-5562-4079-9687-44d86d4485d8&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1280&userId=&cache=v2)
-
-> When we scan the blurbs we find that the first article — even though it is from a reputable source — contains the words fentanyl and shopping cart, but is not really about fentanyl on shopping carts. Likewise, the reference to shopping carts in the second one is to homelessness, not grocery store drug scares. It's the text of the third result that's in line with what we're researching, and that's the one we want to click. (Though once getting there we may want to use our source investigation techniques on Forbes).
-
-**Vocabulary: click restraint**
-
-- **Click restraint** is a term introduced by Sam Wineburg and Sarah McGrew to describe a behavior fact-checkers exhibit that less skilled people do not. Fact-checkers scan multiple results to try and find the particular result that combines trustworthiness with relevance before they click, often visiting the second page of search results.
-
-#### Remember to stop
-
-> This brings us to the move that often gets forgotten by students: the "S" in SIFT for "stop." As seen above, one aspect of "stopping" is to stop before you reflexively click the top search result. You want to take a second or two to make sure you're clicking the best result, not just the first one you see.
->
-> Another aspect of stopping is occasionally reformulating a search. We do see one fact-check in the above results, but perhaps we're surprised we don't see more. Maybe we start reading the Forbes story but find it unclear. If the results are not what we want we can modify the search query, here by adding "fact-check".
-
-![GIF showing fentanyl grocery cart fact check](https://innovatelearning.s3.amazonaws.com/fentanyl-shopping-cart-fact-check.gif)
-
-> When we do that we see at least a half dozen fact-checks on this from Poynter (a well known fact-checking outfit), CBS News, and others. We choose the CBS News link and find a good explanation of why the fentanyl story is highly improbable, combined with advice that wiping those handles during flu season is something you might want to do anyway.
-
-#### Not everything in Google News is credible
-
-> Although we mentioned this earlier in the course, it bears repeating. Using news search can give you a more trustworthy set of results than web search, but there are still untrustworthy sites in the mix, including a few that publish outright false information.
->
-> The same way that you practice click restraint in looking for the most relevant link, you should also practice click restraint and choose the most credible result on the page. It won't always be the first. As we practice this more, choosing the best result will become much easier.
-
-**SIFTing: UN Dance Protesting Nikki Haley (Prompt)**
-
-> Early in 2018 the Trump administration announced that it would withdraw financial support for Palestine unless the country agreed to concessions. U.S. Ambassador Nicki Haley presented the U.S. position on the matter to the U.N. in January.
->
-> Then, according to many people on Twitter, something amazing happened. In defiance of the Nicki Haley's pronouncement, the Palestinian delegation got up... and began to dance!
-
-![Screenshot of Sacha Saeen showing what was claimed to be dancing in protest](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Feaed5dd9-14c1-486b-9644-7421b4961d1f%2Fpalestiniandance.png?table=block&id=e5494464-1feb-46f6-b833-74ad1139baea&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1240&userId=&cache=v2)
-
-> Text reads: "The Palestinian representative played a song on his mobile phone & danced at the UN as a response to Nikki Haley announcing that the U.S. will be cutting aid to Palestinians unless they recognise Jerusalem as Israel's capital."
->
-> Fact check this, then answer the following questions in your fact-checking notebook under the heading UN DANCE:
-
-**04.04d: Questions**
-
-Add the following questions to your reflection notes and answer them. 
-
-- Is the video unaltered (i.e., a "real" video)?
-
-- Is this video really a reaction to U.S. Ambassador Nikki Haley?
-- What else can you tell us about this video, and how do you know it?
-
-**SIFTing: UN Dance Protesting Nikki Haley (Discussion)**
-
-> So let's take a look:
-
-![Search for UN dance protest and resulting story on Snopes](https://innovatelearning.s3.amazonaws.com/haley-un.gif)
-
-> In this case we could just click the fact-check we see in the general search, assuming we either recognized Snopes or Al-Araby as a reputable source. If we don't recognize those sources or see relevant material, we click into Google News.
->
-> Our finding? The clip is miscaptioned. It's not from 2018, it's not about Trump or Nikki Haley or protest. It's an enjoyable but rather unremarkable clip of a 2013 event where a famous Palestinian singer was invited to sing at the United Nations.
-
-#### False frames
-
-> While there are videos and photos that are fake or manipulated online, a far more common tactic is to take real media and miscaption it. The example above is pretty blatant. But often it is more subtle — and more dangerous.
->
-> Take for example this infamous tweet that was posted after the London Bridge bombing.
-
-![photo 'framed' with reference to terror attack](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9641551f-5986-48e8-9353-1e1cb2df3e35%2F620.jpg?table=block&id=2ff151f8-21a4-4d8a-a04c-aac3a4b8c2b7&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1210&userId=&cache=v2)
-
-> The picture is real, but the way the poster would like you to see it is not. The frame here is that a woman wearing a hijab cares so little about victims of Islamic extremist violence that she won't even look up from her phone.
->
-> The image pinged around the web with that story, and while this version has blurred out the face, the face was not blurred in the original. People believed this specific woman was a monster.
->
-> But was that the frame through which they should have viewed it? After the photo and false frame had circulated through the web the real story emerged. The poster had chosen one of two photos, with the second photo showing that she was clearly in shock:
-
-![Woman with her head covered, looking upset and distraught](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd4e999c3-ed0b-4176-8cfb-bb8fed7733af%2Flondon-attack-woman_2.jpg?table=block&id=82c955d3-2167-46d4-bb45-cb2cb32f7563&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
-
-> When news outlets contacted the photographer, he said the woman was like many people that day walking past — she would have just come through a much more devastating scene, and been in shock, and the rescuing teams did not want assistance, they wanted space to do their jobs. Many people were on their phones as they tried to reach relatives. The photo the poster didn't choose clearly shows the trauma and concern.
-
-![people gathered around someone lying on the ground | Reuters/Toby Melville. Used under fair use provision](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F345a0a17-f3e0-4e53-965a-f05f2cab922e%2Flondon-attack-bridge1.jpg?table=block&id=ce089b16-f9b8-4d86-8589-9c14d08d31a0&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1400&userId=&cache=v2)
-
-> Because of the falsely framed photo the woman was viciously attacked by others on social media. When contacted by reporters, she mentioned she was [calling her family](https://www.theguardian.com/uk-news/2017/mar/24/woman-hijab-westminster-bridge-attack-victim-photo-misappropriated) to tell them she was OK:
->
-> **She said her feelings at the time were of sadness, fear and concern, and added that she had talked to other witnesses to try to find out what was happening and see if she could offer help. She then called her family and helped a woman get to Waterloo station.**
-
-#### Sharpening the event
-
-> Some frames aren't wholly false, but are sharpened to the point where they are deceptive. An example of this sort of sharpening was the 2019 Covington student altercation with a Native American drummer in Washington D.C.
->
-> In this case, initial footage was shared on Twitter and through other outlets that seemed to show Catholic high school students wearing Make America Great Again hats surrounding a Native elder during a drumming ceremony to mock him.
->
-> The characterization was not completely incorrect. But the reaction to the video was heavily influenced by the starting point of the edit. While the framing of the video initially made it seem as if the students surrounded the drummer to mock him, later videos that emerged showed that the drummer had in fact approached the students.
->
-> Discussing these things can be difficult, because even after the frame is corrected, the original intensity of feeling still remains. It's particularly hard in this case, because in the full video there are still questions to be asked about appropriate conduct and cultural respect.
->
-> But one's emotional reaction to students who actively surround an older man as a mob and block his exit in order to mock his culture is different than one's reaction to watching students respond inappropriately to an older man that approaches them in what they feel is a confusing manner.
->
-> In this case both sides lost. Had the longer video been released first, a productive discussion might have been possible. Instead, the initial video fired one group of people into a frenzy, while the revelations of subsequent videos caused the other side to dismiss the behavior entirely.
->
-> We'll come back to this point later, when we talk about the "T" in SIFT. But for now remember that even if photos and videos are "real" it's important to check trusted sources to make sure you have the whole story. If it turns out you were reacting to something manipulated or falsely framed, consider that your initial reaction was wrong, and adjust accordingly.
-
-**SIFTing: ATM rats (prompt)**
-
-> Take a look at this story about a rat eating ATM cash in India.
-
-![John D'oh account: "That's an expensive lunch!" With a headline Rat dies after gorging on cash while stuck in ATM from mandatory.com](https://innovatelearning.s3.amazonaws.com/2024-01-04_09-57-19.jpg)
-
-> We could look and see if "mandatory.com" is trustworthy, but in this case that's not really what we care about. We just want to know if this story been reported by reputable sources. 
->
-> Go to Google News search and see if other sites are reporting this. If there are other sites, choose the site you feel is the best source for this story. If it does not appear to be true, explain how you came to that conclusion.
->
-> Enter the results in your fact-checking notebook under the heading ATM RATS.
-
-**SIFTing: ATM rats (discussion)**
-
-> Let's take a look!
-
-![Google search for atm rat cash india](https://innovatelearning.s3.amazonaws.com/atm-rat.gif)
-
-> In this case there's a lot of good sources on that search page. I chose Reuters, due to their expertise with international reporting, but most choices here are fine. At the time I did this search I saw Newsweek, USA Today, BBC News, Thrillist (a culture site), and Business Insider.
->
-> What is our response here? Well it might be something like this:
->
-> **The story appears to be true — Google News shows it being reported by multiple outlets including some reputable outlets I recognize. I chose the Reuters article, and looked up Reuters on Wikipedia before reading it. It's a well-known news agency with an international focus. The story itself to me seems a bit fishy (I mean really!?) and maybe I'm just a little suspicious that the camera didn't catch the rat going into the ATM. But the idea the rat ate (or shredded, technically) the money is in fact the consensus of both reporters and the bank authority there, so I'm inclined to go with their take on it.**
->
-> One thing to note here: a lot of people get hung up on whether something could possibly be false. And it's good that people are suspicious. There are sloppy reporters out there, and government regulators don't always tell the truth.
->
-> But doubt is a position too. Your mileage may vary, but for me, even though I can imagine a scenario in my head where someone steals some money from the ATM then shreds the remaining money and tosses a dead rat in there to blame it on, the truth is I am 13,000 miles away from this event, have not reviewed any of the evidence directly, don't know the local environment, the trustworthiness of the people involved, the sequence of events.
->
-> Under such circumstances it's fine to say, yeah, for the moment — given there is a whole universe of police and reporters out there looking at this with resources and insights and skills I don't have — it's most likely that the rat really ate the money. **If new evidence emerges, you can change your mind.**
->
-> This is a really subtle point, and we'll talk about it more later.
-
 #### Trading up
 
-> Often we get trustworthy news from not so trustworthy places. Maximum.com might be a great site, but it's unlikely, in this case, that they individually verified a story in India. They are just re-reporting it. Social media exacerbates the issue, since which article reaches you is more determined by the clickbaity-ness of their headline than the quality of their reporting.
->
 > By searching a claim and getting a story from a news source that has a verification process in place you not only verify the claim, but you end up with a better story to share with others. We call this "trading up." The idea behind trading up is that you can use social media to discover stories relevant to you, but when you find the stories, take a moment to "zoom out" and get the best reporting or analysis on it, rather than simply reading the specific article that happens to find its way to you.
 >
 > When you use social media in this way, you let social media do what it does best (personalized topic discovery) while relying on either news or other search to address social media's big problem (credibility, clickbait, manipulation). If you find a better story on the subject, share that story instead, and in doing so make social media a bit better for everyone.
@@ -2739,61 +2690,15 @@ Add the following questions to your reflection notes and answer them.
 
 !?[Mike Caulfield shows a reverse image search to find trusted work](https://youtu.be/LeOdDN3z9Mk)
 
-**SIFTing: John Lennon's murderer? (prompt)**
-
-On the night of Monday, 8 December 1980, former Beatle and well-known peace activist John Lennon was shot dead by Mark David Chapman in the archway of his residence in New York City. Lennon had just returned from the recording studio with his wife, Yoko Ono.
-
-It is a well-known fact that hours before he shot him, the killer approached John Lennon for an autograph. But this photo has been shared with you with the caption "Creepy photo shows John Lennon signing album for his killer hours before his death!"
-
-![photo of John Lennon looking down and autographing something](https://canvas.instructure.com/courses/1383722/files/66794245/download?verifier=qC9EOhfZyFKHlGTm3bAkFvcprqqfJF4TbZuwx5Cp)
-
-**Questions**
-
-Answer the following questions in your fact-checking notebook:
-
-- Is the photo real and unaltered?
-- Is this really a photo of John Lennon signing an album for his killer?
-- What else do you know about the photograph?
-
-**SIFTing: John Lennon's murderer? (discussion)**
-
-> We show one way to approach the issue below.  Remember to enter the results of your investigation in your notebook.
-
-!?[Mike Caulfield fact checks the John Lennon autograph photo](https://youtu.be/g62-JZHXmYY)
-
-> In this case the photo is real, and the framing of the photo (that Lennon is signing an album for his killer) is accurate.
-
-#### Quick note from Dr. B about failure
-
-I'm writing these words on January 4, 2024 (Dr. B). I wanted to break in here and say something about being wrong. I am going through the SIFT modules, again, despite having done so years ago. I use Safari for my web browser, so don't have quite as easy a time doing the reverse-image search as Mike shows in his video and GIFs. Long story short, I wound up finding the story in a tabloid and thought it was therefore fake. When I rewatched Mike's video, I discovered that I had both remembered wrong and followed down a rabbit trail that didn't pay off. 
-
-All of us are going to be wrong in our lives. The strange thing about failure is how much it can benefit us, if we let it. Cognitive researcher Robert Bjork runs a memory lab at UCLA. When I got to talk to him for my podcast, years ago, he said some memorable words. 
-
-> Forgetting is the friend of learning. 
->
-> --Robert Bjork
-
-I know it is easy for me to say not to worry if you're not getting all of these prompts right on your first try. Too much of education focuses on high stakes assessments, which don't always measure what they claim to... If you find yourself failing on some of these exercises, be sure to record it in your notebook. It will help deepen your learning. Now back to our regularly-scheduled program: aka Mike Caulfield. 
-
 #### Why not examine the photo itself?
 
 > One question I get asked from time to time is why I encourage people to look for trusted coverage rather than examine the photo itself for photoshopping. Many people have the experience of having seen something that is obviously fake. So why not look for signs of fakery?
 
-![one of the many examples of the internet meme 'this looks shopped'](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6f430e8a-c7e5-428a-81f5-3a4d73bf8a95%2FShopped_sea1.jpg?table=block&id=1cf6a0f2-a67d-431f-8b6c-5e36ddbe1ef0&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1000&userId=&cache=v2)
+![one of the many examples of the internet meme 'this looks shopped'](https://innovatelearning.s3.amazonaws.com/this-looks-photoshopped.png)
 
 > In practice we've found that this approach fails for a number of reasons. The biggest reason? 
 >
-> Let's provide an example first. The following image is presented online as evidence of a chemical spill in Hungary.
-
-![photo of trees with the lower parts of the trunks all turned brown](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F50553306-0f83-400d-a307-ba8255345b81%2Ftrees-mining-sludge1.jpg?table=block&id=ce039f9a-8207-4ab9-bcf1-9eddafe09871&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1630&userId=&cache=v2)
-
-
-
-> Is it shopped? Most people would say yes. But, actually, it *isn't*. It's really the effect of one of the worst industrial accidents in recent European history:
-
-Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu.be/vjf4e7ZAc9M?si=fkTbmqHo4miNtG71) (2:18m)
-
-> That's an extreme example, with a very weird looking picture, but stare at any image long enough and you'll find something wrong with it. Unless you're an expert in digital manipulation (you're not), it's better to find trusted commentary than pull out the magnifying glass.
+>  Unless you're an expert in digital manipulation (you're not), it's better to find trusted commentary than pull out the magnifying glass.
 
 **04.04e: Questions** 
 
@@ -2828,51 +2733,19 @@ Watch: [Video of the tsunami of toxic sludge in Southwest Hungary](https://youtu
 
 #### Leveling, sharpening, and assimilation
 
-> Early studies of rumors suggested that as rumors traveled further from the source they were altered in predictable ways. They were"leveled" — as they traveled, details are stripped out. They are also "sharpened" — certain small details are added or emphasized to give the story more "punch". And both of these processes happened in the context of "assimilation" — the details that were omitted and the details that were added or emphasized are chosen because they either fit what the speaker thinks is the main theme of the story, or what the speaker thinks the listener will be most interested in.
->
-> Later research called into question the particular nature of these processes, but these three actions are a helpful way of thinking about the sorts of alterations people can make to claims, quotes, and media as they pass them along.
->
-> These processes are not necessarily bad. It means that as a story travels it often becomes more concise, more engaging, and more geared toward the interest of its audience. Think of a long-winded story full of details that someone has told you which you have then retold. Assuming you have a credible take on what the story is about, you'll probably forget the irrelevant details, and remember the most memorable ones. So when you retell it, you'll provide a shorter more engaging version customized to your audience. And that's good! One reason many people enjoy getting news from social media is it can be much more *efficient* than a longer news story, calling out the pieces that really matter to you in particular.
->
-> But the same way that these processes can provide value in the hands of careful storytellers, they can be damaging in the hands of those who are careless, are guided by strong bias, or are motivated to distort the truth for their own benefit.
->
-> Consider this tweet from our old friend John D'oh:
+> When looking at information online, figure out what the original reporting source was, and go take a look. Some publications can add value on top of what the original source was, particularly if reporters are experienced and knowledgeable in the field they are reporting in. But if it's clear the thing your looking at is just re-reporting of reporting, go up to the source and once at the source do your normal (I)nvestigate the Source moves.
 
-![John D'oh tweets "It might be time to ditch the sunscreen"; headline from moms.com says FDA warns chemicals from sunscreen enter your bloodstream after one day](https://innovatelearning.s3.amazonaws.com/2024-01-04_10-45-18.jpg)
+**Shall We Play Another Game?**
 
-> John is tweeting his takeaway from this article on sunscreen (or at least his takeaway from the article headline):
+Let's play a game to get some more practice at tracing back to the original. 
 
-![Headline from moms.com: FDA warns chemicals from sunscreen enter your bloodstream after one day](https://checkpleasecc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F568e64df-105a-4850-8013-e9a6742c4f83%2Fchemicals.png?table=block&id=e00512e0-42d7-4ae4-a65e-4e54bea484e5&spaceId=092af283-56b1-460c-aaed-5b228f26afbc&width=1510&userId=&cache=v2)
+Play: [SIFT Crisis Game](https://bonni208.github.io/trace-coverage-game/)
 
-> But the article doesn't say to ditch your sunscreen. And it doesn't even say that the FDA is warning people about the chemicals. The study merely concluded that given the levels of the chemicals in the bloodstream — from applying sunscreen four times a day — that additional regulation might be warranted:
->
-> > They found that these 24 participants had higher than what is recommended of these chemicals in their blood. This amount is based on what the FDA’s says is how much of these active ingredient can be in someone’s bloodstream before it needs to be tested for safety concerns...
->
-> This article isn't from a reliable source, and is in fact pulling all its quotes from another article. It's reporting on reporting. If you click through to the link (supposedly to the research article) it links to a CNN story.
->
-> And in that story you notice the re-reporters left something out:
->
-> > So, should you stop using sunscreen? Absolutely not, experts say.
-> >
-> > "Studies need to be performed to evaluate this finding and determine whether there are true medical implications to absorption of certain ingredients," said Yale School of Medicine dermatologist Dr. David Leffell, a spokesman for the American Academy of Dermatology. He added that in the meantime, people should "continue to be aggressive about sun protection."
->
-> The original story *actually says the opposite* of what the tweeter proposed.
->
-> You could trace it back even further, but we can stop there. A story came out that mentioned the research, but made it clear that there is not any known danger yet, and that people should continue to use the sunscreen they are using in the meantime. That gets rewritten, with that detail omitted or downplayed (leveled). It then gets summarized by John D'oh — who "sharpens" the advice, and ends up stating the exact opposite of what the original story said.
->
-> When looking at information of this sort, figure out what the original reporting source was, and go take a look. Some publications can add value, particularly if reporters are experienced and knowledgeable in the field they are reporting in. But if it's clear the thing your looking at is just re-reporting of reporting, go up to the source and once at the source do your normal (I)nvestigate the Source moves.
+Grab a screenshot of your results at the end and paste it into your Lesson 04 slides. 
 
-#### Beware the sourceless story
+![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/stop-sign-with-lizard-on-top.png)
 
-> Consider this post by John D'oh, in which he references [an article from Curious Mind Magazine](https://curiousmindmagazine.com/research-shows-born-creative-geniuses-education-dumb-us/):
-
-
-
-![John D'oh tweet: "I've said it before and will say it again -- school kills creativity. Looks like NASA agrees with me, according to this research"](https://innovatelearning.s3.amazonaws.com/2024-01-04_11-01-06.jpg)
-
-> If you go to that story you'll find references to a "NASA study" — however, when you click on the link it's not to the study (which was apparently from 1968) but rather to a summary of the study in an information technology magazine from the 2005. The study itself appears to never have been published directly or reported on contemporaneously. You can keep digging, and what you'll eventually find is what citations that exist to the study are not to the 1968 study, but a 1992 book Land wrote with his wife which told the story of the study he had done over 20 years before. Importantly the study wasn't even a NASA study: it was a study he did privately using a test that he had developed for NASA. It's unclear what NASA's take was on the test, since, again, the only account we have of it is from 1992.
->
-> This is not to doubt Land's honesty. But the perceived authority of the study for many readers comes from the idea it was conducted by NASA and was substantial research at the time. When you attempt to trace the claim to the original context you find that the trail ends in 1992, it was not published at the time, and was not conducted by NASA. That changes how you might view the claim.
+**Go back to your Google slides to paste the screenshot in and then return one more time to wrap up Lesson 04. 
 
 #### SIFTing with Artificial Intelligence
 
