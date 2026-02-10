@@ -1928,6 +1928,15 @@ As Mike Caulfield emphasizes in the Investigate the Source video:
 
 
 
+When investigating a source, it is best to rely on what the organization says about itself.
+
+[[ ]] True
+[[X]] False
+
+
+
+
+
 You land on a website called *GlobalHealthResearchNow.org* that claims to publish groundbreaking medical research. What is the most effective way to investigate the source?
 
 [[ ]] Read the “About Us” page thoroughly
