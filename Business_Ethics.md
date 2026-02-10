@@ -1912,6 +1912,8 @@ Roof’s exposure to extremist content began when he typed a phrase into a [[Goo
 
 ### 04.02 | Investigate the source
 
+Welcome back to the second half of Lesson 04. Back to Mike Caulfield:
+
 > One of the four "moves" is to "investigate the source". The following two short videos (less than four minutes) will introduce you to this move. As you'll see, we're not expecting people to do ground-breaking research, just to do some very quick checks.
 >
 > The first (3:15) video shows how many of the things we think will make us better at the web — raw intelligence, critical thinking skill, familiarity with technology — don't necessarily help:
@@ -1928,12 +1930,7 @@ As Mike Caulfield emphasizes in the Investigate the Source video:
 
 
 
-When investigating a source, it is best to rely on what the organization says about itself.
-
-[[ ]] True
-[[X]] False
-
-
+**Review Questions**
 
 You land on a website called *GlobalHealthResearchNow.org* that claims to publish groundbreaking medical research. What is the most effective way to investigate the source?
 
@@ -2153,7 +2150,7 @@ Visit the [story on Tom's Guide about the Kohler Alexa toilet](https://www.tomsg
 
 **Go back to your Google slides now and complete the "S" and "I" slides.
 
-
+Now that you're back, let's hear from Mike Caulfield to see how someone who is an expert at fact checking might approach this. 
 
 **SIFTing: Alexa toilet (discussion)**
 
@@ -2728,6 +2725,8 @@ Let's play a game to get some more practice at tracing back to the original.
 Play: [SIFT Crisis Game](https://bonni208.github.io/trace-coverage-game/)
 
 Grab a screenshot of your results at the end and paste it into your Lesson 04 slides. 
+
+Complete the "F" and "T" slides for SIFT.
 
 ![Image of a stop sign with a lizard sitting on top of it](https://innovatelearning.s3.amazonaws.com/stop-sign-with-lizard-on-top.png)
 
